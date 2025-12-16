@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 16 Dec 2025 19:33:28 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 16 Dec 2025 20:44:08 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>&quot;How about that one, huh?&quot; 😄 | #TigerTuesday</title>
@@ -30,6 +30,17 @@ Subscribe to Skra&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/v
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The Best Last-Minute Golf Gifts That’ll Still Arrive in Time</title>
+    <link>https://skratch.golf/style/style/best-last-minute-golf-gifts-books-subscriptions-digital-gift-cards</link>
+    <guid isPermaLink="true">https://skratch.golf/style/style/best-last-minute-golf-gifts-books-subscriptions-digital-gift-cards</guid>
+    <pubDate>Tue, 16 Dec 2025 18:40:15 +0000</pubDate>
+    <dc:creator>Brittany Romano</dc:creator>
+    <description>&lt;p&gt;From fast-shipping favorites to subscription wins, these picks make last-minute shopping surprisingly easy.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/best-last-minute-golf-gifts-books-subscriptions-digital-gift-cards"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/lastsecondgifts_header_a83ae55e96/lastsecondgifts_header_a83ae55e96.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Did Ludvig Aberg Just JINX His Sawgrass Stat?? 🫣</title>
@@ -395,17 +406,6 @@ Behind every drained putt or hosel rocket into the stands is a huma&lt;/p&gt;&lt
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The Field for the PNC Championship is Here</title>
-    <link>https://skratch.golf/news/news/pnc-championship-2025-field-orlando-no-tiger-woods</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/pnc-championship-2025-field-orlando-no-tiger-woods</guid>
-    <pubDate>Wed, 10 Dec 2025 16:01:17 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Sure, Tiger and Charlie aren’t playing in this year’s PNC Championship. But the field is still loaded with legends and it’s going to be a fun week in Orlando.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pnc-championship-2025-field-orlando-no-tiger-woods"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2190863426_f2b31d1507/Getty_Images_2190863426_f2b31d1507.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Sentinel’s Basecamp is the Bridge Between Golf and the Great Outdoors</title>
