@@ -1,0 +1,33 @@
+name: Update RSS Feed
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Every 30 minutes
+  workflow_dispatch:  # Allows manual trigger from Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      
+      - name: Generate RSS feed
+        run: python youtube_rss_aggregator.py > feed.xml
+      
+      - name: Commit feed to repo
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add feed.xml
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update RSS feed"
+          git push
