@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 17 Dec 2025 16:59:26 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 17 Dec 2025 17:48:49 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Rory McIlroy Owns the Greatest Scorecard of All Time</title>
@@ -19,6 +19,17 @@
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;After his Masters win in April, Rory McIlroy’s caddie, Harry Diamond, gifted him the greatest scorecard of all time.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rory-mcilroy-masters-win-score-career-grand-slam-members"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2209624124_1b0d7ae5d7/Getty_Images_2209624124_1b0d7ae5d7.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The Worst Gifts You Can Give a Golfer</title>
+    <link>https://skratch.golf/style/style/worst-golf-gift-ideas</link>
+    <guid isPermaLink="true">https://skratch.golf/style/style/worst-golf-gift-ideas</guid>
+    <pubDate>Wed, 17 Dec 2025 15:38:47 +0000</pubDate>
+    <dc:creator>Emma Francois</dc:creator>
+    <description>&lt;p&gt;Non-ironically giving these 13 terrible (but hilarious) golf gifts should earn you a penalty.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/worst-golf-gift-ideas"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/worstgiftsheader_a28fb86ab7/worstgiftsheader_a28fb86ab7.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -702,20 +713,6 @@ SEGMENTS
     <media:thumbnail url="https://img.youtube.com/vi/ZtfDkqVbW7g/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/ZtfDkqVbW7g" type="text/html" medium="video"/>
     <yt:videoId>ZtfDkqVbW7g</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Is This The End For Tiger Woods?</title>
-    <link>https://www.youtube.com/watch?v=gOx6R5MB9rQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=gOx6R5MB9rQ</guid>
-    <pubDate>Wed, 15 Oct 2025 01:33:14 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Dan discusses another surgery for Tiger Woods and what it means for his future on and off the course.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=gOx6R5MB9rQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/gOx6R5MB9rQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/gOx6R5MB9rQ" type="text/html" medium="video"/>
-    <yt:videoId>gOx6R5MB9rQ</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
