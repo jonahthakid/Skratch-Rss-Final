@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 17 Dec 2025 14:52:59 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 17 Dec 2025 15:47:47 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>They are going to be DIALED. 🙏</title>
+    <link>https://www.youtube.com/shorts/dx-8ZXEQvFk</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/dx-8ZXEQvFk</guid>
+    <pubDate>Wed, 17 Dec 2025 15:06:05 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/dx-8ZXEQvFk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/dx-8ZXEQvFk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/dx-8ZXEQvFk" type="text/html" medium="video"/>
+    <yt:videoId>dx-8ZXEQvFk</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Drop a Ja Rule lyric in the comments that best describes this SHANK</title>
     <link>https://www.youtube.com/shorts/dqyeRfabibw</link>
@@ -31,6 +45,17 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/dqyeRfabibw"&gt;
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The H25 Scotty Cameron Is All About The Details</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/scotty-cameron-h25-limited-putter</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/scotty-cameron-h25-limited-putter</guid>
+    <pubDate>Wed, 17 Dec 2025 03:22:50 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;For Scotty Cameron, limited-edition putters provide an opportunity to create an easter egg-filled showpiece that&#x27;s half art, half tool, and all class.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/scotty-cameron-h25-limited-putter"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/H25_putter_title_83cb57088c/H25_putter_title_83cb57088c.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Tiger&#x27;s bunker brilliance from Doral</title>
@@ -408,20 +433,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/SmDkSJTTDz0"&gt;
     <category>video</category>
   </item>
   <item>
-    <title>Celebrating Rickie&#x27;s birthday the BEST bogey (and reaction) you&#x27;ll EVER see. 🤣</title>
-    <link>https://www.youtube.com/shorts/8LBxzDDEGQc</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/8LBxzDDEGQc</guid>
-    <pubDate>Sat, 13 Dec 2025 14:44:10 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8LBxzDDEGQc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/8LBxzDDEGQc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/8LBxzDDEGQc" type="text/html" medium="video"/>
-    <yt:videoId>8LBxzDDEGQc</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>The Stats That Took JJ Spaun&#x27;s Game To The Next Level</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/jj-spaun-stats-approach-game-cdw-driving-improvement</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/jj-spaun-stats-approach-game-cdw-driving-improvement</guid>
@@ -462,17 +473,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/SmDkSJTTDz0"&gt;
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;Ladies no need to steal his hoodies anymore—these made-for-golf sweaters are exactly what you need.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/womens-style/best-womens-golf-sweaters"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/sweaters_5827730216/sweaters_5827730216.jpeg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Year in Review: Top 5 Moments From The 2025 LPGA Majors</title>
-    <link>https://skratch.golf/news/news/best-of-lpga-majors-top-5-moments</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/best-of-lpga-majors-top-5-moments</guid>
-    <pubDate>Tue, 09 Dec 2025 17:04:50 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Five majors, five big-time moments.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/best-of-lpga-majors-top-5-moments"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2224903495_43b00507bb/Getty_Images_2224903495_43b00507bb.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
