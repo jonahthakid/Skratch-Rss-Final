@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 17 Dec 2025 18:59:30 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 17 Dec 2025 19:33:37 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Sometimes it’s just not a decision</title>
+    <link>https://www.youtube.com/shorts/n6W1V6XaQbE</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/n6W1V6XaQbE</guid>
+    <pubDate>Wed, 17 Dec 2025 19:17:34 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/n6W1V6XaQbE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/n6W1V6XaQbE/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/n6W1V6XaQbE" type="text/html" medium="video"/>
+    <yt:videoId>n6W1V6XaQbE</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Michael Brennan&#x27;s GENERATIONAL Driving Display in Utah</title>
     <link>https://www.youtube.com/shorts/qlpm3gF_EMw</link>
@@ -377,27 +391,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/nD5DyUeRjWU/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/nD5DyUeRjWU" type="text/html" medium="video"/>
     <yt:videoId>nD5DyUeRjWU</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Scottie Scheffler has FOUR-peated as Player of the Year…and would you bet against a 5th next year?</title>
-    <link>https://www.youtube.com/shorts/vXgWH8m8K8A</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/vXgWH8m8K8A</guid>
-    <pubDate>Mon, 15 Dec 2025 17:36:42 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
-
-Check out our website: https://skratch.golf/
-Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/vXgWH8m8K8A"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/vXgWH8m8K8A/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/vXgWH8m8K8A" type="text/html" medium="video"/>
-    <yt:videoId>vXgWH8m8K8A</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
