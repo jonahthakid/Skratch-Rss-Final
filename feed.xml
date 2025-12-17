@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 17 Dec 2025 15:47:47 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 17 Dec 2025 16:59:26 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Rory McIlroy Owns the Greatest Scorecard of All Time</title>
+    <link>https://skratch.golf/news/news/rory-mcilroy-masters-win-score-career-grand-slam-members</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/rory-mcilroy-masters-win-score-career-grand-slam-members</guid>
+    <pubDate>Wed, 17 Dec 2025 16:24:53 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;After his Masters win in April, Rory McIlroy’s caddie, Harry Diamond, gifted him the greatest scorecard of all time.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rory-mcilroy-masters-win-score-career-grand-slam-members"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2209624124_1b0d7ae5d7/Getty_Images_2209624124_1b0d7ae5d7.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>They are going to be DIALED. 🙏</title>
     <link>https://www.youtube.com/shorts/dx-8ZXEQvFk</link>
@@ -473,17 +484,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/SmDkSJTTDz0"&gt;
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;Ladies no need to steal his hoodies anymore—these made-for-golf sweaters are exactly what you need.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/womens-style/best-womens-golf-sweaters"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/sweaters_5827730216/sweaters_5827730216.jpeg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Does Corduroy Belong on the Golf Course?</title>
-    <link>https://skratch.golf/style/mens-style/does-corduroy-belong-on-the-golf-course-apparel-debate</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/does-corduroy-belong-on-the-golf-course-apparel-debate</guid>
-    <pubDate>Mon, 08 Dec 2025 19:27:50 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;It’s not for every day, but when the conditions line up, corduroy hits different.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/does-corduroy-belong-on-the-golf-course-apparel-debate"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Cords_Cover_ee1ea6e528/Cords_Cover_ee1ea6e528.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
