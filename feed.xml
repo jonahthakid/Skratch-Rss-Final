@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 19 Dec 2025 15:42:57 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 19 Dec 2025 16:54:23 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Charlie Woods had the PERFECT reaction to his dad after an ace at PNC 🤣</title>
+    <link>https://www.youtube.com/shorts/oekuyhm0Mno</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/oekuyhm0Mno</guid>
+    <pubDate>Fri, 19 Dec 2025 16:03:42 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/oekuyhm0Mno"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/oekuyhm0Mno/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/oekuyhm0Mno" type="text/html" medium="video"/>
+    <yt:videoId>oekuyhm0Mno</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>It&#x27;s Official—The LET Q School Venues Have the Best Views in Golf</title>
+    <link>https://skratch.golf/news/news/ladies-european-tour-q-school-golf-course-morocco</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/ladies-european-tour-q-school-golf-course-morocco</guid>
+    <pubDate>Fri, 19 Dec 2025 15:23:10 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Over the span of 8 days, players compete on six different courses, each more stunning than the last.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/ladies-european-tour-q-school-golf-course-morocco"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/54993234311_681d6c4c98_o_8550c73795/54993234311_681d6c4c98_o_8550c73795.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>AUSSIE, AUSSIE, AUSSIE! GOLF, GOLF, GOLF!</title>
     <link>https://www.youtube.com/shorts/VBLJ_hm70qE</link>
@@ -48,6 +73,28 @@ Behind every drained putt or hosel rocket into the stands is a human being&lt;/p
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>This Club Is Going To Have Its Moment in 2026</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/adjustable-9-woods-club-fitting-trends-moment</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/adjustable-9-woods-club-fitting-trends-moment</guid>
+    <pubDate>Thu, 18 Dec 2025 20:49:18 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;When it comes to gear takes for 2026, I&#x27;m getting in early on what could be the hottest trend of the year: adjustable 9-woods.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/adjustable-9-woods-club-fitting-trends-moment"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/PXG_Lightning_9wood_60585d6771/PXG_Lightning_9wood_60585d6771.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>A New England Golfer&#x27;s Guide to Improving During the Winter</title>
+    <link>https://skratch.golf/news/golf-culture/improving-golf-game-during-winter-training-aids-drills-workout</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/improving-golf-game-during-winter-training-aids-drills-workout</guid>
+    <pubDate>Thu, 18 Dec 2025 19:26:30 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;I lived my nightmare. My swing peaked at the end of November. So, how can I avoid losing it over the winter? Here&#x27;s the plan.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/improving-golf-game-during-winter-training-aids-drills-workout"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2025_11_19_at_11_27_39_PM_a94dcab723/Screenshot_2025_11_19_at_11_27_39_PM_a94dcab723.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>STRONG trash-talk game from an 11-year-old Charlie Woods 😂</title>
@@ -420,26 +467,6 @@ Sub&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=PfHHiLFGc9c"&g
     <category>article</category>
   </item>
   <item>
-    <title>A childhood dream come true 🙌 | Player&#x27;s Journal presented by Titleist</title>
-    <link>https://www.youtube.com/shorts/yjPjB38PiSI</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/yjPjB38PiSI</guid>
-    <pubDate>Mon, 15 Dec 2025 22:10:10 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Rookie Michael Brennan shares more on his first PGA TOUR win and rapid rise to success in this Player’s Journal presented by @titleist. 
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscri&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/yjPjB38PiSI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/yjPjB38PiSI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/yjPjB38PiSI" type="text/html" medium="video"/>
-    <yt:videoId>yjPjB38PiSI</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Nike Did it Again With Its Scottie Scheffler POTY Ad</title>
     <link>https://skratch.golf/news/news/scottie-scheffler-nike-ad-player-of-the-year-pga-tour</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/scottie-scheffler-nike-ad-player-of-the-year-pga-tour</guid>
@@ -447,17 +474,6 @@ Subscri&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/yjPjB38PiSI
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Nike was once again in its bag with this post celebrating Scottie Scheffler&#x27;s fourth straight Player of the Year award.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/scottie-scheffler-nike-ad-player-of-the-year-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2225184017_c657a52c8b/Getty_Images_2225184017_c657a52c8b.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Scottie Scheffler is the PGA TOUR’s Player of the Year, Is He Golf&#x27;s?</title>
-    <link>https://skratch.golf/news/pro-golf/scottie-scheffler-pga-tour-player-of-the-year-rory-mcilroy-was-golfs</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/scottie-scheffler-pga-tour-player-of-the-year-rory-mcilroy-was-golfs</guid>
-    <pubDate>Mon, 15 Dec 2025 19:04:57 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;What Scottie Scheffler did on the PGA TOUR this year was undeniable, but he wasn&#x27;t golf&#x27;s player of the year.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/scottie-scheffler-pga-tour-player-of-the-year-rory-mcilroy-was-golfs"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2235432255_fa1d9b78c5/Getty_Images_2235432255_fa1d9b78c5.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -484,17 +500,6 @@ Subscri&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/yjPjB38PiSI
     <category>article</category>
   </item>
   <item>
-    <title>Q-School: Some Big Names Missed Out on PGA TOUR Cards</title>
-    <link>https://skratch.golf/news/news/pga-tour-q-school-results-big-names-miss-out-on-cards</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-q-school-results-big-names-miss-out-on-cards</guid>
-    <pubDate>Mon, 15 Dec 2025 14:48:13 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Q-School doesn&#x27;t play favorites, your resume doesn&#x27;t mean anything. And because of that, some big names missed out on a PGA TOUR card.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-q-school-results-big-names-miss-out-on-cards"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/hadwin_memorial_Getty_Images_2217508143_9a31fdc4db/hadwin_memorial_Getty_Images_2217508143_9a31fdc4db.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>This Amazon Club Building Tool is a Massive Time Saver</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/golf-regrip-tool-clamp-amazon-timer-saver</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/golf-regrip-tool-clamp-amazon-timer-saver</guid>
@@ -502,17 +507,6 @@ Subscri&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/yjPjB38PiSI
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;If you like to regrip your own golf clubs, this must-have tool can save you a ton of time!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/golf-regrip-tool-clamp-amazon-timer-saver"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Golf_club_clamp_6a3278d049/Golf_club_clamp_6a3278d049.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>15 Sweaters You Need For The Winter Golf Season</title>
-    <link>https://skratch.golf/style/womens-style/best-womens-golf-sweaters</link>
-    <guid isPermaLink="true">https://skratch.golf/style/womens-style/best-womens-golf-sweaters</guid>
-    <pubDate>Tue, 09 Dec 2025 17:36:25 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Ladies no need to steal his hoodies anymore—these made-for-golf sweaters are exactly what you need.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/womens-style/best-womens-golf-sweaters"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/sweaters_5827730216/sweaters_5827730216.jpeg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
