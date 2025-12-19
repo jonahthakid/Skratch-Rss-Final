@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 19 Dec 2025 14:44:46 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 19 Dec 2025 15:42:57 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>AUSSIE, AUSSIE, AUSSIE! GOLF, GOLF, GOLF!</title>
@@ -409,6 +409,17 @@ Sub&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=PfHHiLFGc9c"&g
     <category>video</category>
   </item>
   <item>
+    <title>I Played 7 New Courses in 2025—Here&#x27;s How I&#x27;d Rank Them</title>
+    <link>https://skratch.golf/news/golf-culture/2025-golf-courses-report-card</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/2025-golf-courses-report-card</guid>
+    <pubDate>Tue, 16 Dec 2025 13:21:47 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;From the Oregon coast to the beaches of Playa del Carmen, my clubs and I got some added mileage this year.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/2025-golf-courses-report-card"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/DSCF_3630_8449bcf852/DSCF_3630_8449bcf852.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>A childhood dream come true 🙌 | Player&#x27;s Journal presented by Titleist</title>
     <link>https://www.youtube.com/shorts/yjPjB38PiSI</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/yjPjB38PiSI</guid>
@@ -447,17 +458,6 @@ Subscri&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/yjPjB38PiSI
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;What Scottie Scheffler did on the PGA TOUR this year was undeniable, but he wasn&#x27;t golf&#x27;s player of the year.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/scottie-scheffler-pga-tour-player-of-the-year-rory-mcilroy-was-golfs"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2235432255_fa1d9b78c5/Getty_Images_2235432255_fa1d9b78c5.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Four Collar Types That Actually Pass the Golf Dress Code</title>
-    <link>https://skratch.golf/style/mens-style/four-collar-types-that-actually-pass-the-golf-dress-code</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/four-collar-types-that-actually-pass-the-golf-dress-code</guid>
-    <pubDate>Mon, 15 Dec 2025 16:20:08 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Still dress code safe. Way more interesting than default polyester.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/four-collar-types-that-actually-pass-the-golf-dress-code"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Collar_Cover_aee60e5d2b/Collar_Cover_aee60e5d2b.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
