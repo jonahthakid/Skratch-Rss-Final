@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 19 Dec 2025 18:56:02 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 19 Dec 2025 19:29:31 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Why the Titleist LINKSLEGEND Members Bag is the perfect gift</title>
@@ -49,6 +49,17 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/E4FVAcpD6ZM"&gt;
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Golf Has Been Cloud Dancing Longer Than You Think</title>
+    <link>https://skratch.golf/style/mens-style/golf-style-pantone-color-of-the-year-cloud-dancer-trend</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/golf-style-pantone-color-of-the-year-cloud-dancer-trend</guid>
+    <pubDate>Fri, 19 Dec 2025 17:22:29 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;How Pantone&#x27;s Color of the Year, Cloud Dancer, is leading golf’s soft launch into color&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/golf-style-pantone-color-of-the-year-cloud-dancer-trend"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/CD_Cover_image_ebe55e001c/CD_Cover_image_ebe55e001c.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Charlie Woods had the PERFECT reaction to his dad after an ace at PNC 🤣</title>
@@ -479,17 +490,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Nike was once again in its bag with this post celebrating Scottie Scheffler&#x27;s fourth straight Player of the Year award.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/scottie-scheffler-nike-ad-player-of-the-year-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2225184017_c657a52c8b/Getty_Images_2225184017_c657a52c8b.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Player&#x27;s Journal: The Long Road to Learning How to Win</title>
-    <link>https://skratch.golf/news/pro-golf/players-journal-micheal-brennan</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/players-journal-micheal-brennan</guid>
-    <pubDate>Mon, 15 Dec 2025 15:38:25 +0000</pubDate>
-    <dc:creator>Micheal Brennan, Shane Bacon</dc:creator>
-    <description>&lt;p&gt;It wasn’t a single shot or tournament that taught Michael Brennan how to win, but a series of moments across his entire career—moments he hopes to have a lot more of in the future.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/players-journal-micheal-brennan"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Micheal_Brennan_2025_Grant_Thornton_Getty_Images_2251886690_c85d00f13b/Micheal_Brennan_2025_Grant_Thornton_Getty_Images_2251886690_c85d00f13b.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
