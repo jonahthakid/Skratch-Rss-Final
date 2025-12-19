@@ -1,4 +1,3 @@
-<!-- Warning: Error fetching Dan On Golf Show: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -10,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 19 Dec 2025 07:39:10 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 19 Dec 2025 08:57:05 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>AUSSIE, AUSSIE, AUSSIE! GOLF, GOLF, GOLF!</title>
@@ -540,26 +539,179 @@ Subscri&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/yjPjB38PiSI
     <category>article</category>
   </item>
   <item>
-    <title>Fashion Dimes: The Best Women&#x27;s Golf Looks of 2025</title>
-    <link>https://skratch.golf/style/womens-style/fashion-dimes-best-looks-2025-lpga-season-how-to-shop</link>
-    <guid isPermaLink="true">https://skratch.golf/style/womens-style/fashion-dimes-best-looks-2025-lpga-season-how-to-shop</guid>
-    <pubDate>Sat, 12 Jul 2025 17:53:48 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The 10 biggest style moments in women&#x27;s golf that got us talking.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/womens-style/fashion-dimes-best-looks-2025-lpga-season-how-to-shop"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/best_looks_2025_c257753f13/best_looks_2025_c257753f13.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
+    <title>The only thing that matters is your score.</title>
+    <link>https://www.youtube.com/shorts/QviVelIdATU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/QviVelIdATU</guid>
+    <pubDate>Wed, 19 Nov 2025 23:15:09 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/QviVelIdATU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/QviVelIdATU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/QviVelIdATU" type="text/html" medium="video"/>
+    <yt:videoId>QviVelIdATU</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
   </item>
   <item>
-    <title>The DIY Training Aid that Turned Lauren Coughlin&#x27;s Putting Around Before Her Record Year</title>
-    <link>https://skratch.golf/news/news/putting-training-aid-DIY-lauren-coughlin-LPGA-glasses</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/putting-training-aid-DIY-lauren-coughlin-LPGA-glasses</guid>
-    <pubDate>Tue, 11 Feb 2025 15:17:29 +0000</pubDate>
-    <dc:creator>Brittany Romano</dc:creator>
-    <description>&lt;p&gt;Straight from the hardware store, the Solheim Cupper still uses this hack on the practice green every day.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/putting-training-aid-DIY-lauren-coughlin-LPGA-glasses"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20250211_Lauren_coughlin_putting_solheim_Getty_Images_2171978619_f1ff1254b7/20250211_Lauren_coughlin_putting_solheim_Getty_Images_2171978619_f1ff1254b7.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
+    <title>&quot;It&#x27;s amazing how much shit the PGA Tour players got ... with the women it&#x27;s like, take the check.&quot;</title>
+    <link>https://www.youtube.com/shorts/j2JFeEJ1nmY</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/j2JFeEJ1nmY</guid>
+    <pubDate>Wed, 12 Nov 2025 16:01:11 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/j2JFeEJ1nmY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/j2JFeEJ1nmY/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/j2JFeEJ1nmY" type="text/html" medium="video"/>
+    <yt:videoId>j2JFeEJ1nmY</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>No mulligans, no gimmes, and a better relationship with golf paid off for Dan.</title>
+    <link>https://www.youtube.com/shorts/b_IN4dktjl0</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/b_IN4dktjl0</guid>
+    <pubDate>Tue, 11 Nov 2025 22:15:34 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/b_IN4dktjl0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/b_IN4dktjl0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/b_IN4dktjl0" type="text/html" medium="video"/>
+    <yt:videoId>b_IN4dktjl0</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>My BIG Win, Ben Griffin Does It Again, LPGA Goes Into Business With Saudis</title>
+    <link>https://www.youtube.com/watch?v=2rPFusC9y0s</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=2rPFusC9y0s</guid>
+    <pubDate>Tue, 11 Nov 2025 19:18:59 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;We’re back with a mini show from the DOGHouse. Dan recaps his Club Championship victory, Ben Griffin&#x27;s third win on TOUR, &amp; the ongoing Race to Dubai on the DP World Tour.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=2rPFusC9y0s"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/2rPFusC9y0s/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/2rPFusC9y0s" type="text/html" medium="video"/>
+    <yt:videoId>2rPFusC9y0s</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Quite the journey for now three-time PGA TOUR winner Ben Griffin.</title>
+    <link>https://www.youtube.com/shorts/JnJywtx-jrM</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/JnJywtx-jrM</guid>
+    <pubDate>Mon, 10 Nov 2025 17:10:58 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/JnJywtx-jrM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/JnJywtx-jrM/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/JnJywtx-jrM" type="text/html" medium="video"/>
+    <yt:videoId>JnJywtx-jrM</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>What are we even doing anymore?</title>
+    <link>https://www.youtube.com/shorts/y1lH_XiRYPg</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/y1lH_XiRYPg</guid>
+    <pubDate>Tue, 04 Nov 2025 21:23:31 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/y1lH_XiRYPg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/y1lH_XiRYPg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/y1lH_XiRYPg" type="text/html" medium="video"/>
+    <yt:videoId>y1lH_XiRYPg</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Michael Brennan’s win in Utah is a testament to the strength and health of the college-tour pipeline</title>
+    <link>https://www.youtube.com/shorts/WY2WoY9Ors4</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/WY2WoY9Ors4</guid>
+    <pubDate>Tue, 28 Oct 2025 16:00:05 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/WY2WoY9Ors4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/WY2WoY9Ors4/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/WY2WoY9Ors4" type="text/html" medium="video"/>
+    <yt:videoId>WY2WoY9Ors4</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Good on ya, Scottie.</title>
+    <link>https://www.youtube.com/shorts/Lwz-K-pjkF8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/Lwz-K-pjkF8</guid>
+    <pubDate>Thu, 23 Oct 2025 21:07:10 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Lwz-K-pjkF8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Lwz-K-pjkF8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Lwz-K-pjkF8" type="text/html" medium="video"/>
+    <yt:videoId>Lwz-K-pjkF8</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>The Ryder Cup has repeatedly kicked Keegan Bradley in the teeth.</title>
+    <link>https://www.youtube.com/shorts/huQT9RwlsaY</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/huQT9RwlsaY</guid>
+    <pubDate>Wed, 22 Oct 2025 16:35:10 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/huQT9RwlsaY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/huQT9RwlsaY/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/huQT9RwlsaY" type="text/html" medium="video"/>
+    <yt:videoId>huQT9RwlsaY</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Keegan’s Heartbreak, My Round at Cypress &amp; Offseason Takes</title>
+    <link>https://www.youtube.com/watch?v=m1khr_37RKI</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=m1khr_37RKI</guid>
+    <pubDate>Wed, 22 Oct 2025 14:01:23 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;We’re back with a mini show from the DOGHouse. Dan recaps Tommy Fleetwood’s win in India, his round at Cypress, Keegan’s latest comments after the U.S. Team’s heartbreaking loss at Bethpage, offseason ‘get off my lawn’ golf takes, and more.
+
+SEGMENTS
+00:00 - 00:42 - Intro
+00:43 - 8:40 - Dan’s round at Cypress
+8:41 - 15:41 - Offseason golf takes
+15:42 - 17:37 - Tommy Fleetwood wins in India
+17:38 - 25:33 - Keegan Bradley&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=m1khr_37RKI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/m1khr_37RKI/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/m1khr_37RKI" type="text/html" medium="video"/>
+    <yt:videoId>m1khr_37RKI</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>How many do you agree with?</title>
+    <link>https://www.youtube.com/shorts/5gwH6SdZMCk</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/5gwH6SdZMCk</guid>
+    <pubDate>Tue, 21 Oct 2025 15:32:26 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/5gwH6SdZMCk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/5gwH6SdZMCk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/5gwH6SdZMCk" type="text/html" medium="video"/>
+    <yt:videoId>5gwH6SdZMCk</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>The DP India Championship is some excellent (and different) viewing 🌲🌲🌲</title>
+    <link>https://www.youtube.com/shorts/ZtfDkqVbW7g</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/ZtfDkqVbW7g</guid>
+    <pubDate>Thu, 16 Oct 2025 18:17:47 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ZtfDkqVbW7g"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/ZtfDkqVbW7g/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/ZtfDkqVbW7g" type="text/html" medium="video"/>
+    <yt:videoId>ZtfDkqVbW7g</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
   </item>
 </channel>
 </rss>
