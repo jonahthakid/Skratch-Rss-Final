@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 20 Dec 2025 19:26:35 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 20 Dec 2025 19:39:11 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>There’s a think box, and there’s a play box, and they’re separate</title>
+    <link>https://www.youtube.com/shorts/ydxLAm6Mhxo</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/ydxLAm6Mhxo</guid>
+    <pubDate>Sat, 20 Dec 2025 19:24:41 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ydxLAm6Mhxo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/ydxLAm6Mhxo/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/ydxLAm6Mhxo" type="text/html" medium="video"/>
+    <yt:videoId>ydxLAm6Mhxo</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Why the Titleist LINKSLEGEND Members Bag is the perfect gift</title>
     <link>https://www.youtube.com/shorts/msgoUqxR46s</link>
@@ -417,26 +431,6 @@ Subscribe to Skra&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/v
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/lastsecondgifts_header_a83ae55e96/lastsecondgifts_header_a83ae55e96.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Did Ludvig Aberg Just JINX His Sawgrass Stat?? 🫣</title>
-    <link>https://www.youtube.com/shorts/ecmOHU5bjmQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ecmOHU5bjmQ</guid>
-    <pubDate>Tue, 16 Dec 2025 18:15:00 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Is there a better 16-17-18 than TPC Sawgrass?! Ludvig Aberg doesn’t think so.
-
-Dan Rapaport caddies for the PGA TOUR winner at the iconic Stadium Course back 9 in the latest On The Bag.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, an&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ecmOHU5bjmQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ecmOHU5bjmQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ecmOHU5bjmQ" type="text/html" medium="video"/>
-    <yt:videoId>ecmOHU5bjmQ</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>On Tap: The PNC Championship</title>
