@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 21 Dec 2025 17:34:17 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 21 Dec 2025 18:52:25 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Team Europe couldn’t believe how easy Bethpage Black played for the Ryder Cup</title>
+    <link>https://www.youtube.com/shorts/CA2Cb5q1qPM</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/CA2Cb5q1qPM</guid>
+    <pubDate>Sun, 21 Dec 2025 18:37:06 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/CA2Cb5q1qPM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/CA2Cb5q1qPM/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/CA2Cb5q1qPM" type="text/html" medium="video"/>
+    <yt:videoId>CA2Cb5q1qPM</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>There’s a think box, and there’s a play box, and they’re separate</title>
     <link>https://www.youtube.com/shorts/ydxLAm6Mhxo</link>
@@ -400,26 +414,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/f0QauSfZE3I"&gt;
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Titleist_Holiday_balls_94d149cd9d/Titleist_Holiday_balls_94d149cd9d.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>&quot;How about that one, huh?&quot; 😄 | #TigerTuesday</title>
-    <link>https://www.youtube.com/shorts/vD4N7NPsmwI</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/vD4N7NPsmwI</guid>
-    <pubDate>Tue, 16 Dec 2025 19:19:27 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The Blue Monster is officially back on the TOUR&#x27;s rotation. Throwback to &#x27;98 when TW hit this absolute beauty from the bunker.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skra&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/vD4N7NPsmwI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/vD4N7NPsmwI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/vD4N7NPsmwI" type="text/html" medium="video"/>
-    <yt:videoId>vD4N7NPsmwI</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>The Best Last-Minute Golf Gifts That’ll Still Arrive in Time</title>
