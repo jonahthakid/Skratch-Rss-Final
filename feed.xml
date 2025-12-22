@@ -9,8 +9,30 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 22 Dec 2025 15:41:26 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 22 Dec 2025 16:53:31 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Lee Trevino&#x27;s Impromptu Love Letter to Golf is a Must-Watch</title>
+    <link>https://skratch.golf/news/news/lee-trevino-pnc-championship-2025-love-letter-to-golf</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/lee-trevino-pnc-championship-2025-love-letter-to-golf</guid>
+    <pubDate>Mon, 22 Dec 2025 15:54:37 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Stop what you&#x27;re doing and listen to this love-filled monologue feels like the perfect way to close the book on golf&#x27;s 2025.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lee-trevino-pnc-championship-2025-love-letter-to-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1857686553_3cb883ec95/Getty_Images_1857686553_3cb883ec95.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>These Are the Changes Coming to LPGA World Rankings in 2026</title>
+    <link>https://skratch.golf/news/news/lpga-rolex-world-rankings-2026-changes-explained</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-rolex-world-rankings-2026-changes-explained</guid>
+    <pubDate>Mon, 22 Dec 2025 15:07:44 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The Tour revealed the decision to make the Rolex World Rankings more inclusive to introduce more players into the system—most notably for players on tours with a lower strength of field.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-rolex-world-rankings-2026-changes-explained"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2232905196_e8174bdb38/Getty_Images_2232905196_e8174bdb38.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Lee Trevino&#x27;s MOVING TRIBUTE to Golf</title>
     <link>https://www.youtube.com/shorts/LS8hTmBQ_So</link>
@@ -481,6 +503,17 @@ Su&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/kJjBH0Dm0gA"&gt;
     <category>article</category>
   </item>
   <item>
+    <title>Four Collar Types That Actually Pass the Golf Dress Code</title>
+    <link>https://skratch.golf/style/mens-style/four-collar-types-that-actually-pass-the-golf-dress-code</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/four-collar-types-that-actually-pass-the-golf-dress-code</guid>
+    <pubDate>Mon, 15 Dec 2025 16:20:08 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;Still dress code safe. Way more interesting than default polyester.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/four-collar-types-that-actually-pass-the-golf-dress-code"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Collar_Cover_aee60e5d2b/Collar_Cover_aee60e5d2b.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Five 2026 LPGA Rookies We&#x27;re Keeping an Early Eye On</title>
     <link>https://skratch.golf/news/news/2026-lpga-tour-rookies-to-know</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/2026-lpga-tour-rookies-to-know</guid>
@@ -492,17 +525,6 @@ Su&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/kJjBH0Dm0gA"&gt;
     <category>article</category>
   </item>
   <item>
-    <title>This Amazon Club Building Tool is a Massive Time Saver</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/golf-regrip-tool-clamp-amazon-timer-saver</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/golf-regrip-tool-clamp-amazon-timer-saver</guid>
-    <pubDate>Mon, 15 Dec 2025 14:00:18 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;If you like to regrip your own golf clubs, this must-have tool can save you a ton of time!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/golf-regrip-tool-clamp-amazon-timer-saver"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Golf_club_clamp_6a3278d049/Golf_club_clamp_6a3278d049.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Love Letter To: Royal Melbourne</title>
     <link>https://skratch.golf/news/golf-culture/australia-golf-photo-essay-royal-melbourne-love-letter</link>
     <guid isPermaLink="true">https://skratch.golf/news/golf-culture/australia-golf-photo-essay-royal-melbourne-love-letter</guid>
@@ -510,17 +532,6 @@ Su&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/kJjBH0Dm0gA"&gt;
     <dc:creator>Zane Moulton</dc:creator>
     <description>&lt;p&gt;If you’re not used to golf on the Sandbelt of Australia, the visuals alone will stop you in your tracks.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/australia-golf-photo-essay-royal-melbourne-love-letter"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20251209_Royal_Melbourne_Zane_Moulton_0000s_0004_A7_V09582_07b5b613ce/20251209_Royal_Melbourne_Zane_Moulton_0000s_0004_A7_V09582_07b5b613ce.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Every Putter That Won On The PGA TOUR In 2025</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/every-putter-every-win-pga-tour-2025</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/every-putter-every-win-pga-tour-2025</guid>
-    <pubDate>Mon, 24 Nov 2025 03:26:00 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;From mallets to blades, and everything in between, this is the comprehensive list of every winning putter on the PGA TOUR in 2025.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/every-putter-every-win-pga-tour-2025"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Aldrich_Rocket_putter_win_9269999a34/Aldrich_Rocket_putter_win_9269999a34.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -681,20 +692,6 @@ SEGMENTS
     <media:thumbnail url="https://img.youtube.com/vi/5gwH6SdZMCk/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/5gwH6SdZMCk" type="text/html" medium="video"/>
     <yt:videoId>5gwH6SdZMCk</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>The DP India Championship is some excellent (and different) viewing 🌲🌲🌲</title>
-    <link>https://www.youtube.com/shorts/ZtfDkqVbW7g</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ZtfDkqVbW7g</guid>
-    <pubDate>Thu, 16 Oct 2025 18:17:47 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ZtfDkqVbW7g"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ZtfDkqVbW7g/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ZtfDkqVbW7g" type="text/html" medium="video"/>
-    <yt:videoId>ZtfDkqVbW7g</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
