@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 23 Dec 2025 15:41:39 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 23 Dec 2025 16:55:54 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>5 Most Distinct Swings on TOUR</title>
@@ -74,6 +74,17 @@
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;The Tour revealed the decision to make the Rolex World Rankings more inclusive to introduce more players into the system—most notably for players on tours with a lower strength of field.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-rolex-world-rankings-2026-changes-explained"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2232905196_e8174bdb38/Getty_Images_2232905196_e8174bdb38.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The LET&#x27;s Q School Is Named After a True Renaissance Woman</title>
+    <link>https://skratch.golf/news/golf-culture/ladies-european-tour-royal-history-lalla-aicha</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/ladies-european-tour-royal-history-lalla-aicha</guid>
+    <pubDate>Mon, 22 Dec 2025 14:28:27 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The story of Lalla Aicha, the Moroccan Princess who loved golf—and how the LET is honoring her contributions to the game.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/ladies-european-tour-royal-history-lalla-aicha"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_3263449_4ec4ac9e5b/Getty_Images_3263449_4ec4ac9e5b.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -470,24 +481,13 @@ Su&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/kJjBH0Dm0gA"&gt;
     <category>video</category>
   </item>
   <item>
-    <title>The Best Last-Minute Golf Gifts That’ll Still Arrive in Time</title>
-    <link>https://skratch.golf/style/style/best-last-minute-golf-gifts-books-subscriptions-digital-gift-cards</link>
-    <guid isPermaLink="true">https://skratch.golf/style/style/best-last-minute-golf-gifts-books-subscriptions-digital-gift-cards</guid>
-    <pubDate>Tue, 16 Dec 2025 18:40:15 +0000</pubDate>
-    <dc:creator>Brittany Romano</dc:creator>
-    <description>&lt;p&gt;From fast-shipping favorites to subscription wins, these picks make last-minute shopping surprisingly easy.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/best-last-minute-golf-gifts-books-subscriptions-digital-gift-cards"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/lastsecondgifts_header_a83ae55e96/lastsecondgifts_header_a83ae55e96.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>An Unearthed Reminder of War at Royal Liverpool</title>
-    <link>https://skratch.golf/news/news/royal-liverpool-unearthed-artillery-shell-world-war-II-hoylake-golf-course</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/royal-liverpool-unearthed-artillery-shell-world-war-II-hoylake-golf-course</guid>
-    <pubDate>Tue, 16 Dec 2025 15:53:42 +0000</pubDate>
+    <title>On Tap: The PNC Championship</title>
+    <link>https://skratch.golf/news/pro-golf/pnc-championship-2025-how-to-watch-teams-format</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/pnc-championship-2025-how-to-watch-teams-format</guid>
+    <pubDate>Tue, 16 Dec 2025 17:30:07 +0000</pubDate>
     <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;An unexploded artillery shell was found at Royal Liverpool, a golf course with a rich history during World War II.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/royal-liverpool-unearthed-artillery-shell-world-war-II-hoylake-golf-course"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_633543398_f47b03059b/Getty_Images_633543398_f47b03059b.jpg"/>
+    <description>&lt;p&gt;From teams, format, and how to watch, here’s everything you need to know for the PNC Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/pnc-championship-2025-how-to-watch-teams-format"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2190981690_7ae1d10343/Getty_Images_2190981690_7ae1d10343.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
