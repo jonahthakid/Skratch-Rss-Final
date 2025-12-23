@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 23 Dec 2025 22:40:22 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 23 Dec 2025 23:33:06 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Only time will tell. 👀</title>
+    <link>https://www.youtube.com/shorts/xlAy9q0MRnU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/xlAy9q0MRnU</guid>
+    <pubDate>Tue, 23 Dec 2025 22:44:02 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/xlAy9q0MRnU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/xlAy9q0MRnU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/xlAy9q0MRnU" type="text/html" medium="video"/>
+    <yt:videoId>xlAy9q0MRnU</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Brooks Koepka’s LIV Departure Sent Golf Twitter into a Frenzy</title>
     <link>https://skratch.golf/news/news/brooks-koepka-leaves-liv-golf-social-media-reacts</link>
@@ -29,7 +43,7 @@
     <pubDate>Tue, 23 Dec 2025 22:15:30 +0000</pubDate>
     <dc:creator>Dan Rapaport</dc:creator>
     <description>&lt;p&gt;Time will tell as to whether this is the metaphorical opening of the floodgates, or simply a player making another decision for his quality of life over his professional accomplishments.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/brooks-koepka-liv-exit-will-he-join-pga-tour-question"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2232957442_0d25c2ec71/Getty_Images_2232957442_0d25c2ec71.jpg"/>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2232957442_9d8b236a45/Getty_Images_2232957442_9d8b236a45.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -449,27 +463,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/dx-8ZXEQvFk/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/dx-8ZXEQvFk" type="text/html" medium="video"/>
     <yt:videoId>dx-8ZXEQvFk</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Drop a Ja Rule lyric in the comments that best describes this SHANK</title>
-    <link>https://www.youtube.com/shorts/dqyeRfabibw</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/dqyeRfabibw</guid>
-    <pubDate>Wed, 17 Dec 2025 13:20:50 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
-
-Check out our website: https://skratch.golf/
-Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/dqyeRfabibw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/dqyeRfabibw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/dqyeRfabibw" type="text/html" medium="video"/>
-    <yt:videoId>dqyeRfabibw</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
