@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 23 Dec 2025 20:41:01 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 23 Dec 2025 21:33:33 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>What Golfers Are Wearing When It Is Not Technically Golf Gear</title>
+    <link>https://skratch.golf/style/mens-style/not-for-golf-apparel-footwear-versatile-style</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/not-for-golf-apparel-footwear-versatile-style</guid>
+    <pubDate>Tue, 23 Dec 2025 19:43:50 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;A look at everyday apparel and footwear quietly working its way onto the course&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/not-for-golf-apparel-footwear-versatile-style"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/NFG_Cover_a01818344e/NFG_Cover_a01818344e.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>5 Most Distinct Swings on TOUR</title>
     <link>https://skratch.golf/news/pro-golf/most-distinct-golf-swings-on-tour</link>
@@ -448,17 +459,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/dqyeRfabibw"&gt;
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The H25 Scotty Cameron Is All About The Details</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/scotty-cameron-h25-limited-putter</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/scotty-cameron-h25-limited-putter</guid>
-    <pubDate>Wed, 17 Dec 2025 03:22:50 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;For Scotty Cameron, limited-edition putters provide an opportunity to create an easter egg-filled showpiece that&#x27;s half art, half tool, and all class.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/scotty-cameron-h25-limited-putter"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/H25_putter_title_83cb57088c/H25_putter_title_83cb57088c.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Tiger&#x27;s bunker brilliance from Doral</title>
