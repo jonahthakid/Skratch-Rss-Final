@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 23 Dec 2025 14:45:52 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 23 Dec 2025 15:41:39 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>5 Most Distinct Swings on TOUR</title>
+    <link>https://skratch.golf/news/pro-golf/most-distinct-golf-swings-on-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/most-distinct-golf-swings-on-tour</guid>
+    <pubDate>Mon, 22 Dec 2025 18:44:23 +0000</pubDate>
+    <dc:creator>Luke Nesbitt</dc:creator>
+    <description>&lt;p&gt;On a range full of sameness, these five tour-proven golf swings will stop you in your tracks.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/most-distinct-golf-swings-on-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/micheal_brennan_grant_thornton_2025_Getty_Images_2251626489_d8bcba041a/micheal_brennan_grant_thornton_2025_Getty_Images_2251626489_d8bcba041a.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Nike Golf’s Shield Era Is Restarting… Slowly</title>
     <link>https://skratch.golf/style/mens-style/nike-golf-shield-era-relaunch-logo-style</link>
@@ -459,24 +470,13 @@ Su&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/kJjBH0Dm0gA"&gt;
     <category>video</category>
   </item>
   <item>
-    <title>On Tap: The PNC Championship</title>
-    <link>https://skratch.golf/news/pro-golf/pnc-championship-2025-how-to-watch-teams-format</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/pnc-championship-2025-how-to-watch-teams-format</guid>
-    <pubDate>Tue, 16 Dec 2025 17:30:07 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;From teams, format, and how to watch, here’s everything you need to know for the PNC Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/pnc-championship-2025-how-to-watch-teams-format"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2190981690_7ae1d10343/Getty_Images_2190981690_7ae1d10343.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Nike Golf Shield Is Back But What Does That Mean</title>
-    <link>https://skratch.golf/style/mens-style/nike-golf-shield-is-back-meaning</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/nike-golf-shield-is-back-meaning</guid>
-    <pubDate>Tue, 16 Dec 2025 16:45:55 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Why this reopens a deeper conversation about Nike Golf&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/nike-golf-shield-is-back-meaning"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_81424067_557584e017/Getty_Images_81424067_557584e017.jpg"/>
+    <title>The Best Last-Minute Golf Gifts That’ll Still Arrive in Time</title>
+    <link>https://skratch.golf/style/style/best-last-minute-golf-gifts-books-subscriptions-digital-gift-cards</link>
+    <guid isPermaLink="true">https://skratch.golf/style/style/best-last-minute-golf-gifts-books-subscriptions-digital-gift-cards</guid>
+    <pubDate>Tue, 16 Dec 2025 18:40:15 +0000</pubDate>
+    <dc:creator>Brittany Romano</dc:creator>
+    <description>&lt;p&gt;From fast-shipping favorites to subscription wins, these picks make last-minute shopping surprisingly easy.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/best-last-minute-golf-gifts-books-subscriptions-digital-gift-cards"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/lastsecondgifts_header_a83ae55e96/lastsecondgifts_header_a83ae55e96.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
