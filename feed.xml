@@ -9,8 +9,42 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 24 Dec 2025 17:36:13 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 24 Dec 2025 18:56:14 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Time to get to work</title>
+    <link>https://www.youtube.com/shorts/UqhJWqXdUxM</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/UqhJWqXdUxM</guid>
+    <pubDate>Wed, 24 Dec 2025 17:32:53 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/UqhJWqXdUxM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/UqhJWqXdUxM/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/UqhJWqXdUxM" type="text/html" medium="video"/>
+    <yt:videoId>UqhJWqXdUxM</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>John Daly II Ripping the COVER off the golf ball over the years at PNC</title>
+    <link>https://www.youtube.com/shorts/yZjIqWQyt5w</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/yZjIqWQyt5w</guid>
+    <pubDate>Wed, 24 Dec 2025 17:32:41 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Wild to think we&#x27;ve watched JD² rip the cover of the golf ball for almost a decade now. Here&#x27;s a swing from every year he&#x27;s teed it up at PNC.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+S&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/yZjIqWQyt5w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/yZjIqWQyt5w/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/yZjIqWQyt5w" type="text/html" medium="video"/>
+    <yt:videoId>yZjIqWQyt5w</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Everything you need to know about the Brooks Koepka situation.</title>
     <link>https://www.youtube.com/shorts/ueHYSh7xXkA</link>
@@ -437,26 +471,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Golf&#x27;s Fall Ball Had it ALL | Data Dive into PGA TOUR&#x27;s End of Year</title>
-    <link>https://www.youtube.com/watch?v=AcByqEdMBdA</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=AcByqEdMBdA</guid>
-    <pubDate>Wed, 17 Dec 2025 18:00:00 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;We saw it all during the TOUR&#x27;s Fall Season. Big-name winners, first-timers, and bevy of impressive data to dive into for Ryan Barath and status guru Lou Stagner.
-
-Hear the guys&#x27; findings for the final seven full-field events of the year, presented by CDW.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=AcByqEdMBdA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/AcByqEdMBdA/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/AcByqEdMBdA" type="text/html" medium="video"/>
-    <yt:videoId>AcByqEdMBdA</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>PXG Launches First Long Putter With The ZT Allan</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/pxg-allan-long-putter-zero-torque</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/pxg-allan-long-putter-zero-torque</guid>
@@ -466,20 +480,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/PXG_Allan_long_ec93947967/PXG_Allan_long_ec93947967.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>They are going to be DIALED. 🙏</title>
-    <link>https://www.youtube.com/shorts/dx-8ZXEQvFk</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/dx-8ZXEQvFk</guid>
-    <pubDate>Wed, 17 Dec 2025 15:06:05 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/dx-8ZXEQvFk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/dx-8ZXEQvFk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/dx-8ZXEQvFk" type="text/html" medium="video"/>
-    <yt:videoId>dx-8ZXEQvFk</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>I Played 7 New Courses in 2025—Here&#x27;s How I&#x27;d Rank Them</title>
