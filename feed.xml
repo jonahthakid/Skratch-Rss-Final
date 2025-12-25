@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 25 Dec 2025 16:51:04 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 25 Dec 2025 17:38:56 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>When you get another pair of socks from Grandma and have to act excited</title>
+    <link>https://www.youtube.com/shorts/xMXw_DaOCag</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/xMXw_DaOCag</guid>
+    <pubDate>Thu, 25 Dec 2025 16:51:15 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/xMXw_DaOCag"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/xMXw_DaOCag/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/xMXw_DaOCag" type="text/html" medium="video"/>
+    <yt:videoId>xMXw_DaOCag</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Time to get to work</title>
     <link>https://www.youtube.com/shorts/UqhJWqXdUxM</link>
@@ -448,24 +462,6 @@ Behind every drained putt or hosel rocket into the stands is a human being&lt;/p
     <media:thumbnail url="https://img.youtube.com/vi/n6W1V6XaQbE/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/n6W1V6XaQbE" type="text/html" medium="video"/>
     <yt:videoId>n6W1V6XaQbE</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Michael Brennan&#x27;s GENERATIONAL Driving Display in Utah</title>
-    <link>https://www.youtube.com/shorts/qlpm3gF_EMw</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/qlpm3gF_EMw</guid>
-    <pubDate>Wed, 17 Dec 2025 18:15:00 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Michael Brennan hit the ball off the tee in spectacular fashion in Utah during the PGA TOUR FedEx Fall season. Our Ryan Barath and stats guru Lou Stagner break down the &quot;generational&quot; performance on their latest deep dive, presnted by CDW.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. Th&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/qlpm3gF_EMw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/qlpm3gF_EMw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/qlpm3gF_EMw" type="text/html" medium="video"/>
-    <yt:videoId>qlpm3gF_EMw</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
