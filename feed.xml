@@ -9,8 +9,26 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 26 Dec 2025 20:39:19 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 26 Dec 2025 21:33:03 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Nothing like a closest to the pin with your buddies 🎯</title>
+    <link>https://www.youtube.com/shorts/ckNL42QPCzg</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/ckNL42QPCzg</guid>
+    <pubDate>Fri, 26 Dec 2025 20:43:11 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;@MacBoucherGolf, Pete Scrimgeour and Luke Leesburg take on Monarch Beach and three other top public courses in Southern California in the latest episode of Working Holiday. 
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re ende&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ckNL42QPCzg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/ckNL42QPCzg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/ckNL42QPCzg" type="text/html" medium="video"/>
+    <yt:videoId>ckNL42QPCzg</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>When you get another pair of socks from Grandma and have to act excited</title>
     <link>https://www.youtube.com/shorts/xMXw_DaOCag</link>
@@ -451,20 +469,6 @@ Behind every drained putt or hosel rocket into the stands is a human being&lt;/p
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2245907564_f7cfc770ac/Getty_Images_2245907564_f7cfc770ac.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Sometimes it’s just not a decision</title>
-    <link>https://www.youtube.com/shorts/n6W1V6XaQbE</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/n6W1V6XaQbE</guid>
-    <pubDate>Wed, 17 Dec 2025 19:17:34 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/n6W1V6XaQbE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/n6W1V6XaQbE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/n6W1V6XaQbE" type="text/html" medium="video"/>
-    <yt:videoId>n6W1V6XaQbE</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>PXG Launches First Long Putter With The ZT Allan</title>
