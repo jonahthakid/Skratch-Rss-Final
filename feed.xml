@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 27 Dec 2025 17:40:02 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 27 Dec 2025 18:57:26 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Nothing like a lesson from Dad.</title>
+    <link>https://www.youtube.com/shorts/Uobwyc6Y_lw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/Uobwyc6Y_lw</guid>
+    <pubDate>Sat, 27 Dec 2025 18:34:29 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Uobwyc6Y_lw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Uobwyc6Y_lw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Uobwyc6Y_lw" type="text/html" medium="video"/>
+    <yt:videoId>Uobwyc6Y_lw</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Nothing like a closest to the pin with your buddies 🎯</title>
     <link>https://www.youtube.com/shorts/ckNL42QPCzg</link>
@@ -422,20 +436,6 @@ Behind every drained putt or hosel rocket into the stands is a human being&lt;/p
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2025_11_19_at_11_27_39_PM_a94dcab723/Screenshot_2025_11_19_at_11_27_39_PM_a94dcab723.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>STRONG trash-talk game from an 11-year-old Charlie Woods 😂</title>
-    <link>https://www.youtube.com/shorts/QyXxk3j8o5k</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/QyXxk3j8o5k</guid>
-    <pubDate>Thu, 18 Dec 2025 16:03:56 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/QyXxk3j8o5k"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/QyXxk3j8o5k/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/QyXxk3j8o5k" type="text/html" medium="video"/>
-    <yt:videoId>QyXxk3j8o5k</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Johnson Wagner is Going Back Inside the Ropes</title>
