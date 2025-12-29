@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 29 Dec 2025 16:52:11 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 29 Dec 2025 17:39:28 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The real star of 2025: Neal Shipley</title>
+    <link>https://www.youtube.com/shorts/wJ3VYA3Qwsg</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/wJ3VYA3Qwsg</guid>
+    <pubDate>Mon, 29 Dec 2025 17:13:26 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/wJ3VYA3Qwsg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/wJ3VYA3Qwsg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/wJ3VYA3Qwsg" type="text/html" medium="video"/>
+    <yt:videoId>wJ3VYA3Qwsg</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>What day is it? 🤔</title>
     <link>https://www.youtube.com/shorts/krJL99-kkDU</link>
@@ -381,20 +395,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/E4FVAcpD6ZM"&gt;
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/CD_Cover_image_ebe55e001c/CD_Cover_image_ebe55e001c.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Charlie Woods had the PERFECT reaction to his dad after an ace at PNC 🤣</title>
-    <link>https://www.youtube.com/shorts/oekuyhm0Mno</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/oekuyhm0Mno</guid>
-    <pubDate>Fri, 19 Dec 2025 16:03:42 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/oekuyhm0Mno"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/oekuyhm0Mno/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/oekuyhm0Mno" type="text/html" medium="video"/>
-    <yt:videoId>oekuyhm0Mno</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>It&#x27;s Official—The LET Q School Venues Have the Best Views in Golf</title>
