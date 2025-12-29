@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 29 Dec 2025 20:43:51 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 29 Dec 2025 21:33:33 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>No context PGA TOUR moments of the year 🤣</title>
+    <link>https://www.youtube.com/shorts/sXVveuWmR_w</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/sXVveuWmR_w</guid>
+    <pubDate>Mon, 29 Dec 2025 20:59:05 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/sXVveuWmR_w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/sXVveuWmR_w/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/sXVveuWmR_w" type="text/html" medium="video"/>
+    <yt:videoId>sXVveuWmR_w</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Ryan Gerard’s 10,000-Mile Journey to the ‘26 Masters</title>
     <link>https://skratch.golf/news/pro-golf/ryan-gerard-masters-invite-mauritius-qualifying-augusta-national-debut</link>
@@ -382,27 +396,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/msgoUqxR46s/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/msgoUqxR46s" type="text/html" medium="video"/>
     <yt:videoId>msgoUqxR46s</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Ludvig thinks Scottie’s swing is an underrated part of his arsenal</title>
-    <link>https://www.youtube.com/shorts/E4FVAcpD6ZM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/E4FVAcpD6ZM</guid>
-    <pubDate>Fri, 19 Dec 2025 18:23:34 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
-
-Check out our website: https://skratch.golf/
-Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/E4FVAcpD6ZM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/E4FVAcpD6ZM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/E4FVAcpD6ZM" type="text/html" medium="video"/>
-    <yt:videoId>E4FVAcpD6ZM</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
