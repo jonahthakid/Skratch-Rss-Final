@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 30 Dec 2025 15:41:34 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 30 Dec 2025 16:55:43 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Every driver Tiger has played as a professional</title>
+    <link>https://www.youtube.com/shorts/8olUgO47hqc</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/8olUgO47hqc</guid>
+    <pubDate>Tue, 30 Dec 2025 16:05:19 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8olUgO47hqc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/8olUgO47hqc/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/8olUgO47hqc" type="text/html" medium="video"/>
+    <yt:videoId>8olUgO47hqc</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Before all the wins and the records, there was a young amateur named Eldrick making his debut</title>
     <link>https://www.youtube.com/shorts/87WkV9uMhQA</link>
@@ -83,6 +97,17 @@
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;With TGL back, so are the opportunities to preview some yet-to-be-seen clubs players are testing out ahead of tournament play. On tap this week: Shauffele gaming new Callaway woods.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/tgl-season-opener-xander-callaway-driver"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Quantum_TD_Xander_WRX_b81691cfdf/Quantum_TD_Xander_WRX_b81691cfdf.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The 2025 Skratch Style Awards</title>
+    <link>https://skratch.golf/style/mens-style/skratch-style-awards-best-products-collaborations-shoes-apparel-of-the-year</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/skratch-style-awards-best-products-collaborations-shoes-apparel-of-the-year</guid>
+    <pubDate>Mon, 29 Dec 2025 17:44:19 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;The style moments, products, and ideas that actually mattered in golf in 2025&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/skratch-style-awards-best-products-collaborations-shoes-apparel-of-the-year"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Style_Awards_fc2ed81c7c/Style_Awards_fc2ed81c7c.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -405,20 +430,6 @@ Subscribe to Skratch on YouTube and don’t miss ou&lt;/p&gt;&lt;p&gt;&lt;a href
     <category>video</category>
   </item>
   <item>
-    <title>Team Europe couldn’t believe how easy Bethpage Black played for the Ryder Cup</title>
-    <link>https://www.youtube.com/shorts/CA2Cb5q1qPM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/CA2Cb5q1qPM</guid>
-    <pubDate>Sun, 21 Dec 2025 18:37:06 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/CA2Cb5q1qPM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/CA2Cb5q1qPM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/CA2Cb5q1qPM" type="text/html" medium="video"/>
-    <yt:videoId>CA2Cb5q1qPM</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Golf Has Been Cloud Dancing Longer Than You Think</title>
     <link>https://skratch.golf/style/mens-style/golf-style-pantone-color-of-the-year-cloud-dancer-trend</link>
     <guid isPermaLink="true">https://skratch.golf/style/mens-style/golf-style-pantone-color-of-the-year-cloud-dancer-trend</guid>
@@ -426,17 +437,6 @@ Subscribe to Skratch on YouTube and don’t miss ou&lt;/p&gt;&lt;p&gt;&lt;a href
     <dc:creator>Raymond Williams</dc:creator>
     <description>&lt;p&gt;How Pantone&#x27;s Color of the Year, Cloud Dancer, is leading golf’s soft launch into color&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/golf-style-pantone-color-of-the-year-cloud-dancer-trend"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/CD_Cover_image_ebe55e001c/CD_Cover_image_ebe55e001c.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>It&#x27;s Official—The LET Q School Venues Have the Best Views in Golf</title>
-    <link>https://skratch.golf/news/news/ladies-european-tour-q-school-golf-course-morocco</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/ladies-european-tour-q-school-golf-course-morocco</guid>
-    <pubDate>Fri, 19 Dec 2025 15:23:10 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Over the span of 8 days, players compete on six different courses, each one more stunning than the last.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/ladies-european-tour-q-school-golf-course-morocco"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/54993234311_681d6c4c98_o_8550c73795/54993234311_681d6c4c98_o_8550c73795.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
