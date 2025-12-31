@@ -1,3 +1,5 @@
+<!-- Warning: Error fetching Skratch: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwtGQ3sgidNlQGbIUBPP3xw -->
+<!-- Warning: Error fetching Dan On Golf Show: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -9,22 +11,8 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 30 Dec 2025 23:32:39 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 31 Dec 2025 03:55:30 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
-  <item>
-    <title>Haters will say it’s fake. Happy birthday to LeBron James 👑</title>
-    <link>https://www.youtube.com/shorts/um_3WNHYE8A</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/um_3WNHYE8A</guid>
-    <pubDate>Tue, 30 Dec 2025 22:36:23 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/um_3WNHYE8A"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/um_3WNHYE8A/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/um_3WNHYE8A" type="text/html" medium="video"/>
-    <yt:videoId>um_3WNHYE8A</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
   <item>
     <title>Celebrate Tiger Woods&#x27; 50th Birthday with 50 Fist Pumps</title>
     <link>https://skratch.golf/news/pro-golf/tiger-woods-50-birthday-50-fist-pumps-pga-tour</link>
@@ -37,28 +25,6 @@
     <category>article</category>
   </item>
   <item>
-    <title>A plea to Tiger Woods on his 50th birthday.</title>
-    <link>https://www.youtube.com/shorts/g2e8tEJplyg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/g2e8tEJplyg</guid>
-    <pubDate>Tue, 30 Dec 2025 17:01:15 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Please, Tiger. Just do it.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
-
-Check out our websi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/g2e8tEJplyg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/g2e8tEJplyg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/g2e8tEJplyg" type="text/html" medium="video"/>
-    <yt:videoId>g2e8tEJplyg</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>When Interest Turned Into Obsession</title>
     <link>https://skratch.golf/news/pro-golf/tiger-woods-birthday-50-flashback-2008-arnold-palmer</link>
     <guid isPermaLink="true">https://skratch.golf/news/pro-golf/tiger-woods-birthday-50-flashback-2008-arnold-palmer</guid>
@@ -68,20 +34,6 @@ Check out our websi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_80270642_64d9378aa8/Getty_Images_80270642_64d9378aa8.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Every driver Tiger has played as a professional</title>
-    <link>https://www.youtube.com/shorts/8olUgO47hqc</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/8olUgO47hqc</guid>
-    <pubDate>Tue, 30 Dec 2025 16:05:19 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8olUgO47hqc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/8olUgO47hqc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/8olUgO47hqc" type="text/html" medium="video"/>
-    <yt:videoId>8olUgO47hqc</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Tiger Woods: He Didn&#x27;t Mean It</title>
@@ -106,20 +58,6 @@ Check out our websi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts
     <category>article</category>
   </item>
   <item>
-    <title>Before all the wins and the records, there was a young amateur named Eldrick making his debut</title>
-    <link>https://www.youtube.com/shorts/87WkV9uMhQA</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/87WkV9uMhQA</guid>
-    <pubDate>Tue, 30 Dec 2025 15:00:16 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/87WkV9uMhQA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/87WkV9uMhQA/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/87WkV9uMhQA" type="text/html" medium="video"/>
-    <yt:videoId>87WkV9uMhQA</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>A Plea to Tiger Woods on His 50th Birthday</title>
     <link>https://skratch.golf/news/pro-golf/tiger-woods-50th-birthday-champions-tour-plea</link>
     <guid isPermaLink="true">https://skratch.golf/news/pro-golf/tiger-woods-50th-birthday-champions-tour-plea</guid>
@@ -131,20 +69,6 @@ Check out our websi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts
     <category>article</category>
   </item>
   <item>
-    <title>Happy 50th birthday, Tiger! 💪</title>
-    <link>https://www.youtube.com/shorts/pGFsP9SdI8Q</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/pGFsP9SdI8Q</guid>
-    <pubDate>Tue, 30 Dec 2025 14:11:19 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/pGFsP9SdI8Q"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/pGFsP9SdI8Q/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/pGFsP9SdI8Q" type="text/html" medium="video"/>
-    <yt:videoId>pGFsP9SdI8Q</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Top 5 Gear Predictions Of 2026</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/golf-club-predictions-new-year-gear-equipment-tour</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/golf-club-predictions-new-year-gear-equipment-tour</guid>
@@ -154,20 +78,6 @@ Check out our websi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2225612048_e15d56a742/Getty_Images_2225612048_e15d56a742.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>No context PGA TOUR moments of the year 🤣</title>
-    <link>https://www.youtube.com/shorts/sXVveuWmR_w</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/sXVveuWmR_w</guid>
-    <pubDate>Mon, 29 Dec 2025 20:59:05 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/sXVveuWmR_w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/sXVveuWmR_w/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/sXVveuWmR_w" type="text/html" medium="video"/>
-    <yt:videoId>sXVveuWmR_w</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Ryan Gerard’s 10,000-Mile Journey to the ‘26 Masters</title>
@@ -201,158 +111,6 @@ Check out our websi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Style_Awards_fc2ed81c7c/Style_Awards_fc2ed81c7c.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>The real star of 2025: Neal Shipley</title>
-    <link>https://www.youtube.com/shorts/wJ3VYA3Qwsg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/wJ3VYA3Qwsg</guid>
-    <pubDate>Mon, 29 Dec 2025 17:13:26 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/wJ3VYA3Qwsg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/wJ3VYA3Qwsg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/wJ3VYA3Qwsg" type="text/html" medium="video"/>
-    <yt:videoId>wJ3VYA3Qwsg</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>What day is it? 🤔</title>
-    <link>https://www.youtube.com/shorts/krJL99-kkDU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/krJL99-kkDU</guid>
-    <pubDate>Sun, 28 Dec 2025 19:24:49 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/krJL99-kkDU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/krJL99-kkDU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/krJL99-kkDU" type="text/html" medium="video"/>
-    <yt:videoId>krJL99-kkDU</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>That time when Kevin Kisner made Tiger Woods buckle over in laughter 🤣</title>
-    <link>https://www.youtube.com/shorts/TOW-sqi40W8</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/TOW-sqi40W8</guid>
-    <pubDate>Sun, 28 Dec 2025 16:12:58 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Throwback to one of the best @TGL moments from season one. 😂
-
-Catch the first match of season two today at 3pm EST!&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/TOW-sqi40W8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/TOW-sqi40W8/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/TOW-sqi40W8" type="text/html" medium="video"/>
-    <yt:videoId>TOW-sqi40W8</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Nothing like a lesson from Dad.</title>
-    <link>https://www.youtube.com/shorts/Uobwyc6Y_lw</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/Uobwyc6Y_lw</guid>
-    <pubDate>Sat, 27 Dec 2025 18:34:29 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Uobwyc6Y_lw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/Uobwyc6Y_lw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/Uobwyc6Y_lw" type="text/html" medium="video"/>
-    <yt:videoId>Uobwyc6Y_lw</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Nothing like a closest to the pin with your buddies 🎯</title>
-    <link>https://www.youtube.com/shorts/ckNL42QPCzg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ckNL42QPCzg</guid>
-    <pubDate>Fri, 26 Dec 2025 20:43:11 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;@MacBoucherGolf, Pete Scrimgeour and Luke Leesburg take on Monarch Beach and three other top public courses in Southern California in the latest episode of Working Holiday. 
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re ende&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ckNL42QPCzg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ckNL42QPCzg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ckNL42QPCzg" type="text/html" medium="video"/>
-    <yt:videoId>ckNL42QPCzg</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>When you get another pair of socks from Grandma and have to act excited</title>
-    <link>https://www.youtube.com/shorts/xMXw_DaOCag</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/xMXw_DaOCag</guid>
-    <pubDate>Thu, 25 Dec 2025 16:51:15 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/xMXw_DaOCag"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/xMXw_DaOCag/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/xMXw_DaOCag" type="text/html" medium="video"/>
-    <yt:videoId>xMXw_DaOCag</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Time to get to work</title>
-    <link>https://www.youtube.com/shorts/UqhJWqXdUxM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/UqhJWqXdUxM</guid>
-    <pubDate>Wed, 24 Dec 2025 17:32:53 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/UqhJWqXdUxM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/UqhJWqXdUxM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/UqhJWqXdUxM" type="text/html" medium="video"/>
-    <yt:videoId>UqhJWqXdUxM</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>John Daly II Ripping the COVER off the golf ball over the years at PNC</title>
-    <link>https://www.youtube.com/shorts/yZjIqWQyt5w</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/yZjIqWQyt5w</guid>
-    <pubDate>Wed, 24 Dec 2025 17:32:41 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Wild to think we&#x27;ve watched JD² rip the cover of the golf ball for almost a decade now. Here&#x27;s a swing from every year he&#x27;s teed it up at PNC.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-S&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/yZjIqWQyt5w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/yZjIqWQyt5w/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/yZjIqWQyt5w" type="text/html" medium="video"/>
-    <yt:videoId>yZjIqWQyt5w</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Everything you need to know about the Brooks Koepka situation.</title>
-    <link>https://www.youtube.com/shorts/ueHYSh7xXkA</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ueHYSh7xXkA</guid>
-    <pubDate>Tue, 23 Dec 2025 23:54:01 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ueHYSh7xXkA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ueHYSh7xXkA/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ueHYSh7xXkA" type="text/html" medium="video"/>
-    <yt:videoId>ueHYSh7xXkA</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Only time will tell. 👀</title>
-    <link>https://www.youtube.com/shorts/xlAy9q0MRnU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/xlAy9q0MRnU</guid>
-    <pubDate>Tue, 23 Dec 2025 22:44:02 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/xlAy9q0MRnU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/xlAy9q0MRnU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/xlAy9q0MRnU" type="text/html" medium="video"/>
-    <yt:videoId>xlAy9q0MRnU</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Brooks Koepka’s LIV Departure Sent Golf Twitter into a Frenzy</title>
@@ -476,207 +234,59 @@ S&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/yZjIqWQyt5w"&gt;W
     <category>article</category>
   </item>
   <item>
-    <title>The only thing that matters is your score.</title>
-    <link>https://www.youtube.com/shorts/QviVelIdATU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/QviVelIdATU</guid>
-    <pubDate>Wed, 19 Nov 2025 23:15:09 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/QviVelIdATU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/QviVelIdATU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/QviVelIdATU" type="text/html" medium="video"/>
-    <yt:videoId>QviVelIdATU</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
+    <title>I&#x27;m Still Thinking About: The Kirkland Signature Golf Ball</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/costco-kirkland-golf-ball-value-still-thinking-about</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/costco-kirkland-golf-ball-value-still-thinking-about</guid>
+    <pubDate>Thu, 31 Jul 2025 12:47:05 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;The initial hype may has faded, but this golf ball remains a staple for Costco shoppers and should stay top-of-mind for value shopping golfers.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/costco-kirkland-golf-ball-value-still-thinking-about"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20251223_kirkland_costco_golf_ball_68a3514536/20251223_kirkland_costco_golf_ball_68a3514536.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
-    <title>&quot;It&#x27;s amazing how much shit the PGA Tour players got ... with the women it&#x27;s like, take the check.&quot;</title>
-    <link>https://www.youtube.com/shorts/j2JFeEJ1nmY</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/j2JFeEJ1nmY</guid>
-    <pubDate>Wed, 12 Nov 2025 16:01:11 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/j2JFeEJ1nmY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/j2JFeEJ1nmY/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/j2JFeEJ1nmY" type="text/html" medium="video"/>
-    <yt:videoId>j2JFeEJ1nmY</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
+    <title>Skratch Attests: The iRangeSports Stick EXT</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/2025-skratch-attests-irangesports-camera-stick</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/2025-skratch-attests-irangesports-camera-stick</guid>
+    <pubDate>Thu, 20 Mar 2025 01:54:22 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;This compact golf accessory is an easy, no-nonsense way to capture your swing with your phone, whether you’re grinding on the range or mid-round.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/2025-skratch-attests-irangesports-camera-stick"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20251223_irange_sports_stick_0c408d6144/20251223_irange_sports_stick_0c408d6144.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
-    <title>No mulligans, no gimmes, and a better relationship with golf paid off for Dan.</title>
-    <link>https://www.youtube.com/shorts/b_IN4dktjl0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/b_IN4dktjl0</guid>
-    <pubDate>Tue, 11 Nov 2025 22:15:34 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/b_IN4dktjl0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/b_IN4dktjl0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/b_IN4dktjl0" type="text/html" medium="video"/>
-    <yt:videoId>b_IN4dktjl0</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
+    <title>Not for Golf: Is There Room for Hiking Gear’s Bold Styles on the Golf Course?</title>
+    <link>https://skratch.golf/style/mens-style/not-for-golf-is-there-room-for-hiking-gear-s-bold-styles-on-the-golf-course</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/not-for-golf-is-there-room-for-hiking-gear-s-bold-styles-on-the-golf-course</guid>
+    <pubDate>Wed, 26 Feb 2025 19:53:55 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;Exploring how hiking and trail elements like color blocking, texture, and shape can reshape golf fashion, moving beyond mere campaigns to create a lasting sub-category.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/not-for-golf-is-there-room-for-hiking-gear-s-bold-styles-on-the-golf-course"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/NFG_Trail_75c5295af8/NFG_Trail_75c5295af8.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
-    <title>My BIG Win, Ben Griffin Does It Again, LPGA Goes Into Business With Saudis</title>
-    <link>https://www.youtube.com/watch?v=2rPFusC9y0s</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=2rPFusC9y0s</guid>
-    <pubDate>Tue, 11 Nov 2025 19:18:59 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;We’re back with a mini show from the DOGHouse. Dan recaps his Club Championship victory, Ben Griffin&#x27;s third win on TOUR, &amp; the ongoing Race to Dubai on the DP World Tour.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=2rPFusC9y0s"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/2rPFusC9y0s/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/2rPFusC9y0s" type="text/html" medium="video"/>
-    <yt:videoId>2rPFusC9y0s</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
+    <title>This $5 Training Aid Works For Scottie—It&#x27;ll Work For You, Too</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/best-golf-grip-swing-trainer-lamkin</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/best-golf-grip-swing-trainer-lamkin</guid>
+    <pubDate>Sat, 28 Dec 2024 01:35:38 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Here&#x27;s one thing the World No. 1 and World No. 3,000,000 can find in common.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/best-golf-grip-swing-trainer-lamkin"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2190299855_c1a020c62f/Getty_Images_2190299855_c1a020c62f.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
-    <title>Quite the journey for now three-time PGA TOUR winner Ben Griffin.</title>
-    <link>https://www.youtube.com/shorts/JnJywtx-jrM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/JnJywtx-jrM</guid>
-    <pubDate>Mon, 10 Nov 2025 17:10:58 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/JnJywtx-jrM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/JnJywtx-jrM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/JnJywtx-jrM" type="text/html" medium="video"/>
-    <yt:videoId>JnJywtx-jrM</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>What are we even doing anymore?</title>
-    <link>https://www.youtube.com/shorts/y1lH_XiRYPg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/y1lH_XiRYPg</guid>
-    <pubDate>Tue, 04 Nov 2025 21:23:31 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/y1lH_XiRYPg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/y1lH_XiRYPg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/y1lH_XiRYPg" type="text/html" medium="video"/>
-    <yt:videoId>y1lH_XiRYPg</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Michael Brennan’s win in Utah is a testament to the strength and health of the college-tour pipeline</title>
-    <link>https://www.youtube.com/shorts/WY2WoY9Ors4</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/WY2WoY9Ors4</guid>
-    <pubDate>Tue, 28 Oct 2025 16:00:05 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/WY2WoY9Ors4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/WY2WoY9Ors4/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/WY2WoY9Ors4" type="text/html" medium="video"/>
-    <yt:videoId>WY2WoY9Ors4</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Good on ya, Scottie.</title>
-    <link>https://www.youtube.com/shorts/Lwz-K-pjkF8</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/Lwz-K-pjkF8</guid>
-    <pubDate>Thu, 23 Oct 2025 21:07:10 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Lwz-K-pjkF8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/Lwz-K-pjkF8/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/Lwz-K-pjkF8" type="text/html" medium="video"/>
-    <yt:videoId>Lwz-K-pjkF8</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>The Ryder Cup has repeatedly kicked Keegan Bradley in the teeth.</title>
-    <link>https://www.youtube.com/shorts/huQT9RwlsaY</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/huQT9RwlsaY</guid>
-    <pubDate>Wed, 22 Oct 2025 16:35:10 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/huQT9RwlsaY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/huQT9RwlsaY/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/huQT9RwlsaY" type="text/html" medium="video"/>
-    <yt:videoId>huQT9RwlsaY</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Keegan’s Heartbreak, My Round at Cypress &amp; Offseason Takes</title>
-    <link>https://www.youtube.com/watch?v=m1khr_37RKI</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=m1khr_37RKI</guid>
-    <pubDate>Wed, 22 Oct 2025 14:01:23 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;We’re back with a mini show from the DOGHouse. Dan recaps Tommy Fleetwood’s win in India, his round at Cypress, Keegan’s latest comments after the U.S. Team’s heartbreaking loss at Bethpage, offseason ‘get off my lawn’ golf takes, and more.
-
-SEGMENTS
-00:00 - 00:42 - Intro
-00:43 - 8:40 - Dan’s round at Cypress
-8:41 - 15:41 - Offseason golf takes
-15:42 - 17:37 - Tommy Fleetwood wins in India
-17:38 - 25:33 - Keegan Bradley&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=m1khr_37RKI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/m1khr_37RKI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/m1khr_37RKI" type="text/html" medium="video"/>
-    <yt:videoId>m1khr_37RKI</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>How many do you agree with?</title>
-    <link>https://www.youtube.com/shorts/5gwH6SdZMCk</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/5gwH6SdZMCk</guid>
-    <pubDate>Tue, 21 Oct 2025 15:32:26 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/5gwH6SdZMCk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/5gwH6SdZMCk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/5gwH6SdZMCk" type="text/html" medium="video"/>
-    <yt:videoId>5gwH6SdZMCk</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>The DP India Championship is some excellent (and different) viewing 🌲🌲🌲</title>
-    <link>https://www.youtube.com/shorts/ZtfDkqVbW7g</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ZtfDkqVbW7g</guid>
-    <pubDate>Thu, 16 Oct 2025 18:17:47 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ZtfDkqVbW7g"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ZtfDkqVbW7g/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ZtfDkqVbW7g" type="text/html" medium="video"/>
-    <yt:videoId>ZtfDkqVbW7g</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Is This The End For Tiger Woods?</title>
-    <link>https://www.youtube.com/watch?v=gOx6R5MB9rQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=gOx6R5MB9rQ</guid>
-    <pubDate>Wed, 15 Oct 2025 01:33:14 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Dan discusses another surgery for Tiger Woods and what it means for his future on and off the course.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=gOx6R5MB9rQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/gOx6R5MB9rQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/gOx6R5MB9rQ" type="text/html" medium="video"/>
-    <yt:videoId>gOx6R5MB9rQ</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Is this the end for Tiger?</title>
-    <link>https://www.youtube.com/shorts/ch-Jq2C4auc</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ch-Jq2C4auc</guid>
-    <pubDate>Tue, 14 Oct 2025 00:05:38 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ch-Jq2C4auc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ch-Jq2C4auc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ch-Jq2C4auc" type="text/html" medium="video"/>
-    <yt:videoId>ch-Jq2C4auc</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
+    <title>The 3 Most Important Factors When Buying a Driver</title>
+    <link>https://skratch.golf/gear-equipment/golf-clubs/driver-buying-tips-fitting-advice</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/golf-clubs/driver-buying-tips-fitting-advice</guid>
+    <pubDate>Tue, 05 Nov 2024 16:47:49 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Mind these three areas to make the best decision when spending your hard earned cash on the big one.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/golf-clubs/driver-buying-tips-fitting-advice"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Driver_fitting_c657546648/Driver_fitting_c657546648.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
 </channel>
 </rss>
