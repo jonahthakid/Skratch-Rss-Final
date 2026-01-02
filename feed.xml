@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 02 Jan 2026 16:52:23 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 02 Jan 2026 17:38:47 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>One of My Favorite &quot;Not For Golf&quot; Brands Actually Has Great Golf Pieces</title>
+    <link>https://skratch.golf/style/womens-style/anthropologie-golf-outfits-womens-fashion</link>
+    <guid isPermaLink="true">https://skratch.golf/style/womens-style/anthropologie-golf-outfits-womens-fashion</guid>
+    <pubDate>Fri, 02 Jan 2026 15:41:07 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;10 items at Anthropologie I&#x27;d wear on the course.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/womens-style/anthropologie-golf-outfits-womens-fashion"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/anthro_golf_8acac10e26/anthro_golf_8acac10e26.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>2026 goal: less crash outs. 😡</title>
     <link>https://www.youtube.com/shorts/U2EO_uqpd2Y</link>
@@ -422,17 +433,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Raymond Williams</dc:creator>
     <description>&lt;p&gt;Nothing groundbreaking yet, but the direction feels intentional&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/nike-golf-shield-era-relaunch-logo-style"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Nike_S_Hield_Cover_2_b791358a6c/Nike_S_Hield_Cover_2_b791358a6c.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Lee Trevino&#x27;s Impromptu Love Letter to Golf is a Must-Watch</title>
-    <link>https://skratch.golf/news/news/lee-trevino-pnc-championship-2025-love-letter-to-golf</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/lee-trevino-pnc-championship-2025-love-letter-to-golf</guid>
-    <pubDate>Mon, 22 Dec 2025 15:54:37 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Stop what you&#x27;re doing and listen to this love-filled monologue feels like the perfect way to close the book on golf&#x27;s 2025.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lee-trevino-pnc-championship-2025-love-letter-to-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1857686553_3cb883ec95/Getty_Images_1857686553_3cb883ec95.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
