@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 02 Jan 2026 14:43:23 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 02 Jan 2026 15:40:35 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>2026 goal: less crash outs. 😡</title>
+    <link>https://www.youtube.com/shorts/U2EO_uqpd2Y</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/U2EO_uqpd2Y</guid>
+    <pubDate>Fri, 02 Jan 2026 15:34:18 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/U2EO_uqpd2Y"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/U2EO_uqpd2Y/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/U2EO_uqpd2Y" type="text/html" medium="video"/>
+    <yt:videoId>U2EO_uqpd2Y</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Some new year motivation for your 2026 goals 💪</title>
     <link>https://www.youtube.com/shorts/_Fh2S9OMTd0</link>
@@ -316,20 +330,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/ckNL42QPCzg/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/ckNL42QPCzg" type="text/html" medium="video"/>
     <yt:videoId>ckNL42QPCzg</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>When you get another pair of socks from Grandma and have to act excited</title>
-    <link>https://www.youtube.com/shorts/xMXw_DaOCag</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/xMXw_DaOCag</guid>
-    <pubDate>Thu, 25 Dec 2025 16:51:15 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/xMXw_DaOCag"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/xMXw_DaOCag/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/xMXw_DaOCag" type="text/html" medium="video"/>
-    <yt:videoId>xMXw_DaOCag</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
