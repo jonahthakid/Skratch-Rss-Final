@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 04 Jan 2026 22:15:37 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 04 Jan 2026 22:42:27 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The most relatable Charlie Woods moments 😂</title>
+    <link>https://www.youtube.com/shorts/2MJ2g23k8yc</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/2MJ2g23k8yc</guid>
+    <pubDate>Sun, 04 Jan 2026 22:34:00 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/2MJ2g23k8yc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/2MJ2g23k8yc/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/2MJ2g23k8yc" type="text/html" medium="video"/>
+    <yt:videoId>2MJ2g23k8yc</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>First round of the year after saying I’d swing easier in 2026</title>
     <link>https://www.youtube.com/shorts/O0dYVAufvqg</link>
@@ -321,22 +335,6 @@ Check out our websi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts
     <media:thumbnail url="https://img.youtube.com/vi/krJL99-kkDU/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/krJL99-kkDU" type="text/html" medium="video"/>
     <yt:videoId>krJL99-kkDU</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>That time when Kevin Kisner made Tiger Woods buckle over in laughter 🤣</title>
-    <link>https://www.youtube.com/shorts/TOW-sqi40W8</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/TOW-sqi40W8</guid>
-    <pubDate>Sun, 28 Dec 2025 16:12:58 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Throwback to one of the best @TGL moments from season one. 😂
-
-Catch the first match of season two today at 3pm EST!&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/TOW-sqi40W8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/TOW-sqi40W8/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/TOW-sqi40W8" type="text/html" medium="video"/>
-    <yt:videoId>TOW-sqi40W8</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
