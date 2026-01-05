@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 05 Jan 2026 22:15:47 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 05 Jan 2026 22:44:24 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>NO ONE is going to miss The Sentry more than this fan from 2007. 🤣</title>
+    <link>https://www.youtube.com/shorts/Z0Useuix5FQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/Z0Useuix5FQ</guid>
+    <pubDate>Mon, 05 Jan 2026 22:18:23 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Z0Useuix5FQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Z0Useuix5FQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Z0Useuix5FQ" type="text/html" medium="video"/>
+    <yt:videoId>Z0Useuix5FQ</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Fire Engulfs Golf Course Clubhouse Outside of London</title>
     <link>https://skratch.golf/news/news/fire-west-essex-golf-club-clubhouse</link>
@@ -324,20 +338,6 @@ Check out our websi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2225612048_e15d56a742/Getty_Images_2225612048_e15d56a742.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>No context PGA TOUR moments of the year 🤣</title>
-    <link>https://www.youtube.com/shorts/sXVveuWmR_w</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/sXVveuWmR_w</guid>
-    <pubDate>Mon, 29 Dec 2025 20:59:05 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/sXVveuWmR_w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/sXVveuWmR_w/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/sXVveuWmR_w" type="text/html" medium="video"/>
-    <yt:videoId>sXVveuWmR_w</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Mizuno Expands Pro Iron Line With New Modern Series</title>
