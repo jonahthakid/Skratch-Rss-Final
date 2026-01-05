@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 05 Jan 2026 15:18:56 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 05 Jan 2026 15:45:32 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The Script for the 2026 PGA TOUR Season Leaked</title>
+    <link>https://skratch.golf/news/pro-golf/pga-tour-predictions-2026-season-majors-scottie-scheffler-rory-mcilroy</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/pga-tour-predictions-2026-season-majors-scottie-scheffler-rory-mcilroy</guid>
+    <pubDate>Mon, 05 Jan 2026 05:04:38 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Keegan wins a major? Scottie gets five more pieces of hardware? Before golf returns to our television sets next week, let’s have some fun with predictions for the PGA TOUR’s 2026 season.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/pga-tour-predictions-2026-season-majors-scottie-scheffler-rory-mcilroy"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2234714538_24b642e4b2/Getty_Images_2234714538_24b642e4b2.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>The most relatable Charlie Woods moments 😂</title>
     <link>https://www.youtube.com/shorts/2MJ2g23k8yc</link>
@@ -427,17 +438,6 @@ Check out our websi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts
     <dc:creator>Luke Nesbitt</dc:creator>
     <description>&lt;p&gt;On a range full of sameness, these five tour-proven golf swings will stop you in your tracks.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/most-distinct-golf-swings-on-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/micheal_brennan_grant_thornton_2025_Getty_Images_2251626489_d8bcba041a/micheal_brennan_grant_thornton_2025_Getty_Images_2251626489_d8bcba041a.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Does Tour Buzz Actually Generate Sales? We&#x27;re About to Find Out.</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/tour-buzz-taylormade-qi4d-driver-rory-tommy</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/tour-buzz-taylormade-qi4d-driver-rory-tommy</guid>
-    <pubDate>Mon, 22 Dec 2025 15:13:00 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;It has been a busy and successful end of the year for TaylorMade with unreleased products—will wins have golfers opening their wallets?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/tour-buzz-taylormade-qi4d-driver-rory-tommy"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Rory_Qi4_D_drive_rabu_dhubi_ab374c7244/Rory_Qi4_D_drive_rabu_dhubi_ab374c7244.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
