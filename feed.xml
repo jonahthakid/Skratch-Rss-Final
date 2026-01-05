@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 05 Jan 2026 13:37:17 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 05 Jan 2026 14:19:44 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>The most relatable Charlie Woods moments 😂</title>
@@ -279,6 +279,17 @@ Check out our websi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts
     <category>video</category>
   </item>
   <item>
+    <title>Mizuno Expands Pro Iron Line With New Modern Series</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/mizuno-modern-pro-series-forged-irons-new-golf-release</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/mizuno-modern-pro-series-forged-irons-new-golf-release</guid>
+    <pubDate>Mon, 29 Dec 2025 20:01:59 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Mizuno is powering up its Pro line irons with the introduction of the technology-infused Modern Series.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/mizuno-modern-pro-series-forged-irons-new-golf-release"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/2026_mizuno_M_modern_irons_title_e05e3a11d3/2026_mizuno_M_modern_irons_title_e05e3a11d3.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Ryan Gerard’s 10,000-Mile Journey to the ‘26 Masters</title>
     <link>https://skratch.golf/news/pro-golf/ryan-gerard-masters-invite-mauritius-qualifying-augusta-national-debut</link>
     <guid isPermaLink="true">https://skratch.golf/news/pro-golf/ryan-gerard-masters-invite-mauritius-qualifying-augusta-national-debut</guid>
@@ -416,17 +427,6 @@ Check out our websi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts
     <dc:creator>Luke Nesbitt</dc:creator>
     <description>&lt;p&gt;On a range full of sameness, these five tour-proven golf swings will stop you in your tracks.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/most-distinct-golf-swings-on-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/micheal_brennan_grant_thornton_2025_Getty_Images_2251626489_d8bcba041a/micheal_brennan_grant_thornton_2025_Getty_Images_2251626489_d8bcba041a.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Nike Golf’s Shield Era Is Restarting… Slowly</title>
-    <link>https://skratch.golf/style/mens-style/nike-golf-shield-era-relaunch-logo-style</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/nike-golf-shield-era-relaunch-logo-style</guid>
-    <pubDate>Mon, 22 Dec 2025 18:09:02 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Nothing groundbreaking yet, but the direction feels intentional&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/nike-golf-shield-era-relaunch-logo-style"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Nike_S_Hield_Cover_2_b791358a6c/Nike_S_Hield_Cover_2_b791358a6c.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
