@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 05 Jan 2026 20:45:19 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 05 Jan 2026 21:15:54 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Fire Engulfs Golf Course Clubhouse Outside of London</title>
@@ -254,6 +254,17 @@ Check out our websi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts
     <category>article</category>
   </item>
   <item>
+    <title>A Completely Subjective Shortlist of What&#x27;s In (and Out) in Golf Culture, Volume II</title>
+    <link>https://skratch.golf/news/golf-culture/golf-2026-ins-and-outs</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/golf-2026-ins-and-outs</guid>
+    <pubDate>Tue, 30 Dec 2025 15:08:45 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;We&#x27;re back and better than ever with 10 Ins and 7 Outs for golf in 2026.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/golf-2026-ins-and-outs"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_695435314_7f3d9cdd9d/Getty_Images_695435314_7f3d9cdd9d.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>How One LPGA Major Winner Embraces The &quot;Tiger Effect&quot;</title>
     <link>https://skratch.golf/news/news/sei-young-kim-tiger-woods-tiger-effect-lpga</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/sei-young-kim-tiger-woods-tiger-effect-lpga</guid>
@@ -438,17 +449,6 @@ Check out our websi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts
     <dc:creator>Lillian Northrup</dc:creator>
     <description>&lt;p&gt;In 2025, YouTube golf stopped feeling like an alternative and started shaping the game. These are the moments that proved it.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/best-youtube-golf-moments-this-year"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/youtubegolf2025_header_e08c9925f4/youtubegolf2025_header_e08c9925f4.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>5 Most Distinct Swings on TOUR</title>
-    <link>https://skratch.golf/news/pro-golf/most-distinct-golf-swings-on-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/most-distinct-golf-swings-on-tour</guid>
-    <pubDate>Mon, 22 Dec 2025 18:44:23 +0000</pubDate>
-    <dc:creator>Luke Nesbitt</dc:creator>
-    <description>&lt;p&gt;On a range full of sameness, these five tour-proven golf swings will stop you in your tracks.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/most-distinct-golf-swings-on-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/micheal_brennan_grant_thornton_2025_Getty_Images_2251626489_d8bcba041a/micheal_brennan_grant_thornton_2025_Getty_Images_2251626489_d8bcba041a.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
