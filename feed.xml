@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 05 Jan 2026 19:17:29 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 05 Jan 2026 19:39:24 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Still can&#x27;t believe DJ was THIS close to a par 4 ace at Kapalua. 🤏</title>
+    <link>https://www.youtube.com/shorts/QXp4wVkepdU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/QXp4wVkepdU</guid>
+    <pubDate>Mon, 05 Jan 2026 19:36:07 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/QXp4wVkepdU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/QXp4wVkepdU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/QXp4wVkepdU" type="text/html" medium="video"/>
+    <yt:videoId>QXp4wVkepdU</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>If the first Monday of the year was a golf shot...</title>
     <link>https://www.youtube.com/shorts/6a2zPlmBE8I</link>
@@ -346,20 +360,6 @@ Check out our websi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Style_Awards_fc2ed81c7c/Style_Awards_fc2ed81c7c.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>The real star of 2025: Neal Shipley</title>
-    <link>https://www.youtube.com/shorts/wJ3VYA3Qwsg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/wJ3VYA3Qwsg</guid>
-    <pubDate>Mon, 29 Dec 2025 17:13:26 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/wJ3VYA3Qwsg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/wJ3VYA3Qwsg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/wJ3VYA3Qwsg" type="text/html" medium="video"/>
-    <yt:videoId>wJ3VYA3Qwsg</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Everything you need to know about the Brooks Koepka situation.</title>
