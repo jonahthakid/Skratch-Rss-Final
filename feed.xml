@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 06 Jan 2026 17:19:38 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 06 Jan 2026 17:45:30 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>A Women&#x27;s TGL Is On Its Way. Here&#x27;s Everything We Know.</title>
+    <link>https://skratch.golf/news/news/tgl-lpga-stars-wtgl-coming-this-winter</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/tgl-lpga-stars-wtgl-coming-this-winter</guid>
+    <pubDate>Tue, 06 Jan 2026 17:14:45 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Now this is going to be awesome.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tgl-lpga-stars-wtgl-coming-this-winter"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Nelly_Korda_AIG_preview_cover_b1d37f9e93/Nelly_Korda_AIG_preview_cover_b1d37f9e93.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>January 6, 2026</title>
     <link>https://www.youtube.com/shorts/PwCLQPJD3qg</link>
@@ -449,17 +460,6 @@ Check out our websi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts
     <dc:creator>Lillian Northrup</dc:creator>
     <description>&lt;p&gt;In 2025, YouTube golf stopped feeling like an alternative and started shaping the game. These are the moments that proved it.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/best-youtube-golf-moments-this-year"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/youtubegolf2025_header_e08c9925f4/youtubegolf2025_header_e08c9925f4.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The LET&#x27;s Q School Is Named After a True Renaissance Woman</title>
-    <link>https://skratch.golf/news/golf-culture/ladies-european-tour-royal-history-lalla-aicha</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/ladies-european-tour-royal-history-lalla-aicha</guid>
-    <pubDate>Mon, 22 Dec 2025 14:28:27 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The story of Lalla Aicha, the Moroccan Princess who loved golf—and how the LET is honoring her contributions to the game.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/ladies-european-tour-royal-history-lalla-aicha"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_3263449_4ec4ac9e5b/Getty_Images_3263449_4ec4ac9e5b.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
