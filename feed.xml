@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 06 Jan 2026 21:41:11 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 06 Jan 2026 22:16:11 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>An instant classic at Kapalua to kick off Tiger&#x27;s legendary 2000 season. #tigertuesday</title>
@@ -24,6 +24,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The LIV Golf Bubble is Ready to Burst</title>
+    <link>https://skratch.golf/news/pro-golf/liv-golf-akshay-bhatia-top-talent-no-longer-interested-thomas-detry-brooks-koepka</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/liv-golf-akshay-bhatia-top-talent-no-longer-interested-thomas-detry-brooks-koepka</guid>
+    <pubDate>Tue, 06 Jan 2026 19:01:58 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Without headliners, it may prove difficult for the breakout league to remain in the headlines.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/liv-golf-akshay-bhatia-top-talent-no-longer-interested-thomas-detry-brooks-koepka"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2238310869_665a7663a4/Getty_Images_2238310869_665a7663a4.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>A Women&#x27;s TGL Is On Its Way. Here&#x27;s Everything We Know.</title>
@@ -420,35 +431,13 @@ Check out our websi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts
     <category>video</category>
   </item>
   <item>
-    <title>Brooks Koepka’s LIV Departure Sent Golf Twitter into a Frenzy</title>
-    <link>https://skratch.golf/news/news/brooks-koepka-leaves-liv-golf-social-media-reacts</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/brooks-koepka-leaves-liv-golf-social-media-reacts</guid>
-    <pubDate>Tue, 23 Dec 2025 22:22:25 +0000</pubDate>
+    <title>Brooks Koepka is Leaving LIV Golf (No, Really)</title>
+    <link>https://skratch.golf/news/news/brooks-koepka-leaves-liv-golf-news-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/brooks-koepka-leaves-liv-golf-news-pga-tour</guid>
+    <pubDate>Tue, 23 Dec 2025 21:47:28 +0000</pubDate>
     <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Social media collectively gasped when LIV Golf announced its split with Brooks Koepka.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/brooks-koepka-leaves-liv-golf-social-media-reacts"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2171807734_2c37830332/Getty_Images_2171807734_2c37830332.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>What Does Brooks Koepka Leaving LIV Really Mean?</title>
-    <link>https://skratch.golf/news/pro-golf/brooks-koepka-liv-exit-will-he-join-pga-tour-question</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/brooks-koepka-liv-exit-will-he-join-pga-tour-question</guid>
-    <pubDate>Tue, 23 Dec 2025 22:15:30 +0000</pubDate>
-    <dc:creator>Dan Rapaport</dc:creator>
-    <description>&lt;p&gt;Time will tell as to whether this is the metaphorical opening of the floodgates, or simply a player making another decision for his quality of life over his professional accomplishments.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/brooks-koepka-liv-exit-will-he-join-pga-tour-question"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2232957442_9d8b236a45/Getty_Images_2232957442_9d8b236a45.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>What Golfers Are Wearing When It Is Not Technically Golf Gear</title>
-    <link>https://skratch.golf/style/mens-style/not-for-golf-apparel-footwear-versatile-style</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/not-for-golf-apparel-footwear-versatile-style</guid>
-    <pubDate>Tue, 23 Dec 2025 19:43:50 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;A look at everyday apparel and footwear quietly working its way onto the course&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/not-for-golf-apparel-footwear-versatile-style"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/NFG_Cover_a01818344e/NFG_Cover_a01818344e.png"/>
+    <description>&lt;p&gt;The five-time major champion has left LIV Golf, and now there&#x27;s a massive elephant in the room.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/brooks-koepka-leaves-liv-golf-news-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2238310869_665a7663a4/Getty_Images_2238310869_665a7663a4.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -460,6 +449,17 @@ Check out our websi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts
     <dc:creator>Lillian Northrup</dc:creator>
     <description>&lt;p&gt;In 2025, YouTube golf stopped feeling like an alternative and started shaping the game. These are the moments that proved it.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/best-youtube-golf-moments-this-year"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/youtubegolf2025_header_e08c9925f4/youtubegolf2025_header_e08c9925f4.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The LET&#x27;s Q School Is Named After a True Renaissance Woman</title>
+    <link>https://skratch.golf/news/golf-culture/ladies-european-tour-royal-history-lalla-aicha</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/ladies-european-tour-royal-history-lalla-aicha</guid>
+    <pubDate>Mon, 22 Dec 2025 14:28:27 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The story of Lalla Aicha, the Moroccan Princess who loved golf—and how the LET is honoring her contributions to the game.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/ladies-european-tour-royal-history-lalla-aicha"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_3263449_4ec4ac9e5b/Getty_Images_3263449_4ec4ac9e5b.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
