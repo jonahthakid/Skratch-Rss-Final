@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 07 Jan 2026 13:36:08 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 07 Jan 2026 14:19:33 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>An instant classic at Kapalua to kick off Tiger&#x27;s legendary 2000 season. #tigertuesday</title>
@@ -271,6 +271,17 @@
     <category>article</category>
   </item>
   <item>
+    <title>Mizuno JPX One Woods Are Built Different With NanoAlloy Adding Major Speed</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/mizuno-jpx-one-woods-new-technology</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/mizuno-jpx-one-woods-new-technology</guid>
+    <pubDate>Tue, 30 Dec 2025 18:11:02 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Armed with a completely new face technology, Mizuno&#x27;s JPX One Woods look to unlock greater ballspeed and consistency.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/mizuno-jpx-one-woods-new-technology"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Mizuno_JPX_One_woods_Title_5db88cfe30/Mizuno_JPX_One_woods_Title_5db88cfe30.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>A plea to Tiger Woods on his 50th birthday.</title>
     <link>https://www.youtube.com/shorts/g2e8tEJplyg</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/g2e8tEJplyg</guid>
@@ -442,6 +453,17 @@ Check out our websi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts
     <category>article</category>
   </item>
   <item>
+    <title>What Golfers Are Wearing When It Is Not Technically Golf Gear</title>
+    <link>https://skratch.golf/style/mens-style/not-for-golf-apparel-footwear-versatile-style</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/not-for-golf-apparel-footwear-versatile-style</guid>
+    <pubDate>Tue, 23 Dec 2025 19:43:50 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;A look at everyday apparel and footwear quietly working its way onto the course&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/not-for-golf-apparel-footwear-versatile-style"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/NFG_Cover_a01818344e/NFG_Cover_a01818344e.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>The 10 Moments that Defined YouTube Golf in 2025</title>
     <link>https://skratch.golf/news/golf-culture/best-youtube-golf-moments-this-year</link>
     <guid isPermaLink="true">https://skratch.golf/news/golf-culture/best-youtube-golf-moments-this-year</guid>
@@ -453,13 +475,13 @@ Check out our websi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts
     <category>article</category>
   </item>
   <item>
-    <title>The LET&#x27;s Q School Is Named After a True Renaissance Woman</title>
-    <link>https://skratch.golf/news/golf-culture/ladies-european-tour-royal-history-lalla-aicha</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/ladies-european-tour-royal-history-lalla-aicha</guid>
-    <pubDate>Mon, 22 Dec 2025 14:28:27 +0000</pubDate>
+    <title>This Century-Old Club Has One Unique Rule—Only Women Can Be Members</title>
+    <link>https://skratch.golf/news/golf-culture/ladies-club-of-toronto-ada-mackenzie-profile</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/ladies-club-of-toronto-ada-mackenzie-profile</guid>
+    <pubDate>Mon, 15 Dec 2025 19:19:08 +0000</pubDate>
     <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The story of Lalla Aicha, the Moroccan Princess who loved golf—and how the LET is honoring her contributions to the game.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/ladies-european-tour-royal-history-lalla-aicha"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_3263449_4ec4ac9e5b/Getty_Images_3263449_4ec4ac9e5b.jpg"/>
+    <description>&lt;p&gt;The Ladies&#x27; Golf Club of Toronto is the oldest existing golf club in the world, founded by women and for women.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/ladies-club-of-toronto-ada-mackenzie-profile"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/DJI_20250909183532_0245_D_acc6b2ae4d/DJI_20250909183532_0245_D_acc6b2ae4d.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -631,34 +653,6 @@ SEGMENTS
     <media:thumbnail url="https://img.youtube.com/vi/5gwH6SdZMCk/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/5gwH6SdZMCk" type="text/html" medium="video"/>
     <yt:videoId>5gwH6SdZMCk</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>The DP India Championship is some excellent (and different) viewing 🌲🌲🌲</title>
-    <link>https://www.youtube.com/shorts/ZtfDkqVbW7g</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ZtfDkqVbW7g</guid>
-    <pubDate>Thu, 16 Oct 2025 18:17:47 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ZtfDkqVbW7g"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ZtfDkqVbW7g/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ZtfDkqVbW7g" type="text/html" medium="video"/>
-    <yt:videoId>ZtfDkqVbW7g</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Is This The End For Tiger Woods?</title>
-    <link>https://www.youtube.com/watch?v=gOx6R5MB9rQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=gOx6R5MB9rQ</guid>
-    <pubDate>Wed, 15 Oct 2025 01:33:14 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Dan discusses another surgery for Tiger Woods and what it means for his future on and off the course.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=gOx6R5MB9rQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/gOx6R5MB9rQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/gOx6R5MB9rQ" type="text/html" medium="video"/>
-    <yt:videoId>gOx6R5MB9rQ</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
