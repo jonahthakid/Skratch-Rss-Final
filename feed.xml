@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 07 Jan 2026 15:47:43 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 07 Jan 2026 16:23:24 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Bon Jovi, Masters Menu, and a Touch of Red: Inside Tiger Woods&#x27; Upcoming Birthday Bash</title>
+    <link>https://skratch.golf/news/news/tiger-woods-birthday-party-50-the-breakers-jon-bon-jovi</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/tiger-woods-birthday-party-50-the-breakers-jon-bon-jovi</guid>
+    <pubDate>Wed, 07 Jan 2026 16:08:37 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Tiger Woods&#x27; 50th birthday party will feature Jon Bon Jovi, a star-studded guest list, and a menu comprised of his Masters Champions Dinner items.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-birthday-party-50-the-breakers-jon-bon-jovi"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2249555734_d914652693/Getty_Images_2249555734_d914652693.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>It’s a tough job, but somebody’s gotta do it. 🤣</title>
+    <link>https://www.youtube.com/shorts/QwElR8EwBg4</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/QwElR8EwBg4</guid>
+    <pubDate>Wed, 07 Jan 2026 15:53:30 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/QwElR8EwBg4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/QwElR8EwBg4/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/QwElR8EwBg4" type="text/html" medium="video"/>
+    <yt:videoId>QwElR8EwBg4</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Just Announced: Full Swing Season 4 is Coming in April</title>
     <link>https://skratch.golf/news/news/full-swing-season-four-release-april-netflix</link>
@@ -326,20 +351,6 @@ Check out our websi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts
     <category>article</category>
   </item>
   <item>
-    <title>Every driver Tiger has played as a professional</title>
-    <link>https://www.youtube.com/shorts/8olUgO47hqc</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/8olUgO47hqc</guid>
-    <pubDate>Tue, 30 Dec 2025 16:05:19 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8olUgO47hqc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/8olUgO47hqc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/8olUgO47hqc" type="text/html" medium="video"/>
-    <yt:videoId>8olUgO47hqc</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Tiger Woods: He Didn&#x27;t Mean It</title>
     <link>https://skratch.golf/style/mens-style/tiger-woods-meaning-greatness-video-dominance</link>
     <guid isPermaLink="true">https://skratch.golf/style/mens-style/tiger-woods-meaning-greatness-video-dominance</guid>
@@ -642,20 +653,6 @@ SEGMENTS
     <media:thumbnail url="https://img.youtube.com/vi/5gwH6SdZMCk/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/5gwH6SdZMCk" type="text/html" medium="video"/>
     <yt:videoId>5gwH6SdZMCk</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>The DP India Championship is some excellent (and different) viewing 🌲🌲🌲</title>
-    <link>https://www.youtube.com/shorts/ZtfDkqVbW7g</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ZtfDkqVbW7g</guid>
-    <pubDate>Thu, 16 Oct 2025 18:17:47 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ZtfDkqVbW7g"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ZtfDkqVbW7g/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ZtfDkqVbW7g" type="text/html" medium="video"/>
-    <yt:videoId>ZtfDkqVbW7g</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
