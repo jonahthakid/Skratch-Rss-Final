@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 07 Jan 2026 17:21:57 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 07 Jan 2026 17:48:42 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>PGA of America CEO Stepping Down After Less Than a Year—For a Noble Reason</title>
+    <link>https://skratch.golf/news/news/derek-sprague-pga-of-america-ceo-stepping-down-care-for-family</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/derek-sprague-pga-of-america-ceo-stepping-down-care-for-family</guid>
+    <pubDate>Wed, 07 Jan 2026 17:24:55 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;PGA of America CEO Derek Sprague is stepping down after a year on the job to care for his family in New York.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/derek-sprague-pga-of-america-ceo-stepping-down-care-for-family"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2233037029_1cfed6247f/Getty_Images_2233037029_1cfed6247f.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Bon Jovi, Masters Menu, and a Touch of Red: Inside Tiger Woods&#x27; Upcoming Birthday Bash</title>
     <link>https://skratch.golf/news/news/tiger-woods-birthday-party-50-the-breakers-jon-bon-jovi</link>
@@ -435,17 +446,6 @@ Check out our websi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts
     <dc:creator>Garrett Johnston</dc:creator>
     <description>&lt;p&gt;We sat down with Gerard to hear how his last-minute trip to Mauritius has led to a shot at the green jacket this April.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/ryan-gerard-masters-invite-mauritius-qualifying-augusta-national-debut"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/ryan_gerard_wyndham_2025_Getty_Images_2227879236_c20a291db7/ryan_gerard_wyndham_2025_Getty_Images_2227879236_c20a291db7.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Xander Spotted with Unreleased Callaway Quantum Woods At TGL Season Opener</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/tgl-season-opener-xander-callaway-driver</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/tgl-season-opener-xander-callaway-driver</guid>
-    <pubDate>Mon, 29 Dec 2025 18:17:47 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;With TGL back, so are the opportunities to preview some yet-to-be-seen clubs players are testing out ahead of tournament play. On tap this week: Shauffele gaming new Callaway woods.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/tgl-season-opener-xander-callaway-driver"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Quantum_TD_Xander_WRX_b81691cfdf/Quantum_TD_Xander_WRX_b81691cfdf.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
