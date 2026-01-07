@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 07 Jan 2026 18:55:11 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 07 Jan 2026 19:17:06 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>An Inside-the-Ropes Tale of the 2025 Ryder Cup, Told by Jon Rahm</title>
+    <link>https://skratch.golf/news/news/jon-rahm-brooks-koepka-leaving-liv-golf-ryder-cup-fans</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/jon-rahm-brooks-koepka-leaving-liv-golf-ryder-cup-fans</guid>
+    <pubDate>Wed, 07 Jan 2026 18:21:14 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Jon Rahm says what it was really like for the Europeans at Bethpage Black, and comments on Brooks Koepka leaving LIV Golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jon-rahm-brooks-koepka-leaving-liv-golf-ryder-cup-fans"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2237506364_becb6babd2/Getty_Images_2237506364_becb6babd2.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>New SEASON, new STUDIO, new FITS.</title>
     <link>https://www.youtube.com/shorts/tHoeFBB0Vug</link>
@@ -380,17 +391,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>Tiger Woods: He Didn&#x27;t Mean It</title>
-    <link>https://skratch.golf/style/mens-style/tiger-woods-meaning-greatness-video-dominance</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/tiger-woods-meaning-greatness-video-dominance</guid>
-    <pubDate>Tue, 30 Dec 2025 15:40:54 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;A few words for one of the greatest to ever do it. Tiger Woods.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/tiger-woods-meaning-greatness-video-dominance"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_695435314_7f3d9cdd9d/Getty_Images_695435314_7f3d9cdd9d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>A Completely Subjective Shortlist of What&#x27;s In (and Out) in Golf Culture, Volume II</title>
     <link>https://skratch.golf/news/golf-culture/golf-2026-ins-and-outs</link>
     <guid isPermaLink="true">https://skratch.golf/news/golf-culture/golf-2026-ins-and-outs</guid>
@@ -398,17 +398,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;We&#x27;re back and better than ever with 10 Ins and 7 Outs for golf in 2026.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/golf-2026-ins-and-outs"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_695435314_7f3d9cdd9d/Getty_Images_695435314_7f3d9cdd9d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>How One LPGA Major Winner Embraces The &quot;Tiger Effect&quot;</title>
-    <link>https://skratch.golf/news/news/sei-young-kim-tiger-woods-tiger-effect-lpga</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/sei-young-kim-tiger-woods-tiger-effect-lpga</guid>
-    <pubDate>Tue, 30 Dec 2025 15:07:54 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The backstory to Sei Young Kim&#x27;s personal homage to the G.O.A.T.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/sei-young-kim-tiger-woods-tiger-effect-lpga"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/sei_young_kim_red_pants_8e59eac5da/sei_young_kim_red_pants_8e59eac5da.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -442,6 +431,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;Mizuno is powering up its Pro line irons with the introduction of the technology-infused Modern Series.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/mizuno-modern-pro-series-forged-irons-new-golf-release"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/2026_mizuno_M_modern_irons_title_e05e3a11d3/2026_mizuno_M_modern_irons_title_e05e3a11d3.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Ryan Gerard’s 10,000-Mile Journey to the ‘26 Masters</title>
+    <link>https://skratch.golf/news/pro-golf/ryan-gerard-masters-invite-mauritius-qualifying-augusta-national-debut</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/ryan-gerard-masters-invite-mauritius-qualifying-augusta-national-debut</guid>
+    <pubDate>Mon, 29 Dec 2025 18:59:00 +0000</pubDate>
+    <dc:creator>Garrett Johnston</dc:creator>
+    <description>&lt;p&gt;We sat down with Gerard to hear how his last-minute trip to Mauritius has led to a shot at the green jacket this April.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/ryan-gerard-masters-invite-mauritius-qualifying-augusta-national-debut"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/ryan_gerard_wyndham_2025_Getty_Images_2227879236_c20a291db7/ryan_gerard_wyndham_2025_Getty_Images_2227879236_c20a291db7.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
