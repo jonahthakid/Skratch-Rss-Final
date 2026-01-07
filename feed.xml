@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 07 Jan 2026 16:23:24 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 07 Jan 2026 16:54:59 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Bon Jovi, Masters Menu, and a Touch of Red: Inside Tiger Woods&#x27; Upcoming Birthday Bash</title>
@@ -213,6 +213,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Titleist Pro V1x Left Dash Get First Update In Over 7 Years</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/new-prov1-left-dash-golf-ball-speed-distance</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/new-prov1-left-dash-golf-ball-speed-distance</guid>
+    <pubDate>Fri, 02 Jan 2026 17:54:28 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;After years of player testing and feedback, Titleist is set to launch the second-generation Pro V1x Left Dash (-Pro V1x)&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/new-prov1-left-dash-golf-ball-speed-distance"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Pro_V1x_left_dash_title_1493611786/Pro_V1x_left_dash_title_1493611786.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>One of My Favorite &quot;Not For Golf&quot; Brands Actually Has Great Golf Pieces</title>
@@ -639,20 +650,6 @@ SEGMENTS
     <media:thumbnail url="https://img.youtube.com/vi/m1khr_37RKI/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/m1khr_37RKI" type="text/html" medium="video"/>
     <yt:videoId>m1khr_37RKI</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>How many do you agree with?</title>
-    <link>https://www.youtube.com/shorts/5gwH6SdZMCk</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/5gwH6SdZMCk</guid>
-    <pubDate>Tue, 21 Oct 2025 15:32:26 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/5gwH6SdZMCk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/5gwH6SdZMCk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/5gwH6SdZMCk" type="text/html" medium="video"/>
-    <yt:videoId>5gwH6SdZMCk</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
