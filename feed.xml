@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 08 Jan 2026 18:52:08 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 08 Jan 2026 19:15:30 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Seeing a Pure Kapalua is Tough for the Vibes</title>
@@ -44,6 +44,17 @@
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Justin Thomas is back to chipping and putting following back surgery in November.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/justin-thomas-surgery-recovery-chipping-and-putting-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2221516992_a70dd1e5a6/Getty_Images_2221516992_a70dd1e5a6.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Three DC-Area Courses May Be Gone Sooner Than Expected</title>
+    <link>https://skratch.golf/news/golf-culture/washington-dc-golf-courses-changes-east-potomac-public-golf-community</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/washington-dc-golf-courses-changes-east-potomac-public-golf-community</guid>
+    <pubDate>Thu, 08 Jan 2026 15:44:50 +0000</pubDate>
+    <dc:creator>Garrett Johnston</dc:creator>
+    <description>&lt;p&gt;&quot;You see every walk of life here...And why? Well, because they just love golf.”&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/washington-dc-golf-courses-changes-east-potomac-public-golf-community"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/East_Potomac_Golf_Links_7a5214de4d/East_Potomac_Golf_Links_7a5214de4d.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -453,17 +464,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;Mizuno is powering up its Pro line irons with the introduction of the technology-infused Modern Series.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/mizuno-modern-pro-series-forged-irons-new-golf-release"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/2026_mizuno_M_modern_irons_title_e05e3a11d3/2026_mizuno_M_modern_irons_title_e05e3a11d3.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The 2025 Skratch Style Awards</title>
-    <link>https://skratch.golf/style/mens-style/skratch-style-awards-best-products-collaborations-shoes-apparel-of-the-year</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/skratch-style-awards-best-products-collaborations-shoes-apparel-of-the-year</guid>
-    <pubDate>Mon, 29 Dec 2025 17:44:19 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;The style moments, products, and ideas that actually mattered in golf in 2025&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/skratch-style-awards-best-products-collaborations-shoes-apparel-of-the-year"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Style_Awards_fc2ed81c7c/Style_Awards_fc2ed81c7c.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
