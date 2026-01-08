@@ -9,8 +9,28 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 08 Jan 2026 19:39:02 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 08 Jan 2026 20:19:21 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>&quot;That is one of the straightest golf balls I&#x27;ve ever seen.&quot; 😳</title>
+    <link>https://www.youtube.com/shorts/Irq_xzsPxxE</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/Irq_xzsPxxE</guid>
+    <pubDate>Thu, 08 Jan 2026 20:01:33 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Skratch Editor-in-Chief, Ben Boskovich, gets fit for the brand new @TAYLORMADEGOLF Qi4D driver.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss o&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Irq_xzsPxxE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Irq_xzsPxxE/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Irq_xzsPxxE" type="text/html" medium="video"/>
+    <yt:videoId>Irq_xzsPxxE</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Seeing a Pure Kapalua is Tough for the Vibes</title>
     <link>https://skratch.golf/news/pro-golf/kapalua-plantation-course-pure-conditions-pga-tour</link>
@@ -394,20 +414,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/_Fh2S9OMTd0/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/_Fh2S9OMTd0" type="text/html" medium="video"/>
     <yt:videoId>_Fh2S9OMTd0</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Happy New Year! 💥</title>
-    <link>https://www.youtube.com/shorts/2F-VGgF_akI</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/2F-VGgF_akI</guid>
-    <pubDate>Thu, 01 Jan 2026 14:10:57 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/2F-VGgF_akI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/2F-VGgF_akI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/2F-VGgF_akI" type="text/html" medium="video"/>
-    <yt:videoId>2F-VGgF_akI</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
