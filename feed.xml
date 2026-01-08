@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 08 Jan 2026 15:48:11 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 08 Jan 2026 16:22:41 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Justin Thomas has a Club Back in His Hand After Back Surgery</title>
+    <link>https://skratch.golf/news/news/justin-thomas-surgery-recovery-chipping-and-putting-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/justin-thomas-surgery-recovery-chipping-and-putting-pga-tour</guid>
+    <pubDate>Thu, 08 Jan 2026 15:47:54 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Justin Thomas is back to chipping and putting following back surgery in November.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/justin-thomas-surgery-recovery-chipping-and-putting-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2221516992_a70dd1e5a6/Getty_Images_2221516992_a70dd1e5a6.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>VINTAGE AK at Kapalua’s 18th.</title>
     <link>https://www.youtube.com/shorts/Ce7_Dmsb0IU</link>
@@ -402,17 +413,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>When Interest Turned Into Obsession</title>
-    <link>https://skratch.golf/news/pro-golf/tiger-woods-birthday-50-flashback-2008-arnold-palmer</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/tiger-woods-birthday-50-flashback-2008-arnold-palmer</guid>
-    <pubDate>Tue, 30 Dec 2025 16:10:24 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The catalyst for my golf obsession is burned into my brain: Tiger Woods, 2008, Arnie&#x27;s Place.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/tiger-woods-birthday-50-flashback-2008-arnold-palmer"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_80270642_64d9378aa8/Getty_Images_80270642_64d9378aa8.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>A Completely Subjective Shortlist of What&#x27;s In (and Out) in Golf Culture, Volume II</title>
     <link>https://skratch.golf/news/golf-culture/golf-2026-ins-and-outs</link>
     <guid isPermaLink="true">https://skratch.golf/news/golf-culture/golf-2026-ins-and-outs</guid>
@@ -431,17 +431,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Dan Rapaport</dc:creator>
     <description>&lt;p&gt;It doesn’t matter who you’re playing against at this point. We just want to see you do what you do best.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/tiger-woods-50th-birthday-champions-tour-plea"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2147717052_e0499761e7/Getty_Images_2147717052_e0499761e7.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Top 5 Gear Predictions Of 2026</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/golf-club-predictions-new-year-gear-equipment-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/golf-club-predictions-new-year-gear-equipment-tour</guid>
-    <pubDate>Tue, 30 Dec 2025 14:02:52 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;2025 was a banger year in golf gear, and with 2026 quickly on the horizon, here&#x27;s what I think will be the biggest stories.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/golf-club-predictions-new-year-gear-equipment-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2225612048_e15d56a742/Getty_Images_2225612048_e15d56a742.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -480,6 +469,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The 10 Moments that Defined YouTube Golf in 2025</title>
+    <link>https://skratch.golf/news/golf-culture/best-youtube-golf-moments-this-year</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/best-youtube-golf-moments-this-year</guid>
+    <pubDate>Mon, 22 Dec 2025 20:08:06 +0000</pubDate>
+    <dc:creator>Lillian Northrup</dc:creator>
+    <description>&lt;p&gt;In 2025, YouTube golf stopped feeling like an alternative and started shaping the game. These are the moments that proved it.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/best-youtube-golf-moments-this-year"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/youtubegolf2025_header_e08c9925f4/youtubegolf2025_header_e08c9925f4.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>This Century-Old Club Has One Unique Rule—Only Women Can Be Members</title>
