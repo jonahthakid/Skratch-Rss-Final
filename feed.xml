@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 09 Jan 2026 21:40:30 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 09 Jan 2026 22:16:26 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>It&#x27;s Happening: Brooks Koepka Has Applied to Return to the PGA TOUR</title>
+    <link>https://skratch.golf/news/news/brooks-koepka-applied-to-join-pga-tour-liv-golf</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/brooks-koepka-applied-to-join-pga-tour-liv-golf</guid>
+    <pubDate>Fri, 09 Jan 2026 22:05:58 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Now the question is: when will we see him?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/brooks-koepka-applied-to-join-pga-tour-liv-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2171807734_2c37830332/Getty_Images_2171807734_2c37830332.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Celebrating Sergio’s birthday with one of the CRAZIEST recovery shots you’ll ever see. 👀</title>
     <link>https://www.youtube.com/shorts/Szy0kerhjkU</link>
@@ -358,17 +369,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;Faster means longer, and with the help of some newly engineered internals, the Callaway Chrome Tour line of balls is doing just that.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/callaway-chrome-tour-golf-ball-speed-next-gen"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Chrome_Tour_Golf_Ball_2026_0fad0c82f3/Chrome_Tour_Golf_Ball_2026_0fad0c82f3.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Script for the 2026 PGA TOUR Season Leaked</title>
-    <link>https://skratch.golf/news/pro-golf/pga-tour-predictions-2026-season-majors-scottie-scheffler-rory-mcilroy</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/pga-tour-predictions-2026-season-majors-scottie-scheffler-rory-mcilroy</guid>
-    <pubDate>Mon, 05 Jan 2026 05:04:38 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Keegan wins a major? Scottie gets five more pieces of hardware? Before golf returns to our television sets next week, let’s have some fun with predictions for the PGA TOUR’s 2026 season.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/pga-tour-predictions-2026-season-majors-scottie-scheffler-rory-mcilroy"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2234714538_24b642e4b2/Getty_Images_2234714538_24b642e4b2.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
