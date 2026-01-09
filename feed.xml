@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 09 Jan 2026 18:24:33 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 09 Jan 2026 18:54:13 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Josh Allen’s Golf Swing Is Exactly What You’d Expect</title>
+    <link>https://skratch.golf/news/golf-culture/josh-allen-golf-swing-analysis</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/josh-allen-golf-swing-analysis</guid>
+    <pubDate>Fri, 09 Jan 2026 18:01:05 +0000</pubDate>
+    <dc:creator>Luke Nesbitt</dc:creator>
+    <description>&lt;p&gt;The NFL MVP&#x27;s golf swing is powerful—but not perfect. Let&#x27;s break it down.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/josh-allen-golf-swing-analysis"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/josh_allen_acc_2024_Getty_Images_2161163320_4e1c9e8446/josh_allen_acc_2024_Getty_Images_2161163320_4e1c9e8446.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>This gift is going to be hard to beat. 🤣 Happy birthday, Sergio!</title>
     <link>https://www.youtube.com/shorts/cI_ZDGHYXdg</link>
@@ -412,17 +423,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;After years of player testing and feedback, Titleist is set to launch the second-generation Pro V1x Left Dash (-Pro V1x)&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/new-prov1-left-dash-golf-ball-speed-distance"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Pro_V1x_left_dash_title_1493611786/Pro_V1x_left_dash_title_1493611786.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>One of My Favorite &quot;Not For Golf&quot; Brands Actually Has Great Golf Pieces</title>
-    <link>https://skratch.golf/style/womens-style/anthropologie-golf-outfits-womens-fashion</link>
-    <guid isPermaLink="true">https://skratch.golf/style/womens-style/anthropologie-golf-outfits-womens-fashion</guid>
-    <pubDate>Fri, 02 Jan 2026 15:41:07 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;10 items at Anthropologie I&#x27;d wear on the course.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/womens-style/anthropologie-golf-outfits-womens-fashion"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/anthro_golf_8acac10e26/anthro_golf_8acac10e26.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
