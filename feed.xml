@@ -9,8 +9,29 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 09 Jan 2026 19:38:55 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 09 Jan 2026 20:19:14 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Celebrating Sergio’s birthday with one of the CRAZIEST recovery shots you’ll ever see. 👀</title>
+    <link>https://www.youtube.com/shorts/Szy0kerhjkU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/Szy0kerhjkU</guid>
+    <pubDate>Fri, 09 Jan 2026 20:15:26 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
+
+Check out our website: https://skratch.golf/
+Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Szy0kerhjkU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Szy0kerhjkU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Szy0kerhjkU" type="text/html" medium="video"/>
+    <yt:videoId>Szy0kerhjkU</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Josh Allen’s Golf Swing Is Exactly What You’d Expect</title>
     <link>https://skratch.golf/news/golf-culture/josh-allen-golf-swing-analysis</link>
@@ -425,20 +446,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Pro_V1x_left_dash_title_1493611786/Pro_V1x_left_dash_title_1493611786.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>2026 goal: less crash outs. 😡</title>
-    <link>https://www.youtube.com/shorts/U2EO_uqpd2Y</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/U2EO_uqpd2Y</guid>
-    <pubDate>Fri, 02 Jan 2026 15:34:18 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/U2EO_uqpd2Y"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/U2EO_uqpd2Y/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/U2EO_uqpd2Y" type="text/html" medium="video"/>
-    <yt:videoId>U2EO_uqpd2Y</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Mizuno JPX One Woods Are Built Different With NanoAlloy Adding Major Speed</title>
