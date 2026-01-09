@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 09 Jan 2026 16:20:50 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 09 Jan 2026 16:52:09 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>This gift is going to be hard to beat. 🤣 Happy birthday, Sergio!</title>
@@ -24,6 +24,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The PGA TOUR&#x27;s Fall Schedule is Here</title>
+    <link>https://skratch.golf/news/news/pga-tour-fall-schedule-new-2026</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-fall-schedule-new-2026</guid>
+    <pubDate>Fri, 09 Jan 2026 16:17:05 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The PGA TOUR&#x27;s fall schedule will include eight events, highlighted by the new Good Good Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-fall-schedule-new-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1920489643_e285794aa9/Getty_Images_1920489643_e285794aa9.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Jason Day Had One of the Best Style Seasons on Tour Last Year</title>
@@ -437,17 +448,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;Armed with a completely new face technology, Mizuno&#x27;s JPX One Woods look to unlock greater ballspeed and consistency.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/mizuno-jpx-one-woods-new-technology"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Mizuno_JPX_One_woods_Title_5db88cfe30/Mizuno_JPX_One_woods_Title_5db88cfe30.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>When Interest Turned Into Obsession</title>
-    <link>https://skratch.golf/news/pro-golf/tiger-woods-birthday-50-flashback-2008-arnold-palmer</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/tiger-woods-birthday-50-flashback-2008-arnold-palmer</guid>
-    <pubDate>Tue, 30 Dec 2025 16:10:24 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The catalyst for my golf obsession is burned into my brain: Tiger Woods, 2008, Arnie&#x27;s Place.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/tiger-woods-birthday-50-flashback-2008-arnold-palmer"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_80270642_64d9378aa8/Getty_Images_80270642_64d9378aa8.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
