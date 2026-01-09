@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 09 Jan 2026 22:43:55 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 09 Jan 2026 23:15:25 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>You gotta reinstate the guy that can clear the ocean with an iron, right?</title>
+    <link>https://www.youtube.com/shorts/pPPVMdAFmLU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/pPPVMdAFmLU</guid>
+    <pubDate>Fri, 09 Jan 2026 22:49:51 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/pPPVMdAFmLU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/pPPVMdAFmLU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/pPPVMdAFmLU" type="text/html" medium="video"/>
+    <yt:videoId>pPPVMdAFmLU</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>It&#x27;s Happening: Brooks Koepka Has Applied to Return to the PGA TOUR</title>
     <link>https://skratch.golf/news/news/brooks-koepka-applied-to-join-pga-tour-liv-golf</link>
@@ -418,20 +432,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/O0dYVAufvqg/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/O0dYVAufvqg" type="text/html" medium="video"/>
     <yt:videoId>O0dYVAufvqg</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Is this too ambitious of a New Year&#x27;s resolution? Asking for a friend. 😭</title>
-    <link>https://www.youtube.com/shorts/5Q9I8FdQho8</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/5Q9I8FdQho8</guid>
-    <pubDate>Fri, 02 Jan 2026 20:37:51 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/5Q9I8FdQho8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/5Q9I8FdQho8/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/5Q9I8FdQho8" type="text/html" medium="video"/>
-    <yt:videoId>5Q9I8FdQho8</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
