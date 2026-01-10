@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 10 Jan 2026 16:18:12 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 10 Jan 2026 16:46:05 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The Sooner Brooks Is Back, the Louder the Statement</title>
+    <link>https://skratch.golf/news/pro-golf/brooks-koepka-pga-tour-return-opinion-essay</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/brooks-koepka-pga-tour-return-opinion-essay</guid>
+    <pubDate>Fri, 09 Jan 2026 23:49:42 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Koepka’s application is about more than eligibility. It’s also about sending a message to the folks on the other side of golf’s proverbial aisle.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/brooks-koepka-pga-tour-return-opinion-essay"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/brooks_koepka_2023_liv_golf_andalucia_Getty_Images_1378312266_410a900684/brooks_koepka_2023_liv_golf_andalucia_Getty_Images_1378312266_410a900684.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>You gotta reinstate the guy that can clear the ocean with an iron, right?</title>
     <link>https://www.youtube.com/shorts/pPPVMdAFmLU</link>
@@ -455,17 +466,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;Armed with a completely new face technology, Mizuno&#x27;s JPX One Woods look to unlock greater ballspeed and consistency.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/mizuno-jpx-one-woods-new-technology"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Mizuno_JPX_One_woods_Title_5db88cfe30/Mizuno_JPX_One_woods_Title_5db88cfe30.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>A Completely Subjective Shortlist of What&#x27;s In (and Out) in Golf Culture, Volume II</title>
-    <link>https://skratch.golf/news/golf-culture/golf-2026-ins-and-outs</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/golf-2026-ins-and-outs</guid>
-    <pubDate>Tue, 30 Dec 2025 15:08:45 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;We&#x27;re back and better than ever with 10 Ins and 7 Outs for golf in 2026.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/golf-2026-ins-and-outs"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_695435314_7f3d9cdd9d/Getty_Images_695435314_7f3d9cdd9d.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
