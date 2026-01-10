@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 10 Jan 2026 19:36:03 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 10 Jan 2026 20:17:16 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Bubba’s LEGENDARY DOD at Kapalua’s 18th to get you through a Sentry-less weekend.</title>
+    <link>https://www.youtube.com/shorts/kyrttaI9u5g</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/kyrttaI9u5g</guid>
+    <pubDate>Sat, 10 Jan 2026 20:11:14 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/kyrttaI9u5g"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/kyrttaI9u5g/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/kyrttaI9u5g" type="text/html" medium="video"/>
+    <yt:videoId>kyrttaI9u5g</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>The Sooner Brooks Is Back, the Louder the Statement</title>
     <link>https://skratch.golf/news/pro-golf/brooks-koepka-pga-tour-return-opinion-essay</link>
@@ -432,20 +446,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Taylormade_Qi4d_title_ce315d90ac/Taylormade_Qi4d_title_ce315d90ac.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>First round of the year after saying I’d swing easier in 2026</title>
-    <link>https://www.youtube.com/shorts/O0dYVAufvqg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/O0dYVAufvqg</guid>
-    <pubDate>Sat, 03 Jan 2026 18:42:59 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/O0dYVAufvqg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/O0dYVAufvqg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/O0dYVAufvqg" type="text/html" medium="video"/>
-    <yt:videoId>O0dYVAufvqg</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Titleist Pro V1x Left Dash Get First Update In Over 7 Years</title>
