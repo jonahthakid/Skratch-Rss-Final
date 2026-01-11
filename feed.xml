@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 11 Jan 2026 22:42:02 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 11 Jan 2026 23:14:59 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The Buffalo Bills QB can move it</title>
+    <link>https://www.youtube.com/shorts/uV0uJAgBz08</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/uV0uJAgBz08</guid>
+    <pubDate>Sun, 11 Jan 2026 22:52:11 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/uV0uJAgBz08"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/uV0uJAgBz08/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/uV0uJAgBz08" type="text/html" medium="video"/>
+    <yt:videoId>uV0uJAgBz08</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Tito&#x27;s Shorties Classic Q&amp;A with Keith Mitchell, Charley Hull, Jake Knapp and Ben Griffin</title>
     <link>https://www.youtube.com/watch?v=WyZ4ivtTLbY</link>
@@ -424,20 +438,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Chrome_Tour_Golf_Ball_2026_0fad0c82f3/Chrome_Tour_Golf_Ball_2026_0fad0c82f3.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>The most relatable Charlie Woods moments 😂</title>
-    <link>https://www.youtube.com/shorts/2MJ2g23k8yc</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/2MJ2g23k8yc</guid>
-    <pubDate>Sun, 04 Jan 2026 22:34:00 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/2MJ2g23k8yc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/2MJ2g23k8yc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/2MJ2g23k8yc" type="text/html" medium="video"/>
-    <yt:videoId>2MJ2g23k8yc</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Fujikura Ventus TR Line Gets Gen-2 Update</title>
