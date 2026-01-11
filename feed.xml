@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 11 Jan 2026 14:41:31 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 11 Jan 2026 15:15:02 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Tito&#x27;s Shorties Classic Q&amp;A with Keith Mitchell, Charley Hull, Jake Knapp and Ben Griffin</title>
+    <link>https://www.youtube.com/watch?v=WyZ4ivtTLbY</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=WyZ4ivtTLbY</guid>
+    <pubDate>Sun, 11 Jan 2026 14:58:09 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Ahead of the Tito&#x27;s Shorties Classic, Dan Rapaport sat down with Keith Mitchell, Charley Hull, Jake Knapp and Ben Griffin to talk about giving back to the community, growing up playing short courses and what makes this event so special. Sponsored by @titosvodka.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=WyZ4ivtTLbY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/WyZ4ivtTLbY/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/WyZ4ivtTLbY" type="text/html" medium="video"/>
+    <yt:videoId>WyZ4ivtTLbY</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Bubba’s LEGENDARY DOD at Kapalua’s 18th to get you through a Sentry-less weekend.</title>
     <link>https://www.youtube.com/shorts/kyrttaI9u5g</link>
@@ -638,27 +652,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/huQT9RwlsaY/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/huQT9RwlsaY" type="text/html" medium="video"/>
     <yt:videoId>huQT9RwlsaY</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Keegan’s Heartbreak, My Round at Cypress &amp; Offseason Takes</title>
-    <link>https://www.youtube.com/watch?v=m1khr_37RKI</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=m1khr_37RKI</guid>
-    <pubDate>Wed, 22 Oct 2025 14:01:23 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;We’re back with a mini show from the DOGHouse. Dan recaps Tommy Fleetwood’s win in India, his round at Cypress, Keegan’s latest comments after the U.S. Team’s heartbreaking loss at Bethpage, offseason ‘get off my lawn’ golf takes, and more.
-
-SEGMENTS
-00:00 - 00:42 - Intro
-00:43 - 8:40 - Dan’s round at Cypress
-8:41 - 15:41 - Offseason golf takes
-15:42 - 17:37 - Tommy Fleetwood wins in India
-17:38 - 25:33 - Keegan Bradley&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=m1khr_37RKI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/m1khr_37RKI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/m1khr_37RKI" type="text/html" medium="video"/>
-    <yt:videoId>m1khr_37RKI</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
