@@ -1,4 +1,3 @@
-<!-- Warning: Error fetching Skratch Articles: HTTPSConnectionPool(host='www.skratch.golf', port=443): Read timed out. (read timeout=15) -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -10,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 12 Jan 2026 10:50:08 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Jan 2026 11:15:49 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>The Buffalo Bills QB can move it</title>
@@ -55,6 +54,17 @@
     <category>video</category>
   </item>
   <item>
+    <title>The Sooner Brooks Is Back, the Louder the Statement</title>
+    <link>https://skratch.golf/news/pro-golf/brooks-koepka-pga-tour-return-opinion-essay</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/brooks-koepka-pga-tour-return-opinion-essay</guid>
+    <pubDate>Fri, 09 Jan 2026 23:49:42 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Koepka’s application is about more than eligibility. It’s also about sending a message to the folks on the other side of golf’s proverbial aisle.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/brooks-koepka-pga-tour-return-opinion-essay"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/brooks_koepka_2023_liv_golf_andalucia_Getty_Images_1378312266_410a900684/brooks_koepka_2023_liv_golf_andalucia_Getty_Images_1378312266_410a900684.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>You gotta reinstate the guy that can clear the ocean with an iron, right?</title>
     <link>https://www.youtube.com/shorts/pPPVMdAFmLU</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/pPPVMdAFmLU</guid>
@@ -67,6 +77,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>It&#x27;s Happening: Brooks Koepka Has Applied to Return to the PGA TOUR</title>
+    <link>https://skratch.golf/news/news/brooks-koepka-applied-to-join-pga-tour-liv-golf</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/brooks-koepka-applied-to-join-pga-tour-liv-golf</guid>
+    <pubDate>Fri, 09 Jan 2026 22:05:58 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Now the question is: when will we see him?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/brooks-koepka-applied-to-join-pga-tour-liv-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2171807734_2c37830332/Getty_Images_2171807734_2c37830332.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Celebrating Sergio’s birthday with one of the CRAZIEST recovery shots you’ll ever see. 👀</title>
@@ -90,6 +111,17 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Szy0kerhjkU"&gt;
     <category>video</category>
   </item>
   <item>
+    <title>Josh Allen’s Golf Swing Is Exactly What You’d Expect</title>
+    <link>https://skratch.golf/news/golf-culture/josh-allen-golf-swing-analysis</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/josh-allen-golf-swing-analysis</guid>
+    <pubDate>Fri, 09 Jan 2026 18:01:05 +0000</pubDate>
+    <dc:creator>Luke Nesbitt</dc:creator>
+    <description>&lt;p&gt;The NFL MVP&#x27;s golf swing is powerful—but not perfect. Let&#x27;s break it down.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/josh-allen-golf-swing-analysis"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/josh_allen_acc_2024_Getty_Images_2161163320_4e1c9e8446/josh_allen_acc_2024_Getty_Images_2161163320_4e1c9e8446.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>This gift is going to be hard to beat. 🤣 Happy birthday, Sergio!</title>
     <link>https://www.youtube.com/shorts/cI_ZDGHYXdg</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/cI_ZDGHYXdg</guid>
@@ -102,6 +134,28 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Szy0kerhjkU"&gt;
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The PGA TOUR&#x27;s Fall Schedule is Here</title>
+    <link>https://skratch.golf/news/news/pga-tour-fall-schedule-new-2026</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-fall-schedule-new-2026</guid>
+    <pubDate>Fri, 09 Jan 2026 16:17:05 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The PGA TOUR&#x27;s fall schedule will include eight events, highlighted by the new Good Good Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-fall-schedule-new-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1920489643_e285794aa9/Getty_Images_1920489643_e285794aa9.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Jason Day Had One of the Best Style Seasons on Tour Last Year</title>
+    <link>https://skratch.golf/style/mens-style/jason-day-had-one-of-the-best-style-seasons-on-tour-last-year</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/jason-day-had-one-of-the-best-style-seasons-on-tour-last-year</guid>
+    <pubDate>Thu, 08 Jan 2026 22:18:16 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;Why Jason Day’s 2025 wardrobe was less about trends and more about smart decisions.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/jason-day-had-one-of-the-best-style-seasons-on-tour-last-year"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/JD_Top_10_Cover_0047402540/JD_Top_10_Cover_0047402540.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>&quot;That is one of the straightest golf balls I&#x27;ve ever seen.&quot; 😳</title>
@@ -124,6 +178,17 @@ Subscribe to Skratch on YouTube and don’t miss o&lt;/p&gt;&lt;p&gt;&lt;a href=
     <category>video</category>
   </item>
   <item>
+    <title>Seeing a Pure Kapalua is Tough for the Vibes</title>
+    <link>https://skratch.golf/news/pro-golf/kapalua-plantation-course-pure-conditions-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/kapalua-plantation-course-pure-conditions-pga-tour</guid>
+    <pubDate>Thu, 08 Jan 2026 16:59:03 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Seeing how pure Kapalua is and missing out on prime-time Hawaii golf this week is tough for the vibes.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/kapalua-plantation-course-pure-conditions-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2193327563_db46ea8694/Getty_Images_2193327563_db46ea8694.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Max Homa has the longest drive in PGA TOUR ShotLink era, and this is the only evidence of it. 🤣</title>
     <link>https://www.youtube.com/shorts/IlcuGDBMNak</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/IlcuGDBMNak</guid>
@@ -138,6 +203,28 @@ Subscribe to Skratch on YouTube and don’t miss o&lt;/p&gt;&lt;p&gt;&lt;a href=
     <category>video</category>
   </item>
   <item>
+    <title>Justin Thomas has a Club Back in His Hand After Back Surgery</title>
+    <link>https://skratch.golf/news/news/justin-thomas-surgery-recovery-chipping-and-putting-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/justin-thomas-surgery-recovery-chipping-and-putting-pga-tour</guid>
+    <pubDate>Thu, 08 Jan 2026 15:47:54 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Justin Thomas is back to chipping and putting following back surgery in November.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/justin-thomas-surgery-recovery-chipping-and-putting-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2221516992_a70dd1e5a6/Getty_Images_2221516992_a70dd1e5a6.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Three DC-Area Courses May Be Gone Sooner Than Expected</title>
+    <link>https://skratch.golf/news/golf-culture/washington-dc-golf-courses-changes-east-potomac-public-golf-community</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/washington-dc-golf-courses-changes-east-potomac-public-golf-community</guid>
+    <pubDate>Thu, 08 Jan 2026 15:44:50 +0000</pubDate>
+    <dc:creator>Garrett Johnston</dc:creator>
+    <description>&lt;p&gt;&quot;You see every walk of life here...And why? Well, because they just love golf.”&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/washington-dc-golf-courses-changes-east-potomac-public-golf-community"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/East_Potomac_Golf_Links_7a5214de4d/East_Potomac_Golf_Links_7a5214de4d.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>VINTAGE AK at Kapalua’s 18th.</title>
     <link>https://www.youtube.com/shorts/Ce7_Dmsb0IU</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/Ce7_Dmsb0IU</guid>
@@ -150,6 +237,17 @@ Subscribe to Skratch on YouTube and don’t miss o&lt;/p&gt;&lt;p&gt;&lt;a href=
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>An Inside-the-Ropes Tale of the 2025 Ryder Cup, Told by Jon Rahm</title>
+    <link>https://skratch.golf/news/news/jon-rahm-brooks-koepka-leaving-liv-golf-ryder-cup-fans</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/jon-rahm-brooks-koepka-leaving-liv-golf-ryder-cup-fans</guid>
+    <pubDate>Wed, 07 Jan 2026 18:21:14 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Jon Rahm says what it was really like for the Europeans at Bethpage Black, and comments on Brooks Koepka leaving LIV Golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jon-rahm-brooks-koepka-leaving-liv-golf-ryder-cup-fans"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2237506364_becb6babd2/Getty_Images_2237506364_becb6babd2.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>New SEASON, new STUDIO, new FITS.</title>
@@ -170,6 +268,28 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
+    <title>PGA of America CEO Stepping Down After Less Than a Year—For a Noble Reason</title>
+    <link>https://skratch.golf/news/news/derek-sprague-pga-of-america-ceo-stepping-down-care-for-family</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/derek-sprague-pga-of-america-ceo-stepping-down-care-for-family</guid>
+    <pubDate>Wed, 07 Jan 2026 17:24:55 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;PGA of America CEO Derek Sprague is stepping down after a year on the job to care for his family in New York.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/derek-sprague-pga-of-america-ceo-stepping-down-care-for-family"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2233037029_1cfed6247f/Getty_Images_2233037029_1cfed6247f.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Bon Jovi, Masters Menu, and a Touch of Red: Inside Tiger Woods&#x27; Upcoming Birthday Bash</title>
+    <link>https://skratch.golf/news/news/tiger-woods-birthday-party-50-the-breakers-jon-bon-jovi</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/tiger-woods-birthday-party-50-the-breakers-jon-bon-jovi</guid>
+    <pubDate>Wed, 07 Jan 2026 16:08:37 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Tiger Woods&#x27; 50th birthday party will feature Jon Bon Jovi, a star-studded guest list, and a menu comprised of his Masters Champions Dinner items.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-birthday-party-50-the-breakers-jon-bon-jovi"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2249555734_d914652693/Getty_Images_2249555734_d914652693.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>It’s a tough job, but somebody’s gotta do it. 🤣</title>
     <link>https://www.youtube.com/shorts/QwElR8EwBg4</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/QwElR8EwBg4</guid>
@@ -184,6 +304,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
+    <title>Just Announced: Full Swing Season 4 is Coming in April</title>
+    <link>https://skratch.golf/news/news/full-swing-season-four-release-april-netflix</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/full-swing-season-four-release-april-netflix</guid>
+    <pubDate>Wed, 07 Jan 2026 14:25:30 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;With everything that happened last year, the fourth season of Full Swing is going to be must-watch TV.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/full-swing-season-four-release-april-netflix"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1636816215_99ae51c050/Getty_Images_1636816215_99ae51c050.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>An instant classic at Kapalua to kick off Tiger&#x27;s legendary 2000 season. #tigertuesday</title>
     <link>https://www.youtube.com/shorts/4yNPoTWakfg</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/4yNPoTWakfg</guid>
@@ -196,6 +327,39 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The LIV Golf Bubble is Ready to Burst</title>
+    <link>https://skratch.golf/news/pro-golf/liv-golf-akshay-bhatia-top-talent-no-longer-interested-thomas-detry-brooks-koepka</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/liv-golf-akshay-bhatia-top-talent-no-longer-interested-thomas-detry-brooks-koepka</guid>
+    <pubDate>Tue, 06 Jan 2026 19:01:58 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Without headliners, it may prove difficult for the breakout league to remain in the headlines.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/liv-golf-akshay-bhatia-top-talent-no-longer-interested-thomas-detry-brooks-koepka"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2238310869_665a7663a4/Getty_Images_2238310869_665a7663a4.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>A Women&#x27;s TGL Is On Its Way. Here&#x27;s Everything We Know.</title>
+    <link>https://skratch.golf/news/news/tgl-lpga-stars-wtgl-coming-this-winter</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/tgl-lpga-stars-wtgl-coming-this-winter</guid>
+    <pubDate>Tue, 06 Jan 2026 17:14:45 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Now this is going to be awesome.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tgl-lpga-stars-wtgl-coming-this-winter"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Nelly_Korda_AIG_preview_cover_b1d37f9e93/Nelly_Korda_AIG_preview_cover_b1d37f9e93.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Everything You Need To Know About TaylorMade&#x27;s New Qi4D Rescues &amp; Qi Max Irons</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/taylormade-qi4d-irons-rescues</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/taylormade-qi4d-irons-rescues</guid>
+    <pubDate>Tue, 06 Jan 2026 15:11:26 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;TaylorMade&#x27;s newest irons and rescues are built for distance and control without sacrificing feel.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/taylormade-qi4d-irons-rescues"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Qi_max_irons_title_46e553b344/Qi_max_irons_title_46e553b344.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Tiger grinding and goofing on the Kapalua range ahead of his historic 2000 season. #tigertuesday</title>
@@ -226,6 +390,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
+    <title>Fire Engulfs Golf Course Clubhouse Outside of London</title>
+    <link>https://skratch.golf/news/news/fire-west-essex-golf-club-clubhouse</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/fire-west-essex-golf-club-clubhouse</guid>
+    <pubDate>Mon, 05 Jan 2026 20:10:56 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The clubhouse at West Essex Golf Club caught fire in a scary scene outside London.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/fire-west-essex-golf-club-clubhouse"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_01_05_at_3_17_32_PM_78e7d1fb59/Screenshot_2026_01_05_at_3_17_32_PM_78e7d1fb59.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Still can&#x27;t believe DJ was THIS close to a par 4 ace at Kapalua. 🤏</title>
     <link>https://www.youtube.com/shorts/QXp4wVkepdU</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/QXp4wVkepdU</guid>
@@ -254,6 +429,72 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
+    <title>Callaway&#x27;s Chrome Tour Golf Balls Are Getting Faster</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/callaway-chrome-tour-golf-ball-speed-next-gen</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/callaway-chrome-tour-golf-ball-speed-next-gen</guid>
+    <pubDate>Mon, 05 Jan 2026 15:24:37 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Faster means longer, and with the help of some newly engineered internals, the Callaway Chrome Tour line of balls is doing just that.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/callaway-chrome-tour-golf-ball-speed-next-gen"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Chrome_Tour_Golf_Ball_2026_0fad0c82f3/Chrome_Tour_Golf_Ball_2026_0fad0c82f3.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Fujikura Ventus TR Line Gets Gen-2 Update</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/fujikura-ventus-gen2-tr-golf-shafts</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/fujikura-ventus-gen2-tr-golf-shafts</guid>
+    <pubDate>Sun, 04 Jan 2026 18:08:50 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;One of the most winning graphite shafts in PGA TOUR history is about to bring more technology and performance to golfers.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/fujikura-ventus-gen2-tr-golf-shafts"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Fujikura_Ventus_TR_2026_5b7c81d6e3/Fujikura_Ventus_TR_2026_5b7c81d6e3.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>TaylorMade Qi4D Drivers &amp; Fairway Woods: Fit For Speed</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/taylormade-drivers-woods-qi4d-carbon-face-distance</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/taylormade-drivers-woods-qi4d-carbon-face-distance</guid>
+    <pubDate>Sun, 04 Jan 2026 04:09:25 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Backed by a new fitting platform, the Qi4D drivers offer the greatest amount of customization ever offered by TaylorMade.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/taylormade-drivers-woods-qi4d-carbon-face-distance"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Taylormade_Qi4d_title_ce315d90ac/Taylormade_Qi4d_title_ce315d90ac.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Titleist Pro V1x Left Dash Get First Update In Over 7 Years</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/new-prov1-left-dash-golf-ball-speed-distance</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/new-prov1-left-dash-golf-ball-speed-distance</guid>
+    <pubDate>Fri, 02 Jan 2026 17:54:28 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;After years of player testing and feedback, Titleist is set to launch the second-generation Pro V1x Left Dash (-Pro V1x)&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/new-prov1-left-dash-golf-ball-speed-distance"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Pro_V1x_left_dash_title_1493611786/Pro_V1x_left_dash_title_1493611786.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Mizuno JPX One Woods Are Built Different With NanoAlloy Adding Major Speed</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/mizuno-jpx-one-woods-new-technology</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/mizuno-jpx-one-woods-new-technology</guid>
+    <pubDate>Tue, 30 Dec 2025 18:11:02 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Armed with a completely new face technology, Mizuno&#x27;s JPX One Woods look to unlock greater ballspeed and consistency.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/mizuno-jpx-one-woods-new-technology"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Mizuno_JPX_One_woods_Title_5db88cfe30/Mizuno_JPX_One_woods_Title_5db88cfe30.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Mizuno Expands Pro Iron Line With New Modern Series</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/mizuno-modern-pro-series-forged-irons-new-golf-release</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/mizuno-modern-pro-series-forged-irons-new-golf-release</guid>
+    <pubDate>Mon, 29 Dec 2025 20:01:59 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Mizuno is powering up its Pro line irons with the introduction of the technology-infused Modern Series.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/mizuno-modern-pro-series-forged-irons-new-golf-release"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/2026_mizuno_M_modern_irons_title_e05e3a11d3/2026_mizuno_M_modern_irons_title_e05e3a11d3.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Everything you need to know about the Brooks Koepka situation.</title>
     <link>https://www.youtube.com/shorts/ueHYSh7xXkA</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/ueHYSh7xXkA</guid>
@@ -266,6 +507,28 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>This Century-Old Club Has One Unique Rule—Only Women Can Be Members</title>
+    <link>https://skratch.golf/news/golf-culture/ladies-club-of-toronto-ada-mackenzie-profile</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/ladies-club-of-toronto-ada-mackenzie-profile</guid>
+    <pubDate>Mon, 15 Dec 2025 19:19:08 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The Ladies&#x27; Golf Club of Toronto is the oldest existing golf club in the world, founded by women and for women.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/ladies-club-of-toronto-ada-mackenzie-profile"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/DJI_20250909183532_0245_D_acc6b2ae4d/DJI_20250909183532_0245_D_acc6b2ae4d.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Cobra Expands 3D Printed Iron Line With MB Blade &amp; X-Models</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/cobra-3d-print-irons-blades-game-improvement</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/cobra-3d-print-irons-blades-game-improvement</guid>
+    <pubDate>Mon, 15 Dec 2025 18:29:29 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Cobra is expanding the use of premium precision 3D-Printing to offer more forgiveness to more players with their latest irons&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/cobra-3d-print-irons-blades-game-improvement"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Cobra_3_DP_MB_irons_82fd7ccbd7/Cobra_3_DP_MB_irons_82fd7ccbd7.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>The only thing that matters is your score.</title>
@@ -389,69 +652,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/huQT9RwlsaY/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/huQT9RwlsaY" type="text/html" medium="video"/>
     <yt:videoId>huQT9RwlsaY</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Keegan’s Heartbreak, My Round at Cypress &amp; Offseason Takes</title>
-    <link>https://www.youtube.com/watch?v=m1khr_37RKI</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=m1khr_37RKI</guid>
-    <pubDate>Wed, 22 Oct 2025 14:01:23 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;We’re back with a mini show from the DOGHouse. Dan recaps Tommy Fleetwood’s win in India, his round at Cypress, Keegan’s latest comments after the U.S. Team’s heartbreaking loss at Bethpage, offseason ‘get off my lawn’ golf takes, and more.
-
-SEGMENTS
-00:00 - 00:42 - Intro
-00:43 - 8:40 - Dan’s round at Cypress
-8:41 - 15:41 - Offseason golf takes
-15:42 - 17:37 - Tommy Fleetwood wins in India
-17:38 - 25:33 - Keegan Bradley&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=m1khr_37RKI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/m1khr_37RKI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/m1khr_37RKI" type="text/html" medium="video"/>
-    <yt:videoId>m1khr_37RKI</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>How many do you agree with?</title>
-    <link>https://www.youtube.com/shorts/5gwH6SdZMCk</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/5gwH6SdZMCk</guid>
-    <pubDate>Tue, 21 Oct 2025 15:32:26 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/5gwH6SdZMCk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/5gwH6SdZMCk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/5gwH6SdZMCk" type="text/html" medium="video"/>
-    <yt:videoId>5gwH6SdZMCk</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>The DP India Championship is some excellent (and different) viewing 🌲🌲🌲</title>
-    <link>https://www.youtube.com/shorts/ZtfDkqVbW7g</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ZtfDkqVbW7g</guid>
-    <pubDate>Thu, 16 Oct 2025 18:17:47 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ZtfDkqVbW7g"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ZtfDkqVbW7g/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ZtfDkqVbW7g" type="text/html" medium="video"/>
-    <yt:videoId>ZtfDkqVbW7g</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Is This The End For Tiger Woods?</title>
-    <link>https://www.youtube.com/watch?v=gOx6R5MB9rQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=gOx6R5MB9rQ</guid>
-    <pubDate>Wed, 15 Oct 2025 01:33:14 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Dan discusses another surgery for Tiger Woods and what it means for his future on and off the course.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=gOx6R5MB9rQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/gOx6R5MB9rQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/gOx6R5MB9rQ" type="text/html" medium="video"/>
-    <yt:videoId>gOx6R5MB9rQ</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
