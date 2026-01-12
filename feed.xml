@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 12 Jan 2026 18:25:16 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Jan 2026 18:55:14 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Everything you need to know about Brooks Koepka&#x27;s IMMINENT return to the PGA TOUR.</title>
+    <link>https://www.youtube.com/shorts/16_I7TF_pZY</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/16_I7TF_pZY</guid>
+    <pubDate>Mon, 12 Jan 2026 18:51:31 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/16_I7TF_pZY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/16_I7TF_pZY/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/16_I7TF_pZY" type="text/html" medium="video"/>
+    <yt:videoId>16_I7TF_pZY</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Brooks Koepka is a PGA TOUR Member Once Again</title>
+    <link>https://skratch.golf/news/news/brooks-koepka-pga-tour-member-2026-season-return-farmers-insurance-open</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/brooks-koepka-pga-tour-member-2026-season-return-farmers-insurance-open</guid>
+    <pubDate>Mon, 12 Jan 2026 17:46:01 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Thanks to the PGA TOUR&#x27;s new &quot;Returning Members Program,&quot; Brooks Koepka is back. Here&#x27;s how the RMP works and what Koepka&#x27;s financial penalty looks like.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/brooks-koepka-pga-tour-member-2026-season-return-farmers-insurance-open"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2233478354_926f2d151a/Getty_Images_2233478354_926f2d151a.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Congrats to Anthony Kim on earning a spot on LIV for 2026. Wonder if TDub called to congratulate.</title>
     <link>https://www.youtube.com/shorts/W_O60s8J-uw</link>
@@ -387,17 +412,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>A Women&#x27;s TGL Is On Its Way. Here&#x27;s Everything We Know.</title>
-    <link>https://skratch.golf/news/news/tgl-lpga-stars-wtgl-coming-this-winter</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/tgl-lpga-stars-wtgl-coming-this-winter</guid>
-    <pubDate>Tue, 06 Jan 2026 17:14:45 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Now this is going to be awesome.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tgl-lpga-stars-wtgl-coming-this-winter"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Nelly_Korda_AIG_preview_cover_b1d37f9e93/Nelly_Korda_AIG_preview_cover_b1d37f9e93.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Everything You Need To Know About TaylorMade&#x27;s New Qi4D Rescues &amp; Qi Max Irons</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/taylormade-qi4d-irons-rescues</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/taylormade-qi4d-irons-rescues</guid>
@@ -449,6 +463,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Callaway&#x27;s Chrome Tour Golf Balls Are Getting Faster</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/callaway-chrome-tour-golf-ball-speed-next-gen</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/callaway-chrome-tour-golf-ball-speed-next-gen</guid>
+    <pubDate>Mon, 05 Jan 2026 15:24:37 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Faster means longer, and with the help of some newly engineered internals, the Callaway Chrome Tour line of balls is doing just that.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/callaway-chrome-tour-golf-ball-speed-next-gen"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Chrome_Tour_Golf_Ball_2026_0fad0c82f3/Chrome_Tour_Golf_Ball_2026_0fad0c82f3.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Fujikura Ventus TR Line Gets Gen-2 Update</title>
@@ -624,34 +649,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/WY2WoY9Ors4/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/WY2WoY9Ors4" type="text/html" medium="video"/>
     <yt:videoId>WY2WoY9Ors4</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Good on ya, Scottie.</title>
-    <link>https://www.youtube.com/shorts/Lwz-K-pjkF8</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/Lwz-K-pjkF8</guid>
-    <pubDate>Thu, 23 Oct 2025 21:07:10 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Lwz-K-pjkF8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/Lwz-K-pjkF8/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/Lwz-K-pjkF8" type="text/html" medium="video"/>
-    <yt:videoId>Lwz-K-pjkF8</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>The Ryder Cup has repeatedly kicked Keegan Bradley in the teeth.</title>
-    <link>https://www.youtube.com/shorts/huQT9RwlsaY</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/huQT9RwlsaY</guid>
-    <pubDate>Wed, 22 Oct 2025 16:35:10 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/huQT9RwlsaY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/huQT9RwlsaY/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/huQT9RwlsaY" type="text/html" medium="video"/>
-    <yt:videoId>huQT9RwlsaY</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
