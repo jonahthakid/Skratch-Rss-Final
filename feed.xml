@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 12 Jan 2026 15:20:31 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Jan 2026 15:48:34 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Congrats to Anthony Kim on earning a spot on LIV for 2026. Wonder if TDub called to congratulate.</title>
+    <link>https://www.youtube.com/shorts/W_O60s8J-uw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/W_O60s8J-uw</guid>
+    <pubDate>Mon, 12 Jan 2026 15:28:12 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/W_O60s8J-uw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/W_O60s8J-uw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/W_O60s8J-uw" type="text/html" medium="video"/>
+    <yt:videoId>W_O60s8J-uw</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>The Buffalo Bills QB can move it</title>
     <link>https://www.youtube.com/shorts/uV0uJAgBz08</link>
@@ -410,20 +424,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/QXp4wVkepdU/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/QXp4wVkepdU" type="text/html" medium="video"/>
     <yt:videoId>QXp4wVkepdU</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>If the first Monday of the year was a golf shot...</title>
-    <link>https://www.youtube.com/shorts/6a2zPlmBE8I</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/6a2zPlmBE8I</guid>
-    <pubDate>Mon, 05 Jan 2026 16:01:50 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/6a2zPlmBE8I"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/6a2zPlmBE8I/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/6a2zPlmBE8I" type="text/html" medium="video"/>
-    <yt:videoId>6a2zPlmBE8I</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
