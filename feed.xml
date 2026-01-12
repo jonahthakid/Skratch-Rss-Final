@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 12 Jan 2026 16:21:37 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Jan 2026 16:52:41 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Congrats to Anthony Kim on earning a spot on LIV for 2026. Wonder if TDub called to congratulate.</title>
@@ -38,6 +38,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>VJ Singh Deserves Every Start He Wants In 2026</title>
+    <link>https://skratch.golf/news/news/vj-singh-2026-pga-tour-card-return-exemption</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/vj-singh-2026-pga-tour-card-return-exemption</guid>
+    <pubDate>Sun, 11 Jan 2026 21:47:19 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Golf has spent decades rewarding longevity. Now it has to live with it.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/vj-singh-2026-pga-tour-card-return-exemption"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/vj_singh_golf_pga_tour_55e225a62b/vj_singh_golf_pga_tour_55e225a62b.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>The Malbon Move No One Announced But Everyone Should Notice</title>
@@ -516,17 +527,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;The Ladies&#x27; Golf Club of Toronto is the oldest existing golf club in the world, founded by women and for women.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/ladies-club-of-toronto-ada-mackenzie-profile"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/DJI_20250909183532_0245_D_acc6b2ae4d/DJI_20250909183532_0245_D_acc6b2ae4d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Cobra Expands 3D Printed Iron Line With MB Blade &amp; X-Models</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/cobra-3d-print-irons-blades-game-improvement</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/cobra-3d-print-irons-blades-game-improvement</guid>
-    <pubDate>Mon, 15 Dec 2025 18:29:29 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Cobra is expanding the use of premium precision 3D-Printing to offer more forgiveness to more players with their latest irons&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/cobra-3d-print-irons-blades-game-improvement"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Cobra_3_DP_MB_irons_82fd7ccbd7/Cobra_3_DP_MB_irons_82fd7ccbd7.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
