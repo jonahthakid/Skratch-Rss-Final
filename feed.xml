@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 12 Jan 2026 21:41:30 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Jan 2026 22:14:58 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Is Tommy Fleetwood Testing the Waters With Lululemon</title>
+    <link>https://skratch.golf/style/mens-style/tommy-fleetwood-lululemon-testing-the-waters-spotted</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/tommy-fleetwood-lululemon-testing-the-waters-spotted</guid>
+    <pubDate>Mon, 12 Jan 2026 21:26:25 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;Nothing confirmed, but nothing accidental either&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/tommy-fleetwood-lululemon-testing-the-waters-spotted"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/TF_Lulu_c73d3c9cab/TF_Lulu_c73d3c9cab.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>LIV Golf Issues Statement After Brooks Koepka’s PGA TOUR Return</title>
     <link>https://skratch.golf/news/news/liv-golf-issues-statement-brooks-koepka-pga-tour-return</link>
@@ -503,17 +514,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Fujikura Ventus TR Line Gets Gen-2 Update</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/fujikura-ventus-gen2-tr-golf-shafts</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/fujikura-ventus-gen2-tr-golf-shafts</guid>
-    <pubDate>Sun, 04 Jan 2026 18:08:50 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;One of the most winning graphite shafts in PGA TOUR history is about to bring more technology and performance to golfers.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/fujikura-ventus-gen2-tr-golf-shafts"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Fujikura_Ventus_TR_2026_5b7c81d6e3/Fujikura_Ventus_TR_2026_5b7c81d6e3.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>TaylorMade Qi4D Drivers &amp; Fairway Woods: Fit For Speed</title>
