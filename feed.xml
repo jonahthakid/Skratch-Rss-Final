@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 12 Jan 2026 20:44:52 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Jan 2026 21:16:01 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>LIV Golf Issues Statement After Brooks Koepka’s PGA TOUR Return</title>
+    <link>https://skratch.golf/news/news/liv-golf-issues-statement-brooks-koepka-pga-tour-return</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/liv-golf-issues-statement-brooks-koepka-pga-tour-return</guid>
+    <pubDate>Mon, 12 Jan 2026 20:57:55 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;As the walls seemingly close in, LIV Golf has put out a statement following the news of Brooks Koepka’s PGA TOUR return.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/liv-golf-issues-statement-brooks-koepka-pga-tour-return"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1726410269_117fed6a0a/Getty_Images_1726410269_117fed6a0a.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>BREAKING NEWS: Brooks Koepka Returning to PGA TOUR; Is LIV dead?</title>
     <link>https://www.youtube.com/watch?v=_FLLQBEeWHk</link>
@@ -512,17 +523,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;Backed by a new fitting platform, the Qi4D drivers offer the greatest amount of customization ever offered by TaylorMade.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/taylormade-drivers-woods-qi4d-carbon-face-distance"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Taylormade_Qi4d_title_ce315d90ac/Taylormade_Qi4d_title_ce315d90ac.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Titleist Pro V1x Left Dash Get First Update In Over 7 Years</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/new-prov1-left-dash-golf-ball-speed-distance</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/new-prov1-left-dash-golf-ball-speed-distance</guid>
-    <pubDate>Fri, 02 Jan 2026 17:54:28 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;After years of player testing and feedback, Titleist is set to launch the second-generation Pro V1x Left Dash (-Pro V1x)&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/new-prov1-left-dash-golf-ball-speed-distance"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Pro_V1x_left_dash_title_1493611786/Pro_V1x_left_dash_title_1493611786.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
