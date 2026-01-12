@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 12 Jan 2026 14:52:19 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Jan 2026 15:20:31 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>The Buffalo Bills QB can move it</title>
@@ -24,6 +24,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The Malbon Move No One Announced But Everyone Should Notice</title>
+    <link>https://skratch.golf/style/mens-style/malbon-golf-changes-ambassadors-kim-block-events-buckets-new-look</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/malbon-golf-changes-ambassadors-kim-block-events-buckets-new-look</guid>
+    <pubDate>Sun, 11 Jan 2026 18:52:55 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;Malbon’s latest chapter includes a national tournament, new ambassador faces, and a direction that now stretches well beyond golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/malbon-golf-changes-ambassadors-kim-block-events-buckets-new-look"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Malbon_News_Cover_ab332d7298/Malbon_News_Cover_ab332d7298.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Tito&#x27;s Shorties Classic Q&amp;A with Keith Mitchell, Charley Hull, Jake Knapp and Ben Griffin</title>
@@ -388,17 +399,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Fire Engulfs Golf Course Clubhouse Outside of London</title>
-    <link>https://skratch.golf/news/news/fire-west-essex-golf-club-clubhouse</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/fire-west-essex-golf-club-clubhouse</guid>
-    <pubDate>Mon, 05 Jan 2026 20:10:56 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The clubhouse at West Essex Golf Club caught fire in a scary scene outside London.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/fire-west-essex-golf-club-clubhouse"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_01_05_at_3_17_32_PM_78e7d1fb59/Screenshot_2026_01_05_at_3_17_32_PM_78e7d1fb59.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Still can&#x27;t believe DJ was THIS close to a par 4 ace at Kapalua. 🤏</title>
