@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 12 Jan 2026 16:52:41 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Jan 2026 17:19:27 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Congrats to Anthony Kim on earning a spot on LIV for 2026. Wonder if TDub called to congratulate.</title>
@@ -212,6 +212,17 @@ Subscribe to Skratch on YouTube and don’t miss o&lt;/p&gt;&lt;p&gt;&lt;a href=
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Here are the Players Who Have Been Invited to the Masters…So Far</title>
+    <link>https://skratch.golf/news/pro-golf/masters-2026-every-player-to-receive-invitation-augusta-national</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/masters-2026-every-player-to-receive-invitation-augusta-national</guid>
+    <pubDate>Thu, 08 Jan 2026 18:35:02 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;It&#x27;s never too early to start thinking about the Masters. Here&#x27;s every player who&#x27;s received an invite so far.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/masters-2026-every-player-to-receive-invitation-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Rory_Winning_Putt_2025_masters_8e14cc42a0/Rory_Winning_Putt_2025_masters_8e14cc42a0.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Seeing a Pure Kapalua is Tough for the Vibes</title>
@@ -438,17 +449,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Callaway&#x27;s Chrome Tour Golf Balls Are Getting Faster</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/callaway-chrome-tour-golf-ball-speed-next-gen</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/callaway-chrome-tour-golf-ball-speed-next-gen</guid>
-    <pubDate>Mon, 05 Jan 2026 15:24:37 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Faster means longer, and with the help of some newly engineered internals, the Callaway Chrome Tour line of balls is doing just that.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/callaway-chrome-tour-golf-ball-speed-next-gen"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Chrome_Tour_Golf_Ball_2026_0fad0c82f3/Chrome_Tour_Golf_Ball_2026_0fad0c82f3.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Fujikura Ventus TR Line Gets Gen-2 Update</title>
