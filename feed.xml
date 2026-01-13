@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 13 Jan 2026 14:20:44 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 13 Jan 2026 14:51:21 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>New for Dan On Golf in 2026: The Wednesday Show.</title>
@@ -117,6 +117,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;As the walls seemingly close in, LIV Golf has put out a statement following the news of Brooks Koepka’s PGA TOUR return.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/liv-golf-issues-statement-brooks-koepka-pga-tour-return"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1726410269_117fed6a0a/Getty_Images_1726410269_117fed6a0a.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The PGA TOUR and Brian Rolapp Threaded the Needle With the RMP</title>
+    <link>https://skratch.golf/news/pro-golf/pga-tour-brooks-koepka-return-brian-rolapp-returning-members-program-opinion</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/pga-tour-brooks-koepka-return-brian-rolapp-returning-members-program-opinion</guid>
+    <pubDate>Mon, 12 Jan 2026 20:28:32 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The TOUR has opened the door for players it would love to have back, while leaving over-the-hill, aging veterans and unproven youngsters to fend for themselves.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/pga-tour-brooks-koepka-return-brian-rolapp-returning-members-program-opinion"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2219886302_335fd90524/Getty_Images_2219886302_335fd90524.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -517,17 +528,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Just Announced: Full Swing Season 4 is Coming in April</title>
-    <link>https://skratch.golf/news/news/full-swing-season-four-release-april-netflix</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/full-swing-season-four-release-april-netflix</guid>
-    <pubDate>Wed, 07 Jan 2026 14:25:30 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;With everything that happened last year, the fourth season of Full Swing is going to be must-watch TV.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/full-swing-season-four-release-april-netflix"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1636816215_99ae51c050/Getty_Images_1636816215_99ae51c050.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>An instant classic at Kapalua to kick off Tiger&#x27;s legendary 2000 season. #tigertuesday</title>
     <link>https://www.youtube.com/shorts/4yNPoTWakfg</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/4yNPoTWakfg</guid>
@@ -586,13 +586,13 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>Mizuno JPX One Woods Are Built Different With NanoAlloy Adding Major Speed</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/mizuno-jpx-one-woods-new-technology</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/mizuno-jpx-one-woods-new-technology</guid>
-    <pubDate>Tue, 30 Dec 2025 18:11:02 +0000</pubDate>
+    <title>Titleist Pro V1x Left Dash Get First Update In Over 7 Years</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/new-prov1-left-dash-golf-ball-speed-distance</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/new-prov1-left-dash-golf-ball-speed-distance</guid>
+    <pubDate>Fri, 02 Jan 2026 17:54:28 +0000</pubDate>
     <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Armed with a completely new face technology, Mizuno&#x27;s JPX One Woods look to unlock greater ballspeed and consistency.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/mizuno-jpx-one-woods-new-technology"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Mizuno_JPX_One_woods_Title_5db88cfe30/Mizuno_JPX_One_woods_Title_5db88cfe30.jpg"/>
+    <description>&lt;p&gt;After years of player testing and feedback, Titleist is set to launch the second-generation Pro V1x Left Dash (-Pro V1x)&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/new-prov1-left-dash-golf-ball-speed-distance"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Pro_V1x_left_dash_title_1493611786/Pro_V1x_left_dash_title_1493611786.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
