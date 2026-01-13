@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 13 Jan 2026 13:37:15 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 13 Jan 2026 14:20:44 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>New for Dan On Golf in 2026: The Wednesday Show.</title>
@@ -38,6 +38,17 @@
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>PXG Signs PGA TOUR Rookie Marco Penge</title>
+    <link>https://skratch.golf/news/news/pxg-signs-marco-penge-golfer-pga-tour-ranked</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/pxg-signs-marco-penge-golfer-pga-tour-ranked</guid>
+    <pubDate>Tue, 13 Jan 2026 01:31:04 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;The equipment brand adds one of golf’s hottest young players as it pushes performance—and perception—on TOUR.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pxg-signs-marco-penge-golfer-pga-tour-ranked"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Marco_PXG_6f3420f355/Marco_PXG_6f3420f355.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>7 golfers to win you CASH this 2026 PGA TOUR season. 🤑💰💸</title>
@@ -463,17 +474,6 @@ Subscribe to Skratch on YouTube and don’t miss o&lt;/p&gt;&lt;p&gt;&lt;a href=
     <category>video</category>
   </item>
   <item>
-    <title>An Inside-the-Ropes Tale of the 2025 Ryder Cup, Told by Jon Rahm</title>
-    <link>https://skratch.golf/news/news/jon-rahm-brooks-koepka-leaving-liv-golf-ryder-cup-fans</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/jon-rahm-brooks-koepka-leaving-liv-golf-ryder-cup-fans</guid>
-    <pubDate>Wed, 07 Jan 2026 18:21:14 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Jon Rahm says what it was really like for the Europeans at Bethpage Black, and comments on Brooks Koepka leaving LIV Golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jon-rahm-brooks-koepka-leaving-liv-golf-ryder-cup-fans"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2237506364_becb6babd2/Getty_Images_2237506364_becb6babd2.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>New SEASON, new STUDIO, new FITS.</title>
     <link>https://www.youtube.com/shorts/tHoeFBB0Vug</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/tHoeFBB0Vug</guid>
@@ -490,17 +490,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>PGA of America CEO Stepping Down After Less Than a Year—For a Noble Reason</title>
-    <link>https://skratch.golf/news/news/derek-sprague-pga-of-america-ceo-stepping-down-care-for-family</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/derek-sprague-pga-of-america-ceo-stepping-down-care-for-family</guid>
-    <pubDate>Wed, 07 Jan 2026 17:24:55 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;PGA of America CEO Derek Sprague is stepping down after a year on the job to care for his family in New York.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/derek-sprague-pga-of-america-ceo-stepping-down-care-for-family"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2233037029_1cfed6247f/Getty_Images_2233037029_1cfed6247f.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Bon Jovi, Masters Menu, and a Touch of Red: Inside Tiger Woods&#x27; Upcoming Birthday Bash</title>
@@ -553,6 +542,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
+    <title>Cobra Dials Into Forgiveness &amp; Speed With New OPTM Woods</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/cobra-dials-into-forgiveness-and-speed-with-new-optm-woods</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/cobra-dials-into-forgiveness-and-speed-with-new-optm-woods</guid>
+    <pubDate>Tue, 06 Jan 2026 17:24:57 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;By looking beyond traditional forgiveness methodology, Cobra&#x27;s OPTM line of woods looks to deliver straighter shots way more often.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/cobra-dials-into-forgiveness-and-speed-with-new-optm-woods"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Cobra_Optm_Hero_Title_aa6c44066a/Cobra_Optm_Hero_Title_aa6c44066a.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Everything You Need To Know About TaylorMade&#x27;s New Qi4D Rescues &amp; Qi Max Irons</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/taylormade-qi4d-irons-rescues</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/taylormade-qi4d-irons-rescues</guid>
@@ -560,6 +560,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;TaylorMade&#x27;s newest irons and rescues are built for distance and control without sacrificing feel.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/taylormade-qi4d-irons-rescues"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Qi_max_irons_title_46e553b344/Qi_max_irons_title_46e553b344.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Fujikura Ventus TR Line Gets Gen-2 Update</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/fujikura-ventus-gen2-tr-golf-shafts</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/fujikura-ventus-gen2-tr-golf-shafts</guid>
+    <pubDate>Sun, 04 Jan 2026 18:08:50 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;One of the most winning graphite shafts in PGA TOUR history is about to bring more technology and performance to golfers.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/fujikura-ventus-gen2-tr-golf-shafts"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Fujikura_Ventus_TR_2026_5b7c81d6e3/Fujikura_Ventus_TR_2026_5b7c81d6e3.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -607,17 +618,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;Cobra has officially entered the mini driver conversation with the launch of the King TEC Mini Driver, featuring Future Fit 33.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/cobra-king-tec-mini-driver-golf-club"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Cobra_Mino_title_format_6fb30a08e2/Cobra_Mino_title_format_6fb30a08e2.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>This Century-Old Club Has One Unique Rule—Only Women Can Be Members</title>
-    <link>https://skratch.golf/news/golf-culture/ladies-club-of-toronto-ada-mackenzie-profile</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/ladies-club-of-toronto-ada-mackenzie-profile</guid>
-    <pubDate>Mon, 15 Dec 2025 19:19:08 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The Ladies&#x27; Golf Club of Toronto is the oldest existing golf club in the world, founded by women and for women.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/ladies-club-of-toronto-ada-mackenzie-profile"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/DJI_20250909183532_0245_D_acc6b2ae4d/DJI_20250909183532_0245_D_acc6b2ae4d.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
