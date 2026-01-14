@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 14 Jan 2026 19:39:07 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Jan 2026 20:15:49 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Rick&#x27;s Picks: Here&#x27;s Who We Like (and Their Odds) at the 2026 Sony Open</title>
+    <link>https://skratch.golf/news/pro-golf/sony-open-2026-betting-picks-gaming-odds</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/sony-open-2026-betting-picks-gaming-odds</guid>
+    <pubDate>Wed, 14 Jan 2026 19:42:52 +0000</pubDate>
+    <dc:creator>Rick Gehman</dc:creator>
+    <description>&lt;p&gt;Here&#x27;s our resident gaming czar Rick Gehman&#x27;s pick to win plus, bets for Top 10, Top 20, and one matchup to watch.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/sony-open-2026-betting-picks-gaming-odds"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/jj_spaun_2025_us_open_Getty_Images_2220019384_f3289a7788/jj_spaun_2025_us_open_Getty_Images_2220019384_f3289a7788.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Vijay can beat you righty AND lefty 😭😭😭</title>
     <link>https://www.youtube.com/shorts/2tkWJHuUkJE</link>
@@ -489,17 +500,6 @@ Dan on Golf is presented by @Knockaround, the o&lt;/p&gt;&lt;p&gt;&lt;a href="ht
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;As you’d expect, the news of Brooks Koepka’s return to the PGA TOUR lit up social media.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/brooks-koepka-pga-tour-return-social-media-reaction-liv-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2237903098_4260c2b317/Getty_Images_2237903098_4260c2b317.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Brooks Koepka is a PGA TOUR Member Once Again</title>
-    <link>https://skratch.golf/news/news/brooks-koepka-pga-tour-member-2026-season-return-farmers-insurance-open</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/brooks-koepka-pga-tour-member-2026-season-return-farmers-insurance-open</guid>
-    <pubDate>Mon, 12 Jan 2026 17:46:01 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Thanks to the PGA TOUR&#x27;s new &quot;Returning Members Program,&quot; Brooks Koepka is back. Here&#x27;s how the RMP works and what Koepka&#x27;s financial penalty looks like.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/brooks-koepka-pga-tour-member-2026-season-return-farmers-insurance-open"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2233478354_926f2d151a/Getty_Images_2233478354_926f2d151a.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
