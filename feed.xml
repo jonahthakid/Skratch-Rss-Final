@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 13 Jan 2026 23:38:18 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Jan 2026 01:19:17 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>You Can Still Buy the Jacket Tiger Was Just Spotted Wearing</title>
+    <link>https://skratch.golf/style/mens-style/tiger-woods-sun-day-red-starter-varsity-jacket</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/tiger-woods-sun-day-red-starter-varsity-jacket</guid>
+    <pubDate>Wed, 14 Jan 2026 00:17:54 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;Tiger Woods steps out in Sun Day Red x Starter and the jacket is still right there&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/tiger-woods-sun-day-red-starter-varsity-jacket"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/TW_Satin_9c2d9c6494/TW_Satin_9c2d9c6494.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Tiger’s UNINTENTIONAL layup 🤣</title>
+    <link>https://www.youtube.com/shorts/vHSw09lH0bE</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/vHSw09lH0bE</guid>
+    <pubDate>Tue, 13 Jan 2026 23:58:44 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/vHSw09lH0bE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/vHSw09lH0bE/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/vHSw09lH0bE" type="text/html" medium="video"/>
+    <yt:videoId>vHSw09lH0bE</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Jon Rahm and Cameron Smith Are Staying With LIV Golf</title>
     <link>https://skratch.golf/news/news/jon-rahm-cameron-smith-staying-with-liv-golf</link>
@@ -503,17 +528,6 @@ Dan on Golf is presented by @Knockaround, the o&lt;/p&gt;&lt;p&gt;&lt;a href="ht
     <category>video</category>
   </item>
   <item>
-    <title>It&#x27;s Happening: Brooks Koepka Has Applied to Return to the PGA TOUR</title>
-    <link>https://skratch.golf/news/news/brooks-koepka-applied-to-join-pga-tour-liv-golf</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/brooks-koepka-applied-to-join-pga-tour-liv-golf</guid>
-    <pubDate>Fri, 09 Jan 2026 22:05:58 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Now the question is: when will we see him?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/brooks-koepka-applied-to-join-pga-tour-liv-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2171807734_2c37830332/Getty_Images_2171807734_2c37830332.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Celebrating Sergio’s birthday with one of the CRAZIEST recovery shots you’ll ever see. 👀</title>
     <link>https://www.youtube.com/shorts/Szy0kerhjkU</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/Szy0kerhjkU</guid>
@@ -633,20 +647,6 @@ Subscribe to Skratch on YouTube and don’t miss o&lt;/p&gt;&lt;p&gt;&lt;a href=
     <media:thumbnail url="https://img.youtube.com/vi/IlcuGDBMNak/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/IlcuGDBMNak" type="text/html" medium="video"/>
     <yt:videoId>IlcuGDBMNak</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>VINTAGE AK at Kapalua’s 18th.</title>
-    <link>https://www.youtube.com/shorts/Ce7_Dmsb0IU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/Ce7_Dmsb0IU</guid>
-    <pubDate>Wed, 07 Jan 2026 19:30:02 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Ce7_Dmsb0IU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/Ce7_Dmsb0IU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/Ce7_Dmsb0IU" type="text/html" medium="video"/>
-    <yt:videoId>Ce7_Dmsb0IU</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
