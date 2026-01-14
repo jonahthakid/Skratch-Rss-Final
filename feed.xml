@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 14 Jan 2026 18:56:23 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Jan 2026 19:17:48 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Player to Watch: Keegan Bradley at the Sony Open</title>
+    <link>https://skratch.golf/news/pro-golf/sony-open-2026-keegan-bradley-player-to-watch-waialae</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/sony-open-2026-keegan-bradley-player-to-watch-waialae</guid>
+    <pubDate>Wed, 14 Jan 2026 18:09:33 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;In his first official start since the Ryder Cup, I expect Keegan Bradley to play with some fire at the Sony Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/sony-open-2026-keegan-bradley-player-to-watch-waialae"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2256161443_b0d9e9ff32/Getty_Images_2256161443_b0d9e9ff32.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>LIV Calls ME Out, Bryson Soft Commits, Joel Dahmen Joins The Show</title>
     <link>https://www.youtube.com/watch?v=Qrsh5mtyGnE</link>
@@ -378,17 +389,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Is Tommy Fleetwood Testing the Waters With Lululemon</title>
-    <link>https://skratch.golf/style/mens-style/tommy-fleetwood-lululemon-testing-the-waters-spotted</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/tommy-fleetwood-lululemon-testing-the-waters-spotted</guid>
-    <pubDate>Mon, 12 Jan 2026 21:26:25 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Nothing confirmed, but nothing accidental either&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/tommy-fleetwood-lululemon-testing-the-waters-spotted"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/TF_Lulu_c73d3c9cab/TF_Lulu_c73d3c9cab.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>LIV Golf Issues Statement After Brooks Koepka’s PGA TOUR Return</title>
     <link>https://skratch.golf/news/news/liv-golf-issues-statement-brooks-koepka-pga-tour-return</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/liv-golf-issues-statement-brooks-koepka-pga-tour-return</guid>
@@ -516,6 +516,17 @@ Dan on Golf is presented by @Knockaround, the o&lt;/p&gt;&lt;p&gt;&lt;a href="ht
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Vijay Singh Deserves Every Start He Wants In 2026</title>
+    <link>https://skratch.golf/news/news/vj-singh-2026-pga-tour-card-return-exemption</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/vj-singh-2026-pga-tour-card-return-exemption</guid>
+    <pubDate>Sun, 11 Jan 2026 21:47:19 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Golf has spent decades rewarding longevity. Now it has to live with it.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/vj-singh-2026-pga-tour-card-return-exemption"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/vj_singh_golf_pga_tour_55e225a62b/vj_singh_golf_pga_tour_55e225a62b.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>The Malbon Move No One Announced But Everyone Should Notice</title>
@@ -666,17 +677,6 @@ Subscribe to Skratch on YouTube and don’t miss o&lt;/p&gt;&lt;p&gt;&lt;a href=
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;It&#x27;s never too early to start thinking about the Masters. Here&#x27;s every player who&#x27;s received an invite so far.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/masters-2026-every-player-to-receive-invitation-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Rory_Winning_Putt_2025_masters_8e14cc42a0/Rory_Winning_Putt_2025_masters_8e14cc42a0.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Cobra Dials Into Forgiveness &amp; Speed With New OPTM Woods</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/cobra-dials-into-forgiveness-and-speed-with-new-optm-woods</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/cobra-dials-into-forgiveness-and-speed-with-new-optm-woods</guid>
-    <pubDate>Tue, 06 Jan 2026 17:24:57 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;By looking beyond traditional forgiveness methodology, Cobra&#x27;s OPTM line of woods looks to deliver straighter shots way more often.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/cobra-dials-into-forgiveness-and-speed-with-new-optm-woods"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Cobra_Optm_Hero_Title_aa6c44066a/Cobra_Optm_Hero_Title_aa6c44066a.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
