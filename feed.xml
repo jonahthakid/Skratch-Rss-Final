@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 14 Jan 2026 15:44:41 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Jan 2026 16:23:40 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>On Tap: The Sony Open at Waialae Country Club</title>
+    <link>https://skratch.golf/news/pro-golf/sony-open-2026-how-to-watch-pga-tour-tee-times</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/sony-open-2026-how-to-watch-pga-tour-tee-times</guid>
+    <pubDate>Wed, 14 Jan 2026 15:59:12 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The PGA TOUR returns tomorrow! Here’s everything you need to know for the Sony Open, including how-to-watch info and tee times.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/sony-open-2026-how-to-watch-pga-tour-tee-times"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2192546322_ab12ddabea/Getty_Images_2192546322_ab12ddabea.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Tiger Woods Sounds Pretty Pumped to Have Brooks Koepka Back</title>
     <link>https://skratch.golf/news/news/tiger-woods-brooks-koepka-pga-tour-return-tgl</link>
@@ -512,17 +523,6 @@ Dan on Golf is presented by @Knockaround, the o&lt;/p&gt;&lt;p&gt;&lt;a href="ht
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The Sooner Brooks Is Back, the Louder the Statement</title>
-    <link>https://skratch.golf/news/pro-golf/brooks-koepka-pga-tour-return-opinion-essay</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/brooks-koepka-pga-tour-return-opinion-essay</guid>
-    <pubDate>Fri, 09 Jan 2026 23:49:42 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Koepka’s application is about more than eligibility. It’s also about sending a message to the folks on the other side of golf’s proverbial aisle.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/brooks-koepka-pga-tour-return-opinion-essay"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/brooks_koepka_2023_liv_golf_andalucia_Getty_Images_1378312266_410a900684/brooks_koepka_2023_liv_golf_andalucia_Getty_Images_1378312266_410a900684.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>You gotta reinstate the guy that can clear the ocean with an iron, right?</title>
