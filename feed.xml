@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 14 Jan 2026 16:23:40 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Jan 2026 16:55:28 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>When Tiger imitated Kevin’s signature move 🤣🤣🤣</title>
+    <link>https://www.youtube.com/shorts/EVQva5kOoHo</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/EVQva5kOoHo</guid>
+    <pubDate>Wed, 14 Jan 2026 16:42:32 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/EVQva5kOoHo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/EVQva5kOoHo/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/EVQva5kOoHo" type="text/html" medium="video"/>
+    <yt:videoId>EVQva5kOoHo</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>On Tap: The Sony Open at Waialae Country Club</title>
     <link>https://skratch.golf/news/pro-golf/sony-open-2026-how-to-watch-pga-tour-tee-times</link>
@@ -636,20 +650,6 @@ Subscribe to Skratch on YouTube and don’t miss o&lt;/p&gt;&lt;p&gt;&lt;a href=
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Rory_Winning_Putt_2025_masters_8e14cc42a0/Rory_Winning_Putt_2025_masters_8e14cc42a0.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Max Homa has the longest drive in PGA TOUR ShotLink era, and this is the only evidence of it. 🤣</title>
-    <link>https://www.youtube.com/shorts/IlcuGDBMNak</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/IlcuGDBMNak</guid>
-    <pubDate>Thu, 08 Jan 2026 16:47:48 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/IlcuGDBMNak"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/IlcuGDBMNak/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/IlcuGDBMNak" type="text/html" medium="video"/>
-    <yt:videoId>IlcuGDBMNak</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Cobra Dials Into Forgiveness &amp; Speed With New OPTM Woods</title>
