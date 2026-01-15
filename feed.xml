@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 15 Jan 2026 14:48:57 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Jan 2026 15:19:43 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>“I don’t think this is the flex that LIV thinks it is.”</title>
@@ -88,6 +88,17 @@ Dan on Golf is presented by @Knockaround, the official sunglasses partner &lt;/p
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Jordan Brand Finally Gets Its Tour Guy As They Welcome Tony Finau</title>
+    <link>https://skratch.golf/style/mens-style/jordan-brand-finally-gets-its-tour-guy-as-they-welcome-tony-finau</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/jordan-brand-finally-gets-its-tour-guy-as-they-welcome-tony-finau</guid>
+    <pubDate>Wed, 14 Jan 2026 22:36:51 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;A competitor first, a hooper at heart, and now Jordan Brand’s golf standard bearer.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/jordan-brand-finally-gets-its-tour-guy-as-they-welcome-tony-finau"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Tony_JB_Cover_1dfa60917a/Tony_JB_Cover_1dfa60917a.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Wyndham Clark is &quot;Torn&quot; About Brooks Koepka&#x27;s PGA TOUR Return</title>
@@ -496,17 +507,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>LIV Golf Issues Statement After Brooks Koepka’s PGA TOUR Return</title>
-    <link>https://skratch.golf/news/news/liv-golf-issues-statement-brooks-koepka-pga-tour-return</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/liv-golf-issues-statement-brooks-koepka-pga-tour-return</guid>
-    <pubDate>Mon, 12 Jan 2026 20:57:55 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;As the walls seemingly close in, LIV Golf has put out a statement following the news of Brooks Koepka’s PGA TOUR return.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/liv-golf-issues-statement-brooks-koepka-pga-tour-return"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1726410269_117fed6a0a/Getty_Images_1726410269_117fed6a0a.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>The PGA TOUR and Brian Rolapp Threaded the Needle With the RMP</title>
     <link>https://skratch.golf/news/pro-golf/pga-tour-brooks-koepka-return-brian-rolapp-returning-members-program-opinion</link>
     <guid isPermaLink="true">https://skratch.golf/news/pro-golf/pga-tour-brooks-koepka-return-brian-rolapp-returning-members-program-opinion</guid>
@@ -564,6 +564,17 @@ Dan on Golf is presented by @Knockaround, the o&lt;/p&gt;&lt;p&gt;&lt;a href="ht
     <category>video</category>
   </item>
   <item>
+    <title>Social Media Reacts to Brooks Koepka’s PGA TOUR Return</title>
+    <link>https://skratch.golf/news/news/brooks-koepka-pga-tour-return-social-media-reaction-liv-golf</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/brooks-koepka-pga-tour-return-social-media-reaction-liv-golf</guid>
+    <pubDate>Mon, 12 Jan 2026 18:08:09 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;As you’d expect, the news of Brooks Koepka’s return to the PGA TOUR lit up social media.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/brooks-koepka-pga-tour-return-social-media-reaction-liv-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2237903098_4260c2b317/Getty_Images_2237903098_4260c2b317.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Congrats to Anthony Kim on earning a spot on LIV for 2026. Wonder if TDub called to congratulate.</title>
     <link>https://www.youtube.com/shorts/W_O60s8J-uw</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/W_O60s8J-uw</guid>
@@ -590,17 +601,6 @@ Dan on Golf is presented by @Knockaround, the o&lt;/p&gt;&lt;p&gt;&lt;a href="ht
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The Malbon Move No One Announced But Everyone Should Notice</title>
-    <link>https://skratch.golf/style/mens-style/malbon-golf-changes-ambassadors-kim-block-events-buckets-new-look</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/malbon-golf-changes-ambassadors-kim-block-events-buckets-new-look</guid>
-    <pubDate>Sun, 11 Jan 2026 18:52:55 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Malbon’s latest chapter includes a national tournament, new ambassador faces, and a direction that now stretches well beyond golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/malbon-golf-changes-ambassadors-kim-block-events-buckets-new-look"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Malbon_News_Cover_ab332d7298/Malbon_News_Cover_ab332d7298.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Tito&#x27;s Shorties Classic Q&amp;A with Keith Mitchell, Charley Hull, Jake Knapp and Ben Griffin</title>
