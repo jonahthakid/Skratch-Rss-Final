@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 15 Jan 2026 19:20:20 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Jan 2026 19:43:59 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Rory McIlroy Takes an Early Look at Augusta National Ahead of Masters</title>
+    <link>https://skratch.golf/news/pro-golf/rory-mcilroy-augusta-national-visit-ahead-of-Masters</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/rory-mcilroy-augusta-national-visit-ahead-of-Masters</guid>
+    <pubDate>Thu, 15 Jan 2026 18:27:42 +0000</pubDate>
+    <dc:creator>Brittany Romano</dc:creator>
+    <description>&lt;p&gt;No cameras, no crowds, just a champion returning to Augusta for a night to sit with history.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/rory-mcilroy-augusta-national-visit-ahead-of-Masters"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2210126581_f6429b3c0a/Getty_Images_2210126581_f6429b3c0a.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Joel Dahmen On Losing His Tour Card, Fatherhood &amp; The Future</title>
     <link>https://www.youtube.com/watch?v=aRg8EBDATRY</link>
@@ -292,17 +303,6 @@ Dan on Golf is presented by @Knockaround, the official sunglasses partner &lt;/p
     <category>article</category>
   </item>
   <item>
-    <title>You Can Still Buy the Jacket Tiger Was Just Spotted Wearing</title>
-    <link>https://skratch.golf/style/mens-style/tiger-woods-sun-day-red-starter-varsity-jacket</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/tiger-woods-sun-day-red-starter-varsity-jacket</guid>
-    <pubDate>Wed, 14 Jan 2026 00:17:54 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Tiger Woods steps out in Sun Day Red x Starter and the jacket is still right there&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/tiger-woods-sun-day-red-starter-varsity-jacket"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/TW_Satin_9c2d9c6494/TW_Satin_9c2d9c6494.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Tiger’s UNINTENTIONAL layup 🤣</title>
     <link>https://www.youtube.com/shorts/vHSw09lH0bE</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/vHSw09lH0bE</guid>
@@ -317,13 +317,13 @@ Dan on Golf is presented by @Knockaround, the official sunglasses partner &lt;/p
     <category>video</category>
   </item>
   <item>
-    <title>The U.S. Solheim Cup Team Cutoff Deadline Might Shock You</title>
-    <link>https://skratch.golf/news/news/lpga-solheim-cup-team-usa-player-cutoff</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-solheim-cup-team-usa-player-cutoff</guid>
-    <pubDate>Tue, 13 Jan 2026 21:10:54 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Team USA captain, Angela Stanford: &quot;I wanted as many opportunities as possible for the players to play their way onto the team and for me to watch them under that pressure.&quot;&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-solheim-cup-team-usa-player-cutoff"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_489321128_c5df53ca39/Getty_Images_489321128_c5df53ca39.jpg"/>
+    <title>Jon Rahm and Cameron Smith Are Staying With LIV Golf</title>
+    <link>https://skratch.golf/news/news/jon-rahm-cameron-smith-staying-with-liv-golf</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/jon-rahm-cameron-smith-staying-with-liv-golf</guid>
+    <pubDate>Tue, 13 Jan 2026 21:21:38 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Rahm and Smith confirm they&#x27;ll be staying with LIV Golf despite the PGA TOUR’s new “Returning Members Program.”&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jon-rahm-cameron-smith-staying-with-liv-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2225203121_8d043e283a/Getty_Images_2225203121_8d043e283a.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -495,17 +495,6 @@ Subscribe to Skratch&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/short
     <category>video</category>
   </item>
   <item>
-    <title>This LPGA Major Just Made a PGA TOUR Venue Its New Home</title>
-    <link>https://skratch.golf/news/news/chevron-championship-lpga-venue-change-memorial-park-houston</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/chevron-championship-lpga-venue-change-memorial-park-houston</guid>
-    <pubDate>Tue, 13 Jan 2026 15:28:16 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The Chevron Championship just got (another) new home. Here&#x27;s what we know.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/chevron-championship-lpga-venue-change-memorial-park-houston"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2149590963_e1267a3659/Getty_Images_2149590963_e1267a3659.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>New for Dan On Golf in 2026: The Wednesday Show.</title>
     <link>https://www.youtube.com/shorts/mrri1A1wSVI</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/mrri1A1wSVI</guid>
@@ -591,6 +580,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The PGA TOUR and Brian Rolapp Threaded the Needle With the RMP</title>
+    <link>https://skratch.golf/news/pro-golf/pga-tour-brooks-koepka-return-brian-rolapp-returning-members-program-opinion</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/pga-tour-brooks-koepka-return-brian-rolapp-returning-members-program-opinion</guid>
+    <pubDate>Mon, 12 Jan 2026 20:28:32 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The TOUR has opened the door for players it would love to have back, while leaving over-the-hill, aging veterans and unproven youngsters to fend for themselves.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/pga-tour-brooks-koepka-return-brian-rolapp-returning-members-program-opinion"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2219886302_335fd90524/Getty_Images_2219886302_335fd90524.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>BREAKING NEWS: Brooks Koepka Returning to PGA TOUR; Is LIV dead?</title>
