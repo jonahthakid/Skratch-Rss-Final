@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 15 Jan 2026 16:28:38 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Jan 2026 17:03:17 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>&quot;This Is a Fire Engine Red Warning&quot;: Will the PGA TOUR Leave Hawaii?</title>
@@ -35,6 +35,17 @@
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The 6 Golfers Who Made the 2025 List of Highest-Paid Athletes</title>
+    <link>https://skratch.golf/news/pro-golf/top-earning-golfers-2025-ranking-highest-paid-athletes-rahm-mcilroy-woods-paycheck</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/top-earning-golfers-2025-ranking-highest-paid-athletes-rahm-mcilroy-woods-paycheck</guid>
+    <pubDate>Thu, 15 Jan 2026 14:59:28 +0000</pubDate>
+    <dc:creator>Brittany Romano</dc:creator>
+    <description>&lt;p&gt;Sportico’s 2025 earnings list shows golf’s biggest names cashing massive checks, regardless of where—or how often—they tee it up.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/top-earning-golfers-2025-ranking-highest-paid-athletes-rahm-mcilroy-woods-paycheck"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1695085872_4c68e4af93/Getty_Images_1695085872_4c68e4af93.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>“I don’t think this is the flex that LIV thinks it is.”</title>
@@ -587,17 +598,6 @@ Dan on Golf is presented by @Knockaround, the o&lt;/p&gt;&lt;p&gt;&lt;a href="ht
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Brooks Koepka is a PGA TOUR Member Once Again</title>
-    <link>https://skratch.golf/news/news/brooks-koepka-pga-tour-member-2026-season-return-farmers-insurance-open</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/brooks-koepka-pga-tour-member-2026-season-return-farmers-insurance-open</guid>
-    <pubDate>Mon, 12 Jan 2026 17:46:01 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Thanks to the PGA TOUR&#x27;s new &quot;Returning Members Program,&quot; Brooks Koepka is back. Here&#x27;s how the RMP works and what Koepka&#x27;s financial penalty looks like.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/brooks-koepka-pga-tour-member-2026-season-return-farmers-insurance-open"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2233478354_926f2d151a/Getty_Images_2233478354_926f2d151a.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Congrats to Anthony Kim on earning a spot on LIV for 2026. Wonder if TDub called to congratulate.</title>
