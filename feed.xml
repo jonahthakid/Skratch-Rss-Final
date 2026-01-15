@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 15 Jan 2026 15:52:42 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Jan 2026 16:28:38 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>&quot;This Is a Fire Engine Red Warning&quot;: Will the PGA TOUR Leave Hawaii?</title>
+    <link>https://skratch.golf/news/news/pga-tour-future-in-hawaii-mark-rolfing-interview-kapalua</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-future-in-hawaii-mark-rolfing-interview-kapalua</guid>
+    <pubDate>Thu, 15 Jan 2026 15:36:46 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;With the PGA TOUR&#x27;s future in Hawaii uncertain, we sat down with Mark Rolfing to get a peek behind the curtain.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-future-in-hawaii-mark-rolfing-interview-kapalua"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/aaron_rai_sony_open_hawaii_2026_Getty_Images_2256338595_0040258b6f/aaron_rai_sony_open_hawaii_2026_Getty_Images_2256338595_0040258b6f.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>&quot;It&#x27;s a very interesting stance from what it was two or three years ago&quot; - Joel Dahmen</title>
     <link>https://www.youtube.com/shorts/mqKbgcb0jpY</link>
@@ -578,13 +589,13 @@ Dan on Golf is presented by @Knockaround, the o&lt;/p&gt;&lt;p&gt;&lt;a href="ht
     <category>video</category>
   </item>
   <item>
-    <title>Social Media Reacts to Brooks Koepka’s PGA TOUR Return</title>
-    <link>https://skratch.golf/news/news/brooks-koepka-pga-tour-return-social-media-reaction-liv-golf</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/brooks-koepka-pga-tour-return-social-media-reaction-liv-golf</guid>
-    <pubDate>Mon, 12 Jan 2026 18:08:09 +0000</pubDate>
+    <title>Brooks Koepka is a PGA TOUR Member Once Again</title>
+    <link>https://skratch.golf/news/news/brooks-koepka-pga-tour-member-2026-season-return-farmers-insurance-open</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/brooks-koepka-pga-tour-member-2026-season-return-farmers-insurance-open</guid>
+    <pubDate>Mon, 12 Jan 2026 17:46:01 +0000</pubDate>
     <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;As you’d expect, the news of Brooks Koepka’s return to the PGA TOUR lit up social media.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/brooks-koepka-pga-tour-return-social-media-reaction-liv-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2237903098_4260c2b317/Getty_Images_2237903098_4260c2b317.jpg"/>
+    <description>&lt;p&gt;Thanks to the PGA TOUR&#x27;s new &quot;Returning Members Program,&quot; Brooks Koepka is back. Here&#x27;s how the RMP works and what Koepka&#x27;s financial penalty looks like.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/brooks-koepka-pga-tour-member-2026-season-return-farmers-insurance-open"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2233478354_926f2d151a/Getty_Images_2233478354_926f2d151a.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -678,17 +689,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Szy0kerhjkU"&gt;
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Ping Ups Their Short Game Once Again With S259 Wedges</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/ping-s259-wedges-spin-control-technology</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/ping-s259-wedges-spin-control-technology</guid>
-    <pubDate>Fri, 09 Jan 2026 03:36:08 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;The S259 wedges continue Ping&#x27;s commitment to creating better performance and offering more options through the bag to help golfers score better.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/ping-s259-wedges-spin-control-technology"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Ping_S259_wedge_title_b9b783cd77/Ping_S259_wedge_title_b9b783cd77.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
