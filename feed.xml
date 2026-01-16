@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 16 Jan 2026 17:20:24 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Jan 2026 17:46:17 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>FIRST LOOK: Callaway&#x27;s 2026 Quantum line 👀</title>
@@ -44,6 +44,28 @@ Subscribe to Skratc&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Nick Faldo is Back Home After Open-Heart Surgery</title>
+    <link>https://skratch.golf/news/news/nick-faldo-open-heart-surgery-recovery-back-home</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/nick-faldo-open-heart-surgery-recovery-back-home</guid>
+    <pubDate>Fri, 16 Jan 2026 17:01:12 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Sir Nick Faldo underwent a successful preventative open-heart surgery and is back home to recover.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/nick-faldo-open-heart-surgery-recovery-back-home"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2168982104_d32d6193f0/Getty_Images_2168982104_d32d6193f0.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Jordan Spieth is Crazy—That&#x27;s Why We Love Him</title>
+    <link>https://skratch.golf/news/news/jordan-spieth-sony-open-2026-driving-iron-hybrid-incredible-quote</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/jordan-spieth-sony-open-2026-driving-iron-hybrid-incredible-quote</guid>
+    <pubDate>Fri, 16 Jan 2026 15:15:07 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Spieth might have just dropped the quote of the year, and it&#x27;s only January.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jordan-spieth-sony-open-2026-driving-iron-hybrid-incredible-quote"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2256510956_beb46c71fb/Getty_Images_2256510956_beb46c71fb.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Rory McIlroy: LIV Golf Will Need Bryson and Billions &#x27;Just to Maintain&#x27;</title>
@@ -415,17 +437,6 @@ Dan on Golf is presented by @Knockaround, the official sunglasses partner &lt;/p
     <category>video</category>
   </item>
   <item>
-    <title>Bryson DeChambeau Doesn’t Sound Set on PGA TOUR Return…Yet</title>
-    <link>https://skratch.golf/news/news/bryson-dechambeau-liv-golf-pga-tour-decision-not-leaving-yet-contract</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/bryson-dechambeau-liv-golf-pga-tour-decision-not-leaving-yet-contract</guid>
-    <pubDate>Tue, 13 Jan 2026 21:09:23 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;It sounds like Bryson DeChambeau will stay with LIV Golf in 2026. But his long-term plans? Those are TBD.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/bryson-dechambeau-liv-golf-pga-tour-decision-not-leaving-yet-contract"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2224822445_f44413b38d/Getty_Images_2224822445_f44413b38d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>It’s nothing against Vijay, but this ain’t it.</title>
     <link>https://www.youtube.com/shorts/lv0483Vl7jU</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/lv0483Vl7jU</guid>
@@ -440,17 +451,6 @@ Dan on Golf is presented by @Knockaround, the official sunglasses partner &lt;/p
     <category>video</category>
   </item>
   <item>
-    <title>Bryson DeChambeau Asks For Help With LIV-PGA TOUR Decision</title>
-    <link>https://skratch.golf/news/news/bryson-dechambeau-liv-golf-pga-tour-decision-social-media</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/bryson-dechambeau-liv-golf-pga-tour-decision-social-media</guid>
-    <pubDate>Tue, 13 Jan 2026 20:44:18 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Bryson DeChambeau is the content king for a reason. On Tuesday, he asked his followers whether or not he should leave LIV Golf for the PGA TOUR.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/bryson-dechambeau-liv-golf-pga-tour-decision-social-media"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/bryson_dechambeau_us_open_Getty_Images_2219676203_6b11b41a16/bryson_dechambeau_us_open_Getty_Images_2219676203_6b11b41a16.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Our LIVE Reaction To The Brooks Koepka/PGA TOUR News</title>
     <link>https://www.youtube.com/watch?v=tGnrXookJUE</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=tGnrXookJUE</guid>
@@ -463,6 +463,17 @@ Dan on Golf is presented by @Knockaround, the official sunglasses partner &lt;/p
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The Tito’s Shorties Classic is Back at Butler Pitch &amp; Putt</title>
+    <link>https://skratch.golf/news/pro-golf/titos-shorties-classic-2026-charley-hull-ben-griffin-keith-mitchell-jake-knapp-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/titos-shorties-classic-2026-charley-hull-ben-griffin-keith-mitchell-jake-knapp-pga-tour</guid>
+    <pubDate>Tue, 13 Jan 2026 19:03:42 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Charley Hull, Ben Griffin, Keith Mitchell, and Jake Knapp go head-to-head in this year’s Tito’s Shorties Classic at Butler Pitch &amp; Putt in Austin.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/titos-shorties-classic-2026-charley-hull-ben-griffin-keith-mitchell-jake-knapp-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Titos_Classic_Thumbnail_cca4db9485/Titos_Classic_Thumbnail_cca4db9485.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>An Austin Tradition is BACK with the Tito&#x27;s Shorties Classic</title>
@@ -546,17 +557,6 @@ Subscribe to Skratch&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/short
     <category>video</category>
   </item>
   <item>
-    <title>The PGA TOUR’s Best React to Brooks Koepka’s Return</title>
-    <link>https://skratch.golf/news/news/brooks-koepka-pga-tour-return-players-react-scottie-scheffler</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/brooks-koepka-pga-tour-return-players-react-scottie-scheffler</guid>
-    <pubDate>Tue, 13 Jan 2026 16:50:59 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The best players on the PGA TOUR agree: Bringing back Brooks Koepka was the right move.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/brooks-koepka-pga-tour-return-players-react-scottie-scheffler"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1235502590_33799ad3af/Getty_Images_1235502590_33799ad3af.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>&quot;If I&#x27;m him, I&#x27;m looking them with a straight face and I&#x27;m asking for $500 million.&quot;</title>
     <link>https://www.youtube.com/shorts/UJBWppIg-VU</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/UJBWppIg-VU</guid>
@@ -569,17 +569,6 @@ Subscribe to Skratch&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/short
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>This LPGA Major Just Made a PGA TOUR Venue Its New Home</title>
-    <link>https://skratch.golf/news/news/chevron-championship-lpga-venue-change-memorial-park-houston</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/chevron-championship-lpga-venue-change-memorial-park-houston</guid>
-    <pubDate>Tue, 13 Jan 2026 15:28:16 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The Chevron Championship just got (another) new home. Here&#x27;s what we know.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/chevron-championship-lpga-venue-change-memorial-park-houston"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2149590963_e1267a3659/Getty_Images_2149590963_e1267a3659.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>New for Dan On Golf in 2026: The Wednesday Show.</title>
@@ -644,17 +633,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>The PGA TOUR and Brian Rolapp Threaded the Needle With the RMP</title>
-    <link>https://skratch.golf/news/pro-golf/pga-tour-brooks-koepka-return-brian-rolapp-returning-members-program-opinion</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/pga-tour-brooks-koepka-return-brian-rolapp-returning-members-program-opinion</guid>
-    <pubDate>Mon, 12 Jan 2026 20:28:32 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The TOUR has opened the door for players it would love to have back, while leaving over-the-hill, aging veterans and unproven youngsters to fend for themselves.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/pga-tour-brooks-koepka-return-brian-rolapp-returning-members-program-opinion"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2219886302_335fd90524/Getty_Images_2219886302_335fd90524.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>See you at Torrey, BRUCE! 🤣</title>
     <link>https://www.youtube.com/shorts/f3hZB4pekjg</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/f3hZB4pekjg</guid>
@@ -681,6 +659,31 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The Buffalo Bills QB can move it</title>
+    <link>https://www.youtube.com/shorts/uV0uJAgBz08</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/uV0uJAgBz08</guid>
+    <pubDate>Sun, 11 Jan 2026 22:52:11 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/uV0uJAgBz08"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/uV0uJAgBz08/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/uV0uJAgBz08" type="text/html" medium="video"/>
+    <yt:videoId>uV0uJAgBz08</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Ping Ups Their Short Game Once Again With S259 Wedges</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/ping-s259-wedges-spin-control-technology</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/ping-s259-wedges-spin-control-technology</guid>
+    <pubDate>Fri, 09 Jan 2026 03:36:08 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;The S259 wedges continue Ping&#x27;s commitment to creating better performance and offering more options through the bag to help golfers score better.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/ping-s259-wedges-spin-control-technology"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Ping_S259_wedge_title_b9b783cd77/Ping_S259_wedge_title_b9b783cd77.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
 </channel>
 </rss>
