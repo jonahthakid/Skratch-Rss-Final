@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 15 Jan 2026 23:40:27 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Jan 2026 01:17:16 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Rory McIlroy: LIV Golf Will Need Bryson and Billions &#x27;Just to Maintain&#x27;</title>
+    <link>https://skratch.golf/news/news/rory-mcilroy-liv-golf-no-move-the-needle-signings-brooks-koepka</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/rory-mcilroy-liv-golf-no-move-the-needle-signings-brooks-koepka</guid>
+    <pubDate>Thu, 15 Jan 2026 23:50:58 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;&quot;They haven’t signed anyone who moves the needle, and I don’t think they will.&quot;&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rory-mcilroy-liv-golf-no-move-the-needle-signings-brooks-koepka"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2256408644_2ec3df450f/Getty_Images_2256408644_2ec3df450f.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Could Bryson become the first ever YouTube/Majors ONLY golfer?</title>
     <link>https://www.youtube.com/shorts/vrepixZTL-U</link>
@@ -345,13 +356,13 @@ Dan on Golf is presented by @Knockaround, the official sunglasses partner &lt;/p
     <category>video</category>
   </item>
   <item>
-    <title>Jon Rahm and Cameron Smith Are Staying With LIV Golf</title>
-    <link>https://skratch.golf/news/news/jon-rahm-cameron-smith-staying-with-liv-golf</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/jon-rahm-cameron-smith-staying-with-liv-golf</guid>
-    <pubDate>Tue, 13 Jan 2026 21:21:38 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Rahm and Smith confirm they&#x27;ll be staying with LIV Golf despite the PGA TOUR’s new “Returning Members Program.”&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jon-rahm-cameron-smith-staying-with-liv-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2225203121_8d043e283a/Getty_Images_2225203121_8d043e283a.jpg"/>
+    <title>The U.S. Solheim Cup Team Cutoff Deadline Might Shock You</title>
+    <link>https://skratch.golf/news/news/lpga-solheim-cup-team-usa-player-cutoff</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-solheim-cup-team-usa-player-cutoff</guid>
+    <pubDate>Tue, 13 Jan 2026 21:10:54 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Team USA captain, Angela Stanford: &quot;I wanted as many opportunities as possible for the players to play their way onto the team and for me to watch them under that pressure.&quot;&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-solheim-cup-team-usa-player-cutoff"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_489321128_c5df53ca39/Getty_Images_489321128_c5df53ca39.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -608,17 +619,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The PGA TOUR and Brian Rolapp Threaded the Needle With the RMP</title>
-    <link>https://skratch.golf/news/pro-golf/pga-tour-brooks-koepka-return-brian-rolapp-returning-members-program-opinion</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/pga-tour-brooks-koepka-return-brian-rolapp-returning-members-program-opinion</guid>
-    <pubDate>Mon, 12 Jan 2026 20:28:32 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The TOUR has opened the door for players it would love to have back, while leaving over-the-hill, aging veterans and unproven youngsters to fend for themselves.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/pga-tour-brooks-koepka-return-brian-rolapp-returning-members-program-opinion"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2219886302_335fd90524/Getty_Images_2219886302_335fd90524.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>See you at Torrey, BRUCE! 🤣</title>
