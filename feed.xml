@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 17 Jan 2026 19:35:29 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 17 Jan 2026 20:16:45 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Remember, it&#x27;s ALWAYS the club&#x27;s fault 😭</title>
@@ -527,6 +527,17 @@ Dan on Golf is presented by @Knockaround, the official sunglasses partner &lt;/p
     <category>video</category>
   </item>
   <item>
+    <title>The Tito’s Shorties Classic is Back at Butler Pitch &amp; Putt</title>
+    <link>https://skratch.golf/news/pro-golf/titos-shorties-classic-2026-charley-hull-ben-griffin-keith-mitchell-jake-knapp-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/titos-shorties-classic-2026-charley-hull-ben-griffin-keith-mitchell-jake-knapp-pga-tour</guid>
+    <pubDate>Tue, 13 Jan 2026 19:03:42 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Charley Hull, Ben Griffin, Keith Mitchell, and Jake Knapp go head-to-head in this year’s Tito’s Shorties Classic at Butler Pitch &amp; Putt in Austin.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/titos-shorties-classic-2026-charley-hull-ben-griffin-keith-mitchell-jake-knapp-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Titos_Classic_Thumbnail_cca4db9485/Titos_Classic_Thumbnail_cca4db9485.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>An Austin Tradition is BACK with the Tito&#x27;s Shorties Classic</title>
     <link>https://www.youtube.com/shorts/poxA4RFMuQQ</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/poxA4RFMuQQ</guid>
@@ -682,17 +693,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The PGA TOUR and Brian Rolapp Threaded the Needle With the RMP</title>
-    <link>https://skratch.golf/news/pro-golf/pga-tour-brooks-koepka-return-brian-rolapp-returning-members-program-opinion</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/pga-tour-brooks-koepka-return-brian-rolapp-returning-members-program-opinion</guid>
-    <pubDate>Mon, 12 Jan 2026 20:28:32 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The TOUR has opened the door for players it would love to have back, while leaving over-the-hill, aging veterans and unproven youngsters to fend for themselves.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/pga-tour-brooks-koepka-return-brian-rolapp-returning-members-program-opinion"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2219886302_335fd90524/Getty_Images_2219886302_335fd90524.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
