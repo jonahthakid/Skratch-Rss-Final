@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 18 Jan 2026 18:21:13 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Jan 2026 18:48:04 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>When Happy Gilmore teed it up at the Sony Open. 🤣</title>
+    <link>https://www.youtube.com/shorts/hzgXdh3vc6c</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/hzgXdh3vc6c</guid>
+    <pubDate>Sun, 18 Jan 2026 18:23:57 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/hzgXdh3vc6c"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/hzgXdh3vc6c/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/hzgXdh3vc6c" type="text/html" medium="video"/>
+    <yt:videoId>hzgXdh3vc6c</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Remember, it&#x27;s ALWAYS the club&#x27;s fault 😭</title>
     <link>https://www.youtube.com/shorts/s8cDJzy033M</link>
@@ -672,24 +686,6 @@ Here are his picks for the seven golfers who will earn you cash this year. Watch
     <media:thumbnail url="https://img.youtube.com/vi/7mR9wbMwJ4g/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/7mR9wbMwJ4g" type="text/html" medium="video"/>
     <yt:videoId>7mR9wbMwJ4g</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Seven PGA TOUR players to bet on and win BIG this season 💰</title>
-    <link>https://www.youtube.com/watch?v=2qIR21H2Y6Y</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=2qIR21H2Y6Y</guid>
-    <pubDate>Mon, 12 Jan 2026 22:03:23 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Rick Gehman is back ahead of the PGA TOUR&#x27;s Sony Open in Hawaii to help you bet better, and win more, this season. Here are his picks for the seven golfers who will earn you cash this year.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=2qIR21H2Y6Y"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/2qIR21H2Y6Y/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/2qIR21H2Y6Y" type="text/html" medium="video"/>
-    <yt:videoId>2qIR21H2Y6Y</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
