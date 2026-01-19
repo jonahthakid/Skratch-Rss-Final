@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 19 Jan 2026 16:22:32 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Jan 2026 16:53:47 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Play a hole with Chris Gotterup 🏆</title>
@@ -38,6 +38,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Adidas Originals Golf Is Still One of The Sport&#x27;s Most Interesting Experiments</title>
+    <link>https://skratch.golf/style/mens-style/adidas-golf-originals-golf-most-interesting-experiments</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/adidas-golf-originals-golf-most-interesting-experiments</guid>
+    <pubDate>Sat, 17 Jan 2026 00:06:50 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;A collection that isn’t afraid to explore beyond the standard polo playbook.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/adidas-golf-originals-golf-most-interesting-experiments"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/AO_Cover_2aac623409/AO_Cover_2aac623409.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Remember, it&#x27;s ALWAYS the club&#x27;s fault 😭</title>
@@ -397,6 +408,17 @@ Dan on Golf is presented by @Knockaround, the official sunglasses partner &lt;/p
     <category>article</category>
   </item>
   <item>
+    <title>Wyndham Clark is &quot;Torn&quot; About Brooks Koepka&#x27;s PGA TOUR Return</title>
+    <link>https://skratch.golf/news/news/Wyndham-clark-torn-brooks-koepka-pga-tour-return</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/Wyndham-clark-torn-brooks-koepka-pga-tour-return</guid>
+    <pubDate>Wed, 14 Jan 2026 21:52:23 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;We&#x27;re already getting some mixed reviews on the PGA TOUR welcoming back Brooks Koepka.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Wyndham-clark-torn-brooks-koepka-pga-tour-return"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2251940295_d573900e88/Getty_Images_2251940295_d573900e88.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>LIV Golf CEO on Brooks Koepka: There Will Be No Better Cheerleader for Him Than Me</title>
     <link>https://skratch.golf/news/news/liv-golf-ceo-scott-oneil-comments-on-brooks-koepka-pga-tour-return</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/liv-golf-ceo-scott-oneil-comments-on-brooks-koepka-pga-tour-return</guid>
@@ -465,17 +487,6 @@ Dan on Golf is presented by @Knockaround, the official sunglasses partner &lt;/p
     <dc:creator>Luke Nesbitt</dc:creator>
     <description>&lt;p&gt;After kicking off season two of Vanity Index, we broke down Santino’s swing and the timing that makes it work—or fall apart.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/andrew-santino-golf-swing-analysis"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/santionswinganalysis_16x9_8e94b6b6d6/santionswinganalysis_16x9_8e94b6b6d6.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>On Tap: The Sony Open at Waialae Country Club</title>
-    <link>https://skratch.golf/news/pro-golf/sony-open-2026-how-to-watch-pga-tour-tee-times</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/sony-open-2026-how-to-watch-pga-tour-tee-times</guid>
-    <pubDate>Wed, 14 Jan 2026 15:59:12 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The PGA TOUR returns tomorrow! Here’s everything you need to know for the Sony Open, including how-to-watch info and tee times.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/sony-open-2026-how-to-watch-pga-tour-tee-times"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2192546322_ab12ddabea/Getty_Images_2192546322_ab12ddabea.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -681,17 +692,6 @@ Here are his picks for the seven golfers who will earn you cash this year. Watch
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>An Inside Look At The Vokey SM11 Wedges</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/titleist-vokey-wedges-sm11-sm-11-technology</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/titleist-vokey-wedges-sm11-sm-11-technology</guid>
-    <pubDate>Mon, 12 Jan 2026 20:15:46 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Titleist and Bob Vokey show that staying on top isn’t about reinventing the wheel, it’s about relentless refinement.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/titleist-vokey-wedges-sm11-sm-11-technology"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Vokey_wedge_title_bcb56e2ab2/Vokey_wedge_title_bcb56e2ab2.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
