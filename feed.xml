@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 19 Jan 2026 17:19:49 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Jan 2026 17:46:16 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Justin Timberlake shares his love for golf while showing off his crazy pure 6-month-old swing (2002)</title>
+    <link>https://www.youtube.com/shorts/ZspUejKex_o</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/ZspUejKex_o</guid>
+    <pubDate>Mon, 19 Jan 2026 17:37:18 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ZspUejKex_o"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/ZspUejKex_o/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/ZspUejKex_o" type="text/html" medium="video"/>
+    <yt:videoId>ZspUejKex_o</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Charley Hull, Lexi Thompson Among First Wave of WTGL Signees</title>
+    <link>https://skratch.golf/news/news/wtgl-player-lineups</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/wtgl-player-lineups</guid>
+    <pubDate>Mon, 19 Jan 2026 17:18:15 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Meet the starting 5 of WTGL.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/wtgl-player-lineups"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Charley_Hull_b466f5c314/Charley_Hull_b466f5c314.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Play a hole with Chris Gotterup 🏆</title>
     <link>https://www.youtube.com/shorts/O5fnhm0NE6w</link>
@@ -365,16 +390,18 @@ Dan on Golf is presented by @Knockaround, the official sunglasses partner &lt;/p
     <category>video</category>
   </item>
   <item>
-    <title>LIV Calls ME Out, Bryson Soft Commits, Joel Dahmen Joins The Show</title>
+    <title>LIVE IN DUBAI, Gotterup’s Rise Continues, Rory Ditches Blades</title>
     <link>https://www.youtube.com/watch?v=aTaHjGMFyJs</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=aTaHjGMFyJs</guid>
     <pubDate>Thu, 15 Jan 2026 00:34:14 +0000</pubDate>
     <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Our first Wednesday show! Dan &amp; Ben are live from the studio with a multitude of guests. Alan Shipnuck joins to talk LIV/PGA TOUR. Mark Rolfing calls in to discuss the future of the PGA TOUR in Hawaii after the cancellation of the Sony Open. Joel Dahmen joins to speak on the 2026 season, news around golf &amp; more. Also, we debut a new segment, Over/Under &amp; dive into some Chirps from the Gallery.
+    <description>&lt;p&gt;We&#x27;re LIVE in Dubai for DP World Tour coverage. Australian golf journalist Evin Priest is with us in Dubai. Chris Gotterup wins in Hawaii &amp; joins the show. Also, Rory ditches blades, Vijay makes the cut on TOUR &amp; much more.
 
 Thank You to Our Sponsors!
 
-Dan on Golf is presented by @Knockaround, the official sunglasses partner &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=aTaHjGMFyJs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
+
+Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround.com/golf and use code DANONGOLF20, you can stock up with 20% of&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=aTaHjGMFyJs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://img.youtube.com/vi/aTaHjGMFyJs/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/aTaHjGMFyJs" type="text/html" medium="video"/>
     <yt:videoId>aTaHjGMFyJs</yt:videoId>
@@ -487,17 +514,6 @@ Dan on Golf is presented by @Knockaround, the official sunglasses partner &lt;/p
     <dc:creator>Luke Nesbitt</dc:creator>
     <description>&lt;p&gt;After kicking off season two of Vanity Index, we broke down Santino’s swing and the timing that makes it work—or fall apart.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/andrew-santino-golf-swing-analysis"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/santionswinganalysis_16x9_8e94b6b6d6/santionswinganalysis_16x9_8e94b6b6d6.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>WTGL Is Happening. Here’s What It Needs to Get It Right</title>
-    <link>https://skratch.golf/news/news/wtgl-five-things-we-want-to-see</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/wtgl-five-things-we-want-to-see</guid>
-    <pubDate>Wed, 14 Jan 2026 15:01:59 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;A standalone league makes sense. Everything else must feel fully integrated.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/wtgl-five-things-we-want-to-see"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2254966275_ab6edbd9d1/Getty_Images_2254966275_ab6edbd9d1.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -675,22 +691,6 @@ Subscribe to Skratch&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/short
     <yt:videoId>LLfQrJb2MCE</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>7 golfers to win you CASH this 2026 PGA TOUR season. 🤑💰💸</title>
-    <link>https://www.youtube.com/shorts/7mR9wbMwJ4g</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/7mR9wbMwJ4g</guid>
-    <pubDate>Mon, 12 Jan 2026 23:05:32 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Rick Gehman is back ahead of the PGA TOUR&#x27;s season opener at the Sony Open in Hawaii to help you bet better and win more this season. 💰
-
-Here are his picks for the seven golfers who will earn you cash this year. Watch the full breakdown on our page.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/7mR9wbMwJ4g"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/7mR9wbMwJ4g/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/7mR9wbMwJ4g" type="text/html" medium="video"/>
-    <yt:videoId>7mR9wbMwJ4g</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
     <category>video</category>
   </item>
 </channel>
