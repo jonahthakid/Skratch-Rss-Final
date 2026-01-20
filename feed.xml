@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 20 Jan 2026 14:25:55 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Jan 2026 14:56:03 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>S2, E3: LIVE IN DUBAI, Gotterup’s Rise Continues, Rory Ditches Blades</title>
@@ -92,6 +92,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Scotty Cameron Brings New Look To Phantom &amp; Studio Style Putters</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/scotty-cameron-phantom-mallets-new-studio-style-putters</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/scotty-cameron-phantom-mallets-new-studio-style-putters</guid>
+    <pubDate>Mon, 19 Jan 2026 17:38:03 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;With the help of the best players in the world, Scotty Cameron is bringing sophisticated updates to the Phantom mallet line, plus new Studio Style shapes.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/scotty-cameron-phantom-mallets-new-studio-style-putters"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/2026_Scotty_Cameron_Phantom_Title_bdfef6601b/2026_Scotty_Cameron_Phantom_Title_bdfef6601b.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Justin Timberlake shares his love for golf while showing off his crazy pure 6-month-old swing (2002)</title>
@@ -508,13 +519,13 @@ Dan on Golf is presented by @Knockaround, the official sunglasses partner &lt;/p
     <category>article</category>
   </item>
   <item>
-    <title>LIV Golf CEO on Brooks Koepka: There Will Be No Better Cheerleader for Him Than Me</title>
-    <link>https://skratch.golf/news/news/liv-golf-ceo-scott-oneil-comments-on-brooks-koepka-pga-tour-return</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/liv-golf-ceo-scott-oneil-comments-on-brooks-koepka-pga-tour-return</guid>
-    <pubDate>Wed, 14 Jan 2026 20:24:18 +0000</pubDate>
+    <title>Wyndham Clark is &quot;Torn&quot; About Brooks Koepka&#x27;s PGA TOUR Return</title>
+    <link>https://skratch.golf/news/news/Wyndham-clark-torn-brooks-koepka-pga-tour-return</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/Wyndham-clark-torn-brooks-koepka-pga-tour-return</guid>
+    <pubDate>Wed, 14 Jan 2026 21:52:23 +0000</pubDate>
     <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;&quot; I love Brooks...If this is what he wants, there will be no better cheerleader for him than me.&quot;&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/liv-golf-ceo-scott-oneil-comments-on-brooks-koepka-pga-tour-return"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2227243962_310c267c4b/Getty_Images_2227243962_310c267c4b.jpg"/>
+    <description>&lt;p&gt;We&#x27;re already getting some mixed reviews on the PGA TOUR welcoming back Brooks Koepka.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Wyndham-clark-torn-brooks-koepka-pga-tour-return"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2251940295_d573900e88/Getty_Images_2251940295_d573900e88.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -531,17 +542,6 @@ Dan on Golf is presented by @Knockaround, the official sunglasses partner &lt;/p
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Player to Watch: Keegan Bradley at the Sony Open</title>
-    <link>https://skratch.golf/news/pro-golf/sony-open-2026-keegan-bradley-player-to-watch-waialae</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/sony-open-2026-keegan-bradley-player-to-watch-waialae</guid>
-    <pubDate>Wed, 14 Jan 2026 18:09:33 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;In his first official start since the Ryder Cup, I expect Keegan Bradley to play with some fire at the Sony Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/sony-open-2026-keegan-bradley-player-to-watch-waialae"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2256161443_b0d9e9ff32/Getty_Images_2256161443_b0d9e9ff32.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>When Tiger imitated Kevin’s signature move 🤣🤣🤣</title>
