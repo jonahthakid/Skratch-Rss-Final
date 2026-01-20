@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 20 Jan 2026 20:40:03 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Jan 2026 21:16:04 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Brooks Koepka is Loading Up His PGA TOUR Schedule</title>
+    <link>https://skratch.golf/news/news/brooks-koepka-pga-tour-starts-cognizant-classic-2026</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/brooks-koepka-pga-tour-starts-cognizant-classic-2026</guid>
+    <pubDate>Tue, 20 Jan 2026 20:17:27 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Brooks Koepka has added the Cognizant Classic to his schedule, and now he’s slated to make three starts in five weeks.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/brooks-koepka-pga-tour-starts-cognizant-classic-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1372855399_04d21168d5/Getty_Images_1372855399_04d21168d5.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Has Chris Gotterup entered the pantheon of Stinger artists?</title>
     <link>https://www.youtube.com/shorts/AxF24MvoZXQ</link>
@@ -24,6 +35,17 @@
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>On Tap: The American Express at PGA West</title>
+    <link>https://skratch.golf/news/pro-golf/american-express-2026-how-to-watch-pga-tour-tee-times</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/american-express-2026-how-to-watch-pga-tour-tee-times</guid>
+    <pubDate>Tue, 20 Jan 2026 19:47:41 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Everything you need to know for this week’s The American Express, including tee times and how-to-watch info.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/american-express-2026-how-to-watch-pga-tour-tee-times"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2194785996_18716a3d70/Getty_Images_2194785996_18716a3d70.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>A new year means new equipment, and there are a LOT of updates from golf&#x27;s biggest brands. 👀</title>
@@ -538,17 +560,6 @@ Subscribe to Skratc&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts
     <category>video</category>
   </item>
   <item>
-    <title>Soccer Super Star Alex Morgan Backs WTGL</title>
-    <link>https://skratch.golf/news/news/alex-morgan-wtgl-leading-investor</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/alex-morgan-wtgl-leading-investor</guid>
-    <pubDate>Thu, 15 Jan 2026 17:31:41 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;She leads the all-women investment collective supporting the LPGA&#x27;s venture into TGL.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/alex-morgan-wtgl-leading-investor"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2195943655_cdc40df7d6/Getty_Images_2195943655_cdc40df7d6.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>How it feels to FINALLY have the PGA TOUR back. 😭</title>
     <link>https://www.youtube.com/shorts/YoDwNu-h-Z0</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/YoDwNu-h-Z0</guid>
@@ -561,17 +572,6 @@ Subscribe to Skratc&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>If Rory McIlroy Ditched Blades for More Forgiveness, You Should Too</title>
-    <link>https://skratch.golf/news/pro-golf/rory-mcilroy-ditches-blades-more-forgiveness-dubai-invitational</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/rory-mcilroy-ditches-blades-more-forgiveness-dubai-invitational</guid>
-    <pubDate>Thu, 15 Jan 2026 16:38:43 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Time for an ego check! If Rory McIlroy ditched his blades for a little more forgiveness, you should too.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/rory-mcilroy-ditches-blades-more-forgiveness-dubai-invitational"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2256385809_5d89f7eb36/Getty_Images_2256385809_5d89f7eb36.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>2026 BB Putter Series From Bettinardi Gets Big Time Upgrades</title>
