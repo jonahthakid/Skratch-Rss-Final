@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 20 Jan 2026 21:41:40 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Jan 2026 22:17:36 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Does a casual drink count as casual water?</title>
+    <link>https://www.youtube.com/shorts/AlW5vyh2XCk</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/AlW5vyh2XCk</guid>
+    <pubDate>Tue, 20 Jan 2026 21:53:08 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/AlW5vyh2XCk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/AlW5vyh2XCk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/AlW5vyh2XCk" type="text/html" medium="video"/>
+    <yt:videoId>AlW5vyh2XCk</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Brooks Koepka is Loading Up His PGA TOUR Schedule</title>
     <link>https://skratch.golf/news/news/brooks-koepka-pga-tour-starts-cognizant-classic-2026</link>
@@ -558,20 +572,6 @@ Subscribe to Skratc&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2195943655_cdc40df7d6/Getty_Images_2195943655_cdc40df7d6.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>How it feels to FINALLY have the PGA TOUR back. 😭</title>
-    <link>https://www.youtube.com/shorts/YoDwNu-h-Z0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/YoDwNu-h-Z0</guid>
-    <pubDate>Thu, 15 Jan 2026 17:14:20 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/YoDwNu-h-Z0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/YoDwNu-h-Z0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/YoDwNu-h-Z0" type="text/html" medium="video"/>
-    <yt:videoId>YoDwNu-h-Z0</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>&quot;This Is a Fire Engine Red Warning&quot;: Will the PGA TOUR Leave Hawaii?</title>
