@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 21 Jan 2026 19:22:14 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Jan 2026 19:48:47 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The Story Behind Andy Garcia’s Scotty Cameron Putter on “Landman”</title>
+    <link>https://skratch.golf/shows/shows/landman-star-andy-garcia-scotty-cameron-putter-vanity-index</link>
+    <guid isPermaLink="true">https://skratch.golf/shows/shows/landman-star-andy-garcia-scotty-cameron-putter-vanity-index</guid>
+    <pubDate>Wed, 21 Jan 2026 17:34:47 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;When Andy Garcia realized his &quot;Landman&quot; character needed a putter, he gave his old friend Scotty Cameron a call.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/shows/shows/landman-star-andy-garcia-scotty-cameron-putter-vanity-index"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Fade_2_b96316d089/Fade_2_b96316d089.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Celebrating Jack&#x27;s 86th birthday with him getting absolutely robbed at his own course. 😭</title>
     <link>https://www.youtube.com/shorts/8F0i9Vd3Vaw</link>
@@ -497,17 +508,6 @@ Subscribe to Skratc&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Nick Faldo is Back Home After Open-Heart Surgery</title>
-    <link>https://skratch.golf/news/news/nick-faldo-open-heart-surgery-recovery-back-home</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/nick-faldo-open-heart-surgery-recovery-back-home</guid>
-    <pubDate>Fri, 16 Jan 2026 17:01:12 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Sir Nick Faldo underwent a successful preventative open-heart surgery and is back home to recover.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/nick-faldo-open-heart-surgery-recovery-back-home"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2168982104_d32d6193f0/Getty_Images_2168982104_d32d6193f0.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Jordan Spieth is Crazy—That&#x27;s Why We Love Him</title>
