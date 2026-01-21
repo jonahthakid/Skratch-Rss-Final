@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 21 Jan 2026 16:51:13 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Jan 2026 17:50:12 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Celebrating Jack&#x27;s 86th birthday with him getting absolutely robbed at his own course. 😭</title>
@@ -24,6 +24,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Jason Day&#x27;s Equipment Is An Enigma Wrapped In A Riddle</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/jason-day-amex-gear-new-old</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/jason-day-amex-gear-new-old</guid>
+    <pubDate>Wed, 21 Jan 2026 15:51:08 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Beyond his fashion choices, Jason Day is marching to the beat of his own golf equipment drum with a wild mix of old and new gear.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/jason-day-amex-gear-new-old"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Jason_day_golf_bag_full_feb147fce9/Jason_day_golf_bag_full_feb147fce9.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Does a casual drink count as casual water?</title>
@@ -691,17 +702,6 @@ Dan on Golf is presented by @Knockaround, the official sunglasses partner &lt;/p
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;Titleist and Bob Vokey show that staying on top isn’t about reinventing the wheel, it’s about relentless refinement.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/titleist-vokey-wedges-sm11-sm-11-technology"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Vokey_wedge_title_bcb56e2ab2/Vokey_wedge_title_bcb56e2ab2.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Instruction for Dummies: Shaping Your Shots</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/golf-instruction-tips-shaping-shots-how-to-hit-draws-fades</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/golf-instruction-tips-shaping-shots-how-to-hit-draws-fades</guid>
-    <pubDate>Fri, 09 Jan 2026 18:55:56 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;When it comes to hitting draws and fades, let&#x27;s keep things as simple as possible.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/golf-instruction-tips-shaping-shots-how-to-hit-draws-fades"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2230528745_e5ac3b1160/Getty_Images_2230528745_e5ac3b1160.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
