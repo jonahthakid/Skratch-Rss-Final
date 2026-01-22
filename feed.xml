@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 22 Jan 2026 22:17:46 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Jan 2026 22:46:25 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>New Year, Same Scottie Scheffler</title>
+    <link>https://skratch.golf/news/news/scottie-scheffler-american-express-2026-first-round-scores-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/scottie-scheffler-american-express-2026-first-round-scores-pga-tour</guid>
+    <pubDate>Thu, 22 Jan 2026 21:54:00 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Well, Scottie Scheffler’s first round of the PGA TOUR season went just about how we thought it would.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/scottie-scheffler-american-express-2026-first-round-scores-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2257626914_1ca9acbe72/Getty_Images_2257626914_1ca9acbe72.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Kids walked in...</title>
     <link>https://www.youtube.com/shorts/-7ofYumsgWA</link>
@@ -414,17 +425,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>LIV Golf Just Made Its Biggest Signing of the Offseason</title>
-    <link>https://skratch.golf/news/news/liv-golf-michael-lasasso-signing-phil-mickelson-forfeits-masters-invite</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/liv-golf-michael-lasasso-signing-phil-mickelson-forfeits-masters-invite</guid>
-    <pubDate>Tue, 20 Jan 2026 15:48:21 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Michael La Sasso, the reigning NCAA champion, is joining LIV Golf and Phil Mickelson’s HyFlyers GC—but it comes at a (massive) price.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/liv-golf-michael-lasasso-signing-phil-mickelson-forfeits-masters-invite"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2227255471_47b91c07cd/Getty_Images_2227255471_47b91c07cd.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Stick to land sports, gentlemen 🤣</title>
