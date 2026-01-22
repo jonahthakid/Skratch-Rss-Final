@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 22 Jan 2026 19:44:37 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Jan 2026 20:20:24 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>“It’s definitely a night you look forward to all year.”</title>
+    <link>https://www.youtube.com/shorts/dpSsLn01G9g</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/dpSsLn01G9g</guid>
+    <pubDate>Thu, 22 Jan 2026 20:18:06 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/dpSsLn01G9g"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/dpSsLn01G9g/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/dpSsLn01G9g" type="text/html" medium="video"/>
+    <yt:videoId>dpSsLn01G9g</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Shane Lowry On Last Week&#x27;s Heartbreaking Finish</title>
     <link>https://www.youtube.com/watch?v=LKiGd--bh-I</link>
@@ -38,6 +52,17 @@
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>An Early Look at ANWA Contenders</title>
+    <link>https://skratch.golf/news/news/curtis-cup-usga-augusta-national-womens-amateur-early-look</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/curtis-cup-usga-augusta-national-womens-amateur-early-look</guid>
+    <pubDate>Thu, 22 Jan 2026 16:16:05 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Twelve of the top women&#x27;s amateur golfers gathered in L.A. this month for a Curtis Cup practice session, and it looked to be a possible leaderboard forecast for April.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/curtis-cup-usga-augusta-national-womens-amateur-early-look"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2208709018_b8ee8f8732/Getty_Images_2208709018_b8ee8f8732.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>These Masters Winning Wedges Are On Sale Right Now</title>
@@ -495,17 +520,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>Charley Hull, Lexi Thompson Among First Wave of WTGL Signees</title>
-    <link>https://skratch.golf/news/news/wtgl-player-lineups</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/wtgl-player-lineups</guid>
-    <pubDate>Mon, 19 Jan 2026 17:18:15 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Meet the starting 5 of WTGL.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/wtgl-player-lineups"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Charley_Hull_b466f5c314/Charley_Hull_b466f5c314.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Play a hole with Chris Gotterup 🏆</title>
     <link>https://www.youtube.com/shorts/O5fnhm0NE6w</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/O5fnhm0NE6w</guid>
@@ -669,20 +683,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Bettinardi_BB_series_2026_title_62a09b73ee/Bettinardi_BB_series_2026_title_62a09b73ee.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>&quot;It&#x27;s a very interesting stance from what it was two or three years ago&quot; - Joel Dahmen</title>
-    <link>https://www.youtube.com/shorts/mqKbgcb0jpY</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/mqKbgcb0jpY</guid>
-    <pubDate>Thu, 15 Jan 2026 15:27:16 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/mqKbgcb0jpY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/mqKbgcb0jpY/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/mqKbgcb0jpY" type="text/html" medium="video"/>
-    <yt:videoId>mqKbgcb0jpY</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>Instruction for Dummies: Shaping Your Shots</title>
