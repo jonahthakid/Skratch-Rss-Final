@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 22 Jan 2026 18:58:12 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Jan 2026 19:26:52 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Shane Lowry On Last Week&#x27;s Heartbreaking Finish</title>
@@ -38,6 +38,17 @@
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>These Masters Winning Wedges Are On Sale For A Great Deal</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/on-sale-wedge-taylormade-mg4-technology</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/on-sale-wedge-taylormade-mg4-technology</guid>
+    <pubDate>Thu, 22 Jan 2026 15:47:37 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;With the 2026 gear already here, that means one thing: deals on last year&#x27;s products, including these Masters-winning wedges.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/on-sale-wedge-taylormade-mg4-technology"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Mg4_wedges_sale_Taylormade_2743e6f7a3/Mg4_wedges_sale_Taylormade_2743e6f7a3.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>The 2026 Skratch New Golf Gear Tour</title>
@@ -672,17 +683,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Andrew Santino’s Golf Swing Is No Joke</title>
-    <link>https://skratch.golf/news/golf-culture/andrew-santino-golf-swing-analysis</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/andrew-santino-golf-swing-analysis</guid>
-    <pubDate>Wed, 14 Jan 2026 16:30:02 +0000</pubDate>
-    <dc:creator>Luke Nesbitt</dc:creator>
-    <description>&lt;p&gt;After kicking off season two of Vanity Index, we broke down Santino’s swing and the timing that makes it work—or fall apart.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/andrew-santino-golf-swing-analysis"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/santionswinganalysis_16x9_8e94b6b6d6/santionswinganalysis_16x9_8e94b6b6d6.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>An Inside Look At The Vokey SM11 Wedges</title>
