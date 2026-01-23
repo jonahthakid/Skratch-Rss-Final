@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 23 Jan 2026 14:20:39 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Jan 2026 14:50:36 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>New year, new clothes, same Tommy.</title>
@@ -30,6 +30,17 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertain&lt;/p
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Min Woo Lee Steps Into Payntr Golf</title>
+    <link>https://skratch.golf/style/mens-style/min-woo-lee-ambassador-payntr-golf-shoes</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/min-woo-lee-ambassador-payntr-golf-shoes</guid>
+    <pubDate>Thu, 22 Jan 2026 22:44:54 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;A performance-first golf shoe now backed by one of the game’s most modern players.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/min-woo-lee-ambassador-payntr-golf-shoes"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2225810453_88c5614e8a/Getty_Images_2225810453_88c5614e8a.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>New Year, Same Scottie Scheffler</title>
@@ -622,17 +633,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;With a multi-material construction that utilizes 3D-Printing, Cobra&#x27;s new Tour putter line brings more technology and stability to the putting green.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/cobra-3dp-tour-putters-printing-loft-technology"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Cobra_3dp_putters_2026_top_title_1a212a0791/Cobra_3dp_putters_2026_top_title_1a212a0791.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Bridgestone Tour B Brings More Speed With VeloSurge</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/bridgestone-vs-velosurge-golf-balls-tiger-faster</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/bridgestone-vs-velosurge-golf-balls-tiger-faster</guid>
-    <pubDate>Fri, 16 Jan 2026 03:43:27 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Packed with a new core technology, Bridgestone&#x27;s latest Tour B golf ball series is its fastest yet.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/bridgestone-vs-velosurge-golf-balls-tiger-faster"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Bridgestone_Tour_B_2026_VS_5395097d53/Bridgestone_Tour_B_2026_VS_5395097d53.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
