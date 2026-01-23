@@ -1,5 +1,4 @@
-<!-- Warning: Error fetching Skratch: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwtGQ3sgidNlQGbIUBPP3xw -->
-<!-- Warning: Error fetching Dan On Golf Show: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
+<!-- Warning: Error fetching Dan On Golf Show: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -11,8 +10,28 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 23 Jan 2026 06:58:32 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Jan 2026 07:28:49 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>New year, new clothes, same Tommy.</title>
+    <link>https://www.youtube.com/shorts/ztQMvtNUpq0</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/ztQMvtNUpq0</guid>
+    <pubDate>Fri, 23 Jan 2026 01:23:58 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Come play a hole with Tommy Fleetwood at the Hero Dubai Desert Classic.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss out on the most entertain&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ztQMvtNUpq0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/ztQMvtNUpq0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/ztQMvtNUpq0" type="text/html" medium="video"/>
+    <yt:videoId>ztQMvtNUpq0</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>New Year, Same Scottie Scheffler</title>
     <link>https://skratch.golf/news/news/scottie-scheffler-american-express-2026-first-round-scores-pga-tour</link>
@@ -23,6 +42,20 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2257626914_1ca9acbe72/Getty_Images_2257626914_1ca9acbe72.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>Kids walked in...</title>
+    <link>https://www.youtube.com/shorts/-7ofYumsgWA</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/-7ofYumsgWA</guid>
+    <pubDate>Thu, 22 Jan 2026 20:35:01 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/-7ofYumsgWA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/-7ofYumsgWA/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/-7ofYumsgWA" type="text/html" medium="video"/>
+    <yt:videoId>-7ofYumsgWA</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>The PGA TOUR Went Petty With Its New Season-Long Campaign</title>
@@ -80,6 +113,20 @@
     <category>article</category>
   </item>
   <item>
+    <title>Viktor Hovland: Curious, Cerebral, Still Single</title>
+    <link>https://www.youtube.com/shorts/KZI5dMHX5K8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/KZI5dMHX5K8</guid>
+    <pubDate>Wed, 21 Jan 2026 22:35:32 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/KZI5dMHX5K8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/KZI5dMHX5K8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/KZI5dMHX5K8" type="text/html" medium="video"/>
+    <yt:videoId>KZI5dMHX5K8</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Nike Unveils Air Max 95 “Cattle Drive” Golf Shoe Ahead of WM Phoenix Open</title>
     <link>https://skratch.golf/style/style/nikes-air-max-95-golf-shoe-nrg-limited-release-cattle-drive-wm-open</link>
     <guid isPermaLink="true">https://skratch.golf/style/style/nikes-air-max-95-golf-shoe-nrg-limited-release-cattle-drive-wm-open</guid>
@@ -89,6 +136,20 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260121_Nike_Air_Max_95_Golf_cattle_drive_golf_shoe_ceed6074be/20260121_Nike_Air_Max_95_Golf_cattle_drive_golf_shoe_ceed6074be.jpeg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>When Jack Nicklaus showed Johnny Miller how it&#x27;s done. 🤣 Happy birthday, Jack!</title>
+    <link>https://www.youtube.com/shorts/TFX4PKMHdVM</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/TFX4PKMHdVM</guid>
+    <pubDate>Wed, 21 Jan 2026 19:49:47 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/TFX4PKMHdVM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/TFX4PKMHdVM/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/TFX4PKMHdVM" type="text/html" medium="video"/>
+    <yt:videoId>TFX4PKMHdVM</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>The Story Behind Andy Garcia’s Scotty Cameron Putter on “Landman”</title>
@@ -102,6 +163,20 @@
     <category>article</category>
   </item>
   <item>
+    <title>Celebrating Jack&#x27;s 86th birthday with him getting absolutely robbed at his own course. 😭</title>
+    <link>https://www.youtube.com/shorts/8F0i9Vd3Vaw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/8F0i9Vd3Vaw</guid>
+    <pubDate>Wed, 21 Jan 2026 16:34:05 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8F0i9Vd3Vaw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/8F0i9Vd3Vaw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/8F0i9Vd3Vaw" type="text/html" medium="video"/>
+    <yt:videoId>8F0i9Vd3Vaw</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Jason Day&#x27;s Equipment is an Enigma Wrapped in a Riddle</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/jason-day-amex-gear-new-old</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/jason-day-amex-gear-new-old</guid>
@@ -111,6 +186,20 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Jason_day_golf_bag_full_feb147fce9/Jason_day_golf_bag_full_feb147fce9.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>Does a casual drink count as casual water?</title>
+    <link>https://www.youtube.com/shorts/AlW5vyh2XCk</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/AlW5vyh2XCk</guid>
+    <pubDate>Tue, 20 Jan 2026 21:53:08 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/AlW5vyh2XCk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/AlW5vyh2XCk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/AlW5vyh2XCk" type="text/html" medium="video"/>
+    <yt:videoId>AlW5vyh2XCk</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>Brooks Koepka is Loading Up His PGA TOUR Schedule</title>
@@ -146,6 +235,42 @@
     <category>article</category>
   </item>
   <item>
+    <title>A new year means new equipment, and there are a LOT of updates from golf&#x27;s biggest brands. 👀</title>
+    <link>https://www.youtube.com/shorts/YEi--ChZNSo</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/YEi--ChZNSo</guid>
+    <pubDate>Tue, 20 Jan 2026 19:03:06 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Follow along Skratch Gear Editor, Ryan Barath, as he takes a Southern California road trip to test out the 2026 releases from Callaway, Cobra, TaylorMade, and Titleist. Watch more on our page!
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this g&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/YEi--ChZNSo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/YEi--ChZNSo/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/YEi--ChZNSo" type="text/html" medium="video"/>
+    <yt:videoId>YEi--ChZNSo</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>FIRST LOOK: Testing out golf&#x27;s 2026 equipment releases</title>
+    <link>https://www.youtube.com/watch?v=mPEtQPcsHUM</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=mPEtQPcsHUM</guid>
+    <pubDate>Tue, 20 Jan 2026 18:44:40 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;A new year means new equipment, and there are a lot of updates from golf&#x27;s biggest brands. Skratch Gear Editor Ryan Barath took a Southern California road trip to test out the 2026 releases from Callaway, Cobra, TaylorMade, and Titleist.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. Ther&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=mPEtQPcsHUM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/mPEtQPcsHUM/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/mPEtQPcsHUM" type="text/html" medium="video"/>
+    <yt:videoId>mPEtQPcsHUM</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Hurley x Levelwear Shows How Wide Golf’s Circle Has Become</title>
     <link>https://skratch.golf/style/mens-style/levelwear-hurley-golf-collaboration-apparel-release</link>
     <guid isPermaLink="true">https://skratch.golf/style/mens-style/levelwear-hurley-golf-collaboration-apparel-release</guid>
@@ -155,6 +280,60 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Hurley_x_Levelwear_681136f0ce/Hurley_x_Levelwear_681136f0ce.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>“You want the violin?” 🎻🤣 | #TigerTuesday</title>
+    <link>https://www.youtube.com/shorts/r7hRFxpsTk4</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/r7hRFxpsTk4</guid>
+    <pubDate>Tue, 20 Jan 2026 17:10:43 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Tiger casually pipes a drive 360 at the ‘97 Skins Game.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/r7hRFxpsTk4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/r7hRFxpsTk4/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/r7hRFxpsTk4" type="text/html" medium="video"/>
+    <yt:videoId>r7hRFxpsTk4</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Trying the NEW Scotty Cameron Phantom line 👀</title>
+    <link>https://www.youtube.com/shorts/GgWxtWhcY0o</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/GgWxtWhcY0o</guid>
+    <pubDate>Tue, 20 Jan 2026 16:12:48 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;The 2026 Scotty Cameron Phantom line is here, and our Ben Boskovich put them to the test to find out which mallet was the right fit for his game.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/GgWxtWhcY0o"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/GgWxtWhcY0o/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/GgWxtWhcY0o" type="text/html" medium="video"/>
+    <yt:videoId>GgWxtWhcY0o</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Stick to land sports, gentlemen 🤣</title>
+    <link>https://www.youtube.com/shorts/5joBGcGjhmo</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/5joBGcGjhmo</guid>
+    <pubDate>Tue, 20 Jan 2026 15:10:55 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Throwback to Jordan Spieth and Smylie Kaufman trying to take a kayak out after their rounds at the 2017 Sony Open.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTu&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/5joBGcGjhmo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/5joBGcGjhmo/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/5joBGcGjhmo" type="text/html" medium="video"/>
+    <yt:videoId>5joBGcGjhmo</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>The Surprising New Addition The LPGA Just Made (And It&#x27;s a Massive Win)</title>
@@ -179,6 +358,20 @@
     <category>article</category>
   </item>
   <item>
+    <title>When Kevin Kisner honored his bet with JT following the 2017 National Championship 😭</title>
+    <link>https://www.youtube.com/shorts/v6n0U33ySDg</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/v6n0U33ySDg</guid>
+    <pubDate>Tue, 20 Jan 2026 00:57:11 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/v6n0U33ySDg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/v6n0U33ySDg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/v6n0U33ySDg" type="text/html" medium="video"/>
+    <yt:videoId>v6n0U33ySDg</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Scotty Cameron Brings New Look To Phantom &amp; Studio Style Putters</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/scotty-cameron-phantom-mallets-new-studio-style-putters</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/scotty-cameron-phantom-mallets-new-studio-style-putters</guid>
@@ -190,6 +383,34 @@
     <category>article</category>
   </item>
   <item>
+    <title>Justin Timberlake shares his love for golf while showing off his crazy pure 6-month-old swing (2002)</title>
+    <link>https://www.youtube.com/shorts/ZspUejKex_o</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/ZspUejKex_o</guid>
+    <pubDate>Mon, 19 Jan 2026 17:37:18 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ZspUejKex_o"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/ZspUejKex_o/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/ZspUejKex_o" type="text/html" medium="video"/>
+    <yt:videoId>ZspUejKex_o</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Play a hole with Chris Gotterup 🏆</title>
+    <link>https://www.youtube.com/shorts/O5fnhm0NE6w</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/O5fnhm0NE6w</guid>
+    <pubDate>Mon, 19 Jan 2026 15:51:11 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/O5fnhm0NE6w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/O5fnhm0NE6w/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/O5fnhm0NE6w" type="text/html" medium="video"/>
+    <yt:videoId>O5fnhm0NE6w</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>These 3 Brands Are Setting The Tone For Women&#x27;s Golf Style in 2026</title>
     <link>https://skratch.golf/style/womens-style/malbon-adidas-fore-all-2026-winter-womens-golf-releases</link>
     <guid isPermaLink="true">https://skratch.golf/style/womens-style/malbon-adidas-fore-all-2026-winter-womens-golf-releases</guid>
@@ -199,6 +420,20 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/women_s_golf_style_b620e48ca1/women_s_golf_style_b620e48ca1.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>When Happy Gilmore teed it up at the Sony Open. 🤣</title>
+    <link>https://www.youtube.com/shorts/hzgXdh3vc6c</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/hzgXdh3vc6c</guid>
+    <pubDate>Sun, 18 Jan 2026 18:23:57 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/hzgXdh3vc6c"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/hzgXdh3vc6c/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/hzgXdh3vc6c" type="text/html" medium="video"/>
+    <yt:videoId>hzgXdh3vc6c</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>Cobra Grows Putter Line With 3DP Tour Series</title>
