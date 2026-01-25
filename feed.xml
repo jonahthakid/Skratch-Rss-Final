@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 25 Jan 2026 16:47:47 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 25 Jan 2026 17:13:52 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Don’t let a little snow stop you from making birdie. ❄️🤣</title>
+    <link>https://www.youtube.com/shorts/CVStgjd6XUI</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/CVStgjd6XUI</guid>
+    <pubDate>Sun, 25 Jan 2026 16:48:03 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/CVStgjd6XUI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/CVStgjd6XUI/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/CVStgjd6XUI" type="text/html" medium="video"/>
+    <yt:videoId>CVStgjd6XUI</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>This kid is onto something…</title>
     <link>https://www.youtube.com/shorts/hVp4IEAyixg</link>
@@ -578,20 +592,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <media:thumbnail url="https://img.youtube.com/vi/r7hRFxpsTk4/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/r7hRFxpsTk4" type="text/html" medium="video"/>
     <yt:videoId>r7hRFxpsTk4</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Trying the NEW Scotty Cameron Phantom line 👀</title>
-    <link>https://www.youtube.com/shorts/GgWxtWhcY0o</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/GgWxtWhcY0o</guid>
-    <pubDate>Tue, 20 Jan 2026 16:12:48 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The 2026 Scotty Cameron Phantom line is here, and our Ben Boskovich put them to the test to find out which mallet was the right fit for his game.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/GgWxtWhcY0o"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/GgWxtWhcY0o/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/GgWxtWhcY0o" type="text/html" medium="video"/>
-    <yt:videoId>GgWxtWhcY0o</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
