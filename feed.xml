@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 26 Jan 2026 14:53:35 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Jan 2026 15:23:53 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>If You Haven&#x27;t Already, Please Try A 7-Wood!</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/give-7-wood-shot-test-fitting-clubs</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/give-7-wood-shot-test-fitting-clubs</guid>
+    <pubDate>Mon, 26 Jan 2026 13:16:58 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;PGA TOUR players are flocking to 7-woods more than ever before, and it might be time you seriously consider putting one in your bag.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/give-7-wood-shot-test-fitting-clubs"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Taylor_Made_Qi4_D_Tour_7_wood_a71f0ebe0b/Taylor_Made_Qi4_D_Tour_7_wood_a71f0ebe0b.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>20 PGA TOUR wins in less than 4 years 🤯</title>
     <link>https://www.youtube.com/shorts/rCl0XEy9JGg</link>
@@ -599,17 +610,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Dear Golf (and Golfers), Take a Page Out of the Naomi Osaka Playbook</title>
-    <link>https://skratch.golf/style/style/naomi-osaka-australian-open-nike-womens-golf-fashion</link>
-    <guid isPermaLink="true">https://skratch.golf/style/style/naomi-osaka-australian-open-nike-womens-golf-fashion</guid>
-    <pubDate>Tue, 20 Jan 2026 14:23:18 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Using majors to create memories—the tennis star and her custom looks are a blueprint.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/naomi-osaka-australian-open-nike-womens-golf-fashion"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2256654236_25b27ad5ba/Getty_Images_2256654236_25b27ad5ba.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>S2, E3: LIVE IN DUBAI, Gotterup’s Rise Continues, Rory Ditches Blades</title>
