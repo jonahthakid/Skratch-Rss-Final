@@ -9,8 +9,53 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 26 Jan 2026 17:00:40 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Jan 2026 17:51:45 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>S2, E4: Shane Lowry AND Dustin Johnson Join The Show, La Sasso Joins LIV</title>
+    <link>https://www.youtube.com/watch?v=jjGMDEagoGo</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=jjGMDEagoGo</guid>
+    <pubDate>Mon, 26 Jan 2026 17:48:40 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Dan’s live in Dubai again ahead of the Hero Dubai Desert Classic. He sits down for a catch up with friend of the program Shane Lowry and tries to get inside Dustin Johnson’s brain during a sit-down interview. We also talk in detail about the reigning NCAA Champion, Michael La Sasso, forfeiting a Masters invite to join Phil Mickelson’s team on LIV Golf.
+
+Thank You to Our Sponsors!
+
+Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
+
+Dan travels all year and&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=jjGMDEagoGo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/jjGMDEagoGo/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/jjGMDEagoGo" type="text/html" medium="video"/>
+    <yt:videoId>jjGMDEagoGo</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Scottie Scheffler Highlights the 2026 Player Advisory Council</title>
+    <link>https://skratch.golf/news/news/pga-tour-player-advisory-council-2026-scottie-scheffler</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-player-advisory-council-2026-scottie-scheffler</guid>
+    <pubDate>Mon, 26 Jan 2026 17:17:50 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The PGA TOUR has announced the Player Advisory Council for 2026, and the No. 1 player in the world will be staying on after serving last year.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-player-advisory-council-2026-scottie-scheffler"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2258187185_96253173a2/Getty_Images_2258187185_96253173a2.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Congrats to the tan line GOAT, Stewart Cink, on winning the PGA TOUR Champions season opener! 👏</title>
+    <link>https://www.youtube.com/shorts/sVSQsZzcPYs</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/sVSQsZzcPYs</guid>
+    <pubDate>Mon, 26 Jan 2026 17:10:57 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/sVSQsZzcPYs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/sVSQsZzcPYs/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/sVSQsZzcPYs" type="text/html" medium="video"/>
+    <yt:videoId>sVSQsZzcPYs</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Are you taking on 20x PGA TOUR winner Scottie Scheffler with 20 strokes?</title>
     <link>https://www.youtube.com/shorts/yDv_XbsjyEY</link>
@@ -555,20 +600,6 @@ Dan travels all year and&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/w
     <category>article</category>
   </item>
   <item>
-    <title>Does a casual drink count as casual water?</title>
-    <link>https://www.youtube.com/shorts/AlW5vyh2XCk</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/AlW5vyh2XCk</guid>
-    <pubDate>Tue, 20 Jan 2026 21:53:08 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/AlW5vyh2XCk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/AlW5vyh2XCk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/AlW5vyh2XCk" type="text/html" medium="video"/>
-    <yt:videoId>AlW5vyh2XCk</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Has Chris Gotterup entered the pantheon of Stinger artists?</title>
     <link>https://www.youtube.com/shorts/AxF24MvoZXQ</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/AxF24MvoZXQ</guid>
@@ -634,34 +665,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://img.youtube.com/vi/aTaHjGMFyJs/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/aTaHjGMFyJs" type="text/html" medium="video"/>
     <yt:videoId>aTaHjGMFyJs</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>If forgiveness is good for Rory, it’s good for you too.</title>
-    <link>https://www.youtube.com/shorts/5eQJn_tSN9k</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/5eQJn_tSN9k</guid>
-    <pubDate>Tue, 20 Jan 2026 00:15:00 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/5eQJn_tSN9k"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/5eQJn_tSN9k/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/5eQJn_tSN9k" type="text/html" medium="video"/>
-    <yt:videoId>5eQJn_tSN9k</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>People are allowed to change their opinions.</title>
-    <link>https://www.youtube.com/shorts/xOkjQcLvZ48</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/xOkjQcLvZ48</guid>
-    <pubDate>Mon, 19 Jan 2026 23:31:52 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/xOkjQcLvZ48"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/xOkjQcLvZ48/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/xOkjQcLvZ48" type="text/html" medium="video"/>
-    <yt:videoId>xOkjQcLvZ48</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
