@@ -9,8 +9,50 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 26 Jan 2026 21:44:39 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Jan 2026 22:17:13 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Blades Brown was born for this.</title>
+    <link>https://www.youtube.com/shorts/sjAqEc6i_0w</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/sjAqEc6i_0w</guid>
+    <pubDate>Mon, 26 Jan 2026 22:04:14 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/sjAqEc6i_0w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/sjAqEc6i_0w/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/sjAqEc6i_0w" type="text/html" medium="video"/>
+    <yt:videoId>sjAqEc6i_0w</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Patrick Reed On His LIV/PGA TOUR Future, Public Reputation &amp; More</title>
+    <link>https://www.youtube.com/watch?v=FNYmqfGRwU4</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=FNYmqfGRwU4</guid>
+    <pubDate>Mon, 26 Jan 2026 22:00:23 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=FNYmqfGRwU4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/FNYmqfGRwU4/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/FNYmqfGRwU4" type="text/html" medium="video"/>
+    <yt:videoId>FNYmqfGRwU4</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Brooks was NOT reaching in that shoe 🤣🤣🤣</title>
+    <link>https://www.youtube.com/shorts/HgBp0Jyf6jQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/HgBp0Jyf6jQ</guid>
+    <pubDate>Mon, 26 Jan 2026 21:48:37 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/HgBp0Jyf6jQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/HgBp0Jyf6jQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/HgBp0Jyf6jQ" type="text/html" medium="video"/>
+    <yt:videoId>HgBp0Jyf6jQ</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>S2, E5: Scottie Reaches 20 Wins, P-Reed Wins (And Returns?), Blades Brown Arrives</title>
     <link>https://www.youtube.com/watch?v=jjGMDEagoGo</link>
@@ -589,20 +631,6 @@ Dan travels all year and&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/w
     <category>video</category>
   </item>
   <item>
-    <title>Celebrating Jack&#x27;s 86th birthday with him getting absolutely robbed at his own course. 😭</title>
-    <link>https://www.youtube.com/shorts/8F0i9Vd3Vaw</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/8F0i9Vd3Vaw</guid>
-    <pubDate>Wed, 21 Jan 2026 16:34:05 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8F0i9Vd3Vaw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/8F0i9Vd3Vaw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/8F0i9Vd3Vaw" type="text/html" medium="video"/>
-    <yt:videoId>8F0i9Vd3Vaw</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Jason Day&#x27;s Equipment is an Enigma Wrapped in a Riddle</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/jason-day-amex-gear-new-old</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/jason-day-amex-gear-new-old</guid>
@@ -637,31 +665,6 @@ Dan travels all year and&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/w
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Callaway_Jail_mini_2025_ai_dual_64f555f748/Callaway_Jail_mini_2025_ai_dual_64f555f748.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Hurley x Levelwear Shows How Wide Golf’s Circle Has Become</title>
-    <link>https://skratch.golf/style/mens-style/levelwear-hurley-golf-collaboration-apparel-release</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/levelwear-hurley-golf-collaboration-apparel-release</guid>
-    <pubDate>Tue, 20 Jan 2026 18:07:29 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;The collaboration reflects a game confident enough to absorb new aesthetics&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/levelwear-hurley-golf-collaboration-apparel-release"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Hurley_x_Levelwear_681136f0ce/Hurley_x_Levelwear_681136f0ce.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Think of it like an AP Poll, but for golf</title>
-    <link>https://www.youtube.com/shorts/l9T0pkU6tiY</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/l9T0pkU6tiY</guid>
-    <pubDate>Tue, 20 Jan 2026 17:12:51 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/l9T0pkU6tiY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/l9T0pkU6tiY/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/l9T0pkU6tiY" type="text/html" medium="video"/>
-    <yt:videoId>l9T0pkU6tiY</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
 </channel>
 </rss>
