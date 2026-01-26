@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 25 Jan 2026 23:40:28 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Jan 2026 01:23:02 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>20 PGA TOUR wins in less than 4 years 🤯</title>
+    <link>https://www.youtube.com/shorts/rCl0XEy9JGg</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/rCl0XEy9JGg</guid>
+    <pubDate>Mon, 26 Jan 2026 00:45:56 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/rCl0XEy9JGg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/rCl0XEy9JGg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/rCl0XEy9JGg" type="text/html" medium="video"/>
+    <yt:videoId>rCl0XEy9JGg</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>(Compilation coming soon)</title>
     <link>https://www.youtube.com/shorts/deRYMK9RPRs</link>
@@ -557,24 +571,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/YEi--ChZNSo/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/YEi--ChZNSo" type="text/html" medium="video"/>
     <yt:videoId>YEi--ChZNSo</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>FIRST LOOK: Testing out golf&#x27;s 2026 equipment releases</title>
-    <link>https://www.youtube.com/watch?v=mPEtQPcsHUM</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=mPEtQPcsHUM</guid>
-    <pubDate>Tue, 20 Jan 2026 18:44:40 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;A new year means new equipment, and there are a lot of updates from golf&#x27;s biggest brands. Skratch Gear Editor Ryan Barath took a Southern California road trip to test out the 2026 releases from Callaway, Cobra, TaylorMade, and Titleist.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. Ther&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=mPEtQPcsHUM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/mPEtQPcsHUM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/mPEtQPcsHUM" type="text/html" medium="video"/>
-    <yt:videoId>mPEtQPcsHUM</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
