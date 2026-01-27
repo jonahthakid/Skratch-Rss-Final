@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 27 Jan 2026 23:17:08 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Jan 2026 23:42:33 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Rick&#x27;s Picks: Our Best Bets for the 2026 Farmer&#x27;s Insurance Open</title>
+    <link>https://skratch.golf/news/pro-golf/farmers-insurance-open-torrey-pines-best-bets-wagers-players</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/farmers-insurance-open-torrey-pines-best-bets-wagers-players</guid>
+    <pubDate>Tue, 27 Jan 2026 23:31:42 +0000</pubDate>
+    <dc:creator>Rick Gehman</dc:creator>
+    <description>&lt;p&gt;Featuring a winner, a top-10, top-20, and two prop bets we like.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/farmers-insurance-open-torrey-pines-best-bets-wagers-players"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2250218566_e762176fa7/Getty_Images_2250218566_e762176fa7.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>DJ 🤝 BigXthaPlug</title>
     <link>https://www.youtube.com/shorts/7tXtH5BNH-U</link>
@@ -561,17 +572,6 @@ Dan travels all year and never leaves his Knocka&lt;/p&gt;&lt;p&gt;&lt;a href="h
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Sometimes you just have to get a little petty, and that’s exactly what the PGA TOUR did with its newest season-long campaign.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-season-long-campaign-petty-brooks-koepka"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2233478354_926f2d151a/Getty_Images_2233478354_926f2d151a.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Why the PGA Show Took Over Your Social Feed This Week</title>
-    <link>https://skratch.golf/style/mens-style/why-the-pga-show-took-over-your-social-feed-this-week</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/why-the-pga-show-took-over-your-social-feed-this-week</guid>
-    <pubDate>Thu, 22 Jan 2026 18:06:08 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;How the PGA Show became a social spectacle&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/why-the-pga-show-took-over-your-social-feed-this-week"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/PGA_Show_dd48e38e95/PGA_Show_dd48e38e95.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
