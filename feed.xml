@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 27 Jan 2026 15:30:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Jan 2026 15:52:00 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Happy birthday to Aquaman himself, Woody Austin. 🤣</title>
+    <link>https://www.youtube.com/shorts/e9YBTFgsrbA</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/e9YBTFgsrbA</guid>
+    <pubDate>Tue, 27 Jan 2026 15:50:15 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/e9YBTFgsrbA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/e9YBTFgsrbA/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/e9YBTFgsrbA" type="text/html" medium="video"/>
+    <yt:videoId>e9YBTFgsrbA</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>A new season in golf fashion. Diving into recent sponsorship moves in the game with @golfprojects</title>
     <link>https://www.youtube.com/shorts/jEYc82EvqGY</link>
@@ -640,20 +654,6 @@ Dan travels all year and&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/w
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/2026_Wilson_Staff_irons_c760c37069/2026_Wilson_Staff_irons_c760c37069.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>When Jack Nicklaus showed Johnny Miller how it&#x27;s done. 🤣 Happy birthday, Jack!</title>
-    <link>https://www.youtube.com/shorts/TFX4PKMHdVM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/TFX4PKMHdVM</guid>
-    <pubDate>Wed, 21 Jan 2026 19:49:47 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/TFX4PKMHdVM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/TFX4PKMHdVM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/TFX4PKMHdVM" type="text/html" medium="video"/>
-    <yt:videoId>TFX4PKMHdVM</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Jason Day&#x27;s Equipment is an Enigma Wrapped in a Riddle</title>
