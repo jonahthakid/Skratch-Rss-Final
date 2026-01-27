@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 27 Jan 2026 22:18:11 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Jan 2026 22:44:36 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>DJ 🤝 BigXthaPlug</title>
+    <link>https://www.youtube.com/shorts/7tXtH5BNH-U</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/7tXtH5BNH-U</guid>
+    <pubDate>Tue, 27 Jan 2026 22:23:00 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/7tXtH5BNH-U"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/7tXtH5BNH-U/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/7tXtH5BNH-U" type="text/html" medium="video"/>
+    <yt:videoId>7tXtH5BNH-U</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Does Dan know ball?</title>
     <link>https://www.youtube.com/shorts/bFBSWKrWiNs</link>
@@ -488,26 +502,6 @@ Dan travels all year and never leaves his Knocka&lt;/p&gt;&lt;p&gt;&lt;a href="h
     <media:thumbnail url="https://img.youtube.com/vi/zmj568UtCYk/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/zmj568UtCYk" type="text/html" medium="video"/>
     <yt:videoId>zmj568UtCYk</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>New year, new clothes, same Tommy.</title>
-    <link>https://www.youtube.com/shorts/ztQMvtNUpq0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ztQMvtNUpq0</guid>
-    <pubDate>Fri, 23 Jan 2026 01:23:58 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Come play a hole with Tommy Fleetwood at the Hero Dubai Desert Classic.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertain&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ztQMvtNUpq0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ztQMvtNUpq0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ztQMvtNUpq0" type="text/html" medium="video"/>
-    <yt:videoId>ztQMvtNUpq0</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
