@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 28 Jan 2026 13:43:27 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Jan 2026 14:24:48 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>One-handed putts, America’s top coach and a Malbon-wearing Freddie Couples</title>
@@ -137,6 +137,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>On Tap: The Farmers Insurance Open</title>
+    <link>https://skratch.golf/news/pro-golf/farmers-insurance-open-2026-how-to-watch-pga-tour-tee-times-brooks-koepka</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/farmers-insurance-open-2026-how-to-watch-pga-tour-tee-times-brooks-koepka</guid>
+    <pubDate>Tue, 27 Jan 2026 16:25:51 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Brooks. Is. Back. If you’re planning on watching the five-time major champion’s PGA TOUR return, here’s all the info you need.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/farmers-insurance-open-2026-how-to-watch-pga-tour-tee-times-brooks-koepka"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2195752377_b0985b3719/Getty_Images_2195752377_b0985b3719.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Happy birthday to Aquaman himself, Woody Austin. 🤣</title>
@@ -611,17 +622,6 @@ Dan travels all year and never leaves his Knocka&lt;/p&gt;&lt;p&gt;&lt;a href="h
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;Twelve of the top women&#x27;s amateur golfers gathered in L.A. this month for a Curtis Cup practice session, and it looked to be a possible leaderboard forecast for April.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/curtis-cup-usga-augusta-national-womens-amateur-early-look"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2208709018_b8ee8f8732/Getty_Images_2208709018_b8ee8f8732.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>These Masters Winning Wedges Are On Sale Right Now</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/on-sale-wedge-taylormade-mg4-technology</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/on-sale-wedge-taylormade-mg4-technology</guid>
-    <pubDate>Thu, 22 Jan 2026 15:47:37 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;With the 2026 gear already here, that means one thing: deals on last year&#x27;s products, including these Masters-winning wedges.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/on-sale-wedge-taylormade-mg4-technology"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Mg4_wedges_sale_Taylormade_2743e6f7a3/Mg4_wedges_sale_Taylormade_2743e6f7a3.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
