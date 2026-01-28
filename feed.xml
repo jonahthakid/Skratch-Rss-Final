@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 28 Jan 2026 15:58:49 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Jan 2026 16:43:18 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Skratch 🤝 LPGA Tour</title>
@@ -92,6 +92,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Same Fire, Different Brooks</title>
+    <link>https://skratch.golf/news/news/brooks-koepka-grow-up-mature-pga-tour-return-farmers-insurance-open</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/brooks-koepka-grow-up-mature-pga-tour-return-farmers-insurance-open</guid>
+    <pubDate>Tue, 27 Jan 2026 20:51:21 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Despite the noise, Koepka’s return to the PGA TOUR has been quietly shaped by family, growth, and perspective.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/brooks-koepka-grow-up-mature-pga-tour-return-farmers-insurance-open"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2258515151_f38b785c73/Getty_Images_2258515151_f38b785c73.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>DOG Race: Who’s Had The BEST Peak Since Tiger Woods?</title>
@@ -598,17 +609,6 @@ Dan travels all year and never leaves his Knocka&lt;/p&gt;&lt;p&gt;&lt;a href="h
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Sometimes you just have to get a little petty, and that’s exactly what the PGA TOUR did with its newest season-long campaign.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-season-long-campaign-petty-brooks-koepka"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2233478354_926f2d151a/Getty_Images_2233478354_926f2d151a.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Why the PGA Show Took Over Your Social Feed This Week</title>
-    <link>https://skratch.golf/style/mens-style/why-the-pga-show-took-over-your-social-feed-this-week</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/why-the-pga-show-took-over-your-social-feed-this-week</guid>
-    <pubDate>Thu, 22 Jan 2026 18:06:08 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;How the PGA Show became a social spectacle&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/why-the-pga-show-took-over-your-social-feed-this-week"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/PGA_Show_dd48e38e95/PGA_Show_dd48e38e95.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
