@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 28 Jan 2026 20:23:08 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Jan 2026 20:55:28 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Love him or hate him, it&#x27;s good to have Patrick &quot;be the number&quot; Reed back on TOUR.</title>
+    <link>https://www.youtube.com/shorts/xMUoHlnxqqk</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/xMUoHlnxqqk</guid>
+    <pubDate>Wed, 28 Jan 2026 20:33:09 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/xMUoHlnxqqk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/xMUoHlnxqqk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/xMUoHlnxqqk" type="text/html" medium="video"/>
+    <yt:videoId>xMUoHlnxqqk</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Howlin’ Knitwear and the Case for Wool in Modern Golf</title>
     <link>https://skratch.golf/style/mens-style/howlin-knitwear-and-the-case-for-wool-in-modern-golf</link>
@@ -83,6 +97,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Brittany Romano</dc:creator>
     <description>&lt;p&gt;Matsuyama chose legacy over a LIV payday during golf’s divide. Now he’s looking for clarity.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/hideki-matsuyama-pga-tour-liv-questions-brookes-koepka-return"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/matsuyama_koepka_farmers_2026_Getty_Images_2258554987_4453f93125/matsuyama_koepka_farmers_2026_Getty_Images_2258554987_4453f93125.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Brooks Koepka Has a Message for Gear Tinkerers</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/brooks-koepka-golf-advice-gear-torrey</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/brooks-koepka-golf-advice-gear-torrey</guid>
+    <pubDate>Wed, 28 Jan 2026 14:20:32 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;At his first PGA TOUR press conference back, Koepka explained why stability over endless testing has always been his real equipment edge.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/brooks-koepka-golf-advice-gear-torrey"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Brooks_3_wood_M2_Torrey_c5d7ae9b1d/Brooks_3_wood_M2_Torrey_c5d7ae9b1d.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -512,20 +537,6 @@ Dan travels all year and never leaves his Knocka&lt;/p&gt;&lt;p&gt;&lt;a href="h
     <category>video</category>
   </item>
   <item>
-    <title>This kid is onto something…</title>
-    <link>https://www.youtube.com/shorts/hVp4IEAyixg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/hVp4IEAyixg</guid>
-    <pubDate>Sat, 24 Jan 2026 19:40:23 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/hVp4IEAyixg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/hVp4IEAyixg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/hVp4IEAyixg" type="text/html" medium="video"/>
-    <yt:videoId>hVp4IEAyixg</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>We Already Have a Story of the Year Candidate Courtesy of Blades Brown</title>
     <link>https://skratch.golf/news/news/blades-brown-american-express-2026-near-59-last-minute-flight</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/blades-brown-american-express-2026-near-59-last-minute-flight</guid>
@@ -584,13 +595,13 @@ Dan travels all year and never leaves his Knocka&lt;/p&gt;&lt;p&gt;&lt;a href="h
     <category>article</category>
   </item>
   <item>
-    <title>Brooke Henderson Will (Temporarily) Split From Her Caddie</title>
-    <link>https://skratch.golf/news/news/brooke-henderson-new-caddie-2026</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/brooke-henderson-new-caddie-2026</guid>
-    <pubDate>Fri, 23 Jan 2026 15:43:41 +0000</pubDate>
+    <title>We Need a Nelly/Charley Solheim Cup Re-Match in Amsterdam</title>
+    <link>https://skratch.golf/news/news/nelly-korda-charley-hull-solheim-cup-2026-lpga-amsterdam</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/nelly-korda-charley-hull-solheim-cup-2026-lpga-amsterdam</guid>
+    <pubDate>Fri, 23 Jan 2026 15:16:41 +0000</pubDate>
     <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;And it&#x27;s because her long-time looper and big sister Brittany is expecting her first child!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/brooke-henderson-new-caddie-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2231889840_630e8df45e/Getty_Images_2231889840_630e8df45e.jpg"/>
+    <description>&lt;p&gt;After the banter in Fore Play Pod’s latest YouTube match, we need the captains to run this 2024 singles matchup back.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/nelly-korda-charley-hull-solheim-cup-2026-lpga-amsterdam"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2172161903_fb91575882/Getty_Images_2172161903_fb91575882.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -602,17 +613,6 @@ Dan travels all year and never leaves his Knocka&lt;/p&gt;&lt;p&gt;&lt;a href="h
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;JT is 10 weeks removed from back surgery, and he’s hoping for a pre-Masters return.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/justin-thomas-pga-tour-return-florida-swing-back-surgery"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2221516992_a70dd1e5a6/Getty_Images_2221516992_a70dd1e5a6.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Min Woo Lee Steps Into Payntr Golf</title>
-    <link>https://skratch.golf/style/mens-style/min-woo-lee-ambassador-payntr-golf-shoes</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/min-woo-lee-ambassador-payntr-golf-shoes</guid>
-    <pubDate>Thu, 22 Jan 2026 22:44:54 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;A performance-first golf shoe now backed by one of the game’s most modern players.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/min-woo-lee-ambassador-payntr-golf-shoes"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2225810453_88c5614e8a/Getty_Images_2225810453_88c5614e8a.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
