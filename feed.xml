@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 29 Jan 2026 18:00:15 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Jan 2026 19:07:48 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>We could watch this guy play golf all day | Come play a hole with Jake Knapp at Torrey Pines</title>
+    <link>https://www.youtube.com/shorts/ajeaJrIdhIo</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/ajeaJrIdhIo</guid>
+    <pubDate>Thu, 29 Jan 2026 18:57:08 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ajeaJrIdhIo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/ajeaJrIdhIo/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/ajeaJrIdhIo" type="text/html" medium="video"/>
+    <yt:videoId>ajeaJrIdhIo</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Not all “unauthorized events” are created equal.</title>
     <link>https://www.youtube.com/shorts/aMqCSxTP1kU</link>
@@ -592,20 +606,6 @@ Dan travels all year and never leaves his Knocka&lt;/p&gt;&lt;p&gt;&lt;a href="h
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Scottie_Scheffler_Qi35_7_Wood_Swing_Genesis_eb8780edcd/Scottie_Scheffler_Qi35_7_Wood_Swing_Genesis_eb8780edcd.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>20 PGA TOUR wins in less than 4 years 🤯</title>
-    <link>https://www.youtube.com/shorts/rCl0XEy9JGg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/rCl0XEy9JGg</guid>
-    <pubDate>Mon, 26 Jan 2026 00:45:56 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/rCl0XEy9JGg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/rCl0XEy9JGg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/rCl0XEy9JGg" type="text/html" medium="video"/>
-    <yt:videoId>rCl0XEy9JGg</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Reed said he’s not yet contracted with LIV for 2026. Here’s his situation in his own words.</title>
