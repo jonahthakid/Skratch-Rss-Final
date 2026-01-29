@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 29 Jan 2026 14:36:17 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Jan 2026 15:30:05 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>How far is this ball going with modern technology? | Tiger tries to drive the green at Torrey.</title>
+    <link>https://www.youtube.com/shorts/Ok7XjpdtQ_Q</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/Ok7XjpdtQ_Q</guid>
+    <pubDate>Thu, 29 Jan 2026 14:56:51 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Ok7XjpdtQ_Q"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Ok7XjpdtQ_Q/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Ok7XjpdtQ_Q" type="text/html" medium="video"/>
+    <yt:videoId>Ok7XjpdtQ_Q</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Absolutely wild analogy from Dan here.</title>
     <link>https://www.youtube.com/shorts/ESVzXfrshIc</link>
@@ -569,20 +583,6 @@ Dan travels all year and never leaves his Knocka&lt;/p&gt;&lt;p&gt;&lt;a href="h
     <category>video</category>
   </item>
   <item>
-    <title>(Compilation coming soon)</title>
-    <link>https://www.youtube.com/shorts/deRYMK9RPRs</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/deRYMK9RPRs</guid>
-    <pubDate>Sun, 25 Jan 2026 19:22:10 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/deRYMK9RPRs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/deRYMK9RPRs/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/deRYMK9RPRs" type="text/html" medium="video"/>
-    <yt:videoId>deRYMK9RPRs</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Reed said he’s not yet contracted with LIV for 2026. Here’s his situation in his own words.</title>
     <link>https://www.youtube.com/shorts/QaeyaHwDO-g</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/QaeyaHwDO-g</guid>
@@ -608,13 +608,13 @@ Dan travels all year and never leaves his Knocka&lt;/p&gt;&lt;p&gt;&lt;a href="h
     <category>article</category>
   </item>
   <item>
-    <title>Oakley Finally Made the Golf Collection I’ve Been Waiting For</title>
-    <link>https://skratch.golf/style/mens-style/oakley-jr-smith-golf-collection-fusion</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/oakley-jr-smith-golf-collection-fusion</guid>
-    <pubDate>Fri, 23 Jan 2026 21:53:43 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Driven by JR Smith, Oakley’s Fusion Collection blends performance, identity, and modern golf style&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/oakley-jr-smith-golf-collection-fusion"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Oakley_Fusion_Cover_a1e652da20/Oakley_Fusion_Cover_a1e652da20.png"/>
+    <title>Wilson’s Most Forgiving Driver Won&#x27;t Slow You Down: The DynaPWR Max+</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/wilson-dynapwr-driver-fast-speed-forgiving-max-plus</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/wilson-dynapwr-driver-fast-speed-forgiving-max-plus</guid>
+    <pubDate>Fri, 23 Jan 2026 21:29:55 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Built to reach 10K MOI without adding head weight, Wilson’s new Max+ pairs maximum stability with the ball speed golfers still care about.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/wilson-dynapwr-driver-fast-speed-forgiving-max-plus"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Wilson_max_plus_driver_title_8d90c2fcc0/Wilson_max_plus_driver_title_8d90c2fcc0.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
