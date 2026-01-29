@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 29 Jan 2026 19:50:04 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Jan 2026 20:23:51 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Our Reaction To Patrick Reed Leaving LIV To Return To The PGA TOUR</title>
@@ -72,6 +72,17 @@
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Griffin, a three-time PGA TOUR winner and U.S. Ryder Cupper, has signed with Wheels Up.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/Ben-griffin-wheels-up-ambassador-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2245907564_f7cfc770ac/Getty_Images_2245907564_f7cfc770ac.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>This Strategic Titleist Price Cut Is a Pain for Everyone Else</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/titleist-gt-drivers-price-cut-pga-tour-winning</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/titleist-gt-drivers-price-cut-pga-tour-winning</guid>
+    <pubDate>Thu, 29 Jan 2026 15:28:32 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;With aggressive price cuts, Titleist is betting big that golfers will put their GT models against newer and more expensive offerings.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/titleist-gt-drivers-price-cut-pga-tour-winning"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Titleist_GT_driver_sales_2026_264973e1f5/Titleist_GT_driver_sales_2026_264973e1f5.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -665,17 +676,6 @@ Dan travels all year and never leaves his Knocka&lt;/p&gt;&lt;p&gt;&lt;a href="h
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;Built to reach 10K MOI without adding head weight, Wilson’s new Max+ pairs maximum stability with the ball speed golfers still care about.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/wilson-dynapwr-driver-fast-speed-forgiving-max-plus"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Wilson_max_plus_driver_title_8d90c2fcc0/Wilson_max_plus_driver_title_8d90c2fcc0.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>PGA Show 2026: Refinement Is Golf&#x27;s New Revolution</title>
-    <link>https://skratch.golf/style/style/pga-show-2026-trends-style-new-breands-refinement-golfs-new-revolution</link>
-    <guid isPermaLink="true">https://skratch.golf/style/style/pga-show-2026-trends-style-new-breands-refinement-golfs-new-revolution</guid>
-    <pubDate>Fri, 23 Jan 2026 17:39:09 +0000</pubDate>
-    <dc:creator>Brittany Romano</dc:creator>
-    <description>&lt;p&gt;Walking the 2026 PGA Show floor this year felt less like hunting for the next big thing and more like watching golf settle into who it actually is.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/pga-show-2026-trends-style-new-breands-refinement-golfs-new-revolution"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260123_PGA_Show_2026_6a8740e127/20260123_PGA_Show_2026_6a8740e127.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
