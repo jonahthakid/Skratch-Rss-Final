@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 29 Jan 2026 22:53:01 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Jan 2026 23:21:21 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Is this the best golf road trip on earth?</title>
@@ -46,6 +46,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Brooks Koepka&#x27;s First Round Back is in the Books—Here&#x27;s How it Went</title>
+    <link>https://skratch.golf/news/news/brooks-koepka-farmers-insurance-open-score-pga-tour-return</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/brooks-koepka-farmers-insurance-open-score-pga-tour-return</guid>
+    <pubDate>Thu, 29 Jan 2026 21:57:11 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;He showed a little rust during his first round back, but Brooks Koepka battled at a difficult Torrey Pines South on Thursday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/brooks-koepka-farmers-insurance-open-score-pga-tour-return"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2258916271_18771b0ca7/Getty_Images_2258916271_18771b0ca7.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Love Letter To: Torrey Pines</title>
@@ -592,17 +603,6 @@ Dan travels all year and never leaves his Knocka&lt;/p&gt;&lt;p&gt;&lt;a href="h
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>There Will Be No Shortage of Brooks Koepka TV Coverage at Torrey Pines</title>
-    <link>https://skratch.golf/news/news/brooks-koepka-farmers-insurance-open-2026-tv-coverage</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/brooks-koepka-farmers-insurance-open-2026-tv-coverage</guid>
-    <pubDate>Mon, 26 Jan 2026 18:37:56 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Brooks Koepka will play alongside Ludvig Aberg and Max Homa in a featured group for the first two days of the Farmers Insurance Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/brooks-koepka-farmers-insurance-open-2026-tv-coverage"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2237903098_4260c2b317/Getty_Images_2237903098_4260c2b317.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>&quot;This guy has a big heart&quot; Patrick Reed 🤝 Ben Boskovich</title>
