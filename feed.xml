@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 29 Jan 2026 20:52:30 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Jan 2026 21:21:34 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Love Letter To: Torrey Pines</title>
+    <link>https://skratch.golf/news/golf-culture/love-letter-to-torrey-pines-golf-course</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/love-letter-to-torrey-pines-golf-course</guid>
+    <pubDate>Thu, 29 Jan 2026 20:11:00 +0000</pubDate>
+    <dc:creator>Zane Moulton</dc:creator>
+    <description>&lt;p&gt;Where public golf meets the edge of the Pacific&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/love-letter-to-torrey-pines-golf-course"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Torrey_Pines_Skratch_Zane_Moulton_0002_Header_327fa9975f/Torrey_Pines_Skratch_Zane_Moulton_0002_Header_327fa9975f.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Our Reaction To Patrick Reed Leaving LIV To Return To The PGA TOUR</title>
     <link>https://www.youtube.com/watch?v=c2xe1dLXSBk</link>
@@ -667,17 +678,6 @@ Dan travels all year and never leaves his Knocka&lt;/p&gt;&lt;p&gt;&lt;a href="h
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Wilson’s Most Forgiving Driver Won&#x27;t Slow You Down: The DynaPWR Max+</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/wilson-dynapwr-driver-fast-speed-forgiving-max-plus</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/wilson-dynapwr-driver-fast-speed-forgiving-max-plus</guid>
-    <pubDate>Fri, 23 Jan 2026 21:29:55 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Built to reach 10K MOI without adding head weight, Wilson’s new Max+ pairs maximum stability with the ball speed golfers still care about.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/wilson-dynapwr-driver-fast-speed-forgiving-max-plus"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Wilson_max_plus_driver_title_8d90c2fcc0/Wilson_max_plus_driver_title_8d90c2fcc0.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
