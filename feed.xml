@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 29 Jan 2026 15:30:05 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Jan 2026 16:04:54 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Ben Griffin Joins Wheels Up as an Ambassador</title>
+    <link>https://skratch.golf/news/pro-golf/Ben-griffin-wheels-up-ambassador-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/Ben-griffin-wheels-up-ambassador-pga-tour</guid>
+    <pubDate>Thu, 29 Jan 2026 15:41:22 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Griffin, a three-time PGA TOUR winner and U.S. Ryder Cupper, has signed with Wheels Up.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/Ben-griffin-wheels-up-ambassador-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2245907564_f7cfc770ac/Getty_Images_2245907564_f7cfc770ac.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>How far is this ball going with modern technology? | Tiger tries to drive the green at Torrey.</title>
     <link>https://www.youtube.com/shorts/Ok7XjpdtQ_Q</link>
@@ -651,17 +662,6 @@ Dan travels all year and never leaves his Knocka&lt;/p&gt;&lt;p&gt;&lt;a href="h
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Tommy Fleetwood is an apparel free agent, so he took advantage and rocked the best logo in golf in Dubai.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tommy-fleetwood-dubai-desert-classic-2026-augusta-national-polo"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2257730439_36aff1ccd6/Getty_Images_2257730439_36aff1ccd6.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>We Need a Nelly/Charley Solheim Cup Re-Match in Amsterdam</title>
-    <link>https://skratch.golf/news/news/nelly-korda-charley-hull-solheim-cup-2026-lpga-amsterdam</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/nelly-korda-charley-hull-solheim-cup-2026-lpga-amsterdam</guid>
-    <pubDate>Fri, 23 Jan 2026 15:16:41 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;After the banter in Fore Play Pod’s latest YouTube match, we need the captains to run this 2024 singles matchup back.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/nelly-korda-charley-hull-solheim-cup-2026-lpga-amsterdam"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2172161903_fb91575882/Getty_Images_2172161903_fb91575882.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
