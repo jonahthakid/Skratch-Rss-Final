@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 31 Jan 2026 21:16:23 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Jan 2026 21:42:27 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Brooks Koepka taking the path less traveled💥</title>
+    <link>https://www.youtube.com/shorts/V-7frJGK2cg</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/V-7frJGK2cg</guid>
+    <pubDate>Sat, 31 Jan 2026 21:08:27 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/V-7frJGK2cg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/V-7frJGK2cg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/V-7frJGK2cg" type="text/html" medium="video"/>
+    <yt:videoId>V-7frJGK2cg</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Florida State is leaving no stone unturned in their quest for the national championship</title>
     <link>https://www.youtube.com/shorts/2pr-CjtQbU4</link>
@@ -458,27 +472,6 @@ Dan&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=aSXS_Rg3UHA"&g
     <media:thumbnail url="https://img.youtube.com/vi/iLzwS9hDEDM/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/iLzwS9hDEDM" type="text/html" medium="video"/>
     <yt:videoId>iLzwS9hDEDM</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Patrick Reed is returning to the PGA TOUR. Here&#x27;s everything you need to know.</title>
-    <link>https://www.youtube.com/shorts/xoyqjJKIn7c</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/xoyqjJKIn7c</guid>
-    <pubDate>Wed, 28 Jan 2026 17:02:25 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
-
-Check out our website: https://skratch.golf/
-Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/xoyqjJKIn7c"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/xoyqjJKIn7c/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/xoyqjJKIn7c" type="text/html" medium="video"/>
-    <yt:videoId>xoyqjJKIn7c</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
