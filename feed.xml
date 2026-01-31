@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 31 Jan 2026 18:24:34 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Jan 2026 18:54:29 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Florida State is leaving no stone unturned in their quest for the national championship</title>
+    <link>https://www.youtube.com/shorts/2pr-CjtQbU4</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/2pr-CjtQbU4</guid>
+    <pubDate>Sat, 31 Jan 2026 18:30:37 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/2pr-CjtQbU4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/2pr-CjtQbU4/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/2pr-CjtQbU4" type="text/html" medium="video"/>
+    <yt:videoId>2pr-CjtQbU4</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>An all-time putting clinic from Tiger at the 2008 Farmers Insurance Open. He won by eight.</title>
     <link>https://www.youtube.com/shorts/6UIgH2cEiQU</link>
@@ -465,24 +479,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/xoyqjJKIn7c"&gt;
     <media:thumbnail url="https://img.youtube.com/vi/xoyqjJKIn7c/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/xoyqjJKIn7c" type="text/html" medium="video"/>
     <yt:videoId>xoyqjJKIn7c</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Skratch 🤝 LPGA Tour</title>
-    <link>https://www.youtube.com/shorts/EWkGRY_Ufc4</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/EWkGRY_Ufc4</guid>
-    <pubDate>Wed, 28 Jan 2026 15:55:16 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;We&#x27;re excited to announce a new partnership with the @LPGA to expand our women&#x27;s golf coverage through exclusive access, highlights, original content, and inside-the-ropes storytelling. Join us as our Addie Parker hits the road, bringing you closer to the players than ever before.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s huma&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/EWkGRY_Ufc4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/EWkGRY_Ufc4/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/EWkGRY_Ufc4" type="text/html" medium="video"/>
-    <yt:videoId>EWkGRY_Ufc4</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
