@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 03 Feb 2026 18:11:05 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Feb 2026 19:24:47 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>A prickly situation at TPC Scottsdale</title>
+    <link>https://www.youtube.com/shorts/kyHip-t0biU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/kyHip-t0biU</guid>
+    <pubDate>Tue, 03 Feb 2026 18:15:03 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Teeing it up at TPC Scottsdale can get a bit prickly. Dan Rapaport breaks down when cacti fought back in this Sh*tty Situations presented by @dudewipes.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/kyHip-t0biU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/kyHip-t0biU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/kyHip-t0biU" type="text/html" medium="video"/>
+    <yt:videoId>kyHip-t0biU</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>LIV Golf Players Will Receive World Ranking Points in 2026</title>
     <link>https://skratch.golf/news/news/liv-golf-earn-world-ranking-points-events-2026</link>
@@ -35,6 +49,17 @@
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Jim Nantz, Dottie Pepper, and the CBS Golf Team Wax on Scottie Scheffler&#x27;s Greatness</title>
+    <link>https://skratch.golf/news/pro-golf/jim-nantz-dottie-pepper-cbs-golf-team-wax-on-scottie-scheffler-greatness</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/jim-nantz-dottie-pepper-cbs-golf-team-wax-on-scottie-scheffler-greatness</guid>
+    <pubDate>Tue, 03 Feb 2026 16:48:48 +0000</pubDate>
+    <dc:creator>Garrett Johnston</dc:creator>
+    <description>&lt;p&gt;&quot;He&#x27;s like the ocean. Like he doesn’t stop. He just keeps coming. That absolutely keeps his competition awake at night.&quot;&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/jim-nantz-dottie-pepper-cbs-golf-team-wax-on-scottie-scheffler-greatness"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/scottie_scheffler_memorial_2024_Getty_Images_2156422373_4953db3d0d/scottie_scheffler_memorial_2024_Getty_Images_2156422373_4953db3d0d.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>February 3, 2026</title>
@@ -604,20 +629,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Not all “unauthorized events” are created equal.</title>
-    <link>https://www.youtube.com/shorts/aMqCSxTP1kU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/aMqCSxTP1kU</guid>
-    <pubDate>Thu, 29 Jan 2026 17:08:10 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/aMqCSxTP1kU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/aMqCSxTP1kU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/aMqCSxTP1kU" type="text/html" medium="video"/>
-    <yt:videoId>aMqCSxTP1kU</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Did Nike and Hyperice Just Create the Must-Have Package in Golf?</title>
     <link>https://skratch.golf/style/mens-style/nike-hyperice-golf-winter-olympics-package</link>
     <guid isPermaLink="true">https://skratch.golf/style/mens-style/nike-hyperice-golf-winter-olympics-package</guid>
@@ -640,6 +651,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
+    <title>This Strategic Titleist Price Cut Is a Pain for Everyone Else</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/titleist-gt-drivers-price-cut-pga-tour-winning</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/titleist-gt-drivers-price-cut-pga-tour-winning</guid>
+    <pubDate>Thu, 29 Jan 2026 15:28:32 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;With aggressive price cuts, Titleist is betting big that golfers will put their GT models against newer and more expensive offerings.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/titleist-gt-drivers-price-cut-pga-tour-winning"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Titleist_GT_driver_sales_2026_264973e1f5/Titleist_GT_driver_sales_2026_264973e1f5.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>How far is this ball going with modern technology? | Tiger tries to drive the green at Torrey.</title>
     <link>https://www.youtube.com/shorts/Ok7XjpdtQ_Q</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/Ok7XjpdtQ_Q</guid>
@@ -652,28 +674,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Golf Pride Joins The Crowd With Zero Taper Putter Grip</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/golf-pride-zero-taper-putter-grip-technology</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/golf-pride-zero-taper-putter-grip-technology</guid>
-    <pubDate>Wed, 28 Jan 2026 02:23:04 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;As part of its continued push into the modern putter grip space, Golf Pride is introducing its first Zero Taper putter grip.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/golf-pride-zero-taper-putter-grip-technology"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Golf_Pride_ZT_putter_top_a4d3805ad3/Golf_Pride_ZT_putter_top_a4d3805ad3.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>TaylorMade Goes Hard In the Paint to Make TP5 More Consistent</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/taylormade-golf-balls-new-release-paint-tp5-tp5x</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/taylormade-golf-balls-new-release-paint-tp5-tp5x</guid>
-    <pubDate>Tue, 27 Jan 2026 18:19:03 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;A new microcoating process aims to make TaylorMade’s tour balls faster and more consistent—from core to cover.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/taylormade-golf-balls-new-release-paint-tp5-tp5x"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/TP_5_golf_balls_2026_086678c7ed/TP_5_golf_balls_2026_086678c7ed.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
