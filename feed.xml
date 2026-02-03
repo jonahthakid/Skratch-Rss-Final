@@ -9,8 +9,29 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 03 Feb 2026 20:38:49 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Feb 2026 21:28:43 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Nothing beats the view from these bucket list New Zealand golf courses 😍</title>
+    <link>https://www.youtube.com/shorts/0M-Yl2bgGDQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/0M-Yl2bgGDQ</guid>
+    <pubDate>Tue, 03 Feb 2026 21:16:00 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
+
+Check out our website: https://skratch.golf/
+Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/0M-Yl2bgGDQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/0M-Yl2bgGDQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/0M-Yl2bgGDQ" type="text/html" medium="video"/>
+    <yt:videoId>0M-Yl2bgGDQ</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>“I hit it thin, too.” 😭 | #TigerTuesday</title>
     <link>https://www.youtube.com/shorts/PtC9IQM4Ee4</link>
@@ -133,6 +154,17 @@
     <dc:creator>Rick Gehman</dc:creator>
     <description>&lt;p&gt;Our resident winner picker offers his best bets for the biggest party on TOUR.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/wm-phoenix-open-best-bets-winner-picks"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2258187185_96253173a2/Getty_Images_2258187185_96253173a2.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>On Tap: WM Phoenix Open</title>
+    <link>https://skratch.golf/news/pro-golf/wm-phoenix-open-2026-how-to-watch-pga-tour-tee-times</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/wm-phoenix-open-2026-how-to-watch-pga-tour-tee-times</guid>
+    <pubDate>Tue, 03 Feb 2026 15:36:17 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The biggest party on grass is back this weekend! Here’s all the info you need to watch the WM Phoenix Open from TPC Scottsdale.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/wm-phoenix-open-2026-how-to-watch-pga-tour-tee-times"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2198588932_84c9bf6d10/Getty_Images_2198588932_84c9bf6d10.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -441,6 +473,17 @@ Da&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=xxFXEdoxVTQ"&gt
     <category>video</category>
   </item>
   <item>
+    <title>Skratch Attests: This Rangefinder Offers A Very Rare Feature</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/skratch-attest-rangefinder-distance-measuring-cobalt</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/skratch-attest-rangefinder-distance-measuring-cobalt</guid>
+    <pubDate>Fri, 30 Jan 2026 19:40:52 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Most golf rangefinders have a set magnification, but the Q-Z6 from Cobalt offers a unique feature to help golfers track targets faster.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/skratch-attest-rangefinder-distance-measuring-cobalt"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Cobalt_title_rangefinder_c7e05acb3b/Cobalt_title_rangefinder_c7e05acb3b.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Backing off is extremely overrated. Send that fly on its way.</title>
     <link>https://www.youtube.com/shorts/l6-EJQvv0d4</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/l6-EJQvv0d4</guid>
@@ -615,17 +658,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Brooks Koepka&#x27;s First Round Back is in the Books—Here&#x27;s How it Went</title>
-    <link>https://skratch.golf/news/news/brooks-koepka-farmers-insurance-open-score-pga-tour-return</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/brooks-koepka-farmers-insurance-open-score-pga-tour-return</guid>
-    <pubDate>Thu, 29 Jan 2026 21:57:11 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;He showed a little rust during his first round back, but Brooks Koepka battled at a difficult Torrey Pines South on Thursday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/brooks-koepka-farmers-insurance-open-score-pga-tour-return"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2258916271_18771b0ca7/Getty_Images_2258916271_18771b0ca7.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Love Letter To: Torrey Pines</title>
     <link>https://skratch.golf/news/golf-culture/love-letter-to-torrey-pines-golf-course</link>
     <guid isPermaLink="true">https://skratch.golf/news/golf-culture/love-letter-to-torrey-pines-golf-course</guid>
@@ -649,31 +681,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>We could watch this guy play golf all day | Come play a hole with Jake Knapp at Torrey Pines</title>
-    <link>https://www.youtube.com/shorts/ajeaJrIdhIo</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ajeaJrIdhIo</guid>
-    <pubDate>Thu, 29 Jan 2026 18:57:08 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ajeaJrIdhIo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ajeaJrIdhIo/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ajeaJrIdhIo" type="text/html" medium="video"/>
-    <yt:videoId>ajeaJrIdhIo</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Ben Griffin Joins Wheels Up as an Ambassador</title>
-    <link>https://skratch.golf/news/pro-golf/Ben-griffin-wheels-up-ambassador-pga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/Ben-griffin-wheels-up-ambassador-pga-tour</guid>
-    <pubDate>Thu, 29 Jan 2026 15:41:22 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Griffin, a three-time PGA TOUR winner and U.S. Ryder Cupper, has signed with Wheels Up.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/Ben-griffin-wheels-up-ambassador-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2245907564_f7cfc770ac/Getty_Images_2245907564_f7cfc770ac.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
