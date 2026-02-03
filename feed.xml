@@ -9,8 +9,36 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 02 Feb 2026 23:50:37 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Feb 2026 01:44:20 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Our first guest Official Statement comes courtesy of the one and only Willy Wilcox</title>
+    <link>https://www.youtube.com/shorts/jE1XhXdqJnI</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/jE1XhXdqJnI</guid>
+    <pubDate>Tue, 03 Feb 2026 01:33:55 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/jE1XhXdqJnI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/jE1XhXdqJnI/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/jE1XhXdqJnI" type="text/html" medium="video"/>
+    <yt:videoId>jE1XhXdqJnI</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>“It seems like there just wasn’t a lot of foresight into what they could have done.”</title>
+    <link>https://www.youtube.com/shorts/DpFjdgyAFnQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/DpFjdgyAFnQ</guid>
+    <pubDate>Tue, 03 Feb 2026 00:13:54 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/DpFjdgyAFnQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/DpFjdgyAFnQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/DpFjdgyAFnQ" type="text/html" medium="video"/>
+    <yt:videoId>DpFjdgyAFnQ</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Atlanta Drive TGL Team Owner Adds WTGL to His Iconic Roster</title>
     <link>https://skratch.golf/news/news/tgl-announces-first-wtgl-ownership</link>
@@ -594,20 +622,6 @@ Dan&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=aSXS_Rg3UHA"&g
     <category>video</category>
   </item>
   <item>
-    <title>Golf is not easy.</title>
-    <link>https://www.youtube.com/shorts/A9UckWCN7X0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/A9UckWCN7X0</guid>
-    <pubDate>Thu, 29 Jan 2026 00:00:06 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/A9UckWCN7X0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/A9UckWCN7X0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/A9UckWCN7X0" type="text/html" medium="video"/>
-    <yt:videoId>A9UckWCN7X0</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Play a hole with Jason Day at Torrey Pines</title>
     <link>https://www.youtube.com/shorts/bDwVelusBx8</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/bDwVelusBx8</guid>
@@ -653,20 +667,6 @@ Dan&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=aSXS_Rg3UHA"&g
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_01_28_at_12_19_24_PM_49ddf17bcc/Screenshot_2026_01_28_at_12_19_24_PM_49ddf17bcc.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Does Dan know ball?</title>
-    <link>https://www.youtube.com/shorts/bFBSWKrWiNs</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/bFBSWKrWiNs</guid>
-    <pubDate>Tue, 27 Jan 2026 21:27:23 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/bFBSWKrWiNs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/bFBSWKrWiNs/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/bFBSWKrWiNs" type="text/html" medium="video"/>
-    <yt:videoId>bFBSWKrWiNs</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>TaylorMade Goes Hard In the Paint to Make TP5 More Consistent</title>
