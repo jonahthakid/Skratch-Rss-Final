@@ -9,8 +9,36 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 03 Feb 2026 16:09:59 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Feb 2026 17:26:42 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Dan’s Top 10 venues to win at. How’d he do?</title>
+    <link>https://www.youtube.com/shorts/caD5e7-_bDU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/caD5e7-_bDU</guid>
+    <pubDate>Tue, 03 Feb 2026 17:09:25 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/caD5e7-_bDU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/caD5e7-_bDU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/caD5e7-_bDU" type="text/html" medium="video"/>
+    <yt:videoId>caD5e7-_bDU</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>February 3, 2026</title>
+    <link>https://www.youtube.com/shorts/QIVVJ7_Y6Ds</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/QIVVJ7_Y6Ds</guid>
+    <pubDate>Tue, 03 Feb 2026 16:19:42 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/QIVVJ7_Y6Ds"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/QIVVJ7_Y6Ds/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/QIVVJ7_Y6Ds" type="text/html" medium="video"/>
+    <yt:videoId>QIVVJ7_Y6Ds</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Wesley Bryan On PGA TOUR Suspension, LIV Duels &amp; His Future</title>
     <link>https://www.youtube.com/watch?v=jTAKtzPrJVQ</link>
@@ -24,6 +52,17 @@
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Rick&#x27;s Picks: Scottie to Win, a Sahith Top 20, and More for the WM Phoenix Open</title>
+    <link>https://skratch.golf/news/pro-golf/wm-phoenix-open-best-bets-winner-picks</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/wm-phoenix-open-best-bets-winner-picks</guid>
+    <pubDate>Tue, 03 Feb 2026 15:59:50 +0000</pubDate>
+    <dc:creator>Rick Gehman</dc:creator>
+    <description>&lt;p&gt;Our resident winner picker offers his best bets for the biggest party on TOUR.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/wm-phoenix-open-best-bets-winner-picks"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2258187185_96253173a2/Getty_Images_2258187185_96253173a2.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>“I don’t think it was a mental issue, I think it was a physical issue.”</title>
@@ -604,45 +643,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Absolutely wild analogy from Dan here.</title>
-    <link>https://www.youtube.com/shorts/ESVzXfrshIc</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ESVzXfrshIc</guid>
-    <pubDate>Thu, 29 Jan 2026 02:35:34 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ESVzXfrshIc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ESVzXfrshIc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ESVzXfrshIc" type="text/html" medium="video"/>
-    <yt:videoId>ESVzXfrshIc</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Play a hole with Jason Day at Torrey Pines</title>
-    <link>https://www.youtube.com/shorts/bDwVelusBx8</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/bDwVelusBx8</guid>
-    <pubDate>Wed, 28 Jan 2026 21:18:45 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/bDwVelusBx8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/bDwVelusBx8/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/bDwVelusBx8" type="text/html" medium="video"/>
-    <yt:videoId>bDwVelusBx8</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Social Media Reacts to Patrick Reed’s Return to the PGA TOUR</title>
-    <link>https://skratch.golf/news/news/patrick-reed-pga-tour-return-social-media-reacts</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/patrick-reed-pga-tour-return-social-media-reacts</guid>
-    <pubDate>Wed, 28 Jan 2026 14:05:36 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;One of the most polarizing players in golf is coming back to the PGA TOUR. Here&#x27;s what Golf Twitter had to say about it.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/patrick-reed-pga-tour-return-social-media-reacts"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2257925482_d62cc6f9e9/Getty_Images_2257925482_d62cc6f9e9.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Golf Pride Joins The Crowd With Zero Taper Putter Grip</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/golf-pride-zero-taper-putter-grip-technology</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/golf-pride-zero-taper-putter-grip-technology</guid>
@@ -654,17 +654,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>A New Era of Women&#x27;s Golf, And How It&#x27;s Being Covered</title>
-    <link>https://skratch.golf/news/news/lpga-skratch-pro-shop-media-2026-partnership</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-skratch-pro-shop-media-2026-partnership</guid>
-    <pubDate>Tue, 27 Jan 2026 18:59:12 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;This is more than just a partnership, it’s commitment to breathing new life into women’s golf coverage the Skratch way.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-skratch-pro-shop-media-2026-partnership"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/LPGA_16x9_Press_Release_b524d91ccc/LPGA_16x9_Press_Release_b524d91ccc.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>TaylorMade Goes Hard In the Paint to Make TP5 More Consistent</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/taylormade-golf-balls-new-release-paint-tp5-tp5x</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/taylormade-golf-balls-new-release-paint-tp5-tp5x</guid>
@@ -672,6 +661,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;A new microcoating process aims to make TaylorMade’s tour balls faster and more consistent—from core to cover.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/taylormade-golf-balls-new-release-paint-tp5-tp5x"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/TP_5_golf_balls_2026_086678c7ed/TP_5_golf_balls_2026_086678c7ed.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>On Tap: The Farmers Insurance Open</title>
+    <link>https://skratch.golf/news/pro-golf/farmers-insurance-open-2026-how-to-watch-pga-tour-tee-times-brooks-koepka</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/farmers-insurance-open-2026-how-to-watch-pga-tour-tee-times-brooks-koepka</guid>
+    <pubDate>Tue, 27 Jan 2026 16:25:51 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Brooks. Is. Back. If you’re planning on watching the five-time major champion’s PGA TOUR return, here’s all the info you need.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/farmers-insurance-open-2026-how-to-watch-pga-tour-tee-times-brooks-koepka"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2195752377_b0985b3719/Getty_Images_2195752377_b0985b3719.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
