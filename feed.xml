@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 04 Feb 2026 17:41:11 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Feb 2026 18:40:28 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Augusta National Has Sent Out All Women&#x27;s Amateur Invitations</title>
+    <link>https://skratch.golf/news/news/augusta-national-womens-amateur-invitees-field-update</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/augusta-national-womens-amateur-invitees-field-update</guid>
+    <pubDate>Wed, 04 Feb 2026 15:30:29 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;71 of the 72 invitations have been accepted. Here&#x27;s who made the list.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/augusta-national-womens-amateur-invitees-field-update"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/25_LW_1_1001_8378c71b28/25_LW_1_1001_8378c71b28.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>chat clip that</title>
     <link>https://www.youtube.com/shorts/0uDGdKkASNY</link>
@@ -533,17 +544,6 @@ Da&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=xxFXEdoxVTQ"&gt
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Brooks Koepka Will Play the Weekend at the Farmers Insurance Open</title>
-    <link>https://skratch.golf/news/news/brooks-koepka-made-cut-farmers-insurance-open-2026-pga-tour-stars-miss-cut</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/brooks-koepka-made-cut-farmers-insurance-open-2026-pga-tour-stars-miss-cut</guid>
-    <pubDate>Fri, 30 Jan 2026 23:58:35 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Meanwhile, Xander Schauffle will miss his first weekend since the 2022 Masters.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/brooks-koepka-made-cut-farmers-insurance-open-2026-pga-tour-stars-miss-cut"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2259105719_84c66d26c7/Getty_Images_2259105719_84c66d26c7.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Skratch Attests: This Rangefinder Offers A Very Rare Feature</title>
