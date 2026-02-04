@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 03 Feb 2026 23:50:12 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Feb 2026 01:27:39 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>A great perspective on young Tiger Woods from Thomas Bjørn</title>
+    <link>https://www.youtube.com/shorts/ie9MxpUmefs</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/ie9MxpUmefs</guid>
+    <pubDate>Wed, 04 Feb 2026 00:55:16 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ie9MxpUmefs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/ie9MxpUmefs/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/ie9MxpUmefs" type="text/html" medium="video"/>
+    <yt:videoId>ie9MxpUmefs</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>“The PGA TOUR introduced the pensions to the players, there was a big shift amongst the players.”</title>
     <link>https://www.youtube.com/shorts/lWpWNbZzEKM</link>
@@ -438,20 +452,6 @@ Da&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=xxFXEdoxVTQ"&gt
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Fade_3_c11988b23d/Fade_3_c11988b23d.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Justin Rose. Worm cam. We are so back.</title>
-    <link>https://www.youtube.com/shorts/AJVrf7bmfFY</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/AJVrf7bmfFY</guid>
-    <pubDate>Sun, 01 Feb 2026 21:04:19 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/AJVrf7bmfFY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/AJVrf7bmfFY/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/AJVrf7bmfFY" type="text/html" medium="video"/>
-    <yt:videoId>AJVrf7bmfFY</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>Brooks Koepka taking the path less traveled💥</title>
