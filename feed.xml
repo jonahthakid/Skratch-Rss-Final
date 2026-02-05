@@ -9,8 +9,61 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 05 Feb 2026 16:04:16 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Feb 2026 17:14:18 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Billy Foster&#x27;s Incredible Tiger Woods Story, Caddying At FIFTY Open Championships &amp; More</title>
+    <link>https://www.youtube.com/watch?v=xR0rBveyhXg</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=xR0rBveyhXg</guid>
+    <pubDate>Thu, 05 Feb 2026 17:01:38 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Long-time caddie Billy Foster joins for possibly our BEST interview yet. He dives into working with Tiger Woods, Lee Westwood, Thomas Bjørn, Matt Fitzpatrick &amp; more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=xR0rBveyhXg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/xR0rBveyhXg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/xR0rBveyhXg" type="text/html" medium="video"/>
+    <yt:videoId>xR0rBveyhXg</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>We Could See Patrick Reed Make a PGA TOUR Start Before His Suspension is Over</title>
+    <link>https://skratch.golf/news/news/patrick-reed-pga-tour-start-genesis-scottish-open-2026</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/patrick-reed-pga-tour-start-genesis-scottish-open-2026</guid>
+    <pubDate>Thu, 05 Feb 2026 16:51:39 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;There&#x27;s a path for Patrick Reed to make a PGA TOUR appearance before his one-year ban is over.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/patrick-reed-pga-tour-start-genesis-scottish-open-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2257595305_a63adfadfc/Getty_Images_2257595305_a63adfadfc.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>When Stewart Cink made birdie with the Nike One Black ball at the 2005 Phoenix Open.</title>
+    <link>https://www.youtube.com/shorts/0fMXmD-nKb4</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/0fMXmD-nKb4</guid>
+    <pubDate>Thu, 05 Feb 2026 16:38:05 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/0fMXmD-nKb4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/0fMXmD-nKb4/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/0fMXmD-nKb4" type="text/html" medium="video"/>
+    <yt:videoId>0fMXmD-nKb4</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Legendary caddie Billy Foster has seen it all in the game</title>
+    <link>https://www.youtube.com/shorts/CWFAwbRrRhA</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/CWFAwbRrRhA</guid>
+    <pubDate>Thu, 05 Feb 2026 16:24:39 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/CWFAwbRrRhA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/CWFAwbRrRhA/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/CWFAwbRrRhA" type="text/html" medium="video"/>
+    <yt:videoId>CWFAwbRrRhA</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>S2 E9: WMPO Preview, Matt Fitzpatrick Joins, Our BEST Interview Ever?!</title>
     <link>https://www.youtube.com/watch?v=CPG5UuOg29A</link>
@@ -103,6 +156,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;The should-be NFL MVP loves himself a hot dog before heading to the back nine.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/super-bowl-drake-maye-patriots-golfer-hotdog-at-the-turn"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2259904190_4ecccda986/Getty_Images_2259904190_4ecccda986.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Lookback: Calvin Peete&#x27;s Unorthodox Phoenix Open Win</title>
+    <link>https://skratch.golf/news/golf-culture/calvin-peete-waste-management-phoenix-open-pga-tour-lookback</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/calvin-peete-waste-management-phoenix-open-pga-tour-lookback</guid>
+    <pubDate>Wed, 04 Feb 2026 18:53:46 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;How an allergy attack led to a historic win for the PGA TOUR legend.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/calvin-peete-waste-management-phoenix-open-pga-tour-lookback"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Calvin_Peete_PGA_archive_4e6f928553/Calvin_Peete_PGA_archive_4e6f928553.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -451,45 +515,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/0M-Yl2bgGDQ"&gt;
     <category>video</category>
   </item>
   <item>
-    <title>Our first guest Official Statement comes courtesy of the one and only Willy Wilcox</title>
-    <link>https://www.youtube.com/shorts/jE1XhXdqJnI</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/jE1XhXdqJnI</guid>
-    <pubDate>Tue, 03 Feb 2026 01:33:55 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/jE1XhXdqJnI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/jE1XhXdqJnI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/jE1XhXdqJnI" type="text/html" medium="video"/>
-    <yt:videoId>jE1XhXdqJnI</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>“It seems like there just wasn’t a lot of foresight into what they could have done.”</title>
-    <link>https://www.youtube.com/shorts/DpFjdgyAFnQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/DpFjdgyAFnQ</guid>
-    <pubDate>Tue, 03 Feb 2026 00:13:54 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/DpFjdgyAFnQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/DpFjdgyAFnQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/DpFjdgyAFnQ" type="text/html" medium="video"/>
-    <yt:videoId>DpFjdgyAFnQ</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Atlanta Drive TGL Team Owner Adds WTGL to His Iconic Roster</title>
-    <link>https://skratch.golf/news/news/tgl-announces-first-wtgl-ownership</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/tgl-announces-first-wtgl-ownership</guid>
-    <pubDate>Mon, 02 Feb 2026 19:14:35 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Famed Atlanta sports teams owner Arthur Blank signs on to WTGL. So does this mean the league will mirror cities/teams?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tgl-announces-first-wtgl-ownership"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2206934742_1de9802955/Getty_Images_2206934742_1de9802955.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>LIV Golf Promotes Its New Season With Everyone But Its Own Members</title>
     <link>https://skratch.golf/news/news/liv-golf-promotion-new-season-pga-tour-players-golf-legends</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/liv-golf-promotion-new-season-pga-tour-players-golf-legends</guid>
@@ -497,17 +522,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/0M-Yl2bgGDQ"&gt;
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Instead of using its own players to promote its upcoming season, LIV Golf used everyone else.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/liv-golf-promotion-new-season-pga-tour-players-golf-legends"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2227243962_310c267c4b/Getty_Images_2227243962_310c267c4b.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>At 45, Justin Rose Is Still Winning and Still Learning</title>
-    <link>https://skratch.golf/news/news/justin-rose-torrey-pines-farmers-insurance-open-win-career-progression-family</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/justin-rose-torrey-pines-farmers-insurance-open-win-career-progression-family</guid>
-    <pubDate>Mon, 02 Feb 2026 17:34:58 +0000</pubDate>
-    <dc:creator>Garrett Johnston</dc:creator>
-    <description>&lt;p&gt;A wire-to-wire win at Torrey Pines offers a window into how Rose views struggle, success, and fatherhood.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/justin-rose-torrey-pines-farmers-insurance-open-win-career-progression-family"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/justin_rose_farmers_2026_win_Getty_Images_2259468484_dea8e121de/justin_rose_farmers_2026_win_Getty_Images_2259468484_dea8e121de.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -662,20 +676,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/lLNtiDik5wo/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/lLNtiDik5wo" type="text/html" medium="video"/>
     <yt:videoId>lLNtiDik5wo</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>No ankles were harmed in the making of this Tony Finau ace 😂</title>
-    <link>https://www.youtube.com/shorts/gt5aXnJBC1g</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/gt5aXnJBC1g</guid>
-    <pubDate>Fri, 30 Jan 2026 00:53:37 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/gt5aXnJBC1g"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/gt5aXnJBC1g/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/gt5aXnJBC1g" type="text/html" medium="video"/>
-    <yt:videoId>gt5aXnJBC1g</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
