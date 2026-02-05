@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 05 Feb 2026 19:11:37 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Feb 2026 19:54:55 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>There’s nothing worse than hitting a perfect drive and ending up in a divot</title>
@@ -24,6 +24,17 @@
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Sierra Madre Keeps on Nailing The Effortless Golf Girl Chic Vibe</title>
+    <link>https://skratch.golf/style/womens-style/sierra-madre-pilates-to-par-collection-womens-golf-style</link>
+    <guid isPermaLink="true">https://skratch.golf/style/womens-style/sierra-madre-pilates-to-par-collection-womens-golf-style</guid>
+    <pubDate>Thu, 05 Feb 2026 17:49:08 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Their new &quot;Pilates to Par&quot; collection has arrived and it&#x27;s a Galentine&#x27;s Day dream.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/womens-style/sierra-madre-pilates-to-par-collection-womens-golf-style"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_02_05_at_12_46_57_PM_400d351a4a/Screenshot_2026_02_05_at_12_46_57_PM_400d351a4a.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>It’s okay Scottie, we’ve all been there 😭</title>
@@ -561,17 +572,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/0M-Yl2bgGDQ"&gt;
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;All five players in Stanford&#x27;s lineup are heading to ANWA...including six-time returner Megha Ganne.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/stanford-womens-golf-returns-to-augusta-national-womens-amateur"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/megha_ganne_stanford_anwa_c7e1197249/megha_ganne_stanford_anwa_c7e1197249.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>LIV Golf Promotes Its New Season With Everyone But Its Own Members</title>
-    <link>https://skratch.golf/news/news/liv-golf-promotion-new-season-pga-tour-players-golf-legends</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/liv-golf-promotion-new-season-pga-tour-players-golf-legends</guid>
-    <pubDate>Mon, 02 Feb 2026 17:35:32 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Instead of using its own players to promote its upcoming season, LIV Golf used everyone else.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/liv-golf-promotion-new-season-pga-tour-players-golf-legends"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2227243962_310c267c4b/Getty_Images_2227243962_310c267c4b.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
