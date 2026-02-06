@@ -9,8 +9,28 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 06 Feb 2026 20:27:11 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Feb 2026 20:58:16 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>When your only hope is the FLOP</title>
+    <link>https://www.youtube.com/shorts/PLYD2pccb6w</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/PLYD2pccb6w</guid>
+    <pubDate>Fri, 06 Feb 2026 20:41:34 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Watch the full flop shot compilation now on our page!
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content o&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/PLYD2pccb6w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/PLYD2pccb6w/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/PLYD2pccb6w" type="text/html" medium="video"/>
+    <yt:videoId>PLYD2pccb6w</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Short Game MAGIC 🪄 | BEST PGA TOUR Flop Shots</title>
     <link>https://www.youtube.com/watch?v=C9p-cMTyhfc</link>
@@ -30,6 +50,17 @@ Subscribe to Skratch on YouTube and don’t miss ou&lt;/p&gt;&lt;p&gt;&lt;a href
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Max Homa Is Enjoying Some Home Cooking</title>
+    <link>https://skratch.golf/news/news/max-homa-wm-phoenix-open-2026-fan-tpc-scottsdale-16-to-drink</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/max-homa-wm-phoenix-open-2026-fan-tpc-scottsdale-16-to-drink</guid>
+    <pubDate>Fri, 06 Feb 2026 20:04:24 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;As a fan, Max Homa would head to the 16th at the WM Phoenix Open. Why? Well, isn&#x27;t it obvious?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/max-homa-wm-phoenix-open-2026-fan-tpc-scottsdale-16-to-drink"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2260247559_6a772822a8/Getty_Images_2260247559_6a772822a8.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>THIS close to an albatross 😩</title>
@@ -577,17 +608,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/0M-Yl2bgGDQ"&gt;
     <category>video</category>
   </item>
   <item>
-    <title>Everything Craig Kessler Said in Player Memo About Last Week&#x27;s TOC Drama</title>
-    <link>https://skratch.golf/news/news/lpga-tour-craig-kessler-player-memo-2026-hilton-grand-vacations-tournament-of-champions</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-tour-craig-kessler-player-memo-2026-hilton-grand-vacations-tournament-of-champions</guid>
-    <pubDate>Tue, 03 Feb 2026 19:37:23 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The LPGA&#x27;s commissioner issued a memo to players addressing the drama-filled ending at Lake Nona over the weekend.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-tour-craig-kessler-player-memo-2026-hilton-grand-vacations-tournament-of-champions"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2247477604_71178bf47c/Getty_Images_2247477604_71178bf47c.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>LIV Golf’s Lack of Self-Awareness is Dumbfounding</title>
     <link>https://skratch.golf/news/pro-golf/liv-golf-world-ranking-points-response-lack-of-self-awareness</link>
     <guid isPermaLink="true">https://skratch.golf/news/pro-golf/liv-golf-world-ranking-points-response-lack-of-self-awareness</guid>
@@ -656,17 +676,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/0M-Yl2bgGDQ"&gt;
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;The biggest party on grass is back this weekend! Here’s all the info you need to watch the WM Phoenix Open from TPC Scottsdale.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/wm-phoenix-open-2026-how-to-watch-pga-tour-tee-times"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2198588932_84c9bf6d10/Getty_Images_2198588932_84c9bf6d10.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Entire Stanford Golf Lineup Will Return to Augusta...Again</title>
-    <link>https://skratch.golf/news/news/stanford-womens-golf-returns-to-augusta-national-womens-amateur</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/stanford-womens-golf-returns-to-augusta-national-womens-amateur</guid>
-    <pubDate>Tue, 03 Feb 2026 15:30:36 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;All five players in Stanford&#x27;s lineup are heading to ANWA...including six-time returner Megha Ganne.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/stanford-womens-golf-returns-to-augusta-national-womens-amateur"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/megha_ganne_stanford_anwa_c7e1197249/megha_ganne_stanford_anwa_c7e1197249.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
