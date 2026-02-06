@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 06 Feb 2026 14:42:03 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Feb 2026 15:35:01 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Come play a hole with Jordan Spieth at the WM Phoenix Open</title>
+    <link>https://www.youtube.com/shorts/f3fSGe8CDUo</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/f3fSGe8CDUo</guid>
+    <pubDate>Fri, 06 Feb 2026 15:08:37 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/f3fSGe8CDUo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/f3fSGe8CDUo/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/f3fSGe8CDUo" type="text/html" medium="video"/>
+    <yt:videoId>f3fSGe8CDUo</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>THE PLAYERS’ 2026 Tagline: March is Going to be Major</title>
     <link>https://skratch.golf/news/news/the-players-2026-tag-line-march-is-going-to-be-major-pga-tour</link>
@@ -35,6 +49,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>What’s on the Wrist at the WM Phoenix Open</title>
+    <link>https://skratch.golf/style/mens-style/watch-review-whats-on-the-wrist-golf-wm-phoenix-open-style</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/watch-review-whats-on-the-wrist-golf-wm-phoenix-open-style</guid>
+    <pubDate>Thu, 05 Feb 2026 20:02:32 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;A new series exploring watches, golf, and the stories people carry with them&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/watch-review-whats-on-the-wrist-golf-wm-phoenix-open-style"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Watch_Cover_12b19b9654/Watch_Cover_12b19b9654.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>There’s nothing worse than hitting a perfect drive and ending up in a divot</title>
@@ -504,17 +529,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/0M-Yl2bgGDQ"&gt;
     <category>video</category>
   </item>
   <item>
-    <title>LIV Golf Players Will Receive World Ranking Points in 2026</title>
-    <link>https://skratch.golf/news/news/liv-golf-earn-world-ranking-points-events-2026</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/liv-golf-earn-world-ranking-points-events-2026</guid>
-    <pubDate>Tue, 03 Feb 2026 17:47:31 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The OWGR recognized that LIV Golf does not meet eligibility standards in a “number of areas,” but top finishers will still earn points.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/liv-golf-earn-world-ranking-points-events-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20250219_rahm_nieman_liv_Getty_Images_2199267961_e8a283910f/20250219_rahm_nieman_liv_Getty_Images_2199267961_e8a283910f.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Dan’s Top 10 venues to win at. How’d he do?</title>
     <link>https://www.youtube.com/shorts/caD5e7-_bDU</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/caD5e7-_bDU</guid>
@@ -649,20 +663,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/0M-Yl2bgGDQ"&gt;
     <media:thumbnail url="https://img.youtube.com/vi/V-7frJGK2cg/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/V-7frJGK2cg" type="text/html" medium="video"/>
     <yt:videoId>V-7frJGK2cg</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Florida State is leaving no stone unturned in their quest for the national championship</title>
-    <link>https://www.youtube.com/shorts/2pr-CjtQbU4</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/2pr-CjtQbU4</guid>
-    <pubDate>Sat, 31 Jan 2026 18:30:37 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/2pr-CjtQbU4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/2pr-CjtQbU4/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/2pr-CjtQbU4" type="text/html" medium="video"/>
-    <yt:videoId>2pr-CjtQbU4</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
