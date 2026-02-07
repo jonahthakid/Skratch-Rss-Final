@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 06 Feb 2026 23:47:31 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Feb 2026 01:27:02 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The WM Has Been a Hotspot For Gear Changes</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/wm-open-phoenix-gear-changes-brooks-koepka-putter</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/wm-open-phoenix-gear-changes-brooks-koepka-putter</guid>
+    <pubDate>Fri, 06 Feb 2026 23:46:40 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Brooks tries a taste of mallet life, plus a big swing for Ping.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/wm-open-phoenix-gear-changes-brooks-koepka-putter"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/brooks_koepka_alfred_dunhill_links_2024_Getty_Images_2176890153_fd568a9340/brooks_koepka_alfred_dunhill_links_2024_Getty_Images_2176890153_fd568a9340.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>When your only hope is the FLOP</title>
     <link>https://www.youtube.com/shorts/PLYD2pccb6w</link>
@@ -631,17 +642,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/0M-Yl2bgGDQ"&gt;
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>LIV Golf Players Will Receive World Ranking Points in 2026</title>
-    <link>https://skratch.golf/news/news/liv-golf-earn-world-ranking-points-events-2026</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/liv-golf-earn-world-ranking-points-events-2026</guid>
-    <pubDate>Tue, 03 Feb 2026 17:47:31 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The OWGR recognized that LIV Golf does not meet eligibility standards in a “number of areas,” but top finishers will still earn points.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/liv-golf-earn-world-ranking-points-events-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20250219_rahm_nieman_liv_Getty_Images_2199267961_e8a283910f/20250219_rahm_nieman_liv_Getty_Images_2199267961_e8a283910f.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>The largest “loose impediment” in golf history. | #TigerTuesday</title>
