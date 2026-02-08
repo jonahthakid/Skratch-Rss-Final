@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 08 Feb 2026 21:21:35 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Feb 2026 21:48:46 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Golf in the desert means unpredictable lies. 🌵</title>
+    <link>https://www.youtube.com/shorts/RKfiiHfMQvs</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/RKfiiHfMQvs</guid>
+    <pubDate>Sun, 08 Feb 2026 21:31:16 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Golf in the desert means unpredictable lies. 🌵 Dan Rapaport breaks down a few shots we’ve seen off the cart path this week at TPC Scottsdale in this Sh*tty Situations presented by @d@dudewipes&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/RKfiiHfMQvs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/RKfiiHfMQvs/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/RKfiiHfMQvs" type="text/html" medium="video"/>
+    <yt:videoId>RKfiiHfMQvs</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Hideki, Knapp In Mix, Scottie CHASING! | WM Phoenix Open LIVE Watch Along</title>
     <link>https://www.youtube.com/watch?v=NoRRk39oyhc</link>
@@ -579,20 +593,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://img.youtube.com/vi/ie9MxpUmefs/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/ie9MxpUmefs" type="text/html" medium="video"/>
     <yt:videoId>ie9MxpUmefs</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>“The PGA TOUR introduced the pensions to the players, there was a big shift amongst the players.”</title>
-    <link>https://www.youtube.com/shorts/lWpWNbZzEKM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/lWpWNbZzEKM</guid>
-    <pubDate>Tue, 03 Feb 2026 23:47:54 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/lWpWNbZzEKM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/lWpWNbZzEKM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/lWpWNbZzEKM" type="text/html" medium="video"/>
-    <yt:videoId>lWpWNbZzEKM</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
