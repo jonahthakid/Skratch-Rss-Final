@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 09 Feb 2026 22:30:37 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Feb 2026 23:31:55 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Dan thinks there’s 3 MUSTS before we can really start THE PLAYERS as a major talk</title>
+    <link>https://www.youtube.com/shorts/QU2eXEuBB5Y</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/QU2eXEuBB5Y</guid>
+    <pubDate>Mon, 09 Feb 2026 22:26:24 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/QU2eXEuBB5Y"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/QU2eXEuBB5Y/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/QU2eXEuBB5Y" type="text/html" medium="video"/>
+    <yt:videoId>QU2eXEuBB5Y</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Do NOT try this shot at home 😳</title>
     <link>https://www.youtube.com/shorts/6bWd0uK8Jww</link>
@@ -568,20 +582,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Calvin_Peete_PGA_archive_4e6f928553/Calvin_Peete_PGA_archive_4e6f928553.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Sometimes things on the course don&#x27;t go as planned</title>
-    <link>https://www.youtube.com/shorts/93dOIAh3_KQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/93dOIAh3_KQ</guid>
-    <pubDate>Wed, 04 Feb 2026 18:52:01 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Sometimes things on the course just don’t go as planned. Dan Rapaport relives a few of those moments at TPC Scottsdale in this Sh*tty Situations presented by @dudewipes.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/93dOIAh3_KQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/93dOIAh3_KQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/93dOIAh3_KQ" type="text/html" medium="video"/>
-    <yt:videoId>93dOIAh3_KQ</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>My Goal for this Golf Season: Build an Aesthetic Golf Bag</title>
