@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 09 Feb 2026 20:49:11 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Feb 2026 21:34:57 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Do NOT try this shot at home 😳</title>
+    <link>https://www.youtube.com/shorts/6bWd0uK8Jww</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/6bWd0uK8Jww</guid>
+    <pubDate>Mon, 09 Feb 2026 20:58:49 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Throwback to Jordan Spieth’s cliffside shot to save par at the 2022 AT&amp;amp;T Pebble Beach Pro-Am.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/6bWd0uK8Jww"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/6bWd0uK8Jww/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/6bWd0uK8Jww" type="text/html" medium="video"/>
+    <yt:videoId>6bWd0uK8Jww</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>The meme lives on.</title>
     <link>https://www.youtube.com/shorts/0-8AxM9KP1A</link>
@@ -658,20 +672,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/0M-Yl2bgGDQ"&gt;
     <media:thumbnail url="https://img.youtube.com/vi/0M-Yl2bgGDQ/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/0M-Yl2bgGDQ" type="text/html" medium="video"/>
     <yt:videoId>0M-Yl2bgGDQ</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>“I hit it thin, too.” 😭 | #TigerTuesday</title>
-    <link>https://www.youtube.com/shorts/PtC9IQM4Ee4</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/PtC9IQM4Ee4</guid>
-    <pubDate>Tue, 03 Feb 2026 19:42:57 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/PtC9IQM4Ee4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/PtC9IQM4Ee4/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/PtC9IQM4Ee4" type="text/html" medium="video"/>
-    <yt:videoId>PtC9IQM4Ee4</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
