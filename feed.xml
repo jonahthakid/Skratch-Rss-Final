@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 10 Feb 2026 16:01:50 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Feb 2026 17:32:49 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The Patch and Tiger Woods&#x27; Loop Will Open After Masters Week</title>
+    <link>https://skratch.golf/news/news/augusta-national-the-patch-tiger-woods-the-loop-open-april-15</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/augusta-national-the-patch-tiger-woods-the-loop-open-april-15</guid>
+    <pubDate>Tue, 10 Feb 2026 15:47:21 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Augusta Municipal Golf Course, commonly known as &quot;The Patch&quot;, and Tiger Woods&#x27; &quot;The Loop&quot; will open to the public on April 15, just after Masters week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/augusta-national-the-patch-tiger-woods-the-loop-open-april-15"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_02_10_at_10_48_25_AM_dddb4d4279/Screenshot_2026_02_10_at_10_48_25_AM_dddb4d4279.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>When Tiger came back from 7 down with 7 to play 🤯</title>
     <link>https://www.youtube.com/shorts/xojB-MfBycY</link>
@@ -134,6 +145,17 @@ Dan travels all year and never leaves his Knockarounds be&lt;/p&gt;&lt;p&gt;&lt;
     <dc:creator>Ben Boskovich</dc:creator>
     <description>&lt;p&gt;Whether the golfing world embraces it or not, it&#x27;ll change how we talk about it moving forward.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/players-championship-5th-major-legacy-conversation"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2204541420_8b746fb29d/Getty_Images_2204541420_8b746fb29d.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>This Pant Completely Flipped A Fashion Skeptic</title>
+    <link>https://skratch.golf/style/mens-style/clothing-fashion-pants-skeptic-uniqlo-style</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/clothing-fashion-pants-skeptic-uniqlo-style</guid>
+    <pubDate>Mon, 09 Feb 2026 17:06:19 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;After much avoidance and doubt, this wardrobe change has me completely re-thinking my on-course style choices.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/clothing-fashion-pants-skeptic-uniqlo-style"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Ryan_Uniqlo_pants_bdd875cf0b/Ryan_Uniqlo_pants_bdd875cf0b.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -609,17 +631,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>Augusta National Has Sent Out All Women&#x27;s Amateur Invitations</title>
-    <link>https://skratch.golf/news/news/augusta-national-womens-amateur-invitees-field-update</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/augusta-national-womens-amateur-invitees-field-update</guid>
-    <pubDate>Wed, 04 Feb 2026 15:30:29 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;71 of the 72 invitations have been accepted. Here&#x27;s who made the list.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/augusta-national-womens-amateur-invitees-field-update"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/25_LW_1_1001_8378c71b28/25_LW_1_1001_8378c71b28.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>chat clip that</title>
     <link>https://www.youtube.com/shorts/0uDGdKkASNY</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/0uDGdKkASNY</guid>
@@ -632,17 +643,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Charley Hull Will Headline LET Field in Riyadh</title>
-    <link>https://skratch.golf/news/news/ladies-european-tour-saudi-ladies-international-field-how-to-watch-womens-golf</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/ladies-european-tour-saudi-ladies-international-field-how-to-watch-womens-golf</guid>
-    <pubDate>Wed, 04 Feb 2026 14:44:45 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;With the LPGA on a small break, some familiar faces will tee it up in the desert for the LET&#x27;s season opener: The PIF Saudi Ladies International.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/ladies-european-tour-saudi-ladies-international-field-how-to-watch-womens-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2259163100_6c21336520/Getty_Images_2259163100_6c21336520.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Nothing Says “Pro Bowl” Like a Long-Drive Contest</title>
