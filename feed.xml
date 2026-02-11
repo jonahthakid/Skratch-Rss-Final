@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 11 Feb 2026 20:33:18 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Feb 2026 21:28:48 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Shots that live rent free in my head: Tony Romo from the hospitality area</title>
@@ -85,6 +85,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>This Course in Japan Will Host a U.S. Women&#x27;s Open Qualifer</title>
+    <link>https://skratch.golf/news/news/2026-us-womens-open-qualifying-sites-usga</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/2026-us-womens-open-qualifying-sites-usga</guid>
+    <pubDate>Wed, 11 Feb 2026 16:37:06 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The full list of USWO qualifying sites has just been announced—here&#x27;s when and where they will be.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-us-womens-open-qualifying-sites-usga"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2155178585_438abdfc23/Getty_Images_2155178585_438abdfc23.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>There’s NOTHING like the first time off at Pebble. 🙌</title>
@@ -590,17 +601,6 @@ Subscribe to Skratch on YouTube and don’t miss ou&lt;/p&gt;&lt;p&gt;&lt;a href
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>How This LPGA Major Winner Passed the Torch (Literally)</title>
-    <link>https://skratch.golf/news/news/ruoning-yin-lpga-star-olympic-torch-bearer-milan-2026</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/ruoning-yin-lpga-star-olympic-torch-bearer-milan-2026</guid>
-    <pubDate>Fri, 06 Feb 2026 19:00:00 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Talk about a once in a lifetime experience! Ruoning Yin was one of 10,001 torch bearers for this year&#x27;s Winter Olympic Games.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/ruoning-yin-lpga-star-olympic-torch-bearer-milan-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2165670986_58034f1d58/Getty_Images_2165670986_58034f1d58.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>The turf at TPC Scottsdale is BRUTAL</title>
