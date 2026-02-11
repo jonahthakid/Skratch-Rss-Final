@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 11 Feb 2026 21:28:48 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Feb 2026 21:59:52 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Shots that live rent free in my head: Tony Romo from the hospitality area</title>
@@ -228,6 +228,17 @@ Dan travels all year and never leaves his Knockarounds be&lt;/p&gt;&lt;p&gt;&lt;
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Charlie Woods is headed to Tallahassee, Florida, to play college golf as a Florida State Seminole!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/charlie-woods-commitment-florida-state-seminoles-college-golf-tiger-woods"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2227214068_9e812e9a24/Getty_Images_2227214068_9e812e9a24.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Every Winning Putter From The 2026 PGA TOUR Season (So Far)</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/pga-tour-every-winning-putter-2026-season</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/pga-tour-every-winning-putter-2026-season</guid>
+    <pubDate>Tue, 10 Feb 2026 21:45:25 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Every winner and every putter used to win on the PGA Tour in 2026, and how you can find them.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/pga-tour-every-winning-putter-2026-season"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2258187185_96253173a2/Getty_Images_2258187185_96253173a2.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -657,17 +668,6 @@ Subscribe to Skratch on YouTube and don’t miss ou&lt;/p&gt;&lt;p&gt;&lt;a href
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>What’s on the Wrist at the WM Phoenix Open</title>
-    <link>https://skratch.golf/style/mens-style/watch-review-whats-on-the-wrist-golf-wm-phoenix-open-style</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/watch-review-whats-on-the-wrist-golf-wm-phoenix-open-style</guid>
-    <pubDate>Thu, 05 Feb 2026 20:02:32 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;A new series exploring watches, golf, and the stories people carry with them&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/watch-review-whats-on-the-wrist-golf-wm-phoenix-open-style"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Watch_Cover_12b19b9654/Watch_Cover_12b19b9654.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>There’s nothing worse than hitting a perfect drive and ending up in a divot</title>
