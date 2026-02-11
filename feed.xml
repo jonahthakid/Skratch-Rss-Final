@@ -9,8 +9,36 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 10 Feb 2026 23:06:20 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Feb 2026 00:00:09 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>First ace in TGL AND they even let me hit on the sim.</title>
+    <link>https://www.youtube.com/shorts/n7XKjc_Vi50</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/n7XKjc_Vi50</guid>
+    <pubDate>Tue, 10 Feb 2026 23:48:11 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/n7XKjc_Vi50"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/n7XKjc_Vi50/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/n7XKjc_Vi50" type="text/html" medium="video"/>
+    <yt:videoId>n7XKjc_Vi50</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>A dreamy morning at Pebble Beach.</title>
+    <link>https://www.youtube.com/shorts/yjJeOu7k-cw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/yjJeOu7k-cw</guid>
+    <pubDate>Tue, 10 Feb 2026 23:39:45 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/yjJeOu7k-cw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/yjJeOu7k-cw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/yjJeOu7k-cw" type="text/html" medium="video"/>
+    <yt:videoId>yjJeOu7k-cw</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Collin Morikawa Opens Up On His Slump, Past Glory &amp; What’s Ahead</title>
     <link>https://www.youtube.com/watch?v=kFIn6g3V1P4</link>
@@ -635,31 +663,6 @@ Subscribe to Skratch on YouTube and don’t miss ou&lt;/p&gt;&lt;p&gt;&lt;a href
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;Last season, the Tour introduced a new pathway for players to earn their LPGA membership. With one success story under its belt, who will be the next one?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/lpga-elite-amateur-program-progress"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/lottie_woad_LEAP_6f1ab28c69/lottie_woad_LEAP_6f1ab28c69.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>A little showmanship goes a long way in Phoenix. 🤠</title>
-    <link>https://www.youtube.com/shorts/3Z28aoa1Z1w</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/3Z28aoa1Z1w</guid>
-    <pubDate>Wed, 04 Feb 2026 20:13:47 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/3Z28aoa1Z1w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/3Z28aoa1Z1w/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/3Z28aoa1Z1w" type="text/html" medium="video"/>
-    <yt:videoId>3Z28aoa1Z1w</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Scottie Scheffler Marveled at Justin Rose’s Longevity at the WM Phoenix Open</title>
-    <link>https://skratch.golf/news/news/scottie-scheffler-wm-phoenix-open-2026-justin-rose-longevity</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/scottie-scheffler-wm-phoenix-open-2026-justin-rose-longevity</guid>
-    <pubDate>Wed, 04 Feb 2026 19:57:32 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;&quot;I&#x27;m 29 and I feel tired already. I can&#x27;t imagine what I&#x27;ll feel like at 45. I can&#x27;t say enough about how impressive it is for him to still be putting up the scores.”&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/scottie-scheffler-wm-phoenix-open-2026-justin-rose-longevity"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1492144031_609c98f5c9/Getty_Images_1492144031_609c98f5c9.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
