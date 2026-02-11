@@ -1,4 +1,3 @@
-<!-- Warning: Error fetching Skratch: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwtGQ3sgidNlQGbIUBPP3xw -->
 <!-- Warning: Error fetching Dan On Golf Show: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
@@ -11,8 +10,36 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 11 Feb 2026 06:38:03 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Feb 2026 07:51:56 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>First ace in TGL AND they even let me hit on the sim 👀</title>
+    <link>https://www.youtube.com/shorts/n7XKjc_Vi50</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/n7XKjc_Vi50</guid>
+    <pubDate>Tue, 10 Feb 2026 23:48:11 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Come with me to an insane night at @TGL, presented by @mikeshardlemonade. #ad21+&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/n7XKjc_Vi50"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/n7XKjc_Vi50/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/n7XKjc_Vi50" type="text/html" medium="video"/>
+    <yt:videoId>n7XKjc_Vi50</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>A dreamy morning at Pebble Beach.</title>
+    <link>https://www.youtube.com/shorts/yjJeOu7k-cw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/yjJeOu7k-cw</guid>
+    <pubDate>Tue, 10 Feb 2026 23:39:45 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/yjJeOu7k-cw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/yjJeOu7k-cw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/yjJeOu7k-cw" type="text/html" medium="video"/>
+    <yt:videoId>yjJeOu7k-cw</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Rory McIlroy Nailed His Take on THE PLAYERS/Major Championship Debate</title>
     <link>https://skratch.golf/news/news/Rory-mcilroy-pebble-beach-pro-am-2026-players-major-championship</link>
@@ -23,6 +50,20 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2260430419_26725ecb8c/Getty_Images_2260430419_26725ecb8c.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>Charlie Woods has COMMITTED to play golf at FSU. He’s come a long way since his first birdie.</title>
+    <link>https://www.youtube.com/shorts/LjPUdkObuOs</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/LjPUdkObuOs</guid>
+    <pubDate>Tue, 10 Feb 2026 22:18:17 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/LjPUdkObuOs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/LjPUdkObuOs/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/LjPUdkObuOs" type="text/html" medium="video"/>
+    <yt:videoId>LjPUdkObuOs</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>It&#x27;s Official: Charlie Woods is Headed to Florida State</title>
@@ -58,6 +99,20 @@
     <category>article</category>
   </item>
   <item>
+    <title>Unfortunately, there are no breakfast balls on TOUR 😭</title>
+    <link>https://www.youtube.com/shorts/hVnC832XhHs</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/hVnC832XhHs</guid>
+    <pubDate>Tue, 10 Feb 2026 17:41:12 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/hVnC832XhHs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/hVnC832XhHs/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/hVnC832XhHs" type="text/html" medium="video"/>
+    <yt:videoId>hVnC832XhHs</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Why the Elite Pique Polo Matters in Sun Day Red’s Ongoing Remaster</title>
     <link>https://skratch.golf/style/mens-style/sun-day-red-elite-pique-polo-style</link>
     <guid isPermaLink="true">https://skratch.golf/style/mens-style/sun-day-red-elite-pique-polo-style</guid>
@@ -80,6 +135,20 @@
     <category>article</category>
   </item>
   <item>
+    <title>When Tiger came back from 7 down with 7 to play 🤯</title>
+    <link>https://www.youtube.com/shorts/xojB-MfBycY</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/xojB-MfBycY</guid>
+    <pubDate>Tue, 10 Feb 2026 15:44:21 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/xojB-MfBycY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/xojB-MfBycY/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/xojB-MfBycY" type="text/html" medium="video"/>
+    <yt:videoId>xojB-MfBycY</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>TaylorMade’s New Mini Driver Is a Long-Game Weapon</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/taylormade-mini-driver-r7-release-added-loft-forgiving</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/taylormade-mini-driver-r7-release-added-loft-forgiving</guid>
@@ -100,6 +169,20 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/students_sugarloaf_007_932382d103/students_sugarloaf_007_932382d103.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>Do NOT try this shot at home 😳</title>
+    <link>https://www.youtube.com/shorts/6bWd0uK8Jww</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/6bWd0uK8Jww</guid>
+    <pubDate>Mon, 09 Feb 2026 20:58:49 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Throwback to Jordan Spieth’s cliffside shot to save par at the 2022 AT&amp;amp;T Pebble Beach Pro-Am.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/6bWd0uK8Jww"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/6bWd0uK8Jww/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/6bWd0uK8Jww" type="text/html" medium="video"/>
+    <yt:videoId>6bWd0uK8Jww</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>On Tap: AT&amp;T Pebble Beach Pro-Am</title>
@@ -168,6 +251,46 @@
     <category>article</category>
   </item>
   <item>
+    <title>When your only hope is the FLOP</title>
+    <link>https://www.youtube.com/shorts/PLYD2pccb6w</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/PLYD2pccb6w</guid>
+    <pubDate>Fri, 06 Feb 2026 20:41:34 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Watch the full flop shot compilation now on our page!
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content o&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/PLYD2pccb6w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/PLYD2pccb6w/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/PLYD2pccb6w" type="text/html" medium="video"/>
+    <yt:videoId>PLYD2pccb6w</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Short Game MAGIC 🪄 | BEST PGA TOUR Flop Shots</title>
+    <link>https://www.youtube.com/watch?v=C9p-cMTyhfc</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=C9p-cMTyhfc</guid>
+    <pubDate>Fri, 06 Feb 2026 20:12:41 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;These PGA TOUR pros turn impossible lies into short game magic with these fearless flop shots.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss ou&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=C9p-cMTyhfc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/C9p-cMTyhfc/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/C9p-cMTyhfc" type="text/html" medium="video"/>
+    <yt:videoId>C9p-cMTyhfc</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Max Homa Is Enjoying Some Home Cooking</title>
     <link>https://skratch.golf/news/news/max-homa-wm-phoenix-open-2026-fan-tpc-scottsdale-16-to-drink</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/max-homa-wm-phoenix-open-2026-fan-tpc-scottsdale-16-to-drink</guid>
@@ -177,6 +300,20 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2260247559_6a772822a8/Getty_Images_2260247559_6a772822a8.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>THIS close to an albatross 😩</title>
+    <link>https://www.youtube.com/shorts/9xcEuEwT-Yk</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/9xcEuEwT-Yk</guid>
+    <pubDate>Fri, 06 Feb 2026 19:57:23 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/9xcEuEwT-Yk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/9xcEuEwT-Yk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/9xcEuEwT-Yk" type="text/html" medium="video"/>
+    <yt:videoId>9xcEuEwT-Yk</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>Are All-Over Prints Making a Comeback in Golf?</title>
@@ -201,6 +338,20 @@
     <category>article</category>
   </item>
   <item>
+    <title>Come play a hole with Jordan Spieth at the WM Phoenix Open</title>
+    <link>https://www.youtube.com/shorts/f3fSGe8CDUo</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/f3fSGe8CDUo</guid>
+    <pubDate>Fri, 06 Feb 2026 15:08:37 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/f3fSGe8CDUo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/f3fSGe8CDUo/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/f3fSGe8CDUo" type="text/html" medium="video"/>
+    <yt:videoId>f3fSGe8CDUo</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>THE PLAYERS’ 2026 Tagline: March is Going to be Major</title>
     <link>https://skratch.golf/news/news/the-players-2026-tag-line-march-is-going-to-be-major-pga-tour</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/the-players-2026-tag-line-march-is-going-to-be-major-pga-tour</guid>
@@ -210,6 +361,20 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2205111187_dfdc2f66f4/Getty_Images_2205111187_dfdc2f66f4.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>Joel puts on another show at 16 🤣</title>
+    <link>https://www.youtube.com/shorts/zWyyd-Kwfjg</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/zWyyd-Kwfjg</guid>
+    <pubDate>Thu, 05 Feb 2026 23:50:32 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/zWyyd-Kwfjg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/zWyyd-Kwfjg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/zWyyd-Kwfjg" type="text/html" medium="video"/>
+    <yt:videoId>zWyyd-Kwfjg</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>What’s on the Wrist at the WM Phoenix Open</title>
@@ -234,6 +399,34 @@
     <category>article</category>
   </item>
   <item>
+    <title>It’s okay Scottie, we’ve all been there 😭</title>
+    <link>https://www.youtube.com/shorts/naCJxmtL_ug</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/naCJxmtL_ug</guid>
+    <pubDate>Thu, 05 Feb 2026 17:48:00 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/naCJxmtL_ug"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/naCJxmtL_ug/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/naCJxmtL_ug" type="text/html" medium="video"/>
+    <yt:videoId>naCJxmtL_ug</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Imagine hitting the green and still getting booed. 😭</title>
+    <link>https://www.youtube.com/shorts/UW6f4P-g6gI</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/UW6f4P-g6gI</guid>
+    <pubDate>Thu, 05 Feb 2026 17:10:10 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/UW6f4P-g6gI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/UW6f4P-g6gI/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/UW6f4P-g6gI" type="text/html" medium="video"/>
+    <yt:videoId>UW6f4P-g6gI</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>We Could See Patrick Reed Make a PGA TOUR Start Before His Suspension is Over</title>
     <link>https://skratch.golf/news/news/patrick-reed-pga-tour-start-genesis-scottish-open-2026</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/patrick-reed-pga-tour-start-genesis-scottish-open-2026</guid>
@@ -245,6 +438,20 @@
     <category>article</category>
   </item>
   <item>
+    <title>When Stewart Cink made birdie with the Nike One Black ball at the 2005 Phoenix Open.</title>
+    <link>https://www.youtube.com/shorts/0fMXmD-nKb4</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/0fMXmD-nKb4</guid>
+    <pubDate>Thu, 05 Feb 2026 16:38:05 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/0fMXmD-nKb4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/0fMXmD-nKb4/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/0fMXmD-nKb4" type="text/html" medium="video"/>
+    <yt:videoId>0fMXmD-nKb4</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>One Year In, How Is The LPGA&#x27;s Elite Amateur Pathway Faring?</title>
     <link>https://skratch.golf/news/pro-golf/lpga-elite-amateur-program-progress</link>
     <guid isPermaLink="true">https://skratch.golf/news/pro-golf/lpga-elite-amateur-program-progress</guid>
@@ -254,6 +461,20 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/lottie_woad_LEAP_6f1ab28c69/lottie_woad_LEAP_6f1ab28c69.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>A little showmanship goes a long way in Phoenix. 🤠</title>
+    <link>https://www.youtube.com/shorts/3Z28aoa1Z1w</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/3Z28aoa1Z1w</guid>
+    <pubDate>Wed, 04 Feb 2026 20:13:47 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/3Z28aoa1Z1w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/3Z28aoa1Z1w/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/3Z28aoa1Z1w" type="text/html" medium="video"/>
+    <yt:videoId>3Z28aoa1Z1w</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>Women&#x27;s Golf Forecast: 5 Brands You Should Know About in 2026</title>
