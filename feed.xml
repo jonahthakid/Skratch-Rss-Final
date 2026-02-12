@@ -9,8 +9,44 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 12 Feb 2026 15:12:32 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Feb 2026 16:28:57 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Augusta National Won’t Let Gary Player and His Grandkids on the Course</title>
+    <link>https://skratch.golf/news/news/gary-player-augusta-national-the-masters-wont-let-grandkids-play</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/gary-player-augusta-national-the-masters-wont-let-grandkids-play</guid>
+    <pubDate>Thu, 12 Feb 2026 16:02:21 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Gary Player can&#x27;t take his grandkids to play Augusta National: &quot;I accept it with sadness.&quot;&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/gary-player-augusta-national-the-masters-wont-let-grandkids-play"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2208863126_10029e8473/Getty_Images_2208863126_10029e8473.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Pebble might be know for the views but the volunteers are just as incredible. 🤣</title>
+    <link>https://www.youtube.com/shorts/S7Zc5vKwXvE</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/S7Zc5vKwXvE</guid>
+    <pubDate>Thu, 12 Feb 2026 15:34:26 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/S7Zc5vKwXvE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/S7Zc5vKwXvE/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/S7Zc5vKwXvE" type="text/html" medium="video"/>
+    <yt:videoId>S7Zc5vKwXvE</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Nelly Korda is Insanely Close to Joining This Elite Group of Golfers</title>
+    <link>https://skratch.golf/news/news/nelly-korda-lpga-tour-hall-of-fame-womens-golf-elite-16-wins</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/nelly-korda-lpga-tour-hall-of-fame-womens-golf-elite-16-wins</guid>
+    <pubDate>Thu, 12 Feb 2026 14:34:46 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The World No. 2 is just seven points away from qualifying for the LPGA&#x27;s Hall of Fame.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/nelly-korda-lpga-tour-hall-of-fame-womens-golf-elite-16-wins"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2110469617_5545a24212/Getty_Images_2110469617_5545a24212.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>S2 E11: Justin Rose AND Ben Griffin Join, Charlie Woods Commits to College, Pebble Preview</title>
     <link>https://www.youtube.com/watch?v=UNyiul2RK_M</link>
@@ -89,6 +125,17 @@ Dan tr&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=w6CggLSau6o
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>PXG Shoots Straight (Shafts) With New Hot Rod ZT Putter</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/pxg-zero-torque-zt-putter-stability-technology</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/pxg-zero-torque-zt-putter-stability-technology</guid>
+    <pubDate>Thu, 12 Feb 2026 01:37:34 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;With the ongoing popularity of Zero Torque putters, PXG continues to add options to help golfers find the right fit for their game.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/pxg-zero-torque-zt-putter-stability-technology"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/PXG_Hot_rod_ZT_4a36d133e2/PXG_Hot_rod_ZT_4a36d133e2.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Dan On Golf x @manorsgolf. A dream partnership for us.</title>
@@ -421,17 +468,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>The Patch and Tiger Woods&#x27; Loop Will Open After Masters Week</title>
-    <link>https://skratch.golf/news/news/augusta-national-the-patch-tiger-woods-the-loop-open-april-15</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/augusta-national-the-patch-tiger-woods-the-loop-open-april-15</guid>
-    <pubDate>Tue, 10 Feb 2026 15:47:21 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Augusta Municipal Golf Course, commonly known as &quot;The Patch&quot;, and Tiger Woods&#x27; &quot;The Loop&quot; will open to the public on April 15, just after Masters week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/augusta-national-the-patch-tiger-woods-the-loop-open-april-15"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_02_10_at_10_48_25_AM_dddb4d4279/Screenshot_2026_02_10_at_10_48_25_AM_dddb4d4279.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>When Tiger came back from 7 down with 7 to play 🤯</title>
     <link>https://www.youtube.com/shorts/xojB-MfBycY</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/xojB-MfBycY</guid>
@@ -580,17 +616,6 @@ Dan travels all year and never leaves his Knockarounds be&lt;/p&gt;&lt;p&gt;&lt;
     <category>article</category>
   </item>
   <item>
-    <title>Roger Maltbie Will Be Back Roaming Fairways this Season</title>
-    <link>https://skratch.golf/news/news/Roger-maltbie-pga-tour-broadcast-pebble-beach-nbc</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/Roger-maltbie-pga-tour-broadcast-pebble-beach-nbc</guid>
-    <pubDate>Mon, 09 Feb 2026 15:57:39 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Legendary broadcaster Roger Maltbie will be back on the call a handful of times this season, starting at this week&#x27;s AT&amp;amp;T Pebble Beach Pro-Am.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Roger-maltbie-pga-tour-broadcast-pebble-beach-nbc"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2222762677_ecbc46081d/Getty_Images_2222762677_ecbc46081d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>PLAYOFF LIVE WATCH ALONG: Hideki &amp; Gotterup BATTLING For Title | WM Phoenix Open LIVE Watch Along</title>
     <link>https://www.youtube.com/watch?v=NoRRk39oyhc</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=NoRRk39oyhc</guid>
@@ -654,34 +679,6 @@ Subscribe to Skratch on YouTube and don’t miss ou&lt;/p&gt;&lt;p&gt;&lt;a href
     <media:thumbnail url="https://img.youtube.com/vi/C9p-cMTyhfc/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/C9p-cMTyhfc" type="text/html" medium="video"/>
     <yt:videoId>C9p-cMTyhfc</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>THIS close to an albatross 😩</title>
-    <link>https://www.youtube.com/shorts/9xcEuEwT-Yk</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/9xcEuEwT-Yk</guid>
-    <pubDate>Fri, 06 Feb 2026 19:57:23 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/9xcEuEwT-Yk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/9xcEuEwT-Yk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/9xcEuEwT-Yk" type="text/html" medium="video"/>
-    <yt:videoId>9xcEuEwT-Yk</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Come play a hole with Jordan Spieth at the WM Phoenix Open</title>
-    <link>https://www.youtube.com/shorts/f3fSGe8CDUo</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/f3fSGe8CDUo</guid>
-    <pubDate>Fri, 06 Feb 2026 15:08:37 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/f3fSGe8CDUo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/f3fSGe8CDUo/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/f3fSGe8CDUo" type="text/html" medium="video"/>
-    <yt:videoId>f3fSGe8CDUo</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
