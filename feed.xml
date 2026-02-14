@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 14 Feb 2026 14:21:26 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Feb 2026 14:51:32 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>‘You Can’t Hide on These Courses’: The Four Year Trend Pointing to a Masters Winner</title>
+    <link>https://skratch.golf/news/pro-golf/pga-tour-west-coast-swing-masters-winnter-predictor-preview</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/pga-tour-west-coast-swing-masters-winnter-predictor-preview</guid>
+    <pubDate>Fri, 13 Feb 2026 21:27:57 +0000</pubDate>
+    <dc:creator>Garrett Johnston</dc:creator>
+    <description>&lt;p&gt;Dottie Pepper, Jim Nantz, Nick Faldo, and more weigh in on a trend of Green Jacket winners showing up big on the west coast swing.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/pga-tour-west-coast-swing-masters-winnter-predictor-preview"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/gotterup_2026_wm_phoneix_Getty_Images_2260597706_9aa71d4d28/gotterup_2026_wm_phoneix_Getty_Images_2260597706_9aa71d4d28.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Is Puring Golf Shafts A Scam? Here&#x27;s the Truth.</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/pure-golf-shaft-worth-it-or-scam-truth-about-puring</link>
@@ -561,17 +572,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>TaylorMade’s New Mini Driver Is a Long-Game Weapon</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/taylormade-mini-driver-r7-release-added-loft-forgiving</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/taylormade-mini-driver-r7-release-added-loft-forgiving</guid>
-    <pubDate>Tue, 10 Feb 2026 03:26:05 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Designed to be playable from anywhere, the R7 mini driver is a legit option for golfers stuck between driver and 3-wood.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/taylormade-mini-driver-r7-release-added-loft-forgiving"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/r7_155_mini_taylormade_53e7b5fca5/r7_155_mini_taylormade_53e7b5fca5.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Dan thinks there’s 3 MUSTS before we can really start THE PLAYERS as a major talk</title>
