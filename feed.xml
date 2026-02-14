@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 14 Feb 2026 23:18:26 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Feb 2026 23:45:23 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Standard Spieth situation at Pebble Beach. He made par.</title>
+    <link>https://www.youtube.com/shorts/3L2N6aVHRh8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/3L2N6aVHRh8</guid>
+    <pubDate>Sat, 14 Feb 2026 23:25:29 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/3L2N6aVHRh8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/3L2N6aVHRh8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/3L2N6aVHRh8" type="text/html" medium="video"/>
+    <yt:videoId>3L2N6aVHRh8</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>‘You Can’t Hide on These Courses’: The Four Year Trend Pointing to a Masters Winner</title>
     <link>https://skratch.golf/news/pro-golf/pga-tour-west-coast-swing-masters-winnter-predictor-preview</link>
@@ -653,26 +667,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <media:thumbnail url="https://img.youtube.com/vi/PLYD2pccb6w/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/PLYD2pccb6w" type="text/html" medium="video"/>
     <yt:videoId>PLYD2pccb6w</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>When your only hope is the FLOP | BEST PGA TOUR Flop Shots</title>
-    <link>https://www.youtube.com/watch?v=C9p-cMTyhfc</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=C9p-cMTyhfc</guid>
-    <pubDate>Fri, 06 Feb 2026 20:12:41 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;These PGA TOUR pros turn impossible lies into short game magic with these fearless flop shots.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss ou&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=C9p-cMTyhfc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/C9p-cMTyhfc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/C9p-cMTyhfc" type="text/html" medium="video"/>
-    <yt:videoId>C9p-cMTyhfc</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
