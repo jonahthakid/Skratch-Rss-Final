@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 15 Feb 2026 15:46:52 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Feb 2026 16:22:37 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Anthony Kim, Are You Kidding Me!?</title>
+    <link>https://skratch.golf/news/news/Anthony-kim-liv-golf-australia-adelaide-win</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/Anthony-kim-liv-golf-australia-adelaide-win</guid>
+    <pubDate>Sun, 15 Feb 2026 14:45:29 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;A battle-tested Anthony Kim just stopped the golf world in its tracks.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Anthony-kim-liv-golf-australia-adelaide-win"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2261264118_355909a8bd/Getty_Images_2261264118_355909a8bd.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Standard Spieth situation at Pebble Beach. He made par.</title>
     <link>https://www.youtube.com/shorts/3L2N6aVHRh8</link>
@@ -600,17 +611,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Students Golf and Sugarloaf Social Club Turn Golf Etiquette Into Wearable Storytelling</title>
-    <link>https://skratch.golf/style/mens-style/sugarloaf-social-club-collab-students-golf</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/sugarloaf-social-club-collab-students-golf</guid>
-    <pubDate>Mon, 09 Feb 2026 22:11:09 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;A limited collaboration that treats golf gear like a record of experience&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/sugarloaf-social-club-collab-students-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/students_sugarloaf_007_932382d103/students_sugarloaf_007_932382d103.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Do NOT try this shot at home 😳</title>
