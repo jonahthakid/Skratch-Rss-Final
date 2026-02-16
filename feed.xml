@@ -9,8 +9,42 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 16 Feb 2026 18:00:27 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Feb 2026 19:07:51 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>S2 E12: Anthony Kim MANIA, Collin Morikawa Joins After Pebble Win, Are Blade Putters Dead?</title>
+    <link>https://www.youtube.com/watch?v=w6CggLSau6o</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=w6CggLSau6o</guid>
+    <pubDate>Mon, 16 Feb 2026 19:04:53 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Anthony Kim wins LIV Adelaide in one of the coolest comeback stories in golf. Collin Morikawa wins on TOUR for the first time in two years. Are blade putters dead? We discuss. We come to you with a new DOG Race, &amp; much more.
+
+Thank You to Our Sponsors!
+
+Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
+
+Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround.com/golf and use code DANONGOLF20, you can stock up with 20% o&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=w6CggLSau6o"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/w6CggLSau6o/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/w6CggLSau6o" type="text/html" medium="video"/>
+    <yt:videoId>w6CggLSau6o</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>&quot;The last thing I wanted to do was think about how I was going to hit that shot.&quot;</title>
+    <link>https://www.youtube.com/shorts/YdY3Ns6UkXI</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/YdY3Ns6UkXI</guid>
+    <pubDate>Mon, 16 Feb 2026 18:12:30 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/YdY3Ns6UkXI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/YdY3Ns6UkXI/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/YdY3Ns6UkXI" type="text/html" medium="video"/>
+    <yt:videoId>YdY3Ns6UkXI</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Collin Morikawa Just Needed to Go Play Golf Again—Emphasis on the &#x27;Play&#x27;</title>
     <link>https://skratch.golf/news/pro-golf/collin-morikawa-pebble-beach-win-recap</link>
@@ -274,26 +308,6 @@ Dan tr&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=UNyiul2RK_M
     <category>video</category>
   </item>
   <item>
-    <title>S2 E12: Anthony Kim MANIA, Collin Morikawa Joins After Pebble Win, Are Blade Putters Dead?</title>
-    <link>https://www.youtube.com/watch?v=w6CggLSau6o</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=w6CggLSau6o</guid>
-    <pubDate>Thu, 12 Feb 2026 14:01:35 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Anthony Kim wins LIV Adelaide in one of the coolest comeback stories in golf. Collin Morikawa wins on TOUR for the first time in two years. Are blade putters dead? We discuss. We come to you with a new DOG Race, &amp; much more.
-
-Thank You to Our Sponsors!
-
-Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
-
-Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround.com/golf and use code DANONGOLF20, you can stock up with 20% o&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=w6CggLSau6o"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/w6CggLSau6o/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/w6CggLSau6o" type="text/html" medium="video"/>
-    <yt:videoId>w6CggLSau6o</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Best Bets for the AT&amp;T Pebble Beach Pro-Am: Winner, Top 10, Top 20 &amp; More</title>
     <link>https://skratch.golf/news/pro-golf/att-pebble-beach-pro-am-best-bets-picks-to-win</link>
     <guid isPermaLink="true">https://skratch.golf/news/pro-golf/att-pebble-beach-pro-am-best-bets-picks-to-win</guid>
@@ -450,20 +464,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Manors_x_Dan_Cover_371455abd6/Manors_x_Dan_Cover_371455abd6.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Should the Players Championship be the FIFTH MAJOR?!</title>
-    <link>https://www.youtube.com/watch?v=yBf2SGpDfTo</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=yBf2SGpDfTo</guid>
-    <pubDate>Wed, 11 Feb 2026 17:01:36 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;We discuss if THE PLAYERS Championship should become a fifth major championship in golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=yBf2SGpDfTo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/yBf2SGpDfTo/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/yBf2SGpDfTo" type="text/html" medium="video"/>
-    <yt:videoId>yBf2SGpDfTo</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>This Course in Japan Will Host a U.S. Women&#x27;s Open Qualifer</title>
