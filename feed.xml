@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 16 Feb 2026 01:44:43 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Feb 2026 04:20:47 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Collin Morikawa Just Needed to Go Play Golf Again—Emphasis on the &#x27;Play&#x27;</title>
+    <link>https://skratch.golf/news/pro-golf/collin-morikawa-pebble-beach-win-recap</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/collin-morikawa-pebble-beach-win-recap</guid>
+    <pubDate>Mon, 16 Feb 2026 02:07:06 +0000</pubDate>
+    <dc:creator>Alan Shipnuck</dc:creator>
+    <description>&lt;p&gt;He did plenty at Pebble, including staring down a charging Scheffler. But the biggest victory came within.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/collin-morikawa-pebble-beach-win-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2261413223_dbfafd439f/Getty_Images_2261413223_dbfafd439f.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>They tried to ice the kicker</title>
     <link>https://www.youtube.com/shorts/WFeKepRzu_U</link>
@@ -562,17 +573,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;Every winner and every putter used to win on the PGA Tour in 2026, and how you can find them.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/pga-tour-every-winning-putter-2026-season"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2258187185_96253173a2/Getty_Images_2258187185_96253173a2.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Winter Blues Turned to Summer Golf Hues. Inside A.Putnam&#x27;s Low Country Collection</title>
-    <link>https://skratch.golf/style/womens-style/aputnam-low-country-collection-womens-golf-fashion-2026-style</link>
-    <guid isPermaLink="true">https://skratch.golf/style/womens-style/aputnam-low-country-collection-womens-golf-fashion-2026-style</guid>
-    <pubDate>Tue, 10 Feb 2026 17:49:38 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;A capsule so good that we&#x27;re day-dreaming of wrap-around porches, rocking chairs, and a big ole pitcher of sun tea.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/womens-style/aputnam-low-country-collection-womens-golf-fashion-2026-style"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/aputnam_collection_a8c06196f9/aputnam_collection_a8c06196f9.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
