@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 16 Feb 2026 19:07:51 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Feb 2026 19:50:44 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Collin Morikawa&#x27;s Winning Putter Has A Crazy Backstory</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/collin-morikawa-pebble-att-win-putting-taylormade-spider</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/collin-morikawa-pebble-att-win-putting-taylormade-spider</guid>
+    <pubDate>Mon, 16 Feb 2026 19:07:58 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;If it wasn&#x27;t for two other golfers, there is a good chance Collin Morikawa might not have found the Spider putter he used to win at Pebble Beach.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/collin-morikawa-pebble-att-win-putting-taylormade-spider"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Collin_Morikawa_putter_att_23ae4db5c9/Collin_Morikawa_putter_att_23ae4db5c9.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>S2 E12: Anthony Kim MANIA, Collin Morikawa Joins After Pebble Win, Are Blade Putters Dead?</title>
     <link>https://www.youtube.com/watch?v=w6CggLSau6o</link>
@@ -222,6 +233,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Every Winning Driver From The 2026 PGA TOUR Season (So Far)</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/pga-tour-every-winning-driver-2026-season</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/pga-tour-every-winning-driver-2026-season</guid>
+    <pubDate>Thu, 12 Feb 2026 18:57:22 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Every winner and every driver used to win on the PGA Tour in 2026, and how you can find them.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/pga-tour-every-winning-driver-2026-season"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2249999094_71f5c34066/Getty_Images_2249999094_71f5c34066.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>It was an up &amp; down week for Ben Griffin at the Ryder Cup.</title>
@@ -555,17 +577,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>It&#x27;s Official: Charlie Woods is Headed to Florida State</title>
-    <link>https://skratch.golf/news/news/charlie-woods-commitment-florida-state-seminoles-college-golf-tiger-woods</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/charlie-woods-commitment-florida-state-seminoles-college-golf-tiger-woods</guid>
-    <pubDate>Tue, 10 Feb 2026 21:54:31 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Charlie Woods is headed to Tallahassee, Florida, to play college golf as a Florida State Seminole!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/charlie-woods-commitment-florida-state-seminoles-college-golf-tiger-woods"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2227214068_9e812e9a24/Getty_Images_2227214068_9e812e9a24.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Every Winning Putter From The 2026 PGA TOUR Season (So Far)</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/pga-tour-every-winning-putter-2026-season</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/pga-tour-every-winning-putter-2026-season</guid>
@@ -598,17 +609,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;The Aussie will be in contention come Sunday afternoon, but can he finally clip off a win along the cliffs of the Monterey Peninsula?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/att-pebble-beach-pro-am-jason-day-pga-tour-pick-to-win"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2258174131_3ea9cd4462/Getty_Images_2258174131_3ea9cd4462.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Patch and Tiger Woods&#x27; Loop Will Open After Masters Week</title>
-    <link>https://skratch.golf/news/news/augusta-national-the-patch-tiger-woods-the-loop-open-april-15</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/augusta-national-the-patch-tiger-woods-the-loop-open-april-15</guid>
-    <pubDate>Tue, 10 Feb 2026 15:47:21 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Augusta Municipal Golf Course, commonly known as &quot;The Patch&quot;, and Tiger Woods&#x27; &quot;The Loop&quot; will open to the public on April 15, just after Masters week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/augusta-national-the-patch-tiger-woods-the-loop-open-april-15"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_02_10_at_10_48_25_AM_dddb4d4279/Screenshot_2026_02_10_at_10_48_25_AM_dddb4d4279.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
