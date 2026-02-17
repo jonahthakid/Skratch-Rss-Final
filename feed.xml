@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 17 Feb 2026 16:14:33 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Feb 2026 17:30:54 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Celebrating MJ’s birthday with a few of his favorite things</title>
@@ -24,6 +24,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Augusta National Announces a Change to the Golf Course</title>
+    <link>https://skratch.golf/news/news/masters-2026-augusta-national-course-change-layout-yardage</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/masters-2026-augusta-national-course-change-layout-yardage</guid>
+    <pubDate>Tue, 17 Feb 2026 15:53:40 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Less than two months out from the Masters, Augusta National has announced a change to the golf course.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-2026-augusta-national-course-change-layout-yardage"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2209170061_2bf073b2c1/Getty_Images_2209170061_2bf073b2c1.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>“It’s pretty much RIP time.”</title>
@@ -536,17 +547,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Stanford Women&#x27;s Golf Just Beat a Team by 35 Strokes</title>
-    <link>https://skratch.golf/news/news/stanford-womens-golf-record-setting-win-womens-college-golf</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/stanford-womens-golf-record-setting-win-womens-college-golf</guid>
-    <pubDate>Wed, 11 Feb 2026 14:22:45 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;No. 1 Stanford beat No. 21 Baylor by 35 strokes, tying the program record for the largest margin of victory in a tournament.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/stanford-womens-golf-record-setting-win-womens-college-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/stanford_az_invitational_ef671414bb/stanford_az_invitational_ef671414bb.jpeg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Rory McIlroy Back To Blades As He Defends At Pebble Beach</title>
