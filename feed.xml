@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 17 Feb 2026 01:43:27 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Feb 2026 04:14:02 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>“It’s pretty much RIP time.”</title>
+    <link>https://www.youtube.com/shorts/iiNHCswbWbM</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/iiNHCswbWbM</guid>
+    <pubDate>Tue, 17 Feb 2026 01:40:23 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/iiNHCswbWbM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/iiNHCswbWbM/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/iiNHCswbWbM" type="text/html" medium="video"/>
+    <yt:videoId>iiNHCswbWbM</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Best Bets for the Genesis Invitational: Why You Should Have Your Eye on Tommy at Riv</title>
     <link>https://skratch.golf/news/pro-golf/genesis-invitational-2026-betting-picks-best-bets-riviera</link>
@@ -375,20 +389,6 @@ Dan tr&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=UNyiul2RK_M
     <media:thumbnail url="https://img.youtube.com/vi/pnQeOtCmytQ/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/pnQeOtCmytQ" type="text/html" medium="video"/>
     <yt:videoId>pnQeOtCmytQ</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>It never stops for Justin Rose.</title>
-    <link>https://www.youtube.com/shorts/EL4-hkaB19A</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/EL4-hkaB19A</guid>
-    <pubDate>Thu, 12 Feb 2026 02:00:25 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/EL4-hkaB19A"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/EL4-hkaB19A/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/EL4-hkaB19A" type="text/html" medium="video"/>
-    <yt:videoId>EL4-hkaB19A</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
