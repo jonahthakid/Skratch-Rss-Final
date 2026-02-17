@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 17 Feb 2026 17:30:54 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Feb 2026 18:50:22 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Before all the wins and the records, an amateur named Eldrick played in his first TOUR event.</title>
+    <link>https://www.youtube.com/shorts/4Am102JhJ6Y</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/4Am102JhJ6Y</guid>
+    <pubDate>Tue, 17 Feb 2026 18:00:14 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/4Am102JhJ6Y"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/4Am102JhJ6Y/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/4Am102JhJ6Y" type="text/html" medium="video"/>
+    <yt:videoId>4Am102JhJ6Y</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Celebrating MJ’s birthday with a few of his favorite things</title>
     <link>https://www.youtube.com/shorts/G_ghxLlYGCY</link>
@@ -33,6 +47,17 @@
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Less than two months out from the Masters, Augusta National has announced a change to the golf course.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-2026-augusta-national-course-change-layout-yardage"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2209170061_2bf073b2c1/Getty_Images_2209170061_2bf073b2c1.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Jeeno Thitikul Headlines LPGA&#x27;s Return in Thailand: Here&#x27;s How You Can Follow Along</title>
+    <link>https://skratch.golf/news/news/lpga-tour-2026-honda-lpga-thailand-jeeno-thitikul-how-to-watch-tv-streaming</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-tour-2026-honda-lpga-thailand-jeeno-thitikul-how-to-watch-tv-streaming</guid>
+    <pubDate>Tue, 17 Feb 2026 15:14:42 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The limited yet stacked field features the World No. 1 and defending champion Angel Yin.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-tour-2026-honda-lpga-thailand-jeeno-thitikul-how-to-watch-tv-streaming"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/jeeno_cme_group_tour_89c4ecdb24/jeeno_cme_group_tour_89c4ecdb24.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -452,17 +477,6 @@ Dan tr&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=UNyiul2RK_M
     <category>article</category>
   </item>
   <item>
-    <title>I Didn’t Expect to Watch Bryson DeChambeau Milk a Camel Today, But Here We Are</title>
-    <link>https://skratch.golf/news/pro-golf/bryson-dechambeau-milk-camel-drink-liv-golf-saudi-arabia</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/bryson-dechambeau-milk-camel-drink-liv-golf-saudi-arabia</guid>
-    <pubDate>Wed, 11 Feb 2026 21:38:54 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;He&#x27;s the king of content for a reason, right?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/bryson-dechambeau-milk-camel-drink-liv-golf-saudi-arabia"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260211_bryson_dechambeau_camel2_7e6cb0a64e/20260211_bryson_dechambeau_camel2_7e6cb0a64e.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Shots that live rent free in my head: Tony Romo from the hospitality area</title>
     <link>https://www.youtube.com/shorts/sqkQJ6Lywzg</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/sqkQJ6Lywzg</guid>
@@ -484,13 +498,13 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/sqkQJ6Lywzg"&gt;
     <category>video</category>
   </item>
   <item>
-    <title>Chris Gotterup Refused to Go to Augusta National Before Getting into the Masters</title>
-    <link>https://skratch.golf/news/news/chris-gotterup-refused-augusta-national-pebble-beach-pro-am-2026-pga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/chris-gotterup-refused-augusta-national-pebble-beach-pro-am-2026-pga-tour</guid>
-    <pubDate>Wed, 11 Feb 2026 19:32:31 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Chris Gotterup didn&#x27;t want to sully his first trip to Augusta National. Instead, he believed his game would eventually earn an invite to the Masters.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/chris-gotterup-refused-augusta-national-pebble-beach-pro-am-2026-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2260074928_2ec26ef532/Getty_Images_2260074928_2ec26ef532.jpg"/>
+    <title>Returning LPGA Mom Alison Lee Using Rental Clubs in 2026 Debut</title>
+    <link>https://skratch.golf/news/news/alison-lee-let-pif-saudi-ladies-international-2026-rental-clubs</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/alison-lee-let-pif-saudi-ladies-international-2026-rental-clubs</guid>
+    <pubDate>Wed, 11 Feb 2026 18:11:59 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;While her real clubs are still MIA, Lee posted a 2-under, 70 during the opening round of the Saudi Ladies International&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/alison-lee-let-pif-saudi-ladies-international-2026-rental-clubs"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2238632524_a4a1aab657/Getty_Images_2238632524_a4a1aab657.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -549,6 +563,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
+    <title>Stanford Women&#x27;s Golf Just Beat a Team by 35 Strokes</title>
+    <link>https://skratch.golf/news/news/stanford-womens-golf-record-setting-win-womens-college-golf</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/stanford-womens-golf-record-setting-win-womens-college-golf</guid>
+    <pubDate>Wed, 11 Feb 2026 14:22:45 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;No. 1 Stanford beat No. 21 Baylor by 35 strokes, tying the program record for the largest margin of victory in a tournament.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/stanford-womens-golf-record-setting-win-womens-college-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/stanford_az_invitational_ef671414bb/stanford_az_invitational_ef671414bb.jpeg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Rory McIlroy Back To Blades As He Defends At Pebble Beach</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/rory-blades-pebble-beach-irons-taylormade-forged-cb</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/rory-blades-pebble-beach-irons-taylormade-forged-cb</guid>
@@ -602,17 +627,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Every Winning Putter From The 2026 PGA TOUR Season (So Far)</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/pga-tour-every-winning-putter-2026-season</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/pga-tour-every-winning-putter-2026-season</guid>
-    <pubDate>Tue, 10 Feb 2026 21:45:25 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Every winner and every putter used to win on the PGA Tour in 2026, and how you can find them.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/pga-tour-every-winning-putter-2026-season"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2258187185_96253173a2/Getty_Images_2258187185_96253173a2.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Unfortunately, there are no breakfast balls on TOUR 😭</title>
     <link>https://www.youtube.com/shorts/hVnC832XhHs</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/hVnC832XhHs</guid>
@@ -653,17 +667,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Why The North Face Red Box Collection Is Sneaky Good for Golf</title>
-    <link>https://skratch.golf/style/mens-style/north-face-red-box-collection-sneaky-good-for-golf</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/north-face-red-box-collection-sneaky-good-for-golf</guid>
-    <pubDate>Mon, 09 Feb 2026 17:49:37 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Everyday outdoor gear with real on-course potential&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/north-face-red-box-collection-sneaky-good-for-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/TNF_Red_Box_75cdbbbe5b/TNF_Red_Box_75cdbbbe5b.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
