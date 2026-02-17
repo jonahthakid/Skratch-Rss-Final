@@ -9,8 +9,55 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 17 Feb 2026 20:30:52 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Feb 2026 21:30:04 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>MJ’s bday 🤝 #TigerTuesday</title>
+    <link>https://www.youtube.com/shorts/KpuZnaYlU_I</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/KpuZnaYlU_I</guid>
+    <pubDate>Tue, 17 Feb 2026 20:51:44 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/KpuZnaYlU_I"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/KpuZnaYlU_I/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/KpuZnaYlU_I" type="text/html" medium="video"/>
+    <yt:videoId>KpuZnaYlU_I</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>On Tap: The Genesis Invitational at Riviera</title>
+    <link>https://skratch.golf/news/news/Genesis-invitational-2026-how-to-watch-pga-tour-tee-times-tiger-woods</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/Genesis-invitational-2026-how-to-watch-pga-tour-tee-times-tiger-woods</guid>
+    <pubDate>Tue, 17 Feb 2026 20:47:26 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Riviera, it’s good to be back. Here’s all the info you need before this week&#x27;s Genesis Invitational kicks off on Thursday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Genesis-invitational-2026-how-to-watch-pga-tour-tee-times-tiger-woods"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2023061457_72530a52ae/Getty_Images_2023061457_72530a52ae.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>He&#x27;s Back: Justin Thomas’ TGL Return is Set</title>
+    <link>https://skratch.golf/news/news/Justin-thomas-return-injury-tgl-match-atlanta-drive</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/Justin-thomas-return-injury-tgl-match-atlanta-drive</guid>
+    <pubDate>Tue, 17 Feb 2026 20:20:05 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;While we wait for Justin Thomas’ PGA TOUR return, we’ll be able to watch him hit some shots on Monday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Justin-thomas-return-injury-tgl-match-atlanta-drive"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2259637111_4110b8d9ac/Getty_Images_2259637111_4110b8d9ac.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Inside Tiger Woods’ Candid Genesis Invitational Press Conference</title>
+    <link>https://skratch.golf/news/news/tiger-woods-genesis-invitational-2026-masters-pga-tour-schedule-injury-update</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/tiger-woods-genesis-invitational-2026-masters-pga-tour-schedule-injury-update</guid>
+    <pubDate>Tue, 17 Feb 2026 19:58:20 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Ryder Cup captain? Playing in the Masters? Tiger Woods gave us plenty of updates at his presser prior to this week&#x27;s Genesis Invitational.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-genesis-invitational-2026-masters-pga-tour-schedule-injury-update"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2261681298_db5b85f5cc/Getty_Images_2261681298_db5b85f5cc.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Where does LIV Adelaide rank? 👀</title>
     <link>https://www.youtube.com/shorts/jNp3lia7BVM</link>
@@ -49,6 +96,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Baggy, Ventilated, Slightly Unhinged: The Metalwood x adidas Capsule</title>
+    <link>https://skratch.golf/style/mens-style/baggy-ventilated-slightly-unhinged-the-metalwood-x-adidas-capsule</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/baggy-ventilated-slightly-unhinged-the-metalwood-x-adidas-capsule</guid>
+    <pubDate>Tue, 17 Feb 2026 16:47:28 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;Collin Morikawa, fresh off Pebble, steps into a 6-piece capsule that refuses to play it safe.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/baggy-ventilated-slightly-unhinged-the-metalwood-x-adidas-capsule"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Adidas_x_Metalwood_e3e8019a17/Adidas_x_Metalwood_e3e8019a17.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Celebrating MJ’s birthday with a few of his favorite things</title>
@@ -509,17 +567,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/sqkQJ6Lywzg"&gt;
     <category>video</category>
   </item>
   <item>
-    <title>Returning LPGA Mom Alison Lee Using Rental Clubs in 2026 Debut</title>
-    <link>https://skratch.golf/news/news/alison-lee-let-pif-saudi-ladies-international-2026-rental-clubs</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/alison-lee-let-pif-saudi-ladies-international-2026-rental-clubs</guid>
-    <pubDate>Wed, 11 Feb 2026 18:11:59 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;While her real clubs are still MIA, Lee posted a 2-under, 70 during the opening round of the Saudi Ladies International&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/alison-lee-let-pif-saudi-ladies-international-2026-rental-clubs"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2238632524_a4a1aab657/Getty_Images_2238632524_a4a1aab657.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>The LUCKIEST bounce you&#x27;ll EVER see 😮</title>
     <link>https://www.youtube.com/shorts/lqd1DWm0pTE</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/lqd1DWm0pTE</guid>
@@ -538,17 +585,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Manors x Dan Rapaport and the Rise of Personality-Driven Golf</title>
-    <link>https://skratch.golf/style/mens-style/manors-x-dan-rapaport-and-the-rise-of-personality-driven-golf</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/manors-x-dan-rapaport-and-the-rise-of-personality-driven-golf</guid>
-    <pubDate>Wed, 11 Feb 2026 17:16:02 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;How media, style, and storytelling are converging in golf&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/manors-x-dan-rapaport-and-the-rise-of-personality-driven-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Manors_x_Dan_Cover_371455abd6/Manors_x_Dan_Cover_371455abd6.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>There’s NOTHING like the first time off at Pebble. 🙌</title>
     <link>https://www.youtube.com/shorts/KBVKVmw7pGw</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/KBVKVmw7pGw</guid>
@@ -561,28 +597,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Stanford Women&#x27;s Golf Just Beat a Team by 35 Strokes</title>
-    <link>https://skratch.golf/news/news/stanford-womens-golf-record-setting-win-womens-college-golf</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/stanford-womens-golf-record-setting-win-womens-college-golf</guid>
-    <pubDate>Wed, 11 Feb 2026 14:22:45 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;No. 1 Stanford beat No. 21 Baylor by 35 strokes, tying the program record for the largest margin of victory in a tournament.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/stanford-womens-golf-record-setting-win-womens-college-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/stanford_az_invitational_ef671414bb/stanford_az_invitational_ef671414bb.jpeg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Rory McIlroy Back To Blades As He Defends At Pebble Beach</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/rory-blades-pebble-beach-irons-taylormade-forged-cb</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/rory-blades-pebble-beach-irons-taylormade-forged-cb</guid>
-    <pubDate>Wed, 11 Feb 2026 04:31:58 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;After a lot of testing and tinkering, Rory is back to his custom Rors Proto blades for Pebble Beach title defence.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/rory-blades-pebble-beach-irons-taylormade-forged-cb"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/RORS_Irons_proto_3753a39e50/RORS_Irons_proto_3753a39e50.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>First ace in TGL AND they even let me hit on the sim 👀</title>
@@ -650,20 +664,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/xojB-MfBycY/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/xojB-MfBycY" type="text/html" medium="video"/>
     <yt:videoId>xojB-MfBycY</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Do NOT try this shot at home 😳</title>
-    <link>https://www.youtube.com/shorts/6bWd0uK8Jww</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/6bWd0uK8Jww</guid>
-    <pubDate>Mon, 09 Feb 2026 20:58:49 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Throwback to Jordan Spieth’s cliffside shot to save par at the 2022 AT&amp;amp;T Pebble Beach Pro-Am.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/6bWd0uK8Jww"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/6bWd0uK8Jww/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/6bWd0uK8Jww" type="text/html" medium="video"/>
-    <yt:videoId>6bWd0uK8Jww</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
