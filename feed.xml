@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 18 Feb 2026 16:29:42 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Feb 2026 17:34:59 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Which was better, the ace or the celebration??? 🤣🚗</title>
+    <link>https://www.youtube.com/shorts/Xghhc4S2MXc</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/Xghhc4S2MXc</guid>
+    <pubDate>Wed, 18 Feb 2026 16:40:53 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Xghhc4S2MXc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Xghhc4S2MXc/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Xghhc4S2MXc" type="text/html" medium="video"/>
+    <yt:videoId>Xghhc4S2MXc</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>A rising star from the land of the rising sun. Come play a hole with Ryo Hisatsune at Riviera.</title>
     <link>https://www.youtube.com/shorts/MU3tphCXKsk</link>
@@ -104,6 +118,17 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/MU3tphCXKsk"&gt;
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;While we wait for Justin Thomas’ PGA TOUR return, we’ll be able to watch him hit some shots on Monday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Justin-thomas-return-injury-tgl-match-atlanta-drive"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2259637111_4110b8d9ac/Getty_Images_2259637111_4110b8d9ac.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The Big Guide To Mini Drivers: Every 2026 Model Compared</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/mini-driver-101-comparison-testing-reviews</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/mini-driver-101-comparison-testing-reviews</guid>
+    <pubDate>Tue, 17 Feb 2026 20:20:00 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Here’s how the latest mini drivers compare in shape, specs, adjustability, and who they’re actually made for.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/mini-driver-101-comparison-testing-reviews"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Mini_driver_101_title_cb2cf693a7/Mini_driver_101_title_cb2cf693a7.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -575,17 +600,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>PXG Shoots Straight (Shafts) With New Hot Rod ZT Putter</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/pxg-zero-torque-zt-putter-stability-technology</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/pxg-zero-torque-zt-putter-stability-technology</guid>
-    <pubDate>Thu, 12 Feb 2026 01:37:34 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;With the ongoing popularity of Zero Torque putters, PXG continues to add options to help golfers find the right fit for their game.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/pxg-zero-torque-zt-putter-stability-technology"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/PXG_Hot_rod_ZT_4a36d133e2/PXG_Hot_rod_ZT_4a36d133e2.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Shots that live rent free in my head: Tony Romo from the hospitality area</title>
     <link>https://www.youtube.com/shorts/sqkQJ6Lywzg</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/sqkQJ6Lywzg</guid>
@@ -648,20 +662,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/n7XKjc_Vi50/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/n7XKjc_Vi50" type="text/html" medium="video"/>
     <yt:videoId>n7XKjc_Vi50</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>A dreamy morning at Pebble Beach.</title>
-    <link>https://www.youtube.com/shorts/yjJeOu7k-cw</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/yjJeOu7k-cw</guid>
-    <pubDate>Tue, 10 Feb 2026 23:39:45 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/yjJeOu7k-cw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/yjJeOu7k-cw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/yjJeOu7k-cw" type="text/html" medium="video"/>
-    <yt:videoId>yjJeOu7k-cw</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
