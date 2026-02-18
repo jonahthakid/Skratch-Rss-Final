@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 18 Feb 2026 20:32:58 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Feb 2026 21:29:57 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>S2 E12: Anthony Kim MANIA, Collin Morikawa Joins After Pebble Win, Are Blade Putters Dead?</title>
@@ -39,6 +39,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Viktor Hovland&#x27;s unique strategy for playing Riviera&#x27;s 15th is no longer an option—here&#x27;s why.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/genesis-invitational-2026-viktor-hovland-riviera-added-trees"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1371834707_5307899941/Getty_Images_1371834707_5307899941.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Why Jacob Bridgeman Has The Ultimate Modern Golf Bag Setup</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/Genesis-Jacob-Bridgeman-Ultimate-Setup</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/Genesis-Jacob-Bridgeman-Ultimate-Setup</guid>
+    <pubDate>Wed, 18 Feb 2026 18:06:10 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;From driver down to wedges, Jacob Bridgeman has a setup that a lot of golfers should strive for.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/Genesis-Jacob-Bridgeman-Ultimate-Setup"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Bridgeman_bag_taylormade_genesis_2044c5658a/Bridgeman_bag_taylormade_genesis_2044c5658a.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -515,17 +526,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>‘You Can’t Hide on These Courses’: The Four Year Trend Pointing to a Masters Winner</title>
-    <link>https://skratch.golf/news/pro-golf/pga-tour-west-coast-swing-masters-winnter-predictor-preview</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/pga-tour-west-coast-swing-masters-winnter-predictor-preview</guid>
-    <pubDate>Fri, 13 Feb 2026 21:27:57 +0000</pubDate>
-    <dc:creator>Garrett Johnston</dc:creator>
-    <description>&lt;p&gt;Dottie Pepper, Jim Nantz, Nick Faldo, and more weigh in on a trend of Green Jacket winners showing up big on the west coast swing.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/pga-tour-west-coast-swing-masters-winnter-predictor-preview"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/gotterup_2026_wm_phoneix_Getty_Images_2260597706_9aa71d4d28/gotterup_2026_wm_phoneix_Getty_Images_2260597706_9aa71d4d28.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Justin Rose on His INSANE Tournament Routine, Ryder Cup Captaincy And More</title>
