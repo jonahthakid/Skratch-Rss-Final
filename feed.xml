@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 18 Feb 2026 21:29:57 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Feb 2026 21:59:20 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Reminder that things can get out of hand quickly at Riviera.</title>
+    <link>https://www.youtube.com/shorts/3w9tdjmX2KQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/3w9tdjmX2KQ</guid>
+    <pubDate>Wed, 18 Feb 2026 21:46:38 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/3w9tdjmX2KQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/3w9tdjmX2KQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/3w9tdjmX2KQ" type="text/html" medium="video"/>
+    <yt:videoId>3w9tdjmX2KQ</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>S2 E12: Anthony Kim MANIA, Collin Morikawa Joins After Pebble Win, Are Blade Putters Dead?</title>
     <link>https://www.youtube.com/watch?v=aOocnJFg_Tg</link>
@@ -654,20 +668,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/KBVKVmw7pGw/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/KBVKVmw7pGw" type="text/html" medium="video"/>
     <yt:videoId>KBVKVmw7pGw</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>First ace in TGL AND they even let me hit on the sim 👀</title>
-    <link>https://www.youtube.com/shorts/n7XKjc_Vi50</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/n7XKjc_Vi50</guid>
-    <pubDate>Tue, 10 Feb 2026 23:48:11 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Come with me to an insane night at @TGL, presented by @mikeshardlemonade. #ad21+&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/n7XKjc_Vi50"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/n7XKjc_Vi50/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/n7XKjc_Vi50" type="text/html" medium="video"/>
-    <yt:videoId>n7XKjc_Vi50</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
