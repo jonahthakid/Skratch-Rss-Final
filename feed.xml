@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 18 Feb 2026 17:34:59 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Feb 2026 18:44:11 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Which was better, the ace or the celebration??? 🤣🚗</title>
@@ -45,6 +45,17 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/MU3tphCXKsk"&gt;
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Maritime Muse: Fore All&#x27;s Spring/Summer Drop is a Coastal Dream</title>
+    <link>https://skratch.golf/style/womens-style/fore-all-womens-golf-style-spring-summer-26-collections</link>
+    <guid isPermaLink="true">https://skratch.golf/style/womens-style/fore-all-womens-golf-style-spring-summer-26-collections</guid>
+    <pubDate>Wed, 18 Feb 2026 14:55:10 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The category is: resort chic.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/womens-style/fore-all-womens-golf-style-spring-summer-26-collections"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/fore_all_ss26_1737d0e4af/fore_all_ss26_1737d0e4af.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>After a rainy week in LA, expect plenty of MUDBALLS at Riviera.</title>
@@ -565,17 +576,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Nelly Korda is Insanely Close to Joining This Elite Group of Golfers</title>
-    <link>https://skratch.golf/news/news/nelly-korda-lpga-tour-hall-of-fame-womens-golf-elite-16-wins</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/nelly-korda-lpga-tour-hall-of-fame-womens-golf-elite-16-wins</guid>
-    <pubDate>Thu, 12 Feb 2026 14:34:46 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The World No. 2 is just seven points away from qualifying for the LPGA&#x27;s Hall of Fame.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/nelly-korda-lpga-tour-hall-of-fame-womens-golf-elite-16-wins"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2110469617_5545a24212/Getty_Images_2110469617_5545a24212.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Best Bets for the AT&amp;T Pebble Beach Pro-Am: Winner, Top 10, Top 20 &amp; More</title>
