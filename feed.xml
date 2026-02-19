@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 19 Feb 2026 16:10:14 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Feb 2026 17:27:28 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Shop the Exact Cashmere Sweaters Tommy Fleetwood Keeps Wearing</title>
+    <link>https://skratch.golf/style/mens-style/tommy-fleetwood-sweater-sun-day-red-malbon-tour-style</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/tommy-fleetwood-sweater-sun-day-red-malbon-tour-style</guid>
+    <pubDate>Thu, 19 Feb 2026 17:17:00 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;The Tommy Fleetwood Free Agency Fit Watch Continues&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/tommy-fleetwood-sweater-sun-day-red-malbon-tour-style"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Tommy_Sweater_Cover_250fe509bf/Tommy_Sweater_Cover_250fe509bf.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Your New Favorite Pro Golfer, Dan Brown: PGA TOUR Rookie, Fun Haver, Cigarette Smoker</title>
     <link>https://www.youtube.com/watch?v=Ge1mACgRXV4</link>
@@ -492,17 +503,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/MU3tphCXKsk"&gt;
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Collin Morikawa&#x27;s Winning Putter Has A Crazy Backstory</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/collin-morikawa-pebble-att-win-putting-taylormade-spider</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/collin-morikawa-pebble-att-win-putting-taylormade-spider</guid>
-    <pubDate>Mon, 16 Feb 2026 19:07:58 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;If it wasn&#x27;t for two other golfers, there is a good chance Collin Morikawa might not have found the Spider putter he used to win at Pebble Beach.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/collin-morikawa-pebble-att-win-putting-taylormade-spider"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Collin_Morikawa_putter_att_23ae4db5c9/Collin_Morikawa_putter_att_23ae4db5c9.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>S2 E12: Anthony Kim MANIA, Collin Morikawa Joins After Pebble Win, Are Blade Putters Dead?</title>
