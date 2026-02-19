@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 19 Feb 2026 15:11:43 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Feb 2026 16:10:14 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Your New Favorite Pro Golfer, Dan Brown: PGA TOUR Rookie, Fun Haver, Cigarette Smoker</title>
@@ -52,6 +52,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Titleist&#x27;s Carry Bags Just Got A Substantial Upgrade</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/titleist-players-four-golf-bags-upgrade</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/titleist-players-four-golf-bags-upgrade</guid>
+    <pubDate>Thu, 19 Feb 2026 12:52:28 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;With feedback from golfers looking to get more from their golf bag, Titleist has made some big-time upgrades to its Players Stand Bag collection.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/titleist-players-four-golf-bags-upgrade"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_02_19_at_7_56_58_AM_a4e188db08/Screenshot_2026_02_19_at_7_56_58_AM_a4e188db08.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Anthony Kim’s win brought us all together. @manorsgolf</title>
@@ -125,6 +136,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go t&l
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>These Players Aren’t in the Masters Field (Yet), But I Need Them to Be</title>
+    <link>https://skratch.golf/news/news/masters-2026-field-rickie-fowler-jake-knapp-anthony-kim-augusta-national</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/masters-2026-field-rickie-fowler-jake-knapp-anthony-kim-augusta-national</guid>
+    <pubDate>Wed, 18 Feb 2026 19:57:05 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Less than 50 days out from the opening round of the Masters, these three players aren&#x27;t in the field—but I need them to be.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-2026-field-rickie-fowler-jake-knapp-anthony-kim-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2148452960_8437243f69/Getty_Images_2148452960_8437243f69.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Riviera has Added Trees to Contain Viktor Hovland</title>
@@ -517,17 +539,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>Collin Morikawa Just Needed to Go Play Golf Again—Emphasis on the &#x27;Play&#x27;</title>
-    <link>https://skratch.golf/news/pro-golf/collin-morikawa-pebble-beach-win-recap</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/collin-morikawa-pebble-beach-win-recap</guid>
-    <pubDate>Mon, 16 Feb 2026 02:07:06 +0000</pubDate>
-    <dc:creator>Alan Shipnuck</dc:creator>
-    <description>&lt;p&gt;He did plenty at Pebble, including staring down a charging Scheffler. But the biggest victory came within.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/collin-morikawa-pebble-beach-win-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2261413223_dbfafd439f/Getty_Images_2261413223_dbfafd439f.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>They tried to ice the kicker</title>
     <link>https://www.youtube.com/shorts/WFeKepRzu_U</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/WFeKepRzu_U</guid>
@@ -596,17 +607,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Every Winning Driver From The 2026 PGA TOUR Season (So Far)</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/pga-tour-every-winning-driver-2026-season</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/pga-tour-every-winning-driver-2026-season</guid>
-    <pubDate>Thu, 12 Feb 2026 18:57:22 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Every winner and every driver used to win on the PGA Tour in 2026, and how you can find them.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/pga-tour-every-winning-driver-2026-season"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2249999094_71f5c34066/Getty_Images_2249999094_71f5c34066.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Pebble might be know for the views but the volunteers are just as incredible. 🤣</title>
