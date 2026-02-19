@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 19 Feb 2026 19:14:29 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Feb 2026 19:54:46 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>It feels like 2029 at home is the better move for Captain TW 🇺🇸</title>
+    <link>https://www.youtube.com/shorts/pVaKYY_ai5k</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/pVaKYY_ai5k</guid>
+    <pubDate>Thu, 19 Feb 2026 19:41:23 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/pVaKYY_ai5k"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/pVaKYY_ai5k/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/pVaKYY_ai5k" type="text/html" medium="video"/>
+    <yt:videoId>pVaKYY_ai5k</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Heat Check: LPGA Players Brave The Warm Temps in Thailand</title>
+    <link>https://skratch.golf/news/news/honda-lpga-thailand-warm-weather-conditions</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/honda-lpga-thailand-warm-weather-conditions</guid>
+    <pubDate>Thu, 19 Feb 2026 19:12:48 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Things heated up during the first round of the Honda LPGA Thailand...literally.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/honda-lpga-thailand-warm-weather-conditions"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2262388529_cf97a76235/Getty_Images_2262388529_cf97a76235.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Putting the Vokey SM11s to the TEST | Bench Tested with Ryan Barath</title>
     <link>https://www.youtube.com/watch?v=8eCNGYemmzA</link>
@@ -437,17 +462,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/MU3tphCXKsk"&gt;
     <category>article</category>
   </item>
   <item>
-    <title>Jeeno, Nelly, Charley: The LPGA&#x27;s New Big 3 Is Exactly What We Need</title>
-    <link>https://skratch.golf/news/news/lpga-tour-top-ranked-players-jeeno-thitikul-nelly-korda-charley-hull-big-3</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-tour-top-ranked-players-jeeno-thitikul-nelly-korda-charley-hull-big-3</guid>
-    <pubDate>Tue, 17 Feb 2026 16:14:59 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;With her win in Saudi Arabia, Charley Hull is now the World No. 3, the highest rank of her career.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-tour-top-ranked-players-jeeno-thitikul-nelly-korda-charley-hull-big-3"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/55095508254_2afec3cbde_o_ed04f09e72/55095508254_2afec3cbde_o_ed04f09e72.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Celebrating MJ’s birthday with a few of his favorite things</title>
     <link>https://www.youtube.com/shorts/G_ghxLlYGCY</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/G_ghxLlYGCY</guid>
@@ -594,20 +608,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://img.youtube.com/vi/-sbq7VvBBrQ/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/-sbq7VvBBrQ" type="text/html" medium="video"/>
     <yt:videoId>-sbq7VvBBrQ</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>This Scottie Scheffler guy is unbelievable. 🤯Clubhouse lead at Pebble after an eagle at the last.</title>
-    <link>https://www.youtube.com/shorts/NlJeLNWlv3I</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/NlJeLNWlv3I</guid>
-    <pubDate>Sun, 15 Feb 2026 21:43:07 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/NlJeLNWlv3I"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/NlJeLNWlv3I/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/NlJeLNWlv3I" type="text/html" medium="video"/>
-    <yt:videoId>NlJeLNWlv3I</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
