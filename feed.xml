@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 19 Feb 2026 20:25:55 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Feb 2026 20:57:18 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>It feels like 2029 at home is the better move for Captain TW 🇺🇸</title>
@@ -272,6 +272,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go t&l
     <category>video</category>
   </item>
   <item>
+    <title>Why More Brands Should Leverage LPGA Athletes as Ambassadors (And What it Will Mean)</title>
+    <link>https://skratch.golf/style/womens-style/golf-brands-lpga-ambassadors-nike-golf-gianna-clemente-pxg-olivia-cowan</link>
+    <guid isPermaLink="true">https://skratch.golf/style/womens-style/golf-brands-lpga-ambassadors-nike-golf-gianna-clemente-pxg-olivia-cowan</guid>
+    <pubDate>Wed, 18 Feb 2026 16:38:29 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Nike and PXG have made statements with their recent moves—and you should be paying attention.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/womens-style/golf-brands-lpga-ambassadors-nike-golf-gianna-clemente-pxg-olivia-cowan"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2238866653_d9083966cf/Getty_Images_2238866653_d9083966cf.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>A rising star from the land of the rising sun. Come play a hole with Ryo Hisatsune at Riviera.</title>
     <link>https://www.youtube.com/shorts/MU3tphCXKsk</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/MU3tphCXKsk</guid>
@@ -494,17 +505,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/MU3tphCXKsk"&gt;
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Less than two months out from the Masters, Augusta National has announced a change to the golf course.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-2026-augusta-national-course-change-layout-yardage"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2209170061_2bf073b2c1/Getty_Images_2209170061_2bf073b2c1.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Jeeno Thitikul Headlines LPGA&#x27;s Return in Thailand: Here&#x27;s How You Can Follow Along</title>
-    <link>https://skratch.golf/news/news/lpga-tour-2026-honda-lpga-thailand-jeeno-thitikul-how-to-watch-tv-streaming</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-tour-2026-honda-lpga-thailand-jeeno-thitikul-how-to-watch-tv-streaming</guid>
-    <pubDate>Tue, 17 Feb 2026 15:14:42 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The limited yet stacked field features the World No. 1 and defending champion Angel Yin.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-tour-2026-honda-lpga-thailand-jeeno-thitikul-how-to-watch-tv-streaming"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/jeeno_cme_group_tour_89c4ecdb24/jeeno_cme_group_tour_89c4ecdb24.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
