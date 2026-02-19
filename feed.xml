@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 19 Feb 2026 19:54:46 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Feb 2026 20:25:55 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>It feels like 2029 at home is the better move for Captain TW 🇺🇸</title>
@@ -451,13 +451,24 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/MU3tphCXKsk"&gt;
     <category>video</category>
   </item>
   <item>
-    <title>Baggy, Ventilated, Slightly Unhinged: The Metalwood x adidas Capsule</title>
-    <link>https://skratch.golf/style/mens-style/baggy-ventilated-slightly-unhinged-the-metalwood-x-adidas-capsule</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/baggy-ventilated-slightly-unhinged-the-metalwood-x-adidas-capsule</guid>
-    <pubDate>Tue, 17 Feb 2026 16:47:28 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Collin Morikawa, fresh off Pebble, steps into a 6-piece capsule that refuses to play it safe.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/baggy-ventilated-slightly-unhinged-the-metalwood-x-adidas-capsule"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Adidas_x_Metalwood_e3e8019a17/Adidas_x_Metalwood_e3e8019a17.png"/>
+    <title>Bench Tested: Vokey SM11 Wedges, Explained</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/titleist-bench-tested-vokey-sm11-wedges-technology</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/titleist-bench-tested-vokey-sm11-wedges-technology</guid>
+    <pubDate>Tue, 17 Feb 2026 17:25:27 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;We visited the Titleist Performance Institute to test the new SM11 wedges and explain what’s new, what it does, and how to fit them properly.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/titleist-bench-tested-vokey-sm11-wedges-technology"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/vokey_wedge_title_8c9562b1ae/vokey_wedge_title_8c9562b1ae.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Jeeno, Nelly, Charley: The LPGA&#x27;s New Big 3 Is Exactly What We Need</title>
+    <link>https://skratch.golf/news/news/lpga-tour-top-ranked-players-jeeno-thitikul-nelly-korda-charley-hull-big-3</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-tour-top-ranked-players-jeeno-thitikul-nelly-korda-charley-hull-big-3</guid>
+    <pubDate>Tue, 17 Feb 2026 16:14:59 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;With her win in Saudi Arabia, Charley Hull is now the World No. 3, the highest rank of her career.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-tour-top-ranked-players-jeeno-thitikul-nelly-korda-charley-hull-big-3"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/55095508254_2afec3cbde_o_ed04f09e72/55095508254_2afec3cbde_o_ed04f09e72.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -510,17 +521,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/MU3tphCXKsk"&gt;
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Paige Spiranac and Pro Shop Launch Paige Co.</title>
-    <link>https://skratch.golf/news/golf-culture/paige-spiranac-company-pro-shop-joint-venture</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/paige-spiranac-company-pro-shop-joint-venture</guid>
-    <pubDate>Tue, 17 Feb 2026 00:16:42 +0000</pubDate>
-    <dc:creator>Paige Spiranac</dc:creator>
-    <description>&lt;p&gt;Together with Pro Shop, I’m launching a new venture that expands beyond talent-led publishing into shows, storytelling and commerce.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/paige-spiranac-company-pro-shop-joint-venture"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/DSCF_1266_d43ab914b3/DSCF_1266_d43ab914b3.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>A truly amazing story and a runaway DOG of the Week.</title>
