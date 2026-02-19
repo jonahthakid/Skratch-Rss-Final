@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 19 Feb 2026 22:58:26 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Feb 2026 23:33:44 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>These Are The Front-Runners in WTGL Media Rights Negotiations</title>
+    <link>https://skratch.golf/news/news/wtgl-media-rights-partners-espn-golf-channel-scripps-sports</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/wtgl-media-rights-partners-espn-golf-channel-scripps-sports</guid>
+    <pubDate>Thu, 19 Feb 2026 21:52:10 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;ESPN, Golf Channel and Scripps Sports are leading the way as the potential media partners for the new league.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/wtgl-media-rights-partners-espn-golf-channel-scripps-sports"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2254966275_05e9b2af38/Getty_Images_2254966275_05e9b2af38.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>It feels like 2029 at home is the better move for Captain TW 🇺🇸</title>
     <link>https://www.youtube.com/shorts/pVaKYY_ai5k</link>
@@ -386,17 +397,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/MU3tphCXKsk"&gt;
     <dc:creator>Raymond Williams</dc:creator>
     <description>&lt;p&gt;Maurice Allen turns the Adipower into a message about faith, family, and the future.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/maurice-allen-and-adidas-golf-built-more-than-a-shoe-for-black-history-month"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Cover_adipower_11726349a4/Cover_adipower_11726349a4.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>He&#x27;s Back: Justin Thomas’ TGL Return is Set</title>
-    <link>https://skratch.golf/news/news/Justin-thomas-return-injury-tgl-match-atlanta-drive</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/Justin-thomas-return-injury-tgl-match-atlanta-drive</guid>
-    <pubDate>Tue, 17 Feb 2026 20:20:05 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;While we wait for Justin Thomas’ PGA TOUR return, we’ll be able to watch him hit some shots on Monday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Justin-thomas-return-injury-tgl-match-atlanta-drive"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2259637111_4110b8d9ac/Getty_Images_2259637111_4110b8d9ac.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
