@@ -9,8 +9,29 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 20 Feb 2026 14:38:21 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Feb 2026 15:32:56 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>16 y/o Tiger GRINDING on the Riv range.</title>
+    <link>https://www.youtube.com/shorts/6LuUJ30IT3s</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/6LuUJ30IT3s</guid>
+    <pubDate>Fri, 20 Feb 2026 15:08:09 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
+
+Check out our website: https://skratch.golf/
+Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/6LuUJ30IT3s"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/6LuUJ30IT3s/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/6LuUJ30IT3s" type="text/html" medium="video"/>
+    <yt:videoId>6LuUJ30IT3s</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>These Are The Front-Runners in WTGL Media Rights Negotiations</title>
     <link>https://skratch.golf/news/news/wtgl-media-rights-partners-espn-golf-channel-scripps-sports</link>
@@ -650,27 +671,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Srixon_Blackout_irons_title_fd153ff879/Srixon_Blackout_irons_title_fd153ff879.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Shots that live rent free in my head: Tony Romo from the hospitality area</title>
-    <link>https://www.youtube.com/shorts/sqkQJ6Lywzg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/sqkQJ6Lywzg</guid>
-    <pubDate>Wed, 11 Feb 2026 19:47:46 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
-
-Check out our website: https://skratch.golf/
-Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/sqkQJ6Lywzg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/sqkQJ6Lywzg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/sqkQJ6Lywzg" type="text/html" medium="video"/>
-    <yt:videoId>sqkQJ6Lywzg</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
 </channel>
 </rss>
