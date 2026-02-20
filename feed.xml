@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 20 Feb 2026 21:18:52 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Feb 2026 21:47:43 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>There are NO pictures on the scorecard. 😭</title>
@@ -99,6 +99,17 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/6LuUJ30IT3s"&gt;
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;Happy 23rd Birthday Jeeno! The hometown headliner and World No. 1 surged up the leaderboard at the Honda LPGA Thailand ahead of the weekend.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jeeno-thitikul-honda-lpga-thailand-birthday-second-round"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2262588960_4cdb1fbc4b/Getty_Images_2262588960_4cdb1fbc4b.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Srixon Goes Full Black: The New Blackout Collection Debuts on Tour</title>
+    <link>https://skratch.golf/style/mens-style/srixon-goes-full-black-the-new-blackout-collection-debuts-on-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/srixon-goes-full-black-the-new-blackout-collection-debuts-on-tour</guid>
+    <pubDate>Fri, 20 Feb 2026 01:19:31 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;Blending Style and Performance, the Blackout Collection Hits with Purpose&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/srixon-goes-full-black-the-new-blackout-collection-debuts-on-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Srixon_Blackout_20114a8c01/Srixon_Blackout_20114a8c01.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -590,17 +601,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/MU3tphCXKsk"&gt;
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Paige Spiranac and Pro Shop Launch Paige Co.</title>
-    <link>https://skratch.golf/news/golf-culture/paige-spiranac-company-pro-shop-joint-venture</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/paige-spiranac-company-pro-shop-joint-venture</guid>
-    <pubDate>Tue, 17 Feb 2026 00:16:42 +0000</pubDate>
-    <dc:creator>Paige Spiranac</dc:creator>
-    <description>&lt;p&gt;Together with Pro Shop, I’m launching a new venture that expands beyond talent-led publishing into shows, storytelling and commerce.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/paige-spiranac-company-pro-shop-joint-venture"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/DSCF_1266_d43ab914b3/DSCF_1266_d43ab914b3.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>A truly amazing story and a runaway DOG of the Week.</title>
