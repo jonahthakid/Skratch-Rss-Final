@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 20 Feb 2026 15:32:56 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Feb 2026 16:31:29 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Happy birthday to Sir Charles. We promise not club twirls today.</title>
+    <link>https://www.youtube.com/shorts/JzCtoGheekA</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/JzCtoGheekA</guid>
+    <pubDate>Fri, 20 Feb 2026 15:54:08 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/JzCtoGheekA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/JzCtoGheekA/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/JzCtoGheekA" type="text/html" medium="video"/>
+    <yt:videoId>JzCtoGheekA</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>16 y/o Tiger GRINDING on the Riv range.</title>
     <link>https://www.youtube.com/shorts/6LuUJ30IT3s</link>
@@ -31,6 +45,17 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/6LuUJ30IT3s"&gt;
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Singing Crowds Help Birthday Girl Jeeno Thitikul Stay Bogey-Free in Thailand</title>
+    <link>https://skratch.golf/news/news/jeeno-thitikul-honda-lpga-thailand-birthday-second-round</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/jeeno-thitikul-honda-lpga-thailand-birthday-second-round</guid>
+    <pubDate>Fri, 20 Feb 2026 13:52:56 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Happy 23rd Birthday Jeeno! The hometown headliner and World No. 1 surged up the leaderboard at the Honda LPGA Thailand ahead of the weekend.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jeeno-thitikul-honda-lpga-thailand-birthday-second-round"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2262588960_4cdb1fbc4b/Getty_Images_2262588960_4cdb1fbc4b.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>These Are The Front-Runners in WTGL Media Rights Negotiations</title>
@@ -433,17 +458,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/MU3tphCXKsk"&gt;
     <category>article</category>
   </item>
   <item>
-    <title>Inside Tiger Woods’ Candid Genesis Invitational Press Conference</title>
-    <link>https://skratch.golf/news/news/tiger-woods-genesis-invitational-2026-masters-pga-tour-schedule-injury-update</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/tiger-woods-genesis-invitational-2026-masters-pga-tour-schedule-injury-update</guid>
-    <pubDate>Tue, 17 Feb 2026 19:58:20 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Ryder Cup captain? Playing in the Masters? Tiger Woods gave us plenty of updates at his presser prior to this week&#x27;s Genesis Invitational.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-genesis-invitational-2026-masters-pga-tour-schedule-injury-update"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2261681298_db5b85f5cc/Getty_Images_2261681298_db5b85f5cc.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Where does LIV Adelaide rank? 👀</title>
     <link>https://www.youtube.com/shorts/jNp3lia7BVM</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/jNp3lia7BVM</guid>
@@ -519,13 +533,13 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/MU3tphCXKsk"&gt;
     <category>video</category>
   </item>
   <item>
-    <title>Augusta National Announces a Change to the Golf Course</title>
-    <link>https://skratch.golf/news/news/masters-2026-augusta-national-course-change-layout-yardage</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/masters-2026-augusta-national-course-change-layout-yardage</guid>
-    <pubDate>Tue, 17 Feb 2026 15:53:40 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Less than two months out from the Masters, Augusta National has announced a change to the golf course.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-2026-augusta-national-course-change-layout-yardage"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2209170061_2bf073b2c1/Getty_Images_2209170061_2bf073b2c1.jpg"/>
+    <title>Jeeno Thitikul Headlines LPGA&#x27;s Return in Thailand: Here&#x27;s How You Can Follow Along</title>
+    <link>https://skratch.golf/news/news/lpga-tour-2026-honda-lpga-thailand-jeeno-thitikul-how-to-watch-tv-streaming</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-tour-2026-honda-lpga-thailand-jeeno-thitikul-how-to-watch-tv-streaming</guid>
+    <pubDate>Tue, 17 Feb 2026 15:14:42 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The limited yet stacked field features the World No. 1 and defending champion Angel Yin.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-tour-2026-honda-lpga-thailand-jeeno-thitikul-how-to-watch-tv-streaming"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/jeeno_cme_group_tour_89c4ecdb24/jeeno_cme_group_tour_89c4ecdb24.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -660,17 +674,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>How Do You Make Great Irons Better? Black Them Out Of Course</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/black-chrome-srixon-irons-zxi7-zxi5</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/black-chrome-srixon-irons-zxi7-zxi5</guid>
-    <pubDate>Thu, 12 Feb 2026 03:42:41 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;If we&#x27;ve learned anything from equipment companies, it&#x27;s that one great way to juice up a not-so-new club release is to give them a cool new finish!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/black-chrome-srixon-irons-zxi7-zxi5"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Srixon_Blackout_irons_title_fd153ff879/Srixon_Blackout_irons_title_fd153ff879.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
