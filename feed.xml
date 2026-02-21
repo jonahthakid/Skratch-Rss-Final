@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 20 Feb 2026 23:50:10 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Feb 2026 01:27:23 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Cut Drama Hits Different When It&#x27;s Scottie Scheffler</title>
+    <link>https://skratch.golf/news/news/scottie-scheffler-2026-genesis-invitational-narrowly-makes-cut</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/scottie-scheffler-2026-genesis-invitational-narrowly-makes-cut</guid>
+    <pubDate>Fri, 20 Feb 2026 23:16:36 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Scheffler’s gritty grind in the Pacific Palisades is a reminder of why we love the cut line.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/scottie-scheffler-2026-genesis-invitational-narrowly-makes-cut"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_02_20_at_4_55_38_PM_e7841a60a2/Screenshot_2026_02_20_at_4_55_38_PM_e7841a60a2.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>There are NO pictures on the scorecard. 😭</title>
     <link>https://www.youtube.com/shorts/s9XcnwnLGoI</link>
@@ -549,17 +560,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/MU3tphCXKsk"&gt;
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;We visited the Titleist Performance Institute to test the new SM11 wedges and explain what’s new, what it does, and how to fit them properly.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/titleist-bench-tested-vokey-sm11-wedges-technology"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/vokey_wedge_title_8c9562b1ae/vokey_wedge_title_8c9562b1ae.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Baggy, Ventilated, Slightly Unhinged: The Metalwood x adidas Capsule</title>
-    <link>https://skratch.golf/style/mens-style/baggy-ventilated-slightly-unhinged-the-metalwood-x-adidas-capsule</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/baggy-ventilated-slightly-unhinged-the-metalwood-x-adidas-capsule</guid>
-    <pubDate>Tue, 17 Feb 2026 16:47:28 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Collin Morikawa, fresh off Pebble, steps into a 6-piece capsule that refuses to play it safe.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/baggy-ventilated-slightly-unhinged-the-metalwood-x-adidas-capsule"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Adidas_x_Metalwood_e3e8019a17/Adidas_x_Metalwood_e3e8019a17.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
