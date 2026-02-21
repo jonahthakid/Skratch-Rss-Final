@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 21 Feb 2026 19:47:26 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Feb 2026 20:18:18 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Jon Rahm’s Refusal to Pay DPWT Fines Clouds His Ryder Cup Future</title>
@@ -91,6 +91,17 @@ Subscribe to Skrat&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The Drop: Freedom—Not Uniformity—Is Shaping Golf&#x27;s Modern Look</title>
+    <link>https://skratch.golf/style/mens-style/best-golf-style-stories-genesis-week</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/best-golf-style-stories-genesis-week</guid>
+    <pubDate>Fri, 20 Feb 2026 17:23:35 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;This week, we saw the sport&#x27;s hierarchy is finally starting to break apart—here&#x27;s what dropped that exemplifies that.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/best-golf-style-stories-genesis-week"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/The_Drop_1_36bb4615aa/The_Drop_1_36bb4615aa.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Happy birthday to Sir Charles. We promise not club twirls today.</title>
@@ -562,17 +573,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/MU3tphCXKsk"&gt;
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Tiger Woods Says Playing in the Masters Isn’t Off the Table</title>
-    <link>https://skratch.golf/news/news/Tiger-woods-masters-2026-isnt-off-the-table-augusta-national</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/Tiger-woods-masters-2026-isnt-off-the-table-augusta-national</guid>
-    <pubDate>Tue, 17 Feb 2026 19:00:04 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;When asked if playing in the Masters is off the table, Tiger gave a subtle smile and uttered a single word: “No.”&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Tiger-woods-masters-2026-isnt-off-the-table-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2200063616_c480304ddf/Getty_Images_2200063616_c480304ddf.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Before all the wins and the records, an amateur named Eldrick played in his first TOUR event.</title>
