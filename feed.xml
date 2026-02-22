@@ -1,4 +1,3 @@
-<!-- Warning: Error fetching Skratch: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwtGQ3sgidNlQGbIUBPP3xw -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -10,8 +9,29 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 22 Feb 2026 06:39:55 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Feb 2026 07:32:12 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Even Tiger was impressed by Jacob Bridgeman&#x27;s seven wood for a tap-in eagle 👀</title>
+    <link>https://www.youtube.com/shorts/a0b_JfCRDFg</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/a0b_JfCRDFg</guid>
+    <pubDate>Sat, 21 Feb 2026 22:50:36 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
+
+Check out our website: https://skratch.golf/
+Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/a0b_JfCRDFg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/a0b_JfCRDFg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/a0b_JfCRDFg" type="text/html" medium="video"/>
+    <yt:videoId>a0b_JfCRDFg</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Jon Rahm’s Refusal to Pay DPWT Fines Clouds His Ryder Cup Future</title>
     <link>https://skratch.golf/news/news/jon-rahm-dp-world-tour-fines-ryder-cup-future-liv-golf</link>
@@ -22,6 +42,20 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2237506364_becb6babd2/Getty_Images_2237506364_becb6babd2.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>Rahm BANKS one off the grandstand to set up eagle at the 2023 Genesis Inv.</title>
+    <link>https://www.youtube.com/shorts/1G5YxmbewNY</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/1G5YxmbewNY</guid>
+    <pubDate>Sat, 21 Feb 2026 15:54:04 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Watch the full compilation of the luckiest bounces on TOUR now on our page.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/1G5YxmbewNY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/1G5YxmbewNY/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/1G5YxmbewNY" type="text/html" medium="video"/>
+    <yt:videoId>1G5YxmbewNY</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>The Fresh PXG Putter Marco Penge Is Using at The Genesis Invitational</title>
@@ -46,6 +80,40 @@
     <category>article</category>
   </item>
   <item>
+    <title>There are NO pictures on the scorecard. 😭</title>
+    <link>https://www.youtube.com/shorts/s9XcnwnLGoI</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/s9XcnwnLGoI</guid>
+    <pubDate>Fri, 20 Feb 2026 18:14:44 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/s9XcnwnLGoI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/s9XcnwnLGoI/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/s9XcnwnLGoI" type="text/html" medium="video"/>
+    <yt:videoId>s9XcnwnLGoI</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Golf Gods at Work 🙌 | The Luckiest Bounces on TOUR</title>
+    <link>https://www.youtube.com/watch?v=5c7EdBz-Ci0</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=5c7EdBz-Ci0</guid>
+    <pubDate>Fri, 20 Feb 2026 18:00:00 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Bad shots, unbelievable outcomes. These PGA TOUR bounces turned disasters into highlights in ways you have to see to believe.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skrat&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=5c7EdBz-Ci0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/5c7EdBz-Ci0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/5c7EdBz-Ci0" type="text/html" medium="video"/>
+    <yt:videoId>5c7EdBz-Ci0</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>The Drop: Freedom—Not Uniformity—Is Shaping Golf&#x27;s Modern Look</title>
     <link>https://skratch.golf/style/mens-style/best-golf-style-stories-genesis-week</link>
     <guid isPermaLink="true">https://skratch.golf/style/mens-style/best-golf-style-stories-genesis-week</guid>
@@ -57,6 +125,20 @@
     <category>article</category>
   </item>
   <item>
+    <title>Happy birthday to Sir Charles. We promise not club twirls today.</title>
+    <link>https://www.youtube.com/shorts/JzCtoGheekA</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/JzCtoGheekA</guid>
+    <pubDate>Fri, 20 Feb 2026 15:54:08 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/JzCtoGheekA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/JzCtoGheekA/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/JzCtoGheekA" type="text/html" medium="video"/>
+    <yt:videoId>JzCtoGheekA</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>This Driver Hack Could Help Players at Riviera</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/playing-golf-rain-driver-trick-hack-accuracy</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/playing-golf-rain-driver-trick-hack-accuracy</guid>
@@ -66,6 +148,27 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/rory_mcilroy_driver_close_up_pga_Getty_Images_2215226664_a954dec233/rory_mcilroy_driver_close_up_pga_Getty_Images_2215226664_a954dec233.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>16 y/o Tiger GRINDING on the Riv range.</title>
+    <link>https://www.youtube.com/shorts/6LuUJ30IT3s</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/6LuUJ30IT3s</guid>
+    <pubDate>Fri, 20 Feb 2026 15:08:09 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
+
+Check out our website: https://skratch.golf/
+Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/6LuUJ30IT3s"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/6LuUJ30IT3s/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/6LuUJ30IT3s" type="text/html" medium="video"/>
+    <yt:videoId>6LuUJ30IT3s</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>Singing Crowds Help Birthday Girl Jeeno Thitikul Stay Bogey-Free in Thailand</title>
@@ -137,6 +240,24 @@
     <category>article</category>
   </item>
   <item>
+    <title>Putting the Vokey SM11s to the TEST | Bench Tested with Ryan Barath</title>
+    <link>https://www.youtube.com/watch?v=8eCNGYemmzA</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=8eCNGYemmzA</guid>
+    <pubDate>Thu, 19 Feb 2026 18:03:19 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Skratch&#x27;s resident gear expert Ryan Barath takes a trip to the @titleist Performance Institute to test out the brand new Vokey SM11 wedges and find out which grind is the right fit for his game.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=8eCNGYemmzA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/8eCNGYemmzA/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/8eCNGYemmzA" type="text/html" medium="video"/>
+    <yt:videoId>8eCNGYemmzA</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Shop the Exact Cashmere Sweaters Tommy Fleetwood Keeps Wearing</title>
     <link>https://skratch.golf/style/mens-style/tommy-fleetwood-sweater-sun-day-red-malbon-tour-style</link>
     <guid isPermaLink="true">https://skratch.golf/style/mens-style/tommy-fleetwood-sweater-sun-day-red-malbon-tour-style</guid>
@@ -173,6 +294,20 @@
     <yt:videoId>1mlenxYBqZc</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>The iconic 10th at Riv 🤝 The iconic Tiger march</title>
+    <link>https://www.youtube.com/shorts/XLexamhQSxw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/XLexamhQSxw</guid>
+    <pubDate>Thu, 19 Feb 2026 14:57:58 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/XLexamhQSxw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/XLexamhQSxw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/XLexamhQSxw" type="text/html" medium="video"/>
+    <yt:videoId>XLexamhQSxw</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
     <category>video</category>
   </item>
   <item>
@@ -246,6 +381,20 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go t&l
     <category>article</category>
   </item>
   <item>
+    <title>Reminder that things can get out of hand quickly at Riviera.</title>
+    <link>https://www.youtube.com/shorts/3w9tdjmX2KQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/3w9tdjmX2KQ</guid>
+    <pubDate>Wed, 18 Feb 2026 21:46:38 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/3w9tdjmX2KQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/3w9tdjmX2KQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/3w9tdjmX2KQ" type="text/html" medium="video"/>
+    <yt:videoId>3w9tdjmX2KQ</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>These Players Aren’t in the Masters Field (Yet), But I Need Them to Be</title>
     <link>https://skratch.golf/news/news/masters-2026-field-rickie-fowler-jake-knapp-anthony-kim-augusta-national</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/masters-2026-field-rickie-fowler-jake-knapp-anthony-kim-augusta-national</guid>
@@ -312,6 +461,20 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go t&l
     <category>article</category>
   </item>
   <item>
+    <title>Which was better, the ace or the celebration??? 🤣🚗</title>
+    <link>https://www.youtube.com/shorts/Xghhc4S2MXc</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/Xghhc4S2MXc</guid>
+    <pubDate>Wed, 18 Feb 2026 16:40:53 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Xghhc4S2MXc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Xghhc4S2MXc/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Xghhc4S2MXc" type="text/html" medium="video"/>
+    <yt:videoId>Xghhc4S2MXc</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Why More Brands Should Leverage LPGA Athletes as Ambassadors (And What it Will Mean)</title>
     <link>https://skratch.golf/style/womens-style/golf-brands-lpga-ambassadors-nike-golf-gianna-clemente-pxg-olivia-cowan</link>
     <guid isPermaLink="true">https://skratch.golf/style/womens-style/golf-brands-lpga-ambassadors-nike-golf-gianna-clemente-pxg-olivia-cowan</guid>
@@ -321,6 +484,27 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go t&l
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2238866653_d9083966cf/Getty_Images_2238866653_d9083966cf.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>A rising star from the land of the rising sun. Come play a hole with Ryo Hisatsune at Riviera.</title>
+    <link>https://www.youtube.com/shorts/MU3tphCXKsk</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/MU3tphCXKsk</guid>
+    <pubDate>Wed, 18 Feb 2026 15:51:18 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
+
+Check out our website: https://skratch.golf/
+Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/MU3tphCXKsk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/MU3tphCXKsk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/MU3tphCXKsk" type="text/html" medium="video"/>
+    <yt:videoId>MU3tphCXKsk</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>Maritime Muse: Fore All&#x27;s Spring/Summer Drop is a Coastal Dream</title>
@@ -334,6 +518,20 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go t&l
     <category>article</category>
   </item>
   <item>
+    <title>After a rainy week in LA, expect plenty of MUDBALLS at Riviera.</title>
+    <link>https://www.youtube.com/shorts/LR7OnEd6Fzw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/LR7OnEd6Fzw</guid>
+    <pubDate>Wed, 18 Feb 2026 14:54:59 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/LR7OnEd6Fzw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/LR7OnEd6Fzw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/LR7OnEd6Fzw" type="text/html" medium="video"/>
+    <yt:videoId>LR7OnEd6Fzw</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Is The Blade Putter DEAD? An Expert Weighs In</title>
     <link>https://www.youtube.com/watch?v=KLGlZSAa3vg</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=KLGlZSAa3vg</guid>
@@ -345,6 +543,20 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go t&l
     <yt:videoId>KLGlZSAa3vg</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>MJ’s bday 🤝 #TigerTuesday</title>
+    <link>https://www.youtube.com/shorts/KpuZnaYlU_I</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/KpuZnaYlU_I</guid>
+    <pubDate>Tue, 17 Feb 2026 20:51:44 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/KpuZnaYlU_I"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/KpuZnaYlU_I/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/KpuZnaYlU_I" type="text/html" medium="video"/>
+    <yt:videoId>KpuZnaYlU_I</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
     <category>video</category>
   </item>
   <item>
@@ -384,6 +596,20 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go t&l
     <category>video</category>
   </item>
   <item>
+    <title>Before all the wins and the records, an amateur named Eldrick played in his first TOUR event.</title>
+    <link>https://www.youtube.com/shorts/4Am102JhJ6Y</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/4Am102JhJ6Y</guid>
+    <pubDate>Tue, 17 Feb 2026 18:00:14 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/4Am102JhJ6Y"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/4Am102JhJ6Y/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/4Am102JhJ6Y" type="text/html" medium="video"/>
+    <yt:videoId>4Am102JhJ6Y</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Bench Tested: Vokey SM11 Wedges, Explained</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/titleist-bench-tested-vokey-sm11-wedges-technology</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/titleist-bench-tested-vokey-sm11-wedges-technology</guid>
@@ -393,6 +619,20 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go t&l
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/vokey_wedge_title_8c9562b1ae/vokey_wedge_title_8c9562b1ae.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>Celebrating MJ’s birthday with a few of his favorite things</title>
+    <link>https://www.youtube.com/shorts/G_ghxLlYGCY</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/G_ghxLlYGCY</guid>
+    <pubDate>Tue, 17 Feb 2026 16:06:02 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/G_ghxLlYGCY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/G_ghxLlYGCY/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/G_ghxLlYGCY" type="text/html" medium="video"/>
+    <yt:videoId>G_ghxLlYGCY</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>“It’s pretty much RIP time.”</title>
@@ -441,73 +681,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>&quot;The last thing I wanted to do was think about how I was going to hit that shot.&quot;</title>
-    <link>https://www.youtube.com/shorts/YdY3Ns6UkXI</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/YdY3Ns6UkXI</guid>
-    <pubDate>Mon, 16 Feb 2026 18:12:30 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/YdY3Ns6UkXI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/YdY3Ns6UkXI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/YdY3Ns6UkXI" type="text/html" medium="video"/>
-    <yt:videoId>YdY3Ns6UkXI</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>They tried to ice the kicker</title>
-    <link>https://www.youtube.com/shorts/WFeKepRzu_U</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/WFeKepRzu_U</guid>
-    <pubDate>Mon, 16 Feb 2026 01:19:53 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/WFeKepRzu_U"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/WFeKepRzu_U/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/WFeKepRzu_U" type="text/html" medium="video"/>
-    <yt:videoId>WFeKepRzu_U</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Looks like he figured it out.</title>
-    <link>https://www.youtube.com/shorts/AvNtytB0vNU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/AvNtytB0vNU</guid>
-    <pubDate>Sun, 15 Feb 2026 23:31:10 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/AvNtytB0vNU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/AvNtytB0vNU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/AvNtytB0vNU" type="text/html" medium="video"/>
-    <yt:videoId>AvNtytB0vNU</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>CHAOS at Pebble! Scottie Chasing! Wind HOWLING! | AT&amp;T Pebble Beach Pro-Am LIVE Watch Along</title>
-    <link>https://www.youtube.com/watch?v=-sbq7VvBBrQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=-sbq7VvBBrQ</guid>
-    <pubDate>Sun, 15 Feb 2026 23:30:10 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Watch the final-round action at Pebble Beach with Dan Rapaport as Scottie Scheffler chases the leaders&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=-sbq7VvBBrQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/-sbq7VvBBrQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/-sbq7VvBBrQ" type="text/html" medium="video"/>
-    <yt:videoId>-sbq7VvBBrQ</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Love Letter To: Riviera Country Club</title>
-    <link>https://skratch.golf/news/golf-culture/riviera-country-club-photos-essay</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/riviera-country-club-photos-essay</guid>
-    <pubDate>Wed, 12 Feb 2025 02:52:38 +0000</pubDate>
-    <dc:creator>Zane Moulton</dc:creator>
-    <description>&lt;p&gt;Riviera doesn’t just host tournaments, it holds memories—and this year it feels even more worth celebrating. Skratch&#x27;s Zane Moulton gives a nod to Riv, in words and photos.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/riviera-country-club-photos-essay"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/DJI_20260213142750_0096_D_247d456572/DJI_20260213142750_0096_D_247d456572.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
