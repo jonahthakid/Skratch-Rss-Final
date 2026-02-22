@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 22 Feb 2026 16:54:36 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Feb 2026 17:21:15 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Don’t think Fluff was buying the early walk here 🤣</title>
+    <link>https://www.youtube.com/shorts/DQAsSFASciE</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/DQAsSFASciE</guid>
+    <pubDate>Sun, 22 Feb 2026 16:59:48 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/DQAsSFASciE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/DQAsSFASciE/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/DQAsSFASciE" type="text/html" medium="video"/>
+    <yt:videoId>DQAsSFASciE</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Even Tiger was impressed by Jacob Bridgeman&#x27;s seven wood for a tap-in eagle 👀</title>
     <link>https://www.youtube.com/shorts/a0b_JfCRDFg</link>
@@ -619,20 +633,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/MU3tphCXKsk"&gt;
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/vokey_wedge_title_8c9562b1ae/vokey_wedge_title_8c9562b1ae.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Celebrating MJ’s birthday with a few of his favorite things</title>
-    <link>https://www.youtube.com/shorts/G_ghxLlYGCY</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/G_ghxLlYGCY</guid>
-    <pubDate>Tue, 17 Feb 2026 16:06:02 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/G_ghxLlYGCY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/G_ghxLlYGCY/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/G_ghxLlYGCY" type="text/html" medium="video"/>
-    <yt:videoId>G_ghxLlYGCY</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>“It’s pretty much RIP time.”</title>
