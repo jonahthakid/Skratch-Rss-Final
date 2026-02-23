@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 23 Feb 2026 18:55:42 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Feb 2026 19:54:44 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>“A 20-footer, two putt—that seemed like the hardest thing in the world.&quot;</title>
@@ -53,6 +53,17 @@ Dan travels all year a&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/wat
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;Big Wiezy&#x27;s comeback was not on our 2026 bingo card—and we&#x27;re so here for it!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/michelle-wie-west-joins-wtgl"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_451058970_9ceea2724b/Getty_Images_451058970_9ceea2724b.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Jeeno&#x27;s Home Win Came With Something Extra Special</title>
+    <link>https://skratch.golf/news/news/jeeno-thitikul-2026-honday-lpga-thailand-recap</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/jeeno-thitikul-2026-honday-lpga-thailand-recap</guid>
+    <pubDate>Mon, 23 Feb 2026 16:58:33 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;A birthday celebration with a side of history—it was a storybook week in Thailand for the World No. 1.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jeeno-thitikul-2026-honday-lpga-thailand-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Winner_Jeeno_Thitikul_Trophy_Credit_LPGA_Getty_56429f58e6/Winner_Jeeno_Thitikul_Trophy_Credit_LPGA_Getty_56429f58e6.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -564,17 +575,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go t&l
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Viktor Hovland&#x27;s unique strategy for playing Riviera&#x27;s 15th is no longer an option—here&#x27;s why.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/genesis-invitational-2026-viktor-hovland-riviera-added-trees"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1371834707_5307899941/Getty_Images_1371834707_5307899941.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Three Players To Watch at The Genesis Invitational</title>
-    <link>https://skratch.golf/news/news/genesis-invitational-2026-pga-tour-picks-betting-odds-predictions</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/genesis-invitational-2026-pga-tour-picks-betting-odds-predictions</guid>
-    <pubDate>Wed, 18 Feb 2026 17:54:19 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Tommy, Knapp, and JDay—here&#x27;s why all three guys will finish inside the top 20 at Riviera.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/genesis-invitational-2026-pga-tour-picks-betting-odds-predictions"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2261475053_8b369f90bf/Getty_Images_2261475053_8b369f90bf.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
