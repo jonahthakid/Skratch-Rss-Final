@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 24 Feb 2026 15:29:26 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Feb 2026 16:36:10 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>We owe you an apology, Jacob. We weren’t really familiar with your game. @manorsgolf</title>
+    <link>https://www.youtube.com/shorts/e-M1pQaHHpo</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/e-M1pQaHHpo</guid>
+    <pubDate>Tue, 24 Feb 2026 16:06:16 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/e-M1pQaHHpo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/e-M1pQaHHpo/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/e-M1pQaHHpo" type="text/html" medium="video"/>
+    <yt:videoId>e-M1pQaHHpo</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>The PGA TOUR Details the Allocation of Brooks Koepka’s $5 Million Donation</title>
+    <link>https://skratch.golf/news/news/brooks-koepka-5-million-charity-recipients-pga-tour-cognizant-classic</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/brooks-koepka-5-million-charity-recipients-pga-tour-cognizant-classic</guid>
+    <pubDate>Tue, 24 Feb 2026 15:55:52 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Part of Brooks Koepka&#x27;s deal to come back to the PGA TOUR was a $5 million charitable donation—here&#x27;s where that money is headed.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/brooks-koepka-5-million-charity-recipients-pga-tour-cognizant-classic"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2259105719_84c66d26c7/Getty_Images_2259105719_84c66d26c7.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Serena following Tiger when the old cell phone policy was in effect 🤣</title>
     <link>https://www.youtube.com/shorts/XltxS_tBrtQ</link>
@@ -24,6 +49,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The LPGA Returns to Singapore for &#x27;Asia&#x27;s Major&#x27;—Here&#x27;s Everything You Need to Know</title>
+    <link>https://skratch.golf/news/news/lpga-tour-2026-hsbc-womens-world-championship-how-to-watch-tee-times-tv-streaming</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-tour-2026-hsbc-womens-world-championship-how-to-watch-tee-times-tv-streaming</guid>
+    <pubDate>Tue, 24 Feb 2026 07:53:35 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Who and how to watch at this week&#x27;s HSBC Women&#x27;s World Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-tour-2026-hsbc-womens-world-championship-how-to-watch-tee-times-tv-streaming"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2202409309_656393a073/Getty_Images_2202409309_656393a073.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Have You Been Paying Attention to Ryan Gerard?</title>
@@ -94,6 +130,17 @@ Dan travels all year a&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/wat
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Golf Shafts Aren&#x27;t Magic And They Won&#x27;t Fix Your Swing</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/golf-shafts-gear-smart-podcast-club-fitting</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/golf-shafts-gear-smart-podcast-club-fitting</guid>
+    <pubDate>Mon, 23 Feb 2026 21:42:42 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Although they are a great tool for fine-tuning ball flight and maximizing potential, golf shafts aren&#x27;t a magic bullet to fix your golf swing.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/golf-shafts-gear-smart-podcast-club-fitting"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Graphite_Shafts_2025_0a8fca6789/Graphite_Shafts_2025_0a8fca6789.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>&quot;Greenskeeper’s WORST nightmare.&quot; 🤣</title>
@@ -491,6 +538,17 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/6LuUJ30IT3s"&gt;
     <category>article</category>
   </item>
   <item>
+    <title>Opus SP+ Is Callaway’s Most Controlled Wedge Yet</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/callaway-opus-plus-wedges-technology</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/callaway-opus-plus-wedges-technology</guid>
+    <pubDate>Thu, 19 Feb 2026 19:29:33 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;By expanding the spin pocket and packing more tungsten up top, the Opus SP+ wedges push the boundaries of what a conventional wedge can accomplish.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/callaway-opus-plus-wedges-technology"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Callaway_Opus_SP_plus_wedges_a21e708a80/Callaway_Opus_SP_plus_wedges_a21e708a80.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Heat Check: LPGA Players Brave The Warm Temps in Thailand</title>
     <link>https://skratch.golf/news/news/honda-lpga-thailand-warm-weather-conditions</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/honda-lpga-thailand-warm-weather-conditions</guid>
@@ -518,17 +576,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Shop the Exact Cashmere Sweaters Tommy Fleetwood Keeps Wearing</title>
-    <link>https://skratch.golf/style/mens-style/tommy-fleetwood-sweater-sun-day-red-malbon-tour-style</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/tommy-fleetwood-sweater-sun-day-red-malbon-tour-style</guid>
-    <pubDate>Thu, 19 Feb 2026 17:17:00 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;The Tommy Fleetwood Free Agency Fit Watch Continues&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/tommy-fleetwood-sweater-sun-day-red-malbon-tour-style"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Tommy_Sweater_Cover_250fe509bf/Tommy_Sweater_Cover_250fe509bf.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Your New Favorite Pro Golfer, Dan Brown: PGA TOUR Rookie, Fun Haver, Cigarette Smoker</title>
@@ -571,17 +618,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Titleist&#x27;s Carry Bags Just Got A Substantial Upgrade</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/titleist-players-four-golf-bags-upgrade</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/titleist-players-four-golf-bags-upgrade</guid>
-    <pubDate>Thu, 19 Feb 2026 12:52:28 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;With feedback from golfers looking to get more from their golf bag, Titleist has made some big-time upgrades to its Players Stand Bag collection.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/titleist-players-four-golf-bags-upgrade"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_02_19_at_7_56_58_AM_a4e188db08/Screenshot_2026_02_19_at_7_56_58_AM_a4e188db08.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Anthony Kim’s win brought us all together. @manorsgolf</title>
@@ -644,42 +680,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go t&l
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>These Players Aren’t in the Masters Field (Yet), But I Need Them to Be</title>
-    <link>https://skratch.golf/news/news/masters-2026-field-rickie-fowler-jake-knapp-anthony-kim-augusta-national</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/masters-2026-field-rickie-fowler-jake-knapp-anthony-kim-augusta-national</guid>
-    <pubDate>Wed, 18 Feb 2026 19:57:05 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Less than 50 days out from the opening round of the Masters, these three players aren&#x27;t in the field—but I need them to be.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-2026-field-rickie-fowler-jake-knapp-anthony-kim-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2148452960_8437243f69/Getty_Images_2148452960_8437243f69.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Which was better, the ace or the celebration??? 🤣🚗</title>
-    <link>https://www.youtube.com/shorts/Xghhc4S2MXc</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/Xghhc4S2MXc</guid>
-    <pubDate>Wed, 18 Feb 2026 16:40:53 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Xghhc4S2MXc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/Xghhc4S2MXc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/Xghhc4S2MXc" type="text/html" medium="video"/>
-    <yt:videoId>Xghhc4S2MXc</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Why More Brands Should Leverage LPGA Athletes as Ambassadors (And What it Will Mean)</title>
-    <link>https://skratch.golf/style/womens-style/golf-brands-lpga-ambassadors-nike-golf-gianna-clemente-pxg-olivia-cowan</link>
-    <guid isPermaLink="true">https://skratch.golf/style/womens-style/golf-brands-lpga-ambassadors-nike-golf-gianna-clemente-pxg-olivia-cowan</guid>
-    <pubDate>Wed, 18 Feb 2026 16:38:29 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Nike and PXG have made statements with their recent moves—and you should be paying attention.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/womens-style/golf-brands-lpga-ambassadors-nike-golf-gianna-clemente-pxg-olivia-cowan"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2238866653_d9083966cf/Getty_Images_2238866653_d9083966cf.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
