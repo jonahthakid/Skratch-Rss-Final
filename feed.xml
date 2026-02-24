@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 24 Feb 2026 14:07:59 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Feb 2026 15:29:26 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Serena following Tiger when the old cell phone policy was in effect 🤣</title>
+    <link>https://www.youtube.com/shorts/XltxS_tBrtQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/XltxS_tBrtQ</guid>
+    <pubDate>Tue, 24 Feb 2026 15:23:59 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/XltxS_tBrtQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/XltxS_tBrtQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/XltxS_tBrtQ" type="text/html" medium="video"/>
+    <yt:videoId>XltxS_tBrtQ</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Have You Been Paying Attention to Ryan Gerard?</title>
     <link>https://skratch.golf/news/pro-golf/cognizant-classic-pga-national-best-bets-pick-to-win</link>
@@ -150,6 +164,17 @@ Dan travels all year a&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/wat
     <dc:creator>Alan Shipnuck</dc:creator>
     <description>&lt;p&gt;&quot;I give him all the props,&quot; said a duly impressed Rory McIlroy of Jacob Bridgeman on Sunday at Riviera.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/jacob-bridgeman-genesis-riviera-win-recap-analysis"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2262563147_889ba6957e/Getty_Images_2262563147_889ba6957e.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>This Putter Can&#x27;t Stop Winning On Tour</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/taylormade-spider-putter-winning-pgatour-season</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/taylormade-spider-putter-winning-pgatour-season</guid>
+    <pubDate>Mon, 23 Feb 2026 16:22:45 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;With five wins in six PGA TOUR events this season already, the TaylorMade Spider is quickly becoming the putter to beat.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/taylormade-spider-putter-winning-pgatour-season"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Collin_Morikawa_putter_att_23ae4db5c9/Collin_Morikawa_putter_att_23ae4db5c9.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -628,28 +653,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go t&l
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Less than 50 days out from the opening round of the Masters, these three players aren&#x27;t in the field—but I need them to be.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-2026-field-rickie-fowler-jake-knapp-anthony-kim-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2148452960_8437243f69/Getty_Images_2148452960_8437243f69.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Three Players To Watch at The Genesis Invitational</title>
-    <link>https://skratch.golf/news/news/genesis-invitational-2026-pga-tour-picks-betting-odds-predictions</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/genesis-invitational-2026-pga-tour-picks-betting-odds-predictions</guid>
-    <pubDate>Wed, 18 Feb 2026 17:54:19 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Tommy, Knapp, and JDay—here&#x27;s why all three guys will finish inside the top 20 at Riviera.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/genesis-invitational-2026-pga-tour-picks-betting-odds-predictions"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2261475053_8b369f90bf/Getty_Images_2261475053_8b369f90bf.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Aimé Leon Dore and FootJoy Round Two?</title>
-    <link>https://skratch.golf/style/mens-style/aime-leon-dore-and-foot-joy-round-two</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/aime-leon-dore-and-foot-joy-round-two</guid>
-    <pubDate>Wed, 18 Feb 2026 17:45:22 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;A subtle lookbook appearance suggests the ALD x FootJoy story isn’t finished.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/aime-leon-dore-and-foot-joy-round-two"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/FJ_ALD_Cover_2_4cc9cdf3b0/FJ_ALD_Cover_2_4cc9cdf3b0.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
