@@ -9,8 +9,30 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 23 Feb 2026 23:55:43 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Feb 2026 01:48:16 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Have You Been Paying Attention to Ryan Gerard?</title>
+    <link>https://skratch.golf/news/pro-golf/cognizant-classic-pga-national-best-bets-pick-to-win</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/cognizant-classic-pga-national-best-bets-pick-to-win</guid>
+    <pubDate>Tue, 24 Feb 2026 00:50:30 +0000</pubDate>
+    <dc:creator>Rick Gehman</dc:creator>
+    <description>&lt;p&gt;He&#x27;s got two runner up finishes and a T11 racked up already this year. Here&#x27;s why Rick Gehman thinks he&#x27;s a good bet at PGA National.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/cognizant-classic-pga-national-best-bets-pick-to-win"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2262186831_9529a26647/Getty_Images_2262186831_9529a26647.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Justin Thomas Has Set the Date for His PGA TOUR Return</title>
+    <link>https://skratch.golf/news/news/justin-thomas-pga-tour-return-arnold-palmer-invitational-2026</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/justin-thomas-pga-tour-return-arnold-palmer-invitational-2026</guid>
+    <pubDate>Tue, 24 Feb 2026 00:42:49 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Thomas has been out since November, but he&#x27;s coming back as the TOUR returns to the King’s Place.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/justin-thomas-pga-tour-return-arnold-palmer-invitational-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_02_23_at_4_53_24_PM_5b5e8ae950/Screenshot_2026_02_23_at_4_53_24_PM_5b5e8ae950.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>The 10th hole at Riviera: just don&#x27;t hit it right of the hole.</title>
     <link>https://www.youtube.com/shorts/wRtkPNbortw</link>
@@ -585,17 +607,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go t&l
     <category>video</category>
   </item>
   <item>
-    <title>This Change to Riviera Doesn’t Sound Popular</title>
-    <link>https://skratch.golf/news/news/genesis-invitational-2026-riviera-fourth-hole-reaction-rory-mcilroy</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/genesis-invitational-2026-riviera-fourth-hole-reaction-rory-mcilroy</guid>
-    <pubDate>Wed, 18 Feb 2026 22:17:42 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Riviera&#x27;s par-3 fourth is now a monster, measuring over 270 yards. Here&#x27;s what some of the world&#x27;s best said about how it&#x27;ll play this week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/genesis-invitational-2026-riviera-fourth-hole-reaction-rory-mcilroy"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2262356530_b97b8f9f35/Getty_Images_2262356530_b97b8f9f35.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Reminder that things can get out of hand quickly at Riviera.</title>
     <link>https://www.youtube.com/shorts/3w9tdjmX2KQ</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/3w9tdjmX2KQ</guid>
@@ -617,6 +628,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go t&l
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Less than 50 days out from the opening round of the Masters, these three players aren&#x27;t in the field—but I need them to be.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-2026-field-rickie-fowler-jake-knapp-anthony-kim-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2148452960_8437243f69/Getty_Images_2148452960_8437243f69.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Three Players To Watch at The Genesis Invitational</title>
+    <link>https://skratch.golf/news/news/genesis-invitational-2026-pga-tour-picks-betting-odds-predictions</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/genesis-invitational-2026-pga-tour-picks-betting-odds-predictions</guid>
+    <pubDate>Wed, 18 Feb 2026 17:54:19 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Tommy, Knapp, and JDay—here&#x27;s why all three guys will finish inside the top 20 at Riviera.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/genesis-invitational-2026-pga-tour-picks-betting-odds-predictions"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2261475053_8b369f90bf/Getty_Images_2261475053_8b369f90bf.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -653,38 +675,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go t&l
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;Nike and PXG have made statements with their recent moves—and you should be paying attention.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/womens-style/golf-brands-lpga-ambassadors-nike-golf-gianna-clemente-pxg-olivia-cowan"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2238866653_d9083966cf/Getty_Images_2238866653_d9083966cf.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>A rising star from the land of the rising sun. Come play a hole with Ryo Hisatsune at Riviera.</title>
-    <link>https://www.youtube.com/shorts/MU3tphCXKsk</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/MU3tphCXKsk</guid>
-    <pubDate>Wed, 18 Feb 2026 15:51:18 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
-
-Check out our website: https://skratch.golf/
-Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/MU3tphCXKsk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/MU3tphCXKsk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/MU3tphCXKsk" type="text/html" medium="video"/>
-    <yt:videoId>MU3tphCXKsk</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Maritime Muse: Fore All&#x27;s Spring/Summer Drop is a Coastal Dream</title>
-    <link>https://skratch.golf/style/womens-style/fore-all-womens-golf-style-spring-summer-26-collections</link>
-    <guid isPermaLink="true">https://skratch.golf/style/womens-style/fore-all-womens-golf-style-spring-summer-26-collections</guid>
-    <pubDate>Wed, 18 Feb 2026 14:55:10 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The category is: resort chic.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/womens-style/fore-all-womens-golf-style-spring-summer-26-collections"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/fore_all_ss26_1737d0e4af/fore_all_ss26_1737d0e4af.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
