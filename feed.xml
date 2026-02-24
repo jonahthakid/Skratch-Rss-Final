@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 24 Feb 2026 18:54:09 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Feb 2026 19:45:54 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>This Rule In Golf NEEDS A Change</title>
@@ -44,6 +44,17 @@ Dan travels all year a&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/wat
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>On Tap: The Cognizant Classic in The Palm Beaches</title>
+    <link>https://skratch.golf/news/pro-golf/cognizant-classic-2026-how-to-watch-pga-tour-tee-times</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/cognizant-classic-2026-how-to-watch-pga-tour-tee-times</guid>
+    <pubDate>Tue, 24 Feb 2026 17:47:10 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;If you’re planning on watching the Cognizant Classic this week, here’s all the information you need to know.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/cognizant-classic-2026-how-to-watch-pga-tour-tee-times"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Cognizant_Getty_Images_2041443878_349bf21f96/Cognizant_Getty_Images_2041443878_349bf21f96.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>We owe you an apology, Jacob. We weren’t really familiar with your game. @manorsgolf</title>
@@ -665,20 +676,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:videoId>OV568-Fq47I</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Reminder that things can get out of hand quickly at Riviera.</title>
-    <link>https://www.youtube.com/shorts/3w9tdjmX2KQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/3w9tdjmX2KQ</guid>
-    <pubDate>Wed, 18 Feb 2026 21:46:38 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/3w9tdjmX2KQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/3w9tdjmX2KQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/3w9tdjmX2KQ" type="text/html" medium="video"/>
-    <yt:videoId>3w9tdjmX2KQ</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
     <category>video</category>
   </item>
 </channel>
