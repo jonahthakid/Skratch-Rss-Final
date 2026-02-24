@@ -9,8 +9,42 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 24 Feb 2026 21:57:40 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Feb 2026 22:35:31 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>How&#x27;d Dan do?</title>
+    <link>https://www.youtube.com/shorts/ZDMZqD7tSpM</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/ZDMZqD7tSpM</guid>
+    <pubDate>Tue, 24 Feb 2026 22:16:12 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ZDMZqD7tSpM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/ZDMZqD7tSpM/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/ZDMZqD7tSpM" type="text/html" medium="video"/>
+    <yt:videoId>ZDMZqD7tSpM</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>A TGL double header, JT back in action and plenty of good drinks 🍋</title>
+    <link>https://www.youtube.com/shorts/kDYF_Y2AeoA</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/kDYF_Y2AeoA</guid>
+    <pubDate>Tue, 24 Feb 2026 21:46:14 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Come with Addie Parker on her first TGL experience at SoFi Center with @mikeshardlemonade. #ad21+
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/kDYF_Y2AeoA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/kDYF_Y2AeoA/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/kDYF_Y2AeoA" type="text/html" medium="video"/>
+    <yt:videoId>kDYF_Y2AeoA</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>This Rule In Golf NEEDS A Change</title>
     <link>https://www.youtube.com/watch?v=eYOrWs-nS_E</link>
@@ -646,34 +680,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/1mlenxYBqZc/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/1mlenxYBqZc" type="text/html" medium="video"/>
     <yt:videoId>1mlenxYBqZc</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>The iconic 10th at Riv 🤝 The iconic Tiger march</title>
-    <link>https://www.youtube.com/shorts/XLexamhQSxw</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/XLexamhQSxw</guid>
-    <pubDate>Thu, 19 Feb 2026 14:57:58 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/XLexamhQSxw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/XLexamhQSxw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/XLexamhQSxw" type="text/html" medium="video"/>
-    <yt:videoId>XLexamhQSxw</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Anthony Kim’s win brought us all together. @manorsgolf</title>
-    <link>https://www.youtube.com/shorts/OV568-Fq47I</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/OV568-Fq47I</guid>
-    <pubDate>Thu, 19 Feb 2026 03:16:58 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/OV568-Fq47I"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/OV568-Fq47I/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/OV568-Fq47I" type="text/html" medium="video"/>
-    <yt:videoId>OV568-Fq47I</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
