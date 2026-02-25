@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 25 Feb 2026 19:46:40 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Feb 2026 20:29:32 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Bear trap? More like thirst trap. 🥵</title>
+    <link>https://www.youtube.com/shorts/Bfnd2ja5ESo</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/Bfnd2ja5ESo</guid>
+    <pubDate>Wed, 25 Feb 2026 20:19:33 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Bfnd2ja5ESo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Bfnd2ja5ESo/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Bfnd2ja5ESo" type="text/html" medium="video"/>
+    <yt:videoId>Bfnd2ja5ESo</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Jim Nantz shares the &quot;hello friends&quot; origin story</title>
     <link>https://www.youtube.com/shorts/ucfmjPclX9c</link>
@@ -678,24 +692,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/6LuUJ30IT3s"&gt;
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Callaway_Opus_SP_plus_wedges_a21e708a80/Callaway_Opus_SP_plus_wedges_a21e708a80.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Putting the Vokey SM11s to the TEST | Bench Tested with Ryan Barath</title>
-    <link>https://www.youtube.com/watch?v=8eCNGYemmzA</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=8eCNGYemmzA</guid>
-    <pubDate>Thu, 19 Feb 2026 18:03:19 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Skratch&#x27;s resident gear expert Ryan Barath takes a trip to the @titleist Performance Institute to test out the brand new Vokey SM11 wedges and find out which grind is the right fit for his game.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=8eCNGYemmzA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/8eCNGYemmzA/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/8eCNGYemmzA" type="text/html" medium="video"/>
-    <yt:videoId>8eCNGYemmzA</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
 </channel>
 </rss>
