@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 25 Feb 2026 21:03:07 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Feb 2026 21:55:17 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Bear trap? More like thirst trap. 🥵</title>
@@ -382,6 +382,17 @@ Dan travels all year a&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/wat
     <category>video</category>
   </item>
   <item>
+    <title>Florida Swing Preview: Can Rory McIlroy Slip Into the Red Cardigan (Again)?</title>
+    <link>https://skratch.golf/news/pro-golf/pga-tour-florida-swing-preview-predictions-rory-mcilroy-bay-hill</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/pga-tour-florida-swing-preview-predictions-rory-mcilroy-bay-hill</guid>
+    <pubDate>Mon, 23 Feb 2026 17:27:27 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The Florida Swing has arrived—so it&#x27;s only right we make predictions for the PGA TOUR&#x27;s trip around the Sunshine State.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/pga-tour-florida-swing-preview-predictions-rory-mcilroy-bay-hill"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_933764876_5d703a0b2d/Getty_Images_933764876_5d703a0b2d.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>She&#x27;s So Back! Michelle Wie West Comes Out of Retirement to Join WTGL</title>
     <link>https://skratch.golf/news/news/michelle-wie-west-joins-wtgl</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/michelle-wie-west-joins-wtgl</guid>
@@ -654,17 +665,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/6LuUJ30IT3s"&gt;
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;The search for the best golf simulators in NYC continues. This week I land in the Upper East Side at Five Iron Golf, a true staple in NYC golf culture.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/sim-seeking-five-iron-golf-nyc-indoor-golf-simulators-episode-2"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/five_iron_46b2f6c83b/five_iron_46b2f6c83b.jpeg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Srixon Goes Full Black: The New Blackout Collection Debuts on Tour</title>
-    <link>https://skratch.golf/style/mens-style/srixon-goes-full-black-the-new-blackout-collection-debuts-on-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/srixon-goes-full-black-the-new-blackout-collection-debuts-on-tour</guid>
-    <pubDate>Fri, 20 Feb 2026 01:19:31 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Blending Style and Performance, the Blackout Collection Hits with Purpose&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/srixon-goes-full-black-the-new-blackout-collection-debuts-on-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Srixon_Blackout_20114a8c01/Srixon_Blackout_20114a8c01.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
