@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 25 Feb 2026 22:27:16 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Feb 2026 23:00:19 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Searching for Addie’s Baddie with Mike’s Hard Lemonade</title>
+    <link>https://www.youtube.com/shorts/V2vI8m_NViU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/V2vI8m_NViU</guid>
+    <pubDate>Wed, 25 Feb 2026 22:21:41 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Back where it all began. Addie Parker went on a mission to find her true TGL Addie’s Baddie in real life, thanks to @mikeshardlemonade. #ad21+&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/V2vI8m_NViU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/V2vI8m_NViU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/V2vI8m_NViU" type="text/html" medium="video"/>
+    <yt:videoId>V2vI8m_NViU</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Bear trap? More like thirst trap. 🥵</title>
     <link>https://www.youtube.com/shorts/Bfnd2ja5ESo</link>
@@ -170,18 +184,12 @@ Subscribe to Skratch on YouTube and don’t miss&lt;/p&gt;&lt;p&gt;&lt;a href="h
     <category>video</category>
   </item>
   <item>
-    <title>S2, E14: Bridgeman Joins After Riv Win, Rahm vs. DP World Tour, The Long Putter Situation</title>
+    <title>S2, E15: Bryson &amp; LA Golf Split, TaylorMade CEO David Abeles &amp; KFT Star James Nicholas Join</title>
     <link>https://www.youtube.com/watch?v=sDEJaCfJTO0</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=sDEJaCfJTO0</guid>
     <pubDate>Tue, 24 Feb 2026 17:51:32 +0000</pubDate>
     <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Jacob Bridgeman joins the show after winning his first PGA TOUR event at Riviera. We dive into the week in LA at Tiger&#x27;s tournament. Dan has an Official Statement on the broomstick putter. Ranking the top 10 players in the world after the first two signature events on TOUR. A new, fun Dog Race: who would Dan pick to replace Ben as co-host? And much more.
-
-Thank You to Our Sponsors!
-
-Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
-
-Dan travels all year a&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=sDEJaCfJTO0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;A packed Wednesday show. We dive into the slew of withdraws from Cognizant. Will PGA National stand the test this week? Korn Ferry Tour winner &amp; YouTube golfer James Nicholas joins the show to discuss his first win, his friendship with USA Hockey defenseman Charlie McAvoy, the talent level on KFT &amp; more. After Nicholas, TaylorMade CEO David Abeles speaks on the Spider Putter picking up wins on TOUR, signing Tiger Woods after Nike Golf shut down golf club operations, the process of starting a new&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=sDEJaCfJTO0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://img.youtube.com/vi/sDEJaCfJTO0/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/sDEJaCfJTO0" type="text/html" medium="video"/>
     <yt:videoId>sDEJaCfJTO0</yt:videoId>
@@ -681,17 +689,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/6LuUJ30IT3s"&gt;
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Opus SP+ Is Callaway’s Most Controlled Wedge Yet</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/callaway-opus-plus-wedges-technology</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/callaway-opus-plus-wedges-technology</guid>
-    <pubDate>Thu, 19 Feb 2026 19:29:33 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;By expanding the spin pocket and packing more tungsten up top, the Opus SP+ wedges push the boundaries of what a conventional wedge can accomplish.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/callaway-opus-plus-wedges-technology"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Callaway_Opus_SP_plus_wedges_a21e708a80/Callaway_Opus_SP_plus_wedges_a21e708a80.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
