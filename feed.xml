@@ -9,8 +9,44 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 26 Feb 2026 16:13:24 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Feb 2026 17:33:48 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Will Zalatoris Withdraws from the Cognizant Classic Before the First Round</title>
+    <link>https://skratch.golf/news/news/cognizant-classic-will-zalatoris-withdraws-pga-tour-pga-national</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/cognizant-classic-will-zalatoris-withdraws-pga-tour-pga-national</guid>
+    <pubDate>Thu, 26 Feb 2026 17:18:15 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Willy Z withdrew from the Cognizant Classic before ever teeing off.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/cognizant-classic-will-zalatoris-withdraws-pga-tour-pga-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2257649708_1a0343aabc/Getty_Images_2257649708_1a0343aabc.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Augusta National Commits $1.5M to Expand State Junior Team Program</title>
+    <link>https://skratch.golf/news/news/augusta-national-masters-tournament-charities-usga-state-junior-team-program</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/augusta-national-masters-tournament-charities-usga-state-junior-team-program</guid>
+    <pubDate>Thu, 26 Feb 2026 16:54:55 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Augusta National Golf Club and Masters Tournament Charities continue to find meaningful ways to invest in the future of golf, and their latest donation will be felt for years to come.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/augusta-national-masters-tournament-charities-usga-state-junior-team-program"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1310903556_18d70b7a7f/Getty_Images_1310903556_18d70b7a7f.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Skratch Symphony: Water balls on No. 15 at Cognizant Classic. 🎶</title>
+    <link>https://www.youtube.com/shorts/9tZ_pbx2us0</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/9tZ_pbx2us0</guid>
+    <pubDate>Thu, 26 Feb 2026 16:33:42 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/9tZ_pbx2us0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/9tZ_pbx2us0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/9tZ_pbx2us0" type="text/html" medium="video"/>
+    <yt:videoId>9tZ_pbx2us0</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>&quot;If it&#x27;s that polarizing, and if it&#x27;s that divisive, this is going to be great.&quot;</title>
     <link>https://www.youtube.com/shorts/ICy59d8eiUE</link>
@@ -38,6 +74,17 @@
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Early HSBC Leaderboard is Filled With Rising Forces on The LPGA</title>
+    <link>https://skratch.golf/news/news/hsbc-womens-world-championship-lpga-tour-rising-stars-auston-kim-lindy-duncan-linn-grant</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/hsbc-womens-world-championship-lpga-tour-rising-stars-auston-kim-lindy-duncan-linn-grant</guid>
+    <pubDate>Thu, 26 Feb 2026 14:53:21 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;After round one, the HSBC Women&#x27;s World Championship in Singapore has a stacked leaderboard with names that you probably don&#x27;t know, but should.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/hsbc-womens-world-championship-lpga-tour-rising-stars-auston-kim-lindy-duncan-linn-grant"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263617019_d0132d3932/Getty_Images_2263617019_d0132d3932.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>We have enough -20 winners on TOUR.</title>
@@ -468,17 +515,6 @@ Dan travels all year a&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/wat
     <category>article</category>
   </item>
   <item>
-    <title>She&#x27;s So Back! Michelle Wie West Comes Out of Retirement to Join WTGL</title>
-    <link>https://skratch.golf/news/news/michelle-wie-west-joins-wtgl</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/michelle-wie-west-joins-wtgl</guid>
-    <pubDate>Mon, 23 Feb 2026 17:22:19 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Big Wiezy&#x27;s comeback was not on our 2026 bingo card—and we&#x27;re so here for it!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/michelle-wie-west-joins-wtgl"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_451058970_9ceea2724b/Getty_Images_451058970_9ceea2724b.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Jeeno&#x27;s Home Win Came With Something Extra Special</title>
     <link>https://skratch.golf/news/news/jeeno-thitikul-2026-honday-lpga-thailand-recap</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/jeeno-thitikul-2026-honday-lpga-thailand-recap</guid>
@@ -603,17 +639,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/a0b_JfCRDFg"&gt;
     <category>video</category>
   </item>
   <item>
-    <title>Jon Rahm’s Refusal to Pay DPWT Fines Clouds His Ryder Cup Future</title>
-    <link>https://skratch.golf/news/news/jon-rahm-dp-world-tour-fines-ryder-cup-future-liv-golf</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/jon-rahm-dp-world-tour-fines-ryder-cup-future-liv-golf</guid>
-    <pubDate>Sat, 21 Feb 2026 18:53:05 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Rahm has long maintained he wouldn’t pay the fines—rumored to be in the neighborhood of $3 million—and that position hasn’t wavered.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jon-rahm-dp-world-tour-fines-ryder-cup-future-liv-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2237506364_becb6babd2/Getty_Images_2237506364_becb6babd2.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Rahm BANKS one off the grandstand to set up eagle at the 2023 Genesis Inv.</title>
     <link>https://www.youtube.com/shorts/1G5YxmbewNY</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/1G5YxmbewNY</guid>
@@ -626,17 +651,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/a0b_JfCRDFg"&gt;
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The Fresh PXG Putter Marco Penge Is Using at The Genesis Invitational</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/pxg-genesis-invitational-marco-penge-hotrod</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/pxg-genesis-invitational-marco-penge-hotrod</guid>
-    <pubDate>Sat, 21 Feb 2026 03:06:27 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Armed with a fresh PXG gear contract and a newly released putter, Marco Penge co-leads halfway through the Genesis Invitational.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/pxg-genesis-invitational-marco-penge-hotrod"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2262728658_f2b5253f8b/Getty_Images_2262728658_f2b5253f8b.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>There are NO pictures on the scorecard. 😭</title>
@@ -668,20 +682,6 @@ Subscribe to Skrat&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v
     <media:thumbnail url="https://img.youtube.com/vi/5c7EdBz-Ci0/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/5c7EdBz-Ci0" type="text/html" medium="video"/>
     <yt:videoId>5c7EdBz-Ci0</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Happy birthday to Sir Charles. We promise not club twirls today.</title>
-    <link>https://www.youtube.com/shorts/JzCtoGheekA</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/JzCtoGheekA</guid>
-    <pubDate>Fri, 20 Feb 2026 15:54:08 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/JzCtoGheekA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/JzCtoGheekA/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/JzCtoGheekA" type="text/html" medium="video"/>
-    <yt:videoId>JzCtoGheekA</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
