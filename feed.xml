@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 26 Feb 2026 14:07:07 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Feb 2026 15:11:14 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>James Nicholas On TOUR Golf Vs. YouTube Golf, Korn Ferry Grind &amp; Life At Yale</title>
+    <link>https://www.youtube.com/watch?v=72CSHzK-6sQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=72CSHzK-6sQ</guid>
+    <pubDate>Thu, 26 Feb 2026 15:00:20 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Recent Korn Ferry Tour winner James Nicholas joins the show to discuss his win, the talent level on KFT, YouTube golf &amp; much more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=72CSHzK-6sQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/72CSHzK-6sQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/72CSHzK-6sQ" type="text/html" medium="video"/>
+    <yt:videoId>72CSHzK-6sQ</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>We have enough -20 winners on TOUR.</title>
     <link>https://www.youtube.com/shorts/xu1VkvWGKKs</link>
@@ -168,6 +182,17 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/q48JMeFNM8E"&gt;
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Sausage Golf Boudin Noir: Weird Name, Great Putter</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/sausage-golf-putter-boudin-noir-review</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/sausage-golf-putter-boudin-noir-review</guid>
+    <pubDate>Tue, 24 Feb 2026 22:06:17 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;It may sound like a deli order, but the functionality of this precision-milled putter is something golfers can dive into.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/sausage-golf-putter-boudin-noir-review"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Sausage_golf_noir_title_8e2b6fd4ac/Sausage_golf_noir_title_8e2b6fd4ac.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Report: Tiger Woods Must Decide on Ryder Cup Role Before Augusta</title>
@@ -648,17 +673,6 @@ Subscribe to Skrat&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v
     <category>video</category>
   </item>
   <item>
-    <title>The Drop: Freedom—Not Uniformity—Is Shaping Golf&#x27;s Modern Look</title>
-    <link>https://skratch.golf/style/mens-style/best-golf-style-stories-genesis-week</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/best-golf-style-stories-genesis-week</guid>
-    <pubDate>Fri, 20 Feb 2026 17:23:35 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;This week, we saw the sport&#x27;s hierarchy is finally starting to break apart—here&#x27;s what dropped that exemplifies that.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/best-golf-style-stories-genesis-week"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/The_Drop_1_36bb4615aa/The_Drop_1_36bb4615aa.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Happy birthday to Sir Charles. We promise not club twirls today.</title>
     <link>https://www.youtube.com/shorts/JzCtoGheekA</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/JzCtoGheekA</guid>
@@ -668,27 +682,6 @@ Subscribe to Skrat&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v
     <media:thumbnail url="https://img.youtube.com/vi/JzCtoGheekA/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/JzCtoGheekA" type="text/html" medium="video"/>
     <yt:videoId>JzCtoGheekA</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>16 y/o Tiger GRINDING on the Riv range.</title>
-    <link>https://www.youtube.com/shorts/6LuUJ30IT3s</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/6LuUJ30IT3s</guid>
-    <pubDate>Fri, 20 Feb 2026 15:08:09 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
-
-Check out our website: https://skratch.golf/
-Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/6LuUJ30IT3s"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/6LuUJ30IT3s/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/6LuUJ30IT3s" type="text/html" medium="video"/>
-    <yt:videoId>6LuUJ30IT3s</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
