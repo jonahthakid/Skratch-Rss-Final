@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 26 Feb 2026 01:41:18 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Feb 2026 04:11:11 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>We have enough -20 winners on TOUR.</title>
+    <link>https://www.youtube.com/shorts/xu1VkvWGKKs</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/xu1VkvWGKKs</guid>
+    <pubDate>Thu, 26 Feb 2026 02:23:30 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/xu1VkvWGKKs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/xu1VkvWGKKs/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/xu1VkvWGKKs" type="text/html" medium="video"/>
+    <yt:videoId>xu1VkvWGKKs</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>S2, E15: Bryson &amp; LA Golf Split, TaylorMade CEO David Abeles &amp; KFT Star James Nicholas Join</title>
     <link>https://www.youtube.com/watch?v=sDEJaCfJTO0</link>
@@ -63,20 +77,6 @@
     <media:thumbnail url="https://img.youtube.com/vi/V2vI8m_NViU/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/V2vI8m_NViU" type="text/html" medium="video"/>
     <yt:videoId>V2vI8m_NViU</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Bear trap? More like thirst trap. 🥵</title>
-    <link>https://www.youtube.com/shorts/Bfnd2ja5ESo</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/Bfnd2ja5ESo</guid>
-    <pubDate>Wed, 25 Feb 2026 20:19:33 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Bfnd2ja5ESo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/Bfnd2ja5ESo/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/Bfnd2ja5ESo" type="text/html" medium="video"/>
-    <yt:videoId>Bfnd2ja5ESo</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
@@ -673,15 +673,25 @@ Subscribe to Skrat&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v
     <category>video</category>
   </item>
   <item>
-    <title>Sim Seeking: Explore The Neighborhood-Friendly Five Iron Golf in The Upper East Side</title>
-    <link>https://skratch.golf/news/golf-culture/sim-seeking-five-iron-golf-nyc-indoor-golf-simulators-episode-2</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/sim-seeking-five-iron-golf-nyc-indoor-golf-simulators-episode-2</guid>
-    <pubDate>Fri, 20 Feb 2026 14:29:53 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The search for the best golf simulators in NYC continues. This week I land in the Upper East Side at Five Iron Golf, a true staple in NYC golf culture.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/sim-seeking-five-iron-golf-nyc-indoor-golf-simulators-episode-2"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/five_iron_46b2f6c83b/five_iron_46b2f6c83b.jpeg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
+    <title>16 y/o Tiger GRINDING on the Riv range.</title>
+    <link>https://www.youtube.com/shorts/6LuUJ30IT3s</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/6LuUJ30IT3s</guid>
+    <pubDate>Fri, 20 Feb 2026 15:08:09 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
+
+Check out our website: https://skratch.golf/
+Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/6LuUJ30IT3s"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/6LuUJ30IT3s/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/6LuUJ30IT3s" type="text/html" medium="video"/>
+    <yt:videoId>6LuUJ30IT3s</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
 </channel>
 </rss>
