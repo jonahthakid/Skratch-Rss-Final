@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 27 Feb 2026 21:50:19 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Feb 2026 22:17:41 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Billy Horschel Gets Into It With a Fan at the Cognizant Classic</title>
+    <link>https://skratch.golf/news/news/cognizant-classic-billy-horschel-fan-interaction-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/cognizant-classic-billy-horschel-fan-interaction-pga-tour</guid>
+    <pubDate>Fri, 27 Feb 2026 21:44:50 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Billy Horschel had some words with a fan following a bad shot at the Bear Trap.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/cognizant-classic-billy-horschel-fan-interaction-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263911267_e658f392f1/Getty_Images_2263911267_e658f392f1.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>We are happy to report that the bird is okay!</title>
     <link>https://www.youtube.com/shorts/QcLGObP6_1c</link>
@@ -395,6 +406,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
+    <title>Why Adam Scott’s sponsor lineup feels intentional, not accidental.</title>
+    <link>https://skratch.golf/style/mens-style/adam-scott-sponsorship-roelx-uniqlo-footjoy</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/adam-scott-sponsorship-roelx-uniqlo-footjoy</guid>
+    <pubDate>Wed, 25 Feb 2026 19:39:11 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;Rolex, Uniqlo, and FootJoy tell a bigger story than logos ever could.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/adam-scott-sponsorship-roelx-uniqlo-footjoy"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/AS_Cover_1dac8ed69a/AS_Cover_1dac8ed69a.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Jim Nantz shares the &quot;hello friends&quot; origin story</title>
     <link>https://www.youtube.com/shorts/ucfmjPclX9c</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/ucfmjPclX9c</guid>
@@ -588,17 +610,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/q48JMeFNM8E"&gt;
     <category>article</category>
   </item>
   <item>
-    <title>The LPGA Returns to Singapore for &#x27;Asia&#x27;s Major&#x27;—Here&#x27;s Everything You Need to Know</title>
-    <link>https://skratch.golf/news/news/lpga-tour-2026-hsbc-womens-world-championship-how-to-watch-tee-times-tv-streaming</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-tour-2026-hsbc-womens-world-championship-how-to-watch-tee-times-tv-streaming</guid>
-    <pubDate>Tue, 24 Feb 2026 07:53:35 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Who and how to watch at this week&#x27;s HSBC Women&#x27;s World Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-tour-2026-hsbc-womens-world-championship-how-to-watch-tee-times-tv-streaming"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2202409309_656393a073/Getty_Images_2202409309_656393a073.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>The 10th hole at Riviera: just don&#x27;t hit it right of the hole.</title>
     <link>https://www.youtube.com/shorts/wRtkPNbortw</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/wRtkPNbortw</guid>
@@ -654,17 +665,6 @@ Dan travels all year a&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/wat
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;Although they are a great tool for fine-tuning ball flight and maximizing potential, golf shafts aren&#x27;t a magic bullet to fix your golf swing.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/golf-shafts-gear-smart-podcast-club-fitting"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Graphite_Shafts_2025_0a8fca6789/Graphite_Shafts_2025_0a8fca6789.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>MANORS’ Club Collection Is Cohesion At Its Best</title>
-    <link>https://skratch.golf/style/mens-style/manors-club-collection-golf-style-release</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/manors-club-collection-golf-style-release</guid>
-    <pubDate>Mon, 23 Feb 2026 19:03:12 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Neutral earth tones, repeat prints, and pieces designed to live beyond one season.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/manors-club-collection-golf-style-release"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Manors_Club_Collection_Cover_3111fa81ef/Manors_Club_Collection_Cover_3111fa81ef.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
