@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 27 Feb 2026 18:34:16 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Feb 2026 19:29:09 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Addie’s search for NYC’s best golf sim continues… Today&#x27;s contender: X-Golf in Brooklyn.</title>
+    <link>https://www.youtube.com/shorts/b-PhQoJmlyA</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/b-PhQoJmlyA</guid>
+    <pubDate>Fri, 27 Feb 2026 18:54:43 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/b-PhQoJmlyA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/b-PhQoJmlyA/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/b-PhQoJmlyA" type="text/html" medium="video"/>
+    <yt:videoId>b-PhQoJmlyA</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Every (televised) birdie from Jake Knapp’s 59 at last year’s Cognizant Classic.</title>
     <link>https://www.youtube.com/shorts/urtgE9fRO8c</link>
@@ -545,20 +559,6 @@ Subscribe to Skratch on YouTube and don’t miss&lt;/p&gt;&lt;p&gt;&lt;a href="h
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2259105719_84c66d26c7/Getty_Images_2259105719_84c66d26c7.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Serena following Tiger when the old cell phone policy was in effect 🤣</title>
-    <link>https://www.youtube.com/shorts/XltxS_tBrtQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/XltxS_tBrtQ</guid>
-    <pubDate>Tue, 24 Feb 2026 15:23:59 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/XltxS_tBrtQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/XltxS_tBrtQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/XltxS_tBrtQ" type="text/html" medium="video"/>
-    <yt:videoId>XltxS_tBrtQ</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>The LPGA Returns to Singapore for &#x27;Asia&#x27;s Major&#x27;—Here&#x27;s Everything You Need to Know</title>
