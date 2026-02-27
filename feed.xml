@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 27 Feb 2026 15:33:30 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Feb 2026 16:34:41 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Every (televised) birdie from Jake Knapp’s 59 at last year’s Cognizant Classic.</title>
@@ -24,6 +24,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>After Being Ill and Hospitalized, Charley Hull Sits Four Shots Behind Leader in Singapore</title>
+    <link>https://skratch.golf/news/news/charley-hull-hsbc-womens-world-championship-lpga-tour-illness-recovery</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/charley-hull-hsbc-womens-world-championship-lpga-tour-illness-recovery</guid>
+    <pubDate>Fri, 27 Feb 2026 14:48:26 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;&quot;I shouldn&#x27;t have come here but I really wanted to play.&quot;&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/charley-hull-hsbc-womens-world-championship-lpga-tour-illness-recovery"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263817328_bd480c4e02/Getty_Images_2263817328_bd480c4e02.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Anything to save a precious stroke.</title>
@@ -561,6 +572,17 @@ Subscribe to Skratch on YouTube and don’t miss&lt;/p&gt;&lt;p&gt;&lt;a href="h
     <category>article</category>
   </item>
   <item>
+    <title>Have You Been Paying Attention to Ryan Gerard?</title>
+    <link>https://skratch.golf/news/pro-golf/cognizant-classic-pga-national-best-bets-pick-to-win</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/cognizant-classic-pga-national-best-bets-pick-to-win</guid>
+    <pubDate>Tue, 24 Feb 2026 00:50:30 +0000</pubDate>
+    <dc:creator>Rick Gehman</dc:creator>
+    <description>&lt;p&gt;He&#x27;s got two runner up finishes and a T11 racked up already this year. Here&#x27;s why Rick Gehman thinks he&#x27;s a good bet at PGA National.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/cognizant-classic-pga-national-best-bets-pick-to-win"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2262186831_9529a26647/Getty_Images_2262186831_9529a26647.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Justin Thomas Has Set the Date for His PGA TOUR Return</title>
     <link>https://skratch.golf/news/news/justin-thomas-pga-tour-return-arnold-palmer-invitational-2026</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/justin-thomas-pga-tour-return-arnold-palmer-invitational-2026</guid>
@@ -654,28 +676,6 @@ Dan travels all year a&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/wat
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Florida Swing Preview: Can Rory McIlroy Slip Into the Red Cardigan (Again)?</title>
-    <link>https://skratch.golf/news/pro-golf/pga-tour-florida-swing-preview-predictions-rory-mcilroy-bay-hill</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/pga-tour-florida-swing-preview-predictions-rory-mcilroy-bay-hill</guid>
-    <pubDate>Mon, 23 Feb 2026 17:27:27 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The Florida Swing has arrived—so it&#x27;s only right we make predictions for the PGA TOUR&#x27;s trip around the Sunshine State.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/pga-tour-florida-swing-preview-predictions-rory-mcilroy-bay-hill"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_933764876_5d703a0b2d/Getty_Images_933764876_5d703a0b2d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Jeeno&#x27;s Home Win Came With Something Extra Special</title>
-    <link>https://skratch.golf/news/news/jeeno-thitikul-2026-honday-lpga-thailand-recap</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/jeeno-thitikul-2026-honday-lpga-thailand-recap</guid>
-    <pubDate>Mon, 23 Feb 2026 16:58:33 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;A birthday celebration with a side of history—it was a storybook week in Thailand for the World No. 1.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jeeno-thitikul-2026-honday-lpga-thailand-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Winner_Jeeno_Thitikul_Trophy_Credit_LPGA_Getty_56429f58e6/Winner_Jeeno_Thitikul_Trophy_Credit_LPGA_Getty_56429f58e6.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
