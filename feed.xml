@@ -1,4 +1,3 @@
-<!-- Warning: Error fetching Skratch Articles: 403 Client Error: Forbidden for url: https://www.skratch.golf/rss -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -10,8 +9,30 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 01 Mar 2026 17:18:19 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Mar 2026 17:45:16 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The USGA Is Honoring Tiger Woods With Two Renamed Awards</title>
+    <link>https://skratch.golf/news/news/tiger-woods-usga-awards-us-amateur-us-junior-named</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/tiger-woods-usga-awards-us-amateur-us-junior-named</guid>
+    <pubDate>Sun, 01 Mar 2026 00:15:18 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;It was only a matter of time, and the time is now.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-usga-awards-us-amateur-us-junior-named"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_89683714_4c1ec0f851/Getty_Images_89683714_4c1ec0f851.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Billy Horschel Gets Into It With a Fan at the Cognizant Classic</title>
+    <link>https://skratch.golf/news/news/cognizant-classic-billy-horschel-fan-interaction-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/cognizant-classic-billy-horschel-fan-interaction-pga-tour</guid>
+    <pubDate>Fri, 27 Feb 2026 21:44:50 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Billy Horschel had some words with a fan following a bad shot at the Bear Trap.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/cognizant-classic-billy-horschel-fan-interaction-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263911267_e658f392f1/Getty_Images_2263911267_e658f392f1.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>We are happy to report that the bird is okay!</title>
     <link>https://www.youtube.com/shorts/QcLGObP6_1c</link>
@@ -41,6 +62,28 @@
     <category>video</category>
   </item>
   <item>
+    <title>Brooks Koepka and Max Homa Show Signs of Life at the Cognizant Classic</title>
+    <link>https://skratch.golf/news/news/cognizant-classic-brooks-koepka-max-homa-pga-tour-scores</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/cognizant-classic-brooks-koepka-max-homa-pga-tour-scores</guid>
+    <pubDate>Fri, 27 Feb 2026 18:34:39 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;After slow starts on Thursday, Brooks Koepka and Max Homa fought back with matching 66s heading into the weekend at PGA National.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/cognizant-classic-brooks-koepka-max-homa-pga-tour-scores"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263883752_b8b8a2184f/Getty_Images_2263883752_b8b8a2184f.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Sim Seeking: The Coolest Spot in Town is X-Golf Brooklyn</title>
+    <link>https://skratch.golf/news/golf-culture/sim-seeking-x-golf-brooklyn-nyc-indoor-golf-simulators-episode-3</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/sim-seeking-x-golf-brooklyn-nyc-indoor-golf-simulators-episode-3</guid>
+    <pubDate>Fri, 27 Feb 2026 15:54:47 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Come for the golf, but stay for the cozy and elevated sports bar/cafe vibe. This week I keep it local to my hood at X-Golf in Williamsburg, Brooklyn.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/sim-seeking-x-golf-brooklyn-nyc-indoor-golf-simulators-episode-3"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/X_Golf_Brooklyn_V2_15_361e50a853/X_Golf_Brooklyn_V2_15_361e50a853.jpeg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Every (televised) birdie from Jake Knapp’s 59 at last year’s Cognizant Classic.</title>
     <link>https://www.youtube.com/shorts/urtgE9fRO8c</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/urtgE9fRO8c</guid>
@@ -53,6 +96,28 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>After Being Ill and Hospitalized, Charley Hull Sits Four Shots Behind Leader in Singapore</title>
+    <link>https://skratch.golf/news/news/charley-hull-hsbc-womens-world-championship-lpga-tour-illness-recovery</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/charley-hull-hsbc-womens-world-championship-lpga-tour-illness-recovery</guid>
+    <pubDate>Fri, 27 Feb 2026 14:48:26 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;&quot;I shouldn&#x27;t have come here but I really wanted to play.&quot;&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/charley-hull-hsbc-womens-world-championship-lpga-tour-illness-recovery"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263817328_bd480c4e02/Getty_Images_2263817328_bd480c4e02.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The Key to Unlocking Speed Improving Tempo Might Just Be This Simple</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/gforce-training-aid-to-improve-speed-tempo</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/gforce-training-aid-to-improve-speed-tempo</guid>
+    <pubDate>Fri, 27 Feb 2026 14:17:32 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;The GForce swing trainer has been around long enough to feel like “old news” in a world obsessed with the next breakthrough, but that’s kind of the point&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/gforce-training-aid-to-improve-speed-tempo"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/G_force_training_aid_db585738b9/G_force_training_aid_db585738b9.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Anything to save a precious stroke.</title>
@@ -125,6 +190,28 @@
     <category>video</category>
   </item>
   <item>
+    <title>Ryan Gerard Nails a Bird With a Tee Shot at the Cognizant Classic</title>
+    <link>https://skratch.golf/news/news/Cognizant-classic-ryan-gerard-hit-bird-tee-shot-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/Cognizant-classic-ryan-gerard-hit-bird-tee-shot-pga-tour</guid>
+    <pubDate>Thu, 26 Feb 2026 20:10:49 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Everyone say it together, now: Randy Johnson would be proud.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Cognizant-classic-ryan-gerard-hit-bird-tee-shot-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263736813_36872eb986/Getty_Images_2263736813_36872eb986.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>UNIQLO x JW Anderson Is Country Club Coded</title>
+    <link>https://skratch.golf/style/mens-style/uniqlo-jw-anderson-collaboration-collection-not-for-golf-style</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/uniqlo-jw-anderson-collaboration-collection-not-for-golf-style</guid>
+    <pubDate>Thu, 26 Feb 2026 20:03:08 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;The “Not For Golf” Drop That Works Perfectly for Golf&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/uniqlo-jw-anderson-collaboration-collection-not-for-golf-style"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/JW_Cover_0abf1bf0d4/JW_Cover_0abf1bf0d4.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Crazy what happens when you utilize the fitting tools to dial in your driver.</title>
     <link>https://www.youtube.com/shorts/htvoVujbGC0</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/htvoVujbGC0</guid>
@@ -185,6 +272,28 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
+    <title>Will Zalatoris Withdraws from the Cognizant Classic Before the First Round</title>
+    <link>https://skratch.golf/news/news/cognizant-classic-will-zalatoris-withdraws-pga-tour-pga-national</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/cognizant-classic-will-zalatoris-withdraws-pga-tour-pga-national</guid>
+    <pubDate>Thu, 26 Feb 2026 17:18:15 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Willy Z withdrew from the Cognizant Classic before ever teeing off.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/cognizant-classic-will-zalatoris-withdraws-pga-tour-pga-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2257649708_1a0343aabc/Getty_Images_2257649708_1a0343aabc.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Augusta National Commits $1.5M to Expand State Junior Team Program</title>
+    <link>https://skratch.golf/news/news/augusta-national-masters-tournament-charities-usga-state-junior-team-program</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/augusta-national-masters-tournament-charities-usga-state-junior-team-program</guid>
+    <pubDate>Thu, 26 Feb 2026 16:54:55 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Augusta National Golf Club and Masters Tournament Charities continue to find meaningful ways to invest in the future of golf, and their latest donation will be felt for years to come.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/augusta-national-masters-tournament-charities-usga-state-junior-team-program"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1310903556_18d70b7a7f/Getty_Images_1310903556_18d70b7a7f.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Skratch Symphony: Water balls on No. 15 at Cognizant Classic. 🎶</title>
     <link>https://www.youtube.com/shorts/9tZ_pbx2us0</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/9tZ_pbx2us0</guid>
@@ -225,6 +334,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Early HSBC Leaderboard is Filled With Rising Forces on The LPGA</title>
+    <link>https://skratch.golf/news/news/hsbc-womens-world-championship-lpga-tour-rising-stars-auston-kim-lindy-duncan-linn-grant</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/hsbc-womens-world-championship-lpga-tour-rising-stars-auston-kim-lindy-duncan-linn-grant</guid>
+    <pubDate>Thu, 26 Feb 2026 14:53:21 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;After round one, the HSBC Women&#x27;s World Championship in Singapore has a stacked leaderboard with names that you probably don&#x27;t know, but should.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/hsbc-womens-world-championship-lpga-tour-rising-stars-auston-kim-lindy-duncan-linn-grant"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263617019_d0132d3932/Getty_Images_2263617019_d0132d3932.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>We have enough -20 winners on TOUR.</title>
@@ -297,6 +417,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
+    <title>Why Adam Scott’s sponsor lineup feels intentional, not accidental.</title>
+    <link>https://skratch.golf/style/mens-style/adam-scott-sponsorship-roelx-uniqlo-footjoy</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/adam-scott-sponsorship-roelx-uniqlo-footjoy</guid>
+    <pubDate>Wed, 25 Feb 2026 19:39:11 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;Rolex, Uniqlo, and FootJoy tell a bigger story than logos ever could.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/adam-scott-sponsorship-roelx-uniqlo-footjoy"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/AS_Cover_1dac8ed69a/AS_Cover_1dac8ed69a.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Jim Nantz shares the &quot;hello friends&quot; origin story</title>
     <link>https://www.youtube.com/shorts/ucfmjPclX9c</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/ucfmjPclX9c</guid>
@@ -315,6 +446,39 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Jim Furyk is Joining Golf Channel as a Lead Analyst During the Florida Swing</title>
+    <link>https://skratch.golf/news/news/jim-furyk-golf-channel-lead-analyst-pga-tour-florida-swing</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/jim-furyk-golf-channel-lead-analyst-pga-tour-florida-swing</guid>
+    <pubDate>Wed, 25 Feb 2026 16:35:36 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Golf Channel continues to add legends to its broadcast team for the Florida Swing.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jim-furyk-golf-channel-lead-analyst-pga-tour-florida-swing"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2252880530_922dab1315/Getty_Images_2252880530_922dab1315.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Did Justin Thomas Just Hit the Apparel Market?</title>
+    <link>https://skratch.golf/style/mens-style/justin-thomas-apparel-sponsor-lululemon-greyson-tgl</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/justin-thomas-apparel-sponsor-lululemon-greyson-tgl</guid>
+    <pubDate>Wed, 25 Feb 2026 16:03:15 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;Justin Thomas might be the biggest name on the apparel board&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/justin-thomas-apparel-sponsor-lululemon-greyson-tgl"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/JT_C_Over_0fc4aef659/JT_C_Over_0fc4aef659.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>My First Time at TGL Was Everything I Wanted and More</title>
+    <link>https://skratch.golf/news/golf-culture/addies-baddies-tgl-first-time-season-2-ludvig-aberg-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/addies-baddies-tgl-first-time-season-2-ludvig-aberg-pga-tour</guid>
+    <pubDate>Wed, 25 Feb 2026 15:06:38 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;A double header full of Baddies? Sign me up.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/addies-baddies-tgl-first-time-season-2-ludvig-aberg-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Addies_Baddies_Ludvig_Header_fbf51c9a36/Addies_Baddies_Ludvig_Header_fbf51c9a36.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Celebrating Hideki’s birthday by HATING all of our good shots today. 😭</title>
@@ -338,6 +502,28 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/q48JMeFNM8E"&gt;
     <category>video</category>
   </item>
   <item>
+    <title>Bench Tested: How to Dial in Your Cobra OTPM Driver</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/bench-tested-cobra-optm-driver-dialed</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/bench-tested-cobra-optm-driver-dialed</guid>
+    <pubDate>Wed, 25 Feb 2026 14:18:32 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;On this episode of Bench Tested, we look at Cobra&#x27;s OPTM Driver series and how the right model and fitting tools can help you maximize performance.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/bench-tested-cobra-optm-driver-dialed"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/OPTM_driver_screw_375ccacc06/OPTM_driver_screw_375ccacc06.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Every Jeeno Thitikul Press Conference is Proof of Her Mic&#x27;d Up Abilities</title>
+    <link>https://skratch.golf/news/news/jeeno-thitikul-lpga-tour-hsbc-womens-world-championship-wtgl-micd-up-moments</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/jeeno-thitikul-lpga-tour-hsbc-womens-world-championship-wtgl-micd-up-moments</guid>
+    <pubDate>Wed, 25 Feb 2026 14:02:39 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The World No. 1 is set to join an elite line up of players for the inaugural season of WTGL.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jeeno-thitikul-lpga-tour-hsbc-womens-world-championship-wtgl-micd-up-moments"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263236129_b2b36f4c33/Getty_Images_2263236129_b2b36f4c33.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>How&#x27;d Dan do?</title>
     <link>https://www.youtube.com/shorts/ZDMZqD7tSpM</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/ZDMZqD7tSpM</guid>
@@ -350,6 +536,39 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/q48JMeFNM8E"&gt;
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Sausage Golf Boudin Noir: Weird Name, Great Putter</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/sausage-golf-putter-boudin-noir-review</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/sausage-golf-putter-boudin-noir-review</guid>
+    <pubDate>Tue, 24 Feb 2026 22:06:17 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;It may sound like a deli order, but the functionality of this precision-milled putter is something golfers can dive into.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/sausage-golf-putter-boudin-noir-review"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Sausage_golf_noir_title_8e2b6fd4ac/Sausage_golf_noir_title_8e2b6fd4ac.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Report: Tiger Woods Must Decide on Ryder Cup Role Before Augusta</title>
+    <link>https://skratch.golf/news/news/tiger-woods-ryder-cup-captain-2027-decision-before-masters</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/tiger-woods-ryder-cup-captain-2027-decision-before-masters</guid>
+    <pubDate>Tue, 24 Feb 2026 22:02:21 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;It sounds like we&#x27;ll have Tiger Woods&#x27; Ryder Cup captaincy decision sooner rather than later.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-ryder-cup-captain-2027-decision-before-masters"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263044105_cf9e642036/Getty_Images_2263044105_cf9e642036.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Students Golf Doesn’t Do Cookie Cutter</title>
+    <link>https://skratch.golf/style/mens-style/students-golf-spring-collection-apparel-layering-in-full-swing</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/students-golf-spring-collection-apparel-layering-in-full-swing</guid>
+    <pubDate>Tue, 24 Feb 2026 18:47:55 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;Spring 2026 Delivery 1 is color, graphics, and personal expression in motion.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/students-golf-spring-collection-apparel-layering-in-full-swing"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/in_Full_Swing_Students_Cover_f545220a1d/in_Full_Swing_Students_Cover_f545220a1d.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>This Rule In Golf NEEDS A Change</title>
@@ -366,6 +585,17 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/q48JMeFNM8E"&gt;
     <category>video</category>
   </item>
   <item>
+    <title>On Tap: The Cognizant Classic in The Palm Beaches</title>
+    <link>https://skratch.golf/news/pro-golf/cognizant-classic-2026-how-to-watch-pga-tour-tee-times</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/cognizant-classic-2026-how-to-watch-pga-tour-tee-times</guid>
+    <pubDate>Tue, 24 Feb 2026 17:47:10 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;If you’re planning on watching the Cognizant Classic this week, here’s all the information you need to know.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/cognizant-classic-2026-how-to-watch-pga-tour-tee-times"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Cognizant_Getty_Images_2041443878_349bf21f96/Cognizant_Getty_Images_2041443878_349bf21f96.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>We owe you an apology, Jacob. We weren’t really familiar with your game. @manorsgolf</title>
     <link>https://www.youtube.com/shorts/e-M1pQaHHpo</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/e-M1pQaHHpo</guid>
@@ -378,6 +608,17 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/q48JMeFNM8E"&gt;
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Justin Thomas Has Set the Date for His PGA TOUR Return</title>
+    <link>https://skratch.golf/news/news/justin-thomas-pga-tour-return-arnold-palmer-invitational-2026</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/justin-thomas-pga-tour-return-arnold-palmer-invitational-2026</guid>
+    <pubDate>Tue, 24 Feb 2026 00:42:49 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Thomas has been out since November, but he&#x27;s coming back as the TOUR returns to the King’s Place.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/justin-thomas-pga-tour-return-arnold-palmer-invitational-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_02_23_at_4_53_24_PM_5b5e8ae950/Screenshot_2026_02_23_at_4_53_24_PM_5b5e8ae950.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>The 10th hole at Riviera: just don&#x27;t hit it right of the hole.</title>
@@ -423,34 +664,6 @@ Dan travels all year a&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/wat
     <media:thumbnail url="https://img.youtube.com/vi/jfLQTFmAJJw/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/jfLQTFmAJJw" type="text/html" medium="video"/>
     <yt:videoId>jfLQTFmAJJw</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>“A 20-footer, two putt—that seemed like the hardest thing in the world.&quot;</title>
-    <link>https://www.youtube.com/shorts/HbKOFddoFp4</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/HbKOFddoFp4</guid>
-    <pubDate>Mon, 23 Feb 2026 18:09:51 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/HbKOFddoFp4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/HbKOFddoFp4/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/HbKOFddoFp4" type="text/html" medium="video"/>
-    <yt:videoId>HbKOFddoFp4</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>He made it tough on himself at the end, but Jacob Bridgeman is a PGA TOUR winner 🏆</title>
-    <link>https://www.youtube.com/shorts/n97F3_3opoM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/n97F3_3opoM</guid>
-    <pubDate>Sun, 22 Feb 2026 23:39:34 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/n97F3_3opoM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/n97F3_3opoM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/n97F3_3opoM" type="text/html" medium="video"/>
-    <yt:videoId>n97F3_3opoM</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
