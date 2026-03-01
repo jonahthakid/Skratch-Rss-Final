@@ -9,8 +9,36 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 01 Mar 2026 22:47:31 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Mar 2026 23:18:11 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Lowry DESPERATE For A Win! Joel Dahmen Top 10 Watch! | Cognizant Classic LIVE Watch Along</title>
+    <link>https://www.youtube.com/watch?v=CCzQodMoldU</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=CCzQodMoldU</guid>
+    <pubDate>Sun, 01 Mar 2026 23:15:02 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Follow the final round action with Dan Rapaport as the final groups compete for the Cognizant Classic at PGA National in Florida.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=CCzQodMoldU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/CCzQodMoldU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/CCzQodMoldU" type="text/html" medium="video"/>
+    <yt:videoId>CCzQodMoldU</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Tough to watch. Shane Lowry went from a 3-shot lead to a two-shot loss.</title>
+    <link>https://www.youtube.com/shorts/aBJih8qzLpM</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/aBJih8qzLpM</guid>
+    <pubDate>Sun, 01 Mar 2026 23:14:32 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/aBJih8qzLpM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/aBJih8qzLpM/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/aBJih8qzLpM" type="text/html" medium="video"/>
+    <yt:videoId>aBJih8qzLpM</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Here comes Shane Lowry 🇮🇪</title>
     <link>https://www.youtube.com/shorts/yuXJdAdcZVc</link>
@@ -21,20 +49,6 @@
     <media:thumbnail url="https://img.youtube.com/vi/yuXJdAdcZVc/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/yuXJdAdcZVc" type="text/html" medium="video"/>
     <yt:videoId>yuXJdAdcZVc</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Lowry DESPERATE For A Win! Joel Dahmen Top 10 Watch! | Cognizant Classic LIVE Watch Along</title>
-    <link>https://www.youtube.com/watch?v=CCzQodMoldU</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=CCzQodMoldU</guid>
-    <pubDate>Sun, 01 Mar 2026 20:42:54 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Follow the final round action with Dan Rapaport as the final groups compete for the Cognizant Classic at PGA National in Florida.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=CCzQodMoldU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/CCzQodMoldU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/CCzQodMoldU" type="text/html" medium="video"/>
-    <yt:videoId>CCzQodMoldU</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
@@ -647,20 +661,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/q48JMeFNM8E"&gt;
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_02_23_at_4_53_24_PM_5b5e8ae950/Screenshot_2026_02_23_at_4_53_24_PM_5b5e8ae950.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>The 10th hole at Riviera: just don&#x27;t hit it right of the hole.</title>
-    <link>https://www.youtube.com/shorts/wRtkPNbortw</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/wRtkPNbortw</guid>
-    <pubDate>Mon, 23 Feb 2026 23:17:01 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/wRtkPNbortw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/wRtkPNbortw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/wRtkPNbortw" type="text/html" medium="video"/>
-    <yt:videoId>wRtkPNbortw</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
 </channel>
 </rss>
