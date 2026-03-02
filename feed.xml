@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 02 Mar 2026 20:30:30 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Mar 2026 21:27:21 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Brandel Chamblee Has an Idea for the Next American Ryder Cup Captain. It&#x27;s Not Tiger.</title>
+    <link>https://skratch.golf/news/news/tiger-woods-ryder-cup-captain-brandel-chamblee-justin-leonard-team-usa</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/tiger-woods-ryder-cup-captain-brandel-chamblee-justin-leonard-team-usa</guid>
+    <pubDate>Mon, 02 Mar 2026 20:55:28 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Timing is everything. In the case of Team USA, Brandel Chamblee says Tiger Woods should wait to captain the Americans and instead turn to the hero of Brookline.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-ryder-cup-captain-brandel-chamblee-justin-leonard-team-usa"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2190711957_d59dfe0751/Getty_Images_2190711957_d59dfe0751.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>GREEN-GRIPPING Golf Ball | 2026 Callaway Chrome Tour Bench Test &amp; Review</title>
     <link>https://www.youtube.com/watch?v=suHDYZwmjHs</link>
@@ -568,17 +579,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Raymond Williams</dc:creator>
     <description>&lt;p&gt;Rolex, Uniqlo, and FootJoy tell a bigger story than logos ever could.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/adam-scott-sponsorship-roelx-uniqlo-footjoy"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/AS_Cover_1dac8ed69a/AS_Cover_1dac8ed69a.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Jim Furyk is Joining Golf Channel as a Lead Analyst During the Florida Swing</title>
-    <link>https://skratch.golf/news/news/jim-furyk-golf-channel-lead-analyst-pga-tour-florida-swing</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/jim-furyk-golf-channel-lead-analyst-pga-tour-florida-swing</guid>
-    <pubDate>Wed, 25 Feb 2026 16:35:36 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Golf Channel continues to add legends to its broadcast team for the Florida Swing.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jim-furyk-golf-channel-lead-analyst-pga-tour-florida-swing"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2252880530_922dab1315/Getty_Images_2252880530_922dab1315.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
