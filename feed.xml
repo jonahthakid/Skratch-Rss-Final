@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 02 Mar 2026 15:36:33 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Mar 2026 16:37:46 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The REAL DOD King. 👑</title>
+    <link>https://www.youtube.com/shorts/F8dDiezvXXw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/F8dDiezvXXw</guid>
+    <pubDate>Mon, 02 Mar 2026 16:05:58 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/F8dDiezvXXw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/F8dDiezvXXw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/F8dDiezvXXw" type="text/html" medium="video"/>
+    <yt:videoId>F8dDiezvXXw</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Jason Kelce Put Spikes on Timberlands</title>
+    <link>https://skratch.golf/style/mens-style/jason-kelce-golf-shoes-spikes-timberlands-boots</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/jason-kelce-golf-shoes-spikes-timberlands-boots</guid>
+    <pubDate>Mon, 02 Mar 2026 15:22:16 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;This is what happens when an All-Pro lineman decides golf shoes aren’t built for him.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/jason-kelce-golf-shoes-spikes-timberlands-boots"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/maxresdefault_665086b60f/maxresdefault_665086b60f.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Lowry DESPERATE For A Win! Joel Dahmen Top 10 Watch! | Cognizant Classic LIVE Watch Along</title>
     <link>https://www.youtube.com/watch?v=CCzQodMoldU</link>
@@ -523,27 +548,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>Celebrating Hideki’s birthday by HATING all of our good shots today. 😭</title>
-    <link>https://www.youtube.com/shorts/q48JMeFNM8E</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/q48JMeFNM8E</guid>
-    <pubDate>Wed, 25 Feb 2026 14:49:51 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
-
-Check out our website: https://skratch.golf/
-Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/q48JMeFNM8E"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/q48JMeFNM8E/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/q48JMeFNM8E" type="text/html" medium="video"/>
-    <yt:videoId>q48JMeFNM8E</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Bench Tested: How to Dial in Your Cobra OTPM Driver</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/bench-tested-cobra-optm-driver-dialed</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/bench-tested-cobra-optm-driver-dialed</guid>
@@ -598,17 +602,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/q48JMeFNM8E"&gt;
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;It sounds like we&#x27;ll have Tiger Woods&#x27; Ryder Cup captaincy decision sooner rather than later.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-ryder-cup-captain-2027-decision-before-masters"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263044105_cf9e642036/Getty_Images_2263044105_cf9e642036.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>&quot;Hello, Friends&quot; Is More Than a Greeting for Jim Nantz</title>
-    <link>https://skratch.golf/news/news/Jim-nantz-interview-hello-friends-vanity-index-podcast-chad-mumm</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/Jim-nantz-interview-hello-friends-vanity-index-podcast-chad-mumm</guid>
-    <pubDate>Tue, 24 Feb 2026 18:52:35 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Behind one of sports television’s most famous phrases is a story rooted in love and family.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Jim-nantz-interview-hello-friends-vanity-index-podcast-chad-mumm"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/IMG_2648_3da379d14e/IMG_2648_3da379d14e.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
