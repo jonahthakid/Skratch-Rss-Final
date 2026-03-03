@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 03 Mar 2026 18:39:41 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Mar 2026 19:37:23 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>If MEAT PIES aren&#x27;t in your New Zealand golf trip budget, then you&#x27;re doing it wrong.</title>
@@ -96,6 +96,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Epson Tour Secures Multi-Year Deal to Boost Championship Prize Fund and Player Earnings</title>
+    <link>https://skratch.golf/news/news/epson-tour-new-deal-explained-lpga-qualifying-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/epson-tour-new-deal-explained-lpga-qualifying-tour</guid>
+    <pubDate>Tue, 03 Mar 2026 14:25:31 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The elevated changes coming to the LPGA&#x27;s official qualifying tour, explained.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/epson-tour-new-deal-explained-lpga-qualifying-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1719877278_bbaa870f67/Getty_Images_1719877278_bbaa870f67.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>&quot;I don&#x27;t know why we&#x27;re hard and fast set on four major championships&quot;</title>
@@ -257,6 +268,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
+    <title>On Tap: Arnold Palmer Invitational at Bay Hill</title>
+    <link>https://skratch.golf/news/news/arnold-palmer-invitational-how-to-watch-pga-tour-tee-times-bay-hill</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/arnold-palmer-invitational-how-to-watch-pga-tour-tee-times-bay-hill</guid>
+    <pubDate>Mon, 02 Mar 2026 17:51:32 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Here&#x27;s all the information you need to know before the action gets underway at The King&#x27;s Place.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/arnold-palmer-invitational-how-to-watch-pga-tour-tee-times-bay-hill"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2204208043_4a844299f6/Getty_Images_2204208043_4a844299f6.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Another Sunday Sting—Another Shot at Bay Hill</title>
     <link>https://skratch.golf/news/news/shane-lowry-cognizant-classic-blown-lead-redemption-arnold-palmer-invitational</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/shane-lowry-cognizant-classic-blown-lead-redemption-arnold-palmer-invitational</guid>
@@ -357,17 +379,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>Billy Horschel Gets Into It With a Fan at the Cognizant Classic</title>
-    <link>https://skratch.golf/news/news/cognizant-classic-billy-horschel-fan-interaction-pga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/cognizant-classic-billy-horschel-fan-interaction-pga-tour</guid>
-    <pubDate>Fri, 27 Feb 2026 21:44:50 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Billy Horschel had some words with a fan following a bad shot at the Bear Trap.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/cognizant-classic-billy-horschel-fan-interaction-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263911267_e658f392f1/Getty_Images_2263911267_e658f392f1.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>We are happy to report that the bird is okay!</title>
     <link>https://www.youtube.com/shorts/QcLGObP6_1c</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/QcLGObP6_1c</guid>
@@ -394,17 +405,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Brooks Koepka and Max Homa Show Signs of Life at the Cognizant Classic</title>
-    <link>https://skratch.golf/news/news/cognizant-classic-brooks-koepka-max-homa-pga-tour-scores</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/cognizant-classic-brooks-koepka-max-homa-pga-tour-scores</guid>
-    <pubDate>Fri, 27 Feb 2026 18:34:39 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;After slow starts on Thursday, Brooks Koepka and Max Homa fought back with matching 66s heading into the weekend at PGA National.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/cognizant-classic-brooks-koepka-max-homa-pga-tour-scores"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263883752_b8b8a2184f/Getty_Images_2263883752_b8b8a2184f.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Sim Seeking: The Coolest Spot in Town is X-Golf Brooklyn</title>
@@ -594,17 +594,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>Early HSBC Leaderboard is Filled With Rising Forces on The LPGA</title>
-    <link>https://skratch.golf/news/news/hsbc-womens-world-championship-lpga-tour-rising-stars-auston-kim-lindy-duncan-linn-grant</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/hsbc-womens-world-championship-lpga-tour-rising-stars-auston-kim-lindy-duncan-linn-grant</guid>
-    <pubDate>Thu, 26 Feb 2026 14:53:21 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;After round one, the HSBC Women&#x27;s World Championship in Singapore has a stacked leaderboard with names that you probably don&#x27;t know, but should.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/hsbc-womens-world-championship-lpga-tour-rising-stars-auston-kim-lindy-duncan-linn-grant"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263617019_d0132d3932/Getty_Images_2263617019_d0132d3932.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>We have enough -20 winners on TOUR.</title>
     <link>https://www.youtube.com/shorts/xu1VkvWGKKs</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/xu1VkvWGKKs</guid>
@@ -665,6 +654,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;A double header full of Baddies? Sign me up.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/addies-baddies-tgl-first-time-season-2-ludvig-aberg-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Addies_Baddies_Ludvig_Header_fbf51c9a36/Addies_Baddies_Ludvig_Header_fbf51c9a36.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Cobra Launches Arnold Palmer-Inspired OPTM X Driver</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/arnold-palmer-cobra-optm-x-driver</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/arnold-palmer-cobra-optm-x-driver</guid>
+    <pubDate>Mon, 23 Feb 2026 15:20:45 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;With a deep navy finish and gold umbrella detailing, Cobra’s limited-edition OPTM X driver nods to Arnold Palmer’s signature flash, style, and power.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/arnold-palmer-cobra-optm-x-driver"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Palmer_Cobra_OPTM_X_bb4cd2678a/Palmer_Cobra_OPTM_X_bb4cd2678a.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
