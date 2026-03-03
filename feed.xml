@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 03 Mar 2026 16:39:35 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Mar 2026 17:38:47 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>RIDICULOUS Rory McIlroy par save at TGL 😵‍💫</title>
+    <link>https://www.youtube.com/shorts/B3I22M11Q8Y</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/B3I22M11Q8Y</guid>
+    <pubDate>Tue, 03 Mar 2026 17:09:31 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Rory McIlroy reminding us that he&#x27;s human, and then quickly re-reminding us that he&#x27;s actually not. Enjoy one of the nastiest hook shots and par saves we&#x27;ve seen in TGL.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/B3I22M11Q8Y"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/B3I22M11Q8Y/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/B3I22M11Q8Y" type="text/html" medium="video"/>
+    <yt:videoId>B3I22M11Q8Y</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Jon Rahm Accuses DP World Tour of ‘Extorting’ Players</title>
+    <link>https://skratch.golf/news/news/jon-rahm-dp-world-tour-extorting-players-lower-requirements-liv-golf</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/jon-rahm-dp-world-tour-extorting-players-lower-requirements-liv-golf</guid>
+    <pubDate>Tue, 03 Mar 2026 16:53:33 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;“I’d sign tonight.” Jon Rahm says one change would end his standoff with the DP World Tour.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jon-rahm-dp-world-tour-extorting-players-lower-requirements-liv-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2264472707_1aa06ed052/Getty_Images_2264472707_1aa06ed052.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Even FOOD POISONING couldn’t stop prime Tiger Woods.</title>
     <link>https://www.youtube.com/shorts/4SrUcZeIaks</link>
@@ -520,31 +545,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:videoId>5of8y5SCLP4</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Augusta National Commits $1.5M to Expand State Junior Team Program</title>
-    <link>https://skratch.golf/news/news/augusta-national-masters-tournament-charities-usga-state-junior-team-program</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/augusta-national-masters-tournament-charities-usga-state-junior-team-program</guid>
-    <pubDate>Thu, 26 Feb 2026 16:54:55 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Augusta National Golf Club and Masters Tournament Charities continue to find meaningful ways to invest in the future of golf, and their latest donation will be felt for years to come.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/augusta-national-masters-tournament-charities-usga-state-junior-team-program"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1310903556_18d70b7a7f/Getty_Images_1310903556_18d70b7a7f.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Skratch Symphony: Water balls on No. 15 at Cognizant Classic. 🎶</title>
-    <link>https://www.youtube.com/shorts/9tZ_pbx2us0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/9tZ_pbx2us0</guid>
-    <pubDate>Thu, 26 Feb 2026 16:33:42 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/9tZ_pbx2us0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/9tZ_pbx2us0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/9tZ_pbx2us0" type="text/html" medium="video"/>
-    <yt:videoId>9tZ_pbx2us0</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
     <category>video</category>
   </item>
   <item>
