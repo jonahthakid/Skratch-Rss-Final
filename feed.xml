@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 02 Mar 2026 23:48:14 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Mar 2026 01:44:46 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Investigative reporter golfballwackerguy out here solving mysteries on Reddit 👏</title>
+    <link>https://www.youtube.com/shorts/P-AZmqvtuJs</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/P-AZmqvtuJs</guid>
+    <pubDate>Tue, 03 Mar 2026 00:56:19 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/P-AZmqvtuJs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/P-AZmqvtuJs/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/P-AZmqvtuJs" type="text/html" medium="video"/>
+    <yt:videoId>P-AZmqvtuJs</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>The Queen of England, Arnold Palmer and Jim Nantz walk into the White House...</title>
     <link>https://www.youtube.com/shorts/dgTI-5mWbGk</link>
@@ -142,6 +156,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Raymond Williams</dc:creator>
     <description>&lt;p&gt;This is what happens when an All-Pro lineman decides golf shoes aren’t built for him.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/jason-kelce-golf-shoes-spikes-timberlands-boots"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/maxresdefault_665086b60f/maxresdefault_665086b60f.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The LPGA’s Depth Was on Full Display in Singapore</title>
+    <link>https://skratch.golf/news/news/hannah-green-lpga-tour-hsbc-womens-world-championship-rising-stars-recap</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/hannah-green-lpga-tour-hsbc-womens-world-championship-rising-stars-recap</guid>
+    <pubDate>Mon, 02 Mar 2026 14:31:42 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Two-time HSBC champion, Hannah Green, got it done again—but not before a wave of young talent made it clear the LPGA’s next era is here.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/hannah-green-lpga-tour-hsbc-womens-world-championship-rising-stars-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2264314127_0fa5849645/Getty_Images_2264314127_0fa5849645.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -612,17 +637,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>Every Jeeno Thitikul Press Conference is Proof of Her Mic&#x27;d Up Abilities</title>
-    <link>https://skratch.golf/news/news/jeeno-thitikul-lpga-tour-hsbc-womens-world-championship-wtgl-micd-up-moments</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/jeeno-thitikul-lpga-tour-hsbc-womens-world-championship-wtgl-micd-up-moments</guid>
-    <pubDate>Wed, 25 Feb 2026 14:02:39 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The World No. 1 is set to join an elite line up of players for the inaugural season of WTGL.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jeeno-thitikul-lpga-tour-hsbc-womens-world-championship-wtgl-micd-up-moments"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263236129_b2b36f4c33/Getty_Images_2263236129_b2b36f4c33.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>How&#x27;d Dan do?</title>
     <link>https://www.youtube.com/shorts/ZDMZqD7tSpM</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/ZDMZqD7tSpM</guid>
@@ -655,17 +669,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;It sounds like we&#x27;ll have Tiger Woods&#x27; Ryder Cup captaincy decision sooner rather than later.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-ryder-cup-captain-2027-decision-before-masters"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263044105_cf9e642036/Getty_Images_2263044105_cf9e642036.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Students Golf Doesn’t Do Cookie Cutter</title>
-    <link>https://skratch.golf/style/mens-style/students-golf-spring-collection-apparel-layering-in-full-swing</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/students-golf-spring-collection-apparel-layering-in-full-swing</guid>
-    <pubDate>Tue, 24 Feb 2026 18:47:55 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Spring 2026 Delivery 1 is color, graphics, and personal expression in motion.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/students-golf-spring-collection-apparel-layering-in-full-swing"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/in_Full_Swing_Students_Cover_f545220a1d/in_Full_Swing_Students_Cover_f545220a1d.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
