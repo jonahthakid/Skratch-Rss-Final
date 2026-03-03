@@ -9,8 +9,44 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 03 Mar 2026 17:38:47 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Mar 2026 18:39:41 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>If MEAT PIES aren&#x27;t in your New Zealand golf trip budget, then you&#x27;re doing it wrong.</title>
+    <link>https://www.youtube.com/shorts/vBQjbDGridk</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/vBQjbDGridk</guid>
+    <pubDate>Tue, 03 Mar 2026 18:11:12 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;The Working Holiday crew break down the cost of their unreal golf trip to the North Island. 🤑 Watch the full episode now, and stay tuned for an all new episode on the South Island tomorrow!&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/vBQjbDGridk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/vBQjbDGridk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/vBQjbDGridk" type="text/html" medium="video"/>
+    <yt:videoId>vBQjbDGridk</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>This New York Yankee Made a Hole-in-One on a Par 4—With a Range Ball</title>
+    <link>https://skratch.golf/news/news/jazz-chisholm-hole-in-one-new-york-yankees</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/jazz-chisholm-hole-in-one-new-york-yankees</guid>
+    <pubDate>Tue, 03 Mar 2026 18:03:37 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;There&#x27;s no way you can frame a range ball, right?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jazz-chisholm-hole-in-one-new-york-yankees"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263188810_e499df1dff/Getty_Images_2263188810_e499df1dff.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Chris Gotterup’s Week Off Included a Practice Round at Augusta</title>
+    <link>https://skratch.golf/news/news/chris-gotterup-augusta-national-trip-family-arnold-palmer-invitational-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/chris-gotterup-augusta-national-trip-family-arnold-palmer-invitational-pga-tour</guid>
+    <pubDate>Tue, 03 Mar 2026 17:49:14 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Chris Gotterup’s “week off” included a practice round at Augusta National. Here’s what surprised him most.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/chris-gotterup-augusta-national-trip-family-arnold-palmer-invitational-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2261658356_4c6c347a87/Getty_Images_2261658356_4c6c347a87.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>RIDICULOUS Rory McIlroy par save at TGL 😵‍💫</title>
     <link>https://www.youtube.com/shorts/B3I22M11Q8Y</link>
@@ -33,6 +69,17 @@
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;“I’d sign tonight.” Jon Rahm says one change would end his standoff with the DP World Tour.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jon-rahm-dp-world-tour-extorting-players-lower-requirements-liv-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2264472707_1aa06ed052/Getty_Images_2264472707_1aa06ed052.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Three LPGA Rookies Look to Make a Splash in China</title>
+    <link>https://skratch.golf/news/news/blue-bay-lpga-2026-rookies-how-to-watch-tee-times-tv-streaming</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/blue-bay-lpga-2026-rookies-how-to-watch-tee-times-tv-streaming</guid>
+    <pubDate>Tue, 03 Mar 2026 15:36:22 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Rounding out the first Asia Swing is the Blue Bay LPGA in China. Here&#x27;s what you need to know.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/blue-bay-lpga-2026-rookies-how-to-watch-tee-times-tv-streaming"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2203538569_f4e1d9123d/Getty_Images_2203538569_f4e1d9123d.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -477,17 +524,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>Ryan Gerard Nails a Bird With a Tee Shot at the Cognizant Classic</title>
-    <link>https://skratch.golf/news/news/Cognizant-classic-ryan-gerard-hit-bird-tee-shot-pga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/Cognizant-classic-ryan-gerard-hit-bird-tee-shot-pga-tour</guid>
-    <pubDate>Thu, 26 Feb 2026 20:10:49 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Everyone say it together, now: Randy Johnson would be proud.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Cognizant-classic-ryan-gerard-hit-bird-tee-shot-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263736813_36872eb986/Getty_Images_2263736813_36872eb986.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Crazy what happens when you utilize the fitting tools to dial in your driver.</title>
     <link>https://www.youtube.com/shorts/htvoVujbGC0</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/htvoVujbGC0</guid>
@@ -511,24 +547,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://img.youtube.com/vi/yf_3a98QoNs/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/yf_3a98QoNs" type="text/html" medium="video"/>
     <yt:videoId>yf_3a98QoNs</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Optimizing the NEW Cobra OPTM Driver Line with FutureFit33 | Bench Tested</title>
-    <link>https://www.youtube.com/watch?v=kfLSvLjAiwE</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=kfLSvLjAiwE</guid>
-    <pubDate>Thu, 26 Feb 2026 18:29:42 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Ryan Barath checks out the newest OPTM Driver line from Cobra and finds his perfect fit utilizing their FutureFit33 technology. Presented by @cobragolf.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore th&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=kfLSvLjAiwE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/kfLSvLjAiwE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/kfLSvLjAiwE" type="text/html" medium="video"/>
-    <yt:videoId>kfLSvLjAiwE</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
@@ -647,28 +665,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;A double header full of Baddies? Sign me up.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/addies-baddies-tgl-first-time-season-2-ludvig-aberg-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Addies_Baddies_Ludvig_Header_fbf51c9a36/Addies_Baddies_Ludvig_Header_fbf51c9a36.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Sausage Golf Boudin Noir: Weird Name, Great Putter</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/sausage-golf-putter-boudin-noir-review</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/sausage-golf-putter-boudin-noir-review</guid>
-    <pubDate>Tue, 24 Feb 2026 22:06:17 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;It may sound like a deli order, but the functionality of this precision-milled putter is something golfers can dive into.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/sausage-golf-putter-boudin-noir-review"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Sausage_golf_noir_title_8e2b6fd4ac/Sausage_golf_noir_title_8e2b6fd4ac.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Students Golf Doesn’t Do Cookie Cutter</title>
-    <link>https://skratch.golf/style/mens-style/students-golf-spring-collection-apparel-layering-in-full-swing</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/students-golf-spring-collection-apparel-layering-in-full-swing</guid>
-    <pubDate>Tue, 24 Feb 2026 18:47:55 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Spring 2026 Delivery 1 is color, graphics, and personal expression in motion.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/students-golf-spring-collection-apparel-layering-in-full-swing"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/in_Full_Swing_Students_Cover_f545220a1d/in_Full_Swing_Students_Cover_f545220a1d.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
