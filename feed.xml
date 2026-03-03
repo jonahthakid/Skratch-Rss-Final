@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 03 Mar 2026 15:41:50 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Mar 2026 16:39:35 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Even FOOD POISONING couldn’t stop prime Tiger Woods.</title>
+    <link>https://www.youtube.com/shorts/4SrUcZeIaks</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/4SrUcZeIaks</guid>
+    <pubDate>Tue, 03 Mar 2026 15:29:45 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/4SrUcZeIaks"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/4SrUcZeIaks/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/4SrUcZeIaks" type="text/html" medium="video"/>
+    <yt:videoId>4SrUcZeIaks</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>&quot;I don&#x27;t know why we&#x27;re hard and fast set on four major championships&quot;</title>
     <link>https://www.youtube.com/shorts/HR6wAOj90c8</link>
@@ -449,17 +463,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>UNIQLO x JW Anderson Is Country Club Coded</title>
-    <link>https://skratch.golf/style/mens-style/uniqlo-jw-anderson-collaboration-collection-not-for-golf-style</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/uniqlo-jw-anderson-collaboration-collection-not-for-golf-style</guid>
-    <pubDate>Thu, 26 Feb 2026 20:03:08 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;The “Not For Golf” Drop That Works Perfectly for Golf&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/uniqlo-jw-anderson-collaboration-collection-not-for-golf-style"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/JW_Cover_0abf1bf0d4/JW_Cover_0abf1bf0d4.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Crazy what happens when you utilize the fitting tools to dial in your driver.</title>
     <link>https://www.youtube.com/shorts/htvoVujbGC0</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/htvoVujbGC0</guid>
@@ -520,13 +523,13 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Will Zalatoris Withdraws from the Cognizant Classic Before the First Round</title>
-    <link>https://skratch.golf/news/news/cognizant-classic-will-zalatoris-withdraws-pga-tour-pga-national</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/cognizant-classic-will-zalatoris-withdraws-pga-tour-pga-national</guid>
-    <pubDate>Thu, 26 Feb 2026 17:18:15 +0000</pubDate>
+    <title>Augusta National Commits $1.5M to Expand State Junior Team Program</title>
+    <link>https://skratch.golf/news/news/augusta-national-masters-tournament-charities-usga-state-junior-team-program</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/augusta-national-masters-tournament-charities-usga-state-junior-team-program</guid>
+    <pubDate>Thu, 26 Feb 2026 16:54:55 +0000</pubDate>
     <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Willy Z withdrew from the Cognizant Classic before ever teeing off.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/cognizant-classic-will-zalatoris-withdraws-pga-tour-pga-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2257649708_1a0343aabc/Getty_Images_2257649708_1a0343aabc.jpg"/>
+    <description>&lt;p&gt;Augusta National Golf Club and Masters Tournament Charities continue to find meaningful ways to invest in the future of golf, and their latest donation will be felt for years to come.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/augusta-national-masters-tournament-charities-usga-state-junior-team-program"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1310903556_18d70b7a7f/Getty_Images_1310903556_18d70b7a7f.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -573,6 +576,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
+    <title>Early HSBC Leaderboard is Filled With Rising Forces on The LPGA</title>
+    <link>https://skratch.golf/news/news/hsbc-womens-world-championship-lpga-tour-rising-stars-auston-kim-lindy-duncan-linn-grant</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/hsbc-womens-world-championship-lpga-tour-rising-stars-auston-kim-lindy-duncan-linn-grant</guid>
+    <pubDate>Thu, 26 Feb 2026 14:53:21 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;After round one, the HSBC Women&#x27;s World Championship in Singapore has a stacked leaderboard with names that you probably don&#x27;t know, but should.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/hsbc-womens-world-championship-lpga-tour-rising-stars-auston-kim-lindy-duncan-linn-grant"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263617019_d0132d3932/Getty_Images_2263617019_d0132d3932.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>We have enough -20 winners on TOUR.</title>
     <link>https://www.youtube.com/shorts/xu1VkvWGKKs</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/xu1VkvWGKKs</guid>
@@ -598,20 +612,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:videoId>sDEJaCfJTO0</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Was Tiger’s win at the 2019 Masters Jim Nantz’s best call?</title>
-    <link>https://www.youtube.com/shorts/NvxZYPuwY1Q</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/NvxZYPuwY1Q</guid>
-    <pubDate>Wed, 25 Feb 2026 23:55:03 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/NvxZYPuwY1Q"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/NvxZYPuwY1Q/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/NvxZYPuwY1Q" type="text/html" medium="video"/>
-    <yt:videoId>NvxZYPuwY1Q</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
     <category>video</category>
   </item>
   <item>
@@ -651,17 +651,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>Bench Tested: How to Dial in Your Cobra OTPM Driver</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/bench-tested-cobra-optm-driver-dialed</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/bench-tested-cobra-optm-driver-dialed</guid>
-    <pubDate>Wed, 25 Feb 2026 14:18:32 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;On this episode of Bench Tested, we look at Cobra&#x27;s OPTM Driver series and how the right model and fitting tools can help you maximize performance.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/bench-tested-cobra-optm-driver-dialed"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/OPTM_driver_screw_375ccacc06/OPTM_driver_screw_375ccacc06.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Sausage Golf Boudin Noir: Weird Name, Great Putter</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/sausage-golf-putter-boudin-noir-review</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/sausage-golf-putter-boudin-noir-review</guid>
@@ -669,6 +658,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;It may sound like a deli order, but the functionality of this precision-milled putter is something golfers can dive into.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/sausage-golf-putter-boudin-noir-review"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Sausage_golf_noir_title_8e2b6fd4ac/Sausage_golf_noir_title_8e2b6fd4ac.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Students Golf Doesn’t Do Cookie Cutter</title>
+    <link>https://skratch.golf/style/mens-style/students-golf-spring-collection-apparel-layering-in-full-swing</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/students-golf-spring-collection-apparel-layering-in-full-swing</guid>
+    <pubDate>Tue, 24 Feb 2026 18:47:55 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;Spring 2026 Delivery 1 is color, graphics, and personal expression in motion.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/students-golf-spring-collection-apparel-layering-in-full-swing"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/in_Full_Swing_Students_Cover_f545220a1d/in_Full_Swing_Students_Cover_f545220a1d.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
