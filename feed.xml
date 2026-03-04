@@ -1,4 +1,5 @@
-<!-- Warning: Error fetching Dan On Golf Show: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
+<!-- Warning: Error fetching Skratch: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwtGQ3sgidNlQGbIUBPP3xw -->
+<!-- Warning: Error fetching Dan On Golf Show: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -10,7 +11,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 04 Mar 2026 07:10:02 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Mar 2026 07:56:23 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Confirmed: Tom Kim is Still Electric as Hell</title>
@@ -22,90 +23,6 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2264674172_abe82ed16c/Getty_Images_2264674172_abe82ed16c.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Baffling the announce team at Bay Hill, 2009. #tigertuesday</title>
-    <link>https://www.youtube.com/shorts/s-l8tzhq8rg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/s-l8tzhq8rg</guid>
-    <pubDate>Wed, 04 Mar 2026 00:30:49 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/s-l8tzhq8rg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/s-l8tzhq8rg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/s-l8tzhq8rg" type="text/html" medium="video"/>
-    <yt:videoId>s-l8tzhq8rg</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>The 9-shot drill with Justin Thomas. This flusher is back this week.</title>
-    <link>https://www.youtube.com/shorts/eu9UcrW3QsU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/eu9UcrW3QsU</guid>
-    <pubDate>Tue, 03 Mar 2026 23:53:32 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/eu9UcrW3QsU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/eu9UcrW3QsU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/eu9UcrW3QsU" type="text/html" medium="video"/>
-    <yt:videoId>eu9UcrW3QsU</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>A night at TGL with Mike’s Hard Lemonade</title>
-    <link>https://www.youtube.com/shorts/LpABr9RTq3M</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/LpABr9RTq3M</guid>
-    <pubDate>Tue, 03 Mar 2026 22:39:29 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;3 of the top 5 players in the world on one team?! Follow our Zane Moulton as he experiences his first TGL match thanks to @mikeshardlemonade… “Collin!!!!” #ad21+&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/LpABr9RTq3M"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/LpABr9RTq3M/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/LpABr9RTq3M" type="text/html" medium="video"/>
-    <yt:videoId>LpABr9RTq3M</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>All 8(!!!) of Tiger&#x27;s winning moments at Bay Hill. #TigerTuesday</title>
-    <link>https://www.youtube.com/shorts/AEkcg_fTQu0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/AEkcg_fTQu0</guid>
-    <pubDate>Tue, 03 Mar 2026 21:16:27 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/AEkcg_fTQu0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/AEkcg_fTQu0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/AEkcg_fTQu0" type="text/html" medium="video"/>
-    <yt:videoId>AEkcg_fTQu0</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>A Fleetwood always pays his debts.</title>
-    <link>https://www.youtube.com/shorts/MENbxa2I1UU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/MENbxa2I1UU</guid>
-    <pubDate>Tue, 03 Mar 2026 19:40:21 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/MENbxa2I1UU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/MENbxa2I1UU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/MENbxa2I1UU" type="text/html" medium="video"/>
-    <yt:videoId>MENbxa2I1UU</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>If MEAT PIES aren&#x27;t in your New Zealand golf trip budget, then you&#x27;re doing it wrong.</title>
-    <link>https://www.youtube.com/shorts/vBQjbDGridk</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/vBQjbDGridk</guid>
-    <pubDate>Tue, 03 Mar 2026 18:11:12 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The Working Holiday crew break down the cost of their unreal golf trip to the North Island. 🤑 Watch the full episode now, and stay tuned for an all new episode on the South Island tomorrow!&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/vBQjbDGridk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/vBQjbDGridk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/vBQjbDGridk" type="text/html" medium="video"/>
-    <yt:videoId>vBQjbDGridk</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>This New York Yankee Made a Hole-in-One on a Par 4—With a Range Ball</title>
@@ -130,20 +47,6 @@
     <category>article</category>
   </item>
   <item>
-    <title>RIDICULOUS Rory McIlroy par save at TGL 😵‍💫</title>
-    <link>https://www.youtube.com/shorts/B3I22M11Q8Y</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/B3I22M11Q8Y</guid>
-    <pubDate>Tue, 03 Mar 2026 17:09:31 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Rory McIlroy reminding us that he&#x27;s human, and then quickly re-reminding us that he&#x27;s actually not. Enjoy one of the nastiest hook shots and par saves we&#x27;ve seen in TGL.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/B3I22M11Q8Y"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/B3I22M11Q8Y/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/B3I22M11Q8Y" type="text/html" medium="video"/>
-    <yt:videoId>B3I22M11Q8Y</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Jon Rahm Accuses DP World Tour of ‘Extorting’ Players</title>
     <link>https://skratch.golf/news/news/jon-rahm-dp-world-tour-extorting-players-lower-requirements-liv-golf</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/jon-rahm-dp-world-tour-extorting-players-lower-requirements-liv-golf</guid>
@@ -164,20 +67,6 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2203538569_f4e1d9123d/Getty_Images_2203538569_f4e1d9123d.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Even FOOD POISONING couldn’t stop prime Tiger Woods.</title>
-    <link>https://www.youtube.com/shorts/4SrUcZeIaks</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/4SrUcZeIaks</guid>
-    <pubDate>Tue, 03 Mar 2026 15:29:45 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/4SrUcZeIaks"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/4SrUcZeIaks/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/4SrUcZeIaks" type="text/html" medium="video"/>
-    <yt:videoId>4SrUcZeIaks</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Epson Tour Secures Multi-Year Deal to Boost Championship Prize Fund and Player Earnings</title>
@@ -224,27 +113,6 @@
     <category>article</category>
   </item>
   <item>
-    <title>The Queen of England, Arnold Palmer and Jim Nantz walk into the White House...</title>
-    <link>https://www.youtube.com/shorts/dgTI-5mWbGk</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/dgTI-5mWbGk</guid>
-    <pubDate>Mon, 02 Mar 2026 23:29:13 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
-
-Check out our website: https://skratch.golf/
-Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/dgTI-5mWbGk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/dgTI-5mWbGk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/dgTI-5mWbGk" type="text/html" medium="video"/>
-    <yt:videoId>dgTI-5mWbGk</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Brandel Chamblee Has an Idea for the Next American Ryder Cup Captain. It&#x27;s Not Tiger.</title>
     <link>https://skratch.golf/news/news/tiger-woods-ryder-cup-captain-brandel-chamblee-justin-leonard-team-usa</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/tiger-woods-ryder-cup-captain-brandel-chamblee-justin-leonard-team-usa</guid>
@@ -254,24 +122,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/dgTI-5mWbGk"&gt;
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2190711957_d59dfe0751/Getty_Images_2190711957_d59dfe0751.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>GREEN-GRIPPING Golf Ball | 2026 Callaway Chrome Tour Bench Test &amp; Review</title>
-    <link>https://www.youtube.com/watch?v=suHDYZwmjHs</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=suHDYZwmjHs</guid>
-    <pubDate>Mon, 02 Mar 2026 20:13:31 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Blown away by the BITE of the newest @callawaygolf Chrome Tour line of golf balls. Our Gear Editor Ryan Barath feels the Tour Fast Mantle difference for himself in the latest Bench Tested.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game,&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=suHDYZwmjHs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/suHDYZwmjHs/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/suHDYZwmjHs" type="text/html" medium="video"/>
-    <yt:videoId>suHDYZwmjHs</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>On Tap: Arnold Palmer Invitational at Bay Hill</title>
@@ -294,20 +144,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2264273932_ee87f7ba7a/Getty_Images_2264273932_ee87f7ba7a.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>The REAL DOD King. 👑</title>
-    <link>https://www.youtube.com/shorts/F8dDiezvXXw</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/F8dDiezvXXw</guid>
-    <pubDate>Mon, 02 Mar 2026 16:05:58 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/F8dDiezvXXw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/F8dDiezvXXw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/F8dDiezvXXw" type="text/html" medium="video"/>
-    <yt:videoId>F8dDiezvXXw</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Jason Kelce Put Spikes on Timberlands</title>
@@ -354,34 +190,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>We are happy to report that the bird is okay!</title>
-    <link>https://www.youtube.com/shorts/QcLGObP6_1c</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/QcLGObP6_1c</guid>
-    <pubDate>Fri, 27 Feb 2026 20:35:25 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/QcLGObP6_1c"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/QcLGObP6_1c/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/QcLGObP6_1c" type="text/html" medium="video"/>
-    <yt:videoId>QcLGObP6_1c</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Addie’s search for NYC’s best golf sim continues… Today&#x27;s contender: X-Golf in Brooklyn.</title>
-    <link>https://www.youtube.com/shorts/b-PhQoJmlyA</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/b-PhQoJmlyA</guid>
-    <pubDate>Fri, 27 Feb 2026 18:54:43 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/b-PhQoJmlyA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/b-PhQoJmlyA/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/b-PhQoJmlyA" type="text/html" medium="video"/>
-    <yt:videoId>b-PhQoJmlyA</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Brooks Koepka and Max Homa Show Signs of Life at the Cognizant Classic</title>
     <link>https://skratch.golf/news/news/cognizant-classic-brooks-koepka-max-homa-pga-tour-scores</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/cognizant-classic-brooks-koepka-max-homa-pga-tour-scores</guid>
@@ -391,34 +199,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263883752_b8b8a2184f/Getty_Images_2263883752_b8b8a2184f.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Every (televised) birdie from Jake Knapp’s 59 at last year’s Cognizant Classic.</title>
-    <link>https://www.youtube.com/shorts/urtgE9fRO8c</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/urtgE9fRO8c</guid>
-    <pubDate>Fri, 27 Feb 2026 15:04:38 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/urtgE9fRO8c"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/urtgE9fRO8c/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/urtgE9fRO8c" type="text/html" medium="video"/>
-    <yt:videoId>urtgE9fRO8c</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Duck Hunt (2026) 🎮</title>
-    <link>https://www.youtube.com/shorts/oJtxwFwR9-A</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/oJtxwFwR9-A</guid>
-    <pubDate>Thu, 26 Feb 2026 22:53:15 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/oJtxwFwR9-A"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/oJtxwFwR9-A/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/oJtxwFwR9-A" type="text/html" medium="video"/>
-    <yt:videoId>oJtxwFwR9-A</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Why Adam Scott’s sponsor lineup feels intentional, not accidental.</title>
