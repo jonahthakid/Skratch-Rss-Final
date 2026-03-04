@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 04 Mar 2026 17:34:07 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Mar 2026 18:39:57 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>“Reacting to a missed 3 footer on 16, if they’re spiraling, I’m not going to wire them 9 figures” 😂</title>
@@ -188,6 +188,17 @@
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Three Players to Watch (and a Parlay) for the Arnold Palmer Invitational</title>
+    <link>https://skratch.golf/news/news/arnold-palmer-invitational-golf-picks-pga-tour-rory-mcilroy-bay-hill</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/arnold-palmer-invitational-golf-picks-pga-tour-rory-mcilroy-bay-hill</guid>
+    <pubDate>Tue, 03 Mar 2026 20:26:14 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;McIlroy. Fleetwood. Connors. And a +625 parlay to tie it together. Let’s talk Bay Hill.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/arnold-palmer-invitational-golf-picks-pga-tour-rory-mcilroy-bay-hill"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263072625_e983292803/Getty_Images_2263072625_e983292803.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>A Fleetwood always pays his debts.</title>
@@ -503,17 +514,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Raymond Williams</dc:creator>
     <description>&lt;p&gt;This is what happens when an All-Pro lineman decides golf shoes aren’t built for him.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/jason-kelce-golf-shoes-spikes-timberlands-boots"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/maxresdefault_665086b60f/maxresdefault_665086b60f.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The LPGA’s Depth Was on Full Display in Singapore</title>
-    <link>https://skratch.golf/news/news/hannah-green-lpga-tour-hsbc-womens-world-championship-rising-stars-recap</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/hannah-green-lpga-tour-hsbc-womens-world-championship-rising-stars-recap</guid>
-    <pubDate>Mon, 02 Mar 2026 14:31:42 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Two-time HSBC champion, Hannah Green, got it done again—but not before a wave of young talent made it clear the LPGA’s next era is here.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/hannah-green-lpga-tour-hsbc-womens-world-championship-rising-stars-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2264314127_0fa5849645/Getty_Images_2264314127_0fa5849645.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
