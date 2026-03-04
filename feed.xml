@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 04 Mar 2026 01:27:49 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Mar 2026 03:40:57 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Baffling the announce team at Bay Hill, 2009. #tigertuesday</title>
@@ -477,6 +477,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
+    <title>Billy Horschel Gets Into It With a Fan at the Cognizant Classic</title>
+    <link>https://skratch.golf/news/news/cognizant-classic-billy-horschel-fan-interaction-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/cognizant-classic-billy-horschel-fan-interaction-pga-tour</guid>
+    <pubDate>Fri, 27 Feb 2026 21:44:50 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Billy Horschel had some words with a fan following a bad shot at the Bear Trap.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/cognizant-classic-billy-horschel-fan-interaction-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263911267_e658f392f1/Getty_Images_2263911267_e658f392f1.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>We are happy to report that the bird is okay!</title>
     <link>https://www.youtube.com/shorts/QcLGObP6_1c</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/QcLGObP6_1c</guid>
@@ -505,13 +516,13 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>Sim Seeking: The Coolest Spot in Town is X-Golf Brooklyn</title>
-    <link>https://skratch.golf/news/golf-culture/sim-seeking-x-golf-brooklyn-nyc-indoor-golf-simulators-episode-3</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/sim-seeking-x-golf-brooklyn-nyc-indoor-golf-simulators-episode-3</guid>
-    <pubDate>Fri, 27 Feb 2026 15:54:47 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Come for the golf, but stay for the cozy and elevated sports bar/cafe vibe. This week I keep it local to my hood at X-Golf in Williamsburg, Brooklyn.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/sim-seeking-x-golf-brooklyn-nyc-indoor-golf-simulators-episode-3"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/X_Golf_Brooklyn_V2_15_361e50a853/X_Golf_Brooklyn_V2_15_361e50a853.jpeg"/>
+    <title>Brooks Koepka and Max Homa Show Signs of Life at the Cognizant Classic</title>
+    <link>https://skratch.golf/news/news/cognizant-classic-brooks-koepka-max-homa-pga-tour-scores</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/cognizant-classic-brooks-koepka-max-homa-pga-tour-scores</guid>
+    <pubDate>Fri, 27 Feb 2026 18:34:39 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;After slow starts on Thursday, Brooks Koepka and Max Homa fought back with matching 66s heading into the weekend at PGA National.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/cognizant-classic-brooks-koepka-max-homa-pga-tour-scores"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263883752_b8b8a2184f/Getty_Images_2263883752_b8b8a2184f.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -528,28 +539,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>After Being Ill and Hospitalized, Charley Hull Sits Four Shots Behind Leader in Singapore</title>
-    <link>https://skratch.golf/news/news/charley-hull-hsbc-womens-world-championship-lpga-tour-illness-recovery</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/charley-hull-hsbc-womens-world-championship-lpga-tour-illness-recovery</guid>
-    <pubDate>Fri, 27 Feb 2026 14:48:26 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;&quot;I shouldn&#x27;t have come here but I really wanted to play.&quot;&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/charley-hull-hsbc-womens-world-championship-lpga-tour-illness-recovery"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263817328_bd480c4e02/Getty_Images_2263817328_bd480c4e02.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Key to Unlocking Speed Improving Tempo Might Just Be This Simple</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/gforce-training-aid-to-improve-speed-tempo</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/gforce-training-aid-to-improve-speed-tempo</guid>
-    <pubDate>Fri, 27 Feb 2026 14:17:32 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;The GForce swing trainer has been around long enough to feel like “old news” in a world obsessed with the next breakthrough, but that’s kind of the point&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/gforce-training-aid-to-improve-speed-tempo"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/G_force_training_aid_db585738b9/G_force_training_aid_db585738b9.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Anything to save a precious stroke.</title>
@@ -665,6 +654,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;With a deep navy finish and gold umbrella detailing, Cobra’s limited-edition OPTM X driver nods to Arnold Palmer’s signature flash, style, and power.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/arnold-palmer-cobra-optm-x-driver"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Palmer_Cobra_OPTM_X_bb4cd2678a/Palmer_Cobra_OPTM_X_bb4cd2678a.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>What Are The Best Indoor Golf Simulators in NYC? We Went Searching For Them</title>
+    <link>https://skratch.golf/news/golf-culture/sim-seeking-with-addie-parker-nyc-indoor-golf-simulators-new-series</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/sim-seeking-with-addie-parker-nyc-indoor-golf-simulators-new-series</guid>
+    <pubDate>Fri, 13 Feb 2026 15:20:16 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Welcome to Sim Seeking with Addie Parker, a new Skratch series for the dedicated city golfer who&#x27;s in search of the best spot to play golf...indoors!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/sim-seeking-with-addie-parker-nyc-indoor-golf-simulators-new-series"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Sim_Seeking_Map_16x9_1_4c4f933f5b/Sim_Seeking_Map_16x9_1_4c4f933f5b.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
