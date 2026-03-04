@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 04 Mar 2026 16:36:40 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Mar 2026 17:34:07 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>“Reacting to a missed 3 footer on 16, if they’re spiraling, I’m not going to wire them 9 figures” 😂</title>
@@ -24,6 +24,17 @@
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Are Beauty Brands Finally Trickling Into Golf?</title>
+    <link>https://skratch.golf/news/golf-culture/supergoop-official-pga-tour-partner-justin-rose-beauty-brands</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/supergoop-official-pga-tour-partner-justin-rose-beauty-brands</guid>
+    <pubDate>Wed, 04 Mar 2026 15:43:59 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;There&#x27;s no better market for a sunscreen company than golfers—and Supergoop&#x27;s product that feels more like a luxury than a chore.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/supergoop-official-pga-tour-partner-justin-rose-beauty-brands"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Supergoop_PGA_Justin_Rose_80b17c5733/Supergoop_PGA_Justin_Rose_80b17c5733.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>The LPGA&#x27;s Latest Announcement Is a Big Deal for Amateurs</title>
@@ -547,17 +558,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The USGA Is Honoring Tiger Woods With Two Renamed Awards</title>
-    <link>https://skratch.golf/news/news/tiger-woods-usga-awards-us-amateur-us-junior-named</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/tiger-woods-usga-awards-us-amateur-us-junior-named</guid>
-    <pubDate>Sun, 01 Mar 2026 00:15:18 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;It was only a matter of time, and the time is now.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-usga-awards-us-amateur-us-junior-named"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_89683714_4c1ec0f851/Getty_Images_89683714_4c1ec0f851.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>We are happy to report that the bird is okay!</title>
