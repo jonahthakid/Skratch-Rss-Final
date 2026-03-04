@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 04 Mar 2026 15:34:41 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Mar 2026 16:36:40 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>“Reacting to a missed 3 footer on 16, if they’re spiraling, I’m not going to wire them 9 figures” 😂</title>
+    <link>https://www.youtube.com/shorts/qXY8w1txgkw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/qXY8w1txgkw</guid>
+    <pubDate>Wed, 04 Mar 2026 16:01:31 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/qXY8w1txgkw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/qXY8w1txgkw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/qXY8w1txgkw" type="text/html" medium="video"/>
+    <yt:videoId>qXY8w1txgkw</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>The LPGA&#x27;s Latest Announcement Is a Big Deal for Amateurs</title>
+    <link>https://skratch.golf/news/pro-golf/lpga-portland-classic-amateur-exemptions-2026</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/lpga-portland-classic-amateur-exemptions-2026</guid>
+    <pubDate>Wed, 04 Mar 2026 15:16:28 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;For the first time ever, the winners from the four most prestigious amateur events will get to tee it up in an LPGA event at the same time.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/lpga-portland-classic-amateur-exemptions-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263965129_9f276f4dcb/Getty_Images_2263965129_9f276f4dcb.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Sergio Garcia CLIMBS A TREE to hit a one-handed, backward recovery shot at the 2013 API.</title>
     <link>https://www.youtube.com/shorts/cBumQXQKx9o</link>
@@ -55,6 +80,17 @@
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;With this week marking his return from injury, Justin Thomas is still holding onto some faithful fairway woods.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/justin-thomas-api-golf-clubs-five-wood"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Justin_thomas_5_wood_bc2a7aee3f/Justin_thomas_5_wood_bc2a7aee3f.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>With Sungjae Im, Malbon Makes Another Big Global Move</title>
+    <link>https://skratch.golf/style/mens-style/malbon-expands-global-roster-with-sungjae-im</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/malbon-expands-global-roster-with-sungjae-im</guid>
+    <pubDate>Wed, 04 Mar 2026 02:38:36 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;Korea’s top PGA TOUR player has joined his caddie, Willy Wilcox, on team Malbon.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/malbon-expands-global-roster-with-sungjae-im"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Sungjae_2e1f311427/Sungjae_2e1f311427.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -524,17 +560,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>Billy Horschel Gets Into It With a Fan at the Cognizant Classic</title>
-    <link>https://skratch.golf/news/news/cognizant-classic-billy-horschel-fan-interaction-pga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/cognizant-classic-billy-horschel-fan-interaction-pga-tour</guid>
-    <pubDate>Fri, 27 Feb 2026 21:44:50 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Billy Horschel had some words with a fan following a bad shot at the Bear Trap.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/cognizant-classic-billy-horschel-fan-interaction-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263911267_e658f392f1/Getty_Images_2263911267_e658f392f1.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>We are happy to report that the bird is okay!</title>
     <link>https://www.youtube.com/shorts/QcLGObP6_1c</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/QcLGObP6_1c</guid>
@@ -561,17 +586,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Brooks Koepka and Max Homa Show Signs of Life at the Cognizant Classic</title>
-    <link>https://skratch.golf/news/news/cognizant-classic-brooks-koepka-max-homa-pga-tour-scores</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/cognizant-classic-brooks-koepka-max-homa-pga-tour-scores</guid>
-    <pubDate>Fri, 27 Feb 2026 18:34:39 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;After slow starts on Thursday, Brooks Koepka and Max Homa fought back with matching 66s heading into the weekend at PGA National.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/cognizant-classic-brooks-koepka-max-homa-pga-tour-scores"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263883752_b8b8a2184f/Getty_Images_2263883752_b8b8a2184f.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Every (televised) birdie from Jake Knapp’s 59 at last year’s Cognizant Classic.</title>
@@ -639,20 +653,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://img.youtube.com/vi/72CSHzK-6sQ/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/72CSHzK-6sQ" type="text/html" medium="video"/>
     <yt:videoId>72CSHzK-6sQ</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>We have enough -20 winners on TOUR.</title>
-    <link>https://www.youtube.com/shorts/xu1VkvWGKKs</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/xu1VkvWGKKs</guid>
-    <pubDate>Thu, 26 Feb 2026 02:23:30 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/xu1VkvWGKKs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/xu1VkvWGKKs/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/xu1VkvWGKKs" type="text/html" medium="video"/>
-    <yt:videoId>xu1VkvWGKKs</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
