@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 05 Mar 2026 16:07:57 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Mar 2026 18:25:00 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>SVP and Reece Davis Just Told an Incredible Golf Story About the Late, Great Lou Holtz</title>
+    <link>https://skratch.golf/news/golf-culture/lou-holtz-augusta-national-12th-hole-story-svp</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/lou-holtz-augusta-national-12th-hole-story-svp</guid>
+    <pubDate>Thu, 05 Mar 2026 17:55:19 +0000</pubDate>
+    <dc:creator>Ben Boskovich</dc:creator>
+    <description>&lt;p&gt;I can guarantee you there are few people who play Augusta&#x27;s Par-3 12th this way.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/lou-holtz-augusta-national-12th-hole-story-svp"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_117672643_10365d2619/Getty_Images_117672643_10365d2619.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>He’s certainly not taking the path of least resistance.</title>
+    <link>https://www.youtube.com/shorts/UKLbOazYHdo</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/UKLbOazYHdo</guid>
+    <pubDate>Thu, 05 Mar 2026 17:14:12 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/UKLbOazYHdo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/UKLbOazYHdo/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/UKLbOazYHdo" type="text/html" medium="video"/>
+    <yt:videoId>UKLbOazYHdo</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>STILL not over Bryson&#x27;s drive on 6 at the 2021 API. 😮</title>
     <link>https://www.youtube.com/shorts/IpGTC05lwII</link>
@@ -655,34 +680,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://img.youtube.com/vi/CCzQodMoldU/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/CCzQodMoldU" type="text/html" medium="video"/>
     <yt:videoId>CCzQodMoldU</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Tough to watch. Shane Lowry went from a 3-shot lead to a two-shot loss.</title>
-    <link>https://www.youtube.com/shorts/aBJih8qzLpM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/aBJih8qzLpM</guid>
-    <pubDate>Sun, 01 Mar 2026 23:14:32 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/aBJih8qzLpM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/aBJih8qzLpM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/aBJih8qzLpM" type="text/html" medium="video"/>
-    <yt:videoId>aBJih8qzLpM</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Here comes Shane Lowry 🇮🇪</title>
-    <link>https://www.youtube.com/shorts/yuXJdAdcZVc</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/yuXJdAdcZVc</guid>
-    <pubDate>Sun, 01 Mar 2026 21:43:53 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/yuXJdAdcZVc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/yuXJdAdcZVc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/yuXJdAdcZVc" type="text/html" medium="video"/>
-    <yt:videoId>yuXJdAdcZVc</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
