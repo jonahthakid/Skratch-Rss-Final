@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 06 Mar 2026 15:31:30 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 16:33:26 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Come play a hole with Min Woo Lee at Bay Hill</title>
+    <link>https://www.youtube.com/shorts/ywsqM9GomOw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/ywsqM9GomOw</guid>
+    <pubDate>Fri, 06 Mar 2026 16:03:46 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ywsqM9GomOw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/ywsqM9GomOw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/ywsqM9GomOw" type="text/html" medium="video"/>
+    <yt:videoId>ywsqM9GomOw</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Auston Kim in the Hunt at Blue Bay LPGA After Another Strong Start</title>
     <link>https://skratch.golf/news/news/lpga-blue-bay-2026-auston-kim-second-round-recap</link>
@@ -566,20 +580,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/MENbxa2I1UU/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/MENbxa2I1UU" type="text/html" medium="video"/>
     <yt:videoId>MENbxa2I1UU</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>If MEAT PIES aren&#x27;t in your New Zealand golf trip budget, then you&#x27;re doing it wrong.</title>
-    <link>https://www.youtube.com/shorts/vBQjbDGridk</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/vBQjbDGridk</guid>
-    <pubDate>Tue, 03 Mar 2026 18:11:12 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The Working Holiday crew break down the cost of their unreal golf trip to the North Island. 🤑 Watch the full episode now, and stay tuned for an all new episode on the South Island tomorrow!&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/vBQjbDGridk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/vBQjbDGridk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/vBQjbDGridk" type="text/html" medium="video"/>
-    <yt:videoId>vBQjbDGridk</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
