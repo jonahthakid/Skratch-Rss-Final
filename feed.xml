@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 06 Mar 2026 13:50:52 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Mar 2026 14:33:03 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Auston Kim in the Hunt at Blue Bay LPGA After Another Strong Start</title>
+    <link>https://skratch.golf/news/news/lpga-blue-bay-2026-auston-kim-second-round-recap</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-blue-bay-2026-auston-kim-second-round-recap</guid>
+    <pubDate>Fri, 06 Mar 2026 13:51:53 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;&quot;I prefer being in contention either way.&quot;&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-blue-bay-2026-auston-kim-second-round-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2265059545_8b92ca69ce/Getty_Images_2265059545_8b92ca69ce.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>No pressure like bungee jumping off a cliff 🤣</title>
     <link>https://www.youtube.com/shorts/DihUYKHz_wM</link>
@@ -563,35 +574,13 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>This New York Yankee Made a Hole-in-One on a Par 4—With a Range Ball</title>
-    <link>https://skratch.golf/news/news/jazz-chisholm-hole-in-one-new-york-yankees</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/jazz-chisholm-hole-in-one-new-york-yankees</guid>
-    <pubDate>Tue, 03 Mar 2026 18:03:37 +0000</pubDate>
+    <title>Chris Gotterup’s Week Off Included a Practice Round at Augusta</title>
+    <link>https://skratch.golf/news/news/chris-gotterup-augusta-national-trip-family-arnold-palmer-invitational-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/chris-gotterup-augusta-national-trip-family-arnold-palmer-invitational-pga-tour</guid>
+    <pubDate>Tue, 03 Mar 2026 17:49:14 +0000</pubDate>
     <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;There&#x27;s no way you can frame a range ball, right?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jazz-chisholm-hole-in-one-new-york-yankees"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263188810_e499df1dff/Getty_Images_2263188810_e499df1dff.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Jon Rahm Accuses DP World Tour of ‘Extorting’ Players</title>
-    <link>https://skratch.golf/news/news/jon-rahm-dp-world-tour-extorting-players-lower-requirements-liv-golf</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/jon-rahm-dp-world-tour-extorting-players-lower-requirements-liv-golf</guid>
-    <pubDate>Tue, 03 Mar 2026 16:53:33 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;“I’d sign tonight.” Jon Rahm says one change would end his standoff with the DP World Tour.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jon-rahm-dp-world-tour-extorting-players-lower-requirements-liv-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2264472707_1aa06ed052/Getty_Images_2264472707_1aa06ed052.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Three LPGA Rookies Look to Make a Splash in China</title>
-    <link>https://skratch.golf/news/news/blue-bay-lpga-2026-rookies-how-to-watch-tee-times-tv-streaming</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/blue-bay-lpga-2026-rookies-how-to-watch-tee-times-tv-streaming</guid>
-    <pubDate>Tue, 03 Mar 2026 15:36:22 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Rounding out the first Asia Swing is the Blue Bay LPGA in China. Here&#x27;s what you need to know.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/blue-bay-lpga-2026-rookies-how-to-watch-tee-times-tv-streaming"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2203538569_f4e1d9123d/Getty_Images_2203538569_f4e1d9123d.jpg"/>
+    <description>&lt;p&gt;Chris Gotterup’s “week off” included a practice round at Augusta National. Here’s what surprised him most.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/chris-gotterup-augusta-national-trip-family-arnold-palmer-invitational-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2261658356_4c6c347a87/Getty_Images_2261658356_4c6c347a87.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -643,17 +632,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>F1 Team McLaren Is Launching a Golf Company. Here&#x27;s What We Know So Far.</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/f1-golf-mclaren-clubs-design-technology-company</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/f1-golf-mclaren-clubs-design-technology-company</guid>
-    <pubDate>Tue, 03 Mar 2026 02:14:07 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;And as for personnel, hires include heavy hitters from Cobra, TaylorMade, Callaway, and Titleist.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/f1-golf-mclaren-clubs-design-technology-company"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Mclaren_golf_flag_cf9f9d2bda/Mclaren_golf_flag_cf9f9d2bda.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Investigative reporter golfballwackerguy out here solving mysteries on Reddit 👏</title>
     <link>https://www.youtube.com/shorts/P-AZmqvtuJs</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/P-AZmqvtuJs</guid>
@@ -683,6 +661,34 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://img.youtube.com/vi/uCs-q1vS7sM/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/uCs-q1vS7sM" type="text/html" medium="video"/>
     <yt:videoId>uCs-q1vS7sM</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Anthony Kim has ALWAYS had that swagger.</title>
+    <link>https://www.youtube.com/shorts/iasluRXNdl4</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/iasluRXNdl4</guid>
+    <pubDate>Mon, 02 Mar 2026 19:09:50 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/iasluRXNdl4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/iasluRXNdl4/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/iasluRXNdl4" type="text/html" medium="video"/>
+    <yt:videoId>iasluRXNdl4</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>&quot;Thought the tournament was over when he was playing 14 ... three-shot lead with 4 to go is a lot.&quot;</title>
+    <link>https://www.youtube.com/shorts/VCnqLdOxiR4</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/VCnqLdOxiR4</guid>
+    <pubDate>Mon, 02 Mar 2026 18:18:13 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/VCnqLdOxiR4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/VCnqLdOxiR4/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/VCnqLdOxiR4" type="text/html" medium="video"/>
+    <yt:videoId>VCnqLdOxiR4</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
