@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 07 Mar 2026 20:19:06 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Mar 2026 20:46:19 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Scavenger hunt, Spieth style.</title>
+    <link>https://www.youtube.com/shorts/UztVO_jJDf8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/UztVO_jJDf8</guid>
+    <pubDate>Sat, 07 Mar 2026 20:31:48 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/UztVO_jJDf8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/UztVO_jJDf8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/UztVO_jJDf8" type="text/html" medium="video"/>
+    <yt:videoId>UztVO_jJDf8</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Puma Golf debuted their 2026 Arnold Palmer Collecrion at Bay Hill</title>
     <link>https://www.youtube.com/shorts/wAgBTB0J4-A</link>
@@ -563,20 +577,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/LpABr9RTq3M/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/LpABr9RTq3M" type="text/html" medium="video"/>
     <yt:videoId>LpABr9RTq3M</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>All 8(!!!) of Tiger&#x27;s winning moments at Bay Hill. #TigerTuesday</title>
-    <link>https://www.youtube.com/shorts/AEkcg_fTQu0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/AEkcg_fTQu0</guid>
-    <pubDate>Tue, 03 Mar 2026 21:16:27 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/AEkcg_fTQu0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/AEkcg_fTQu0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/AEkcg_fTQu0" type="text/html" medium="video"/>
-    <yt:videoId>AEkcg_fTQu0</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
