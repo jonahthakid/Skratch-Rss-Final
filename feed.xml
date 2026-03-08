@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 07 Mar 2026 23:43:08 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Mar 2026 01:42:35 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>In Praise of Scottie Scheffler and One of Golf&#x27;s Most Liberating Feelings</title>
+    <link>https://skratch.golf/news/pro-golf/scottie-scheffler-throws-ball-water-woods-arnold-palmer-invitational</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/scottie-scheffler-throws-ball-water-woods-arnold-palmer-invitational</guid>
+    <pubDate>Sun, 08 Mar 2026 00:00:45 +0000</pubDate>
+    <dc:creator>Ben Boskovich</dc:creator>
+    <description>&lt;p&gt;Sometimes it&#x27;s a body of water, other times it&#x27;s acres of woods. Hurling your golf ball into oblivion is our god-given right.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/scottie-scheffler-throws-ball-water-woods-arnold-palmer-invitational"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_03_07_at_3_55_41_PM_fd0698c7e5/Screenshot_2026_03_07_at_3_55_41_PM_fd0698c7e5.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Scavenger hunt, Spieth style.</title>
     <link>https://www.youtube.com/shorts/UztVO_jJDf8</link>
@@ -672,20 +683,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://img.youtube.com/vi/uCs-q1vS7sM/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/uCs-q1vS7sM" type="text/html" medium="video"/>
     <yt:videoId>uCs-q1vS7sM</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Anthony Kim has ALWAYS had that swagger.</title>
-    <link>https://www.youtube.com/shorts/iasluRXNdl4</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/iasluRXNdl4</guid>
-    <pubDate>Mon, 02 Mar 2026 19:09:50 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/iasluRXNdl4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/iasluRXNdl4/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/iasluRXNdl4" type="text/html" medium="video"/>
-    <yt:videoId>iasluRXNdl4</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
