@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 09 Mar 2026 14:02:07 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Mar 2026 15:29:11 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The Boys are Back Together (For Just THE PLAYERS)</title>
+    <link>https://skratch.golf/news/news/Joel-dahmen-geno-bonnalie-the-players-2026-back-together</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/Joel-dahmen-geno-bonnalie-the-players-2026-back-together</guid>
+    <pubDate>Mon, 09 Mar 2026 14:52:56 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Joel Dahmen will have his long-time friend Geno Bonnalie back on the bag for THE PLAYERS.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Joel-dahmen-geno-bonnalie-the-players-2026-back-together"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1492046316_cb7de392cb/Getty_Images_1492046316_cb7de392cb.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Making par the HARD way. 😭</title>
+    <link>https://www.youtube.com/shorts/DKSJFBczhN0</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/DKSJFBczhN0</guid>
+    <pubDate>Mon, 09 Mar 2026 14:24:19 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/DKSJFBczhN0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/DKSJFBczhN0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/DKSJFBczhN0" type="text/html" medium="video"/>
+    <yt:videoId>DKSJFBczhN0</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Lexi Thompson Ties the Knot With a Tuscan-Themed Ceremony</title>
     <link>https://skratch.golf/news/news/lexi-thompson-wedding-lpga-tour-star-studded-guest-list</link>
@@ -526,17 +551,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>The LPGA&#x27;s Latest Announcement Is a Big Deal for Amateurs</title>
-    <link>https://skratch.golf/news/pro-golf/lpga-portland-classic-amateur-exemptions-2026</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/lpga-portland-classic-amateur-exemptions-2026</guid>
-    <pubDate>Wed, 04 Mar 2026 15:16:28 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;For the first time ever, the winners from the four most prestigious amateur events will get to tee it up in an LPGA event at the same time.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/lpga-portland-classic-amateur-exemptions-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263965129_9f276f4dcb/Getty_Images_2263965129_9f276f4dcb.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Sergio Garcia CLIMBS A TREE to hit a one-handed, backward recovery shot at the 2013 API.</title>
     <link>https://www.youtube.com/shorts/cBumQXQKx9o</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/cBumQXQKx9o</guid>
@@ -601,20 +615,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:videoId>IRc5gN52Rc0</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>A night at TGL with Mike’s Hard Lemonade</title>
-    <link>https://www.youtube.com/shorts/LpABr9RTq3M</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/LpABr9RTq3M</guid>
-    <pubDate>Tue, 03 Mar 2026 22:39:29 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;3 of the top 5 players in the world on one team?! Follow our Zane Moulton as he experiences his first TGL match thanks to @mikeshardlemonade… “Collin!!!!” #ad21+&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/LpABr9RTq3M"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/LpABr9RTq3M/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/LpABr9RTq3M" type="text/html" medium="video"/>
-    <yt:videoId>LpABr9RTq3M</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
     <category>video</category>
   </item>
   <item>
