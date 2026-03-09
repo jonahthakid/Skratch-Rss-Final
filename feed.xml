@@ -9,27 +9,13 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 09 Mar 2026 17:42:52 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Mar 2026 18:43:21 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
-  <item>
-    <title>&quot;You can&#x27;t argue with the GOAT.&quot;</title>
-    <link>https://www.youtube.com/shorts/CpKfw0QeyTk</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/CpKfw0QeyTk</guid>
-    <pubDate>Mon, 09 Mar 2026 17:22:55 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/CpKfw0QeyTk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/CpKfw0QeyTk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/CpKfw0QeyTk" type="text/html" medium="video"/>
-    <yt:videoId>CpKfw0QeyTk</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
   <item>
     <title>S2 E18: Akshay Bhatia Interview, THE PLAYERS MEGA Preview + Best Bets, Quarter-Season GRADES</title>
     <link>https://www.youtube.com/watch?v=8m29qSIQUf0</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=8m29qSIQUf0</guid>
-    <pubDate>Mon, 09 Mar 2026 16:33:34 +0000</pubDate>
+    <pubDate>Mon, 09 Mar 2026 18:23:57 +0000</pubDate>
     <dc:creator>Dan on Golf</dc:creator>
     <description>&lt;p&gt;Akshay Bhatia joins the show fresh off his comeback win at API. It&#x27;s here: THE PLAYERS week — we break down all the stories heading into TPC. Dan also dives into his quarter-season grades for the big names in golf.
 
@@ -41,6 +27,20 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://img.youtube.com/vi/8m29qSIQUf0/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/8m29qSIQUf0" type="text/html" medium="video"/>
     <yt:videoId>8m29qSIQUf0</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>&quot;You can&#x27;t argue with the GOAT.&quot;</title>
+    <link>https://www.youtube.com/shorts/CpKfw0QeyTk</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/CpKfw0QeyTk</guid>
+    <pubDate>Mon, 09 Mar 2026 17:22:55 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/CpKfw0QeyTk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/CpKfw0QeyTk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/CpKfw0QeyTk" type="text/html" medium="video"/>
+    <yt:videoId>CpKfw0QeyTk</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
