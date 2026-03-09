@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 09 Mar 2026 19:36:41 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Mar 2026 20:27:36 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>&quot;That was kind of her last wish.&quot;</title>
+    <link>https://www.youtube.com/shorts/HxeLyBXnWlk</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/HxeLyBXnWlk</guid>
+    <pubDate>Mon, 09 Mar 2026 19:53:07 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/HxeLyBXnWlk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/HxeLyBXnWlk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/HxeLyBXnWlk" type="text/html" medium="video"/>
+    <yt:videoId>HxeLyBXnWlk</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>S2 E18: Akshay Bhatia Interview, THE PLAYERS MEGA Preview + Best Bets, Quarter-Season GRADES</title>
     <link>https://www.youtube.com/watch?v=8m29qSIQUf0</link>
@@ -474,17 +488,6 @@ Subscribe to Skratch &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shor
     <category>video</category>
   </item>
   <item>
-    <title>&#x27;I Test For Feel&#x27;: Collin Morikawa Explains His Equipment Testing Process</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/collin-api-morikawa-testing-clubs-process</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/collin-api-morikawa-testing-clubs-process</guid>
-    <pubDate>Wed, 04 Mar 2026 22:09:39 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Leading up to the Arnold Palmer Invitational, Collin Morikawa explained why he never stops experimenting.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/collin-api-morikawa-testing-clubs-process"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2225844356_157dca3de1/Getty_Images_2225844356_157dca3de1.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>One of the most GORGEOUS lands to ever hold a fairway. 😍</title>
     <link>https://www.youtube.com/shorts/c701Jd3X1XY</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/c701Jd3X1XY</guid>
@@ -549,17 +552,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>Scottie Scheffler Isn’t Worrying About All Those Bad Thursdays</title>
-    <link>https://skratch.golf/news/news/scottie-scheffler-arnold-palmer-invitational-slow-start-first-rounds-bay-hill-pga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/scottie-scheffler-arnold-palmer-invitational-slow-start-first-rounds-bay-hill-pga-tour</guid>
-    <pubDate>Wed, 04 Mar 2026 19:06:18 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Scottie Scheffler’s only “issue” this season has been during the first round—he&#x27;s not worried in the slightest.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/scottie-scheffler-arnold-palmer-invitational-slow-start-first-rounds-bay-hill-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2264787485_9774355d52/Getty_Images_2264787485_9774355d52.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>New Level Irons Offer Forged Precision &amp; Performance</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/new-level-golf-forged-irons-702-in-hand-review</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/new-level-golf-forged-irons-702-in-hand-review</guid>
@@ -585,13 +577,13 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>The LPGA&#x27;s Latest Announcement Is a Big Deal for Amateurs</title>
-    <link>https://skratch.golf/news/pro-golf/lpga-portland-classic-amateur-exemptions-2026</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/lpga-portland-classic-amateur-exemptions-2026</guid>
-    <pubDate>Wed, 04 Mar 2026 15:16:28 +0000</pubDate>
+    <title>Are Beauty Brands Finally Trickling Into Golf?</title>
+    <link>https://skratch.golf/news/golf-culture/supergoop-official-pga-tour-partner-justin-rose-beauty-brands</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/supergoop-official-pga-tour-partner-justin-rose-beauty-brands</guid>
+    <pubDate>Wed, 04 Mar 2026 15:43:59 +0000</pubDate>
     <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;For the first time ever, the winners from the four most prestigious amateur events will get to tee it up in an LPGA event at the same time.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/lpga-portland-classic-amateur-exemptions-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263965129_9f276f4dcb/Getty_Images_2263965129_9f276f4dcb.jpg"/>
+    <description>&lt;p&gt;There&#x27;s no better market for a sunscreen company than golfers—and Supergoop&#x27;s product that feels more like a luxury than a chore.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/supergoop-official-pga-tour-partner-justin-rose-beauty-brands"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Supergoop_PGA_Justin_Rose_80b17c5733/Supergoop_PGA_Justin_Rose_80b17c5733.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -608,6 +600,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>One Of The Best Weeks in Golf, Bottled by Sugarloaf Social Club</title>
+    <link>https://skratch.golf/style/mens-style/one-of-the-best-weeks-in-golf-bottled-by-sugarloaf-social-club</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/one-of-the-best-weeks-in-golf-bottled-by-sugarloaf-social-club</guid>
+    <pubDate>Wed, 04 Mar 2026 02:55:27 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;A collection that channels the spirit of THE PLAYERS.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/one-of-the-best-weeks-in-golf-bottled-by-sugarloaf-social-club"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/SSC_Players_Cover_a63bc9611a/SSC_Players_Cover_a63bc9611a.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Baffling the announce team at Bay Hill, 2009. #tigertuesday</title>
@@ -677,15 +680,18 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>Three Players to Watch (and a Parlay) for the Arnold Palmer Invitational</title>
-    <link>https://skratch.golf/news/news/arnold-palmer-invitational-golf-picks-pga-tour-rory-mcilroy-bay-hill</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/arnold-palmer-invitational-golf-picks-pga-tour-rory-mcilroy-bay-hill</guid>
-    <pubDate>Tue, 03 Mar 2026 20:26:14 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;McIlroy. Fleetwood. Connors. And a +625 parlay to tie it together. Let’s talk Bay Hill.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/arnold-palmer-invitational-golf-picks-pga-tour-rory-mcilroy-bay-hill"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263072625_e983292803/Getty_Images_2263072625_e983292803.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
+    <title>&quot;I don&#x27;t know why we&#x27;re hard and fast set on four major championships&quot;</title>
+    <link>https://www.youtube.com/shorts/HR6wAOj90c8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/HR6wAOj90c8</guid>
+    <pubDate>Tue, 03 Mar 2026 13:30:27 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/HR6wAOj90c8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/HR6wAOj90c8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/HR6wAOj90c8" type="text/html" medium="video"/>
+    <yt:videoId>HR6wAOj90c8</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
   </item>
 </channel>
 </rss>
