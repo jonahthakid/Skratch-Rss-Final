@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 10 Mar 2026 12:50:48 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Mar 2026 14:02:08 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>When Tiger stole Kevin Na’s signature move at the 2019 PLAYERS. 🤣</title>
+    <link>https://www.youtube.com/shorts/a8J_tvvJ-pA</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/a8J_tvvJ-pA</guid>
+    <pubDate>Tue, 10 Mar 2026 13:46:09 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/a8J_tvvJ-pA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/a8J_tvvJ-pA/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/a8J_tvvJ-pA" type="text/html" medium="video"/>
+    <yt:videoId>a8J_tvvJ-pA</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>International Crown-Winning Quartet Headlines Women’s Australian Open</title>
+    <link>https://skratch.golf/news/news/international-crown-team-womens-australian-open-ladies-european-tour-minjee-lee-hannah-green-grace-kim-steph-kyriacou</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/international-crown-team-womens-australian-open-ladies-european-tour-minjee-lee-hannah-green-grace-kim-steph-kyriacou</guid>
+    <pubDate>Tue, 10 Mar 2026 13:09:54 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Team Australia’s International Crown winners Minjee Lee, Hannah Green, Grace Kim and Steph Kyriacou reunite at their home country&#x27;s Open Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/international-crown-team-womens-australian-open-ladies-european-tour-minjee-lee-hannah-green-grace-kim-steph-kyriacou"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2243363373_5619a003ef/Getty_Images_2243363373_5619a003ef.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Major or not, THE PLAYERS is an unbelievable watch.</title>
     <link>https://www.youtube.com/shorts/IwtGZZpuvnY</link>
@@ -470,17 +495,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Rookie Youmin Hwang Leads Blue Bay LPGA, as 22 First-Year Players Compete</title>
-    <link>https://skratch.golf/news/news/blue-bay-lpga-youmin-hwang-rookies-field-round-one-leaderboard</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/blue-bay-lpga-youmin-hwang-rookies-field-round-one-leaderboard</guid>
-    <pubDate>Thu, 05 Mar 2026 14:31:09 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;While you were sleeping, the first round of the final leg of this early Asia swing got underway and the rookies mean business.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/blue-bay-lpga-youmin-hwang-rookies-field-round-one-leaderboard"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Youmin_Hwang_R1_BB_e932b643e4/Youmin_Hwang_R1_BB_e932b643e4.jpeg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>He could ride off into the sunset if he wanted to, but he’s back for more. That’ll fire his boys up.</title>
     <link>https://www.youtube.com/shorts/oHG-joZLxEE</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/oHG-joZLxEE</guid>
@@ -653,20 +667,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/SSC_Players_Cover_a63bc9611a/SSC_Players_Cover_a63bc9611a.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Baffling the announce team at Bay Hill, 2009. #tigertuesday</title>
-    <link>https://www.youtube.com/shorts/s-l8tzhq8rg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/s-l8tzhq8rg</guid>
-    <pubDate>Wed, 04 Mar 2026 00:30:49 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/s-l8tzhq8rg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/s-l8tzhq8rg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/s-l8tzhq8rg" type="text/html" medium="video"/>
-    <yt:videoId>s-l8tzhq8rg</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>A Full Range Session With Justin Thomas At An INSANE Facility</title>
