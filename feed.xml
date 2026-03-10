@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 10 Mar 2026 15:14:33 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Mar 2026 16:31:16 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The PLAYERS Championship Best Bets: Why Rory&#x27;s Still Our Guy</title>
+    <link>https://skratch.golf/news/pro-golf/2026-players-championship-picks-best-bets-who-will-win</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/2026-players-championship-picks-best-bets-who-will-win</guid>
+    <pubDate>Tue, 10 Mar 2026 15:26:49 +0000</pubDate>
+    <dc:creator>Rick Gehman</dc:creator>
+    <description>&lt;p&gt;Plus, why you should keep your eye on Collin Morikawa, Min-Woo Lee, and Viktor Hovland this week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/2026-players-championship-picks-best-bets-who-will-win"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2262728703_9dcd06871e/Getty_Images_2262728703_9dcd06871e.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>When Tiger stole Kevin Na’s signature move at the 2019 PLAYERS. 🤣</title>
     <link>https://www.youtube.com/shorts/a8J_tvvJ-pA</link>
@@ -452,17 +463,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Knapp was a popular pick in the betting community this week, and his WD from Bay Hill sent that group into a tailspin.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jake-knapp-arnold-palmer-invitational-withdraw-bay-hill-betting-favorite"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263016018_202000e449/Getty_Images_2263016018_202000e449.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>SVP and Reece Davis Just Told an Incredible Golf Story About the Late, Great Lou Holtz</title>
-    <link>https://skratch.golf/news/golf-culture/lou-holtz-augusta-national-12th-hole-story-svp</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/lou-holtz-augusta-national-12th-hole-story-svp</guid>
-    <pubDate>Thu, 05 Mar 2026 17:55:19 +0000</pubDate>
-    <dc:creator>Ben Boskovich</dc:creator>
-    <description>&lt;p&gt;I can guarantee you there are few people who play Augusta&#x27;s Par-3 12th this way.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/lou-holtz-augusta-national-12th-hole-story-svp"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_117672643_10365d2619/Getty_Images_117672643_10365d2619.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
