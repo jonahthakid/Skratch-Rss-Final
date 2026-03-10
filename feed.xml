@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 10 Mar 2026 22:22:40 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Mar 2026 22:52:37 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>She saw her opportunity and took it. 🫡</title>
@@ -484,24 +484,13 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Srixon&#x27;s Q-Star Tour Ball Sits Perfectly at the Intersection of Performance and Value</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/srixon-qstar-tour-golf-ball-performance-price</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/srixon-qstar-tour-golf-ball-performance-price</guid>
-    <pubDate>Thu, 05 Mar 2026 19:09:45 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;The brand is once again proving that its Q-Star Tour line should be a top choice for golfers.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/srixon-qstar-tour-golf-ball-performance-price"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Q_star_tour_title_f0ff904222/Q_star_tour_title_f0ff904222.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Jake Knapp Withdrew from API at the Buzzer—and Golf Betting Twitter Is Losing It</title>
-    <link>https://skratch.golf/news/news/jake-knapp-arnold-palmer-invitational-withdraw-bay-hill-betting-favorite</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/jake-knapp-arnold-palmer-invitational-withdraw-bay-hill-betting-favorite</guid>
-    <pubDate>Thu, 05 Mar 2026 18:27:29 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Knapp was a popular pick in the betting community this week, and his WD from Bay Hill sent that group into a tailspin.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jake-knapp-arnold-palmer-invitational-withdraw-bay-hill-betting-favorite"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263016018_202000e449/Getty_Images_2263016018_202000e449.jpg"/>
+    <title>SVP and Reece Davis Just Told an Incredible Golf Story About the Late, Great Lou Holtz</title>
+    <link>https://skratch.golf/news/golf-culture/lou-holtz-augusta-national-12th-hole-story-svp</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/lou-holtz-augusta-national-12th-hole-story-svp</guid>
+    <pubDate>Thu, 05 Mar 2026 17:55:19 +0000</pubDate>
+    <dc:creator>Ben Boskovich</dc:creator>
+    <description>&lt;p&gt;I can guarantee you there are few people who play Augusta&#x27;s Par-3 12th this way.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/lou-holtz-augusta-national-12th-hole-story-svp"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_117672643_10365d2619/Getty_Images_117672643_10365d2619.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -532,17 +521,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Rookie Youmin Hwang Leads Blue Bay LPGA, as 22 First-Year Players Compete</title>
-    <link>https://skratch.golf/news/news/blue-bay-lpga-youmin-hwang-rookies-field-round-one-leaderboard</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/blue-bay-lpga-youmin-hwang-rookies-field-round-one-leaderboard</guid>
-    <pubDate>Thu, 05 Mar 2026 14:31:09 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;While you were sleeping, the first round of the final leg of this early Asia swing got underway and the rookies mean business.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/blue-bay-lpga-youmin-hwang-rookies-field-round-one-leaderboard"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Youmin_Hwang_R1_BB_e932b643e4/Youmin_Hwang_R1_BB_e932b643e4.jpeg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>He could ride off into the sunset if he wanted to, but he’s back for more. That’ll fire his boys up.</title>
@@ -649,6 +627,17 @@ Subscribe to S&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/c701
     <category>video</category>
   </item>
   <item>
+    <title>New Level Irons Offer Forged Precision &amp; Performance</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/new-level-golf-forged-irons-702-in-hand-review</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/new-level-golf-forged-irons-702-in-hand-review</guid>
+    <pubDate>Wed, 04 Mar 2026 16:53:09 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;This is Club in Hand, where we highlight products to help you perform your best on the course, and for this episode, we take a look at the New Level 702 Iron Series.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/new-level-golf-forged-irons-702-in-hand-review"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/702_CB_46b5a51423/702_CB_46b5a51423.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>“Reacting to a missed 3 footer on 16, if they’re spiraling, I’m not going to wire them 9 figures” 😂</title>
     <link>https://www.youtube.com/shorts/qXY8w1txgkw</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/qXY8w1txgkw</guid>
@@ -683,6 +672,20 @@ Subscribe to S&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/c701
     <media:thumbnail url="https://img.youtube.com/vi/IRc5gN52Rc0/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/IRc5gN52Rc0" type="text/html" medium="video"/>
     <yt:videoId>IRc5gN52Rc0</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Willy &amp; The Prince are back.</title>
+    <link>https://www.youtube.com/shorts/JTfOtW1SrXk</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/JTfOtW1SrXk</guid>
+    <pubDate>Tue, 03 Mar 2026 20:45:51 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/JTfOtW1SrXk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/JTfOtW1SrXk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/JTfOtW1SrXk" type="text/html" medium="video"/>
+    <yt:videoId>JTfOtW1SrXk</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
