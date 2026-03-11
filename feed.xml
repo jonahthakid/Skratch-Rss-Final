@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 11 Mar 2026 14:02:25 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Mar 2026 15:10:43 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Brian Rolapp Highlights Six Themes for the PGA TOUR’s Future Schedule</title>
+    <link>https://skratch.golf/news/news/Brian-rolapp-future-pga-tour-schedule-the-players-2026</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/Brian-rolapp-future-pga-tour-schedule-the-players-2026</guid>
+    <pubDate>Wed, 11 Mar 2026 14:52:59 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Match play during the postseason? Two tours? On Wednesday at THE PLAYERS, Brian Rolapp teased what the future of the PGA TOUR&#x27;s schedule could look like.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Brian-rolapp-future-pga-tour-schedule-the-players-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2265958539_77d825d3ca/Getty_Images_2265958539_77d825d3ca.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Simpler times. Boo Weekley scaring the HELL out of Anthony Kim at the 2008 PLAYERS.</title>
     <link>https://www.youtube.com/shorts/JXJlQL5bweI</link>
@@ -63,6 +74,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Inside the Gear Changes at THE PLAYERS</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/players-tpc-sawgrass-gear-scoops</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/players-tpc-sawgrass-gear-scoops</guid>
+    <pubDate>Tue, 10 Mar 2026 20:11:36 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;From new putters to old fairway woods, here’s what players are testing and tweaking at THE PLAYERS.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/players-tpc-sawgrass-gear-scoops"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/TPC_18_1_ffc0858545/TPC_18_1_ffc0858545.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>JT cleaned out his garage and dug out some OLD @titleist.</title>
@@ -633,17 +655,6 @@ Subscribe to Skratch &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shor
     <category>video</category>
   </item>
   <item>
-    <title>New Level Irons Offer Forged Precision &amp; Performance</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/new-level-golf-forged-irons-702-in-hand-review</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/new-level-golf-forged-irons-702-in-hand-review</guid>
-    <pubDate>Wed, 04 Mar 2026 16:53:09 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;This is Club in Hand, where we highlight products to help you perform your best on the course, and for this episode, we take a look at the New Level 702 Iron Series.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/new-level-golf-forged-irons-702-in-hand-review"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/702_CB_46b5a51423/702_CB_46b5a51423.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>“Reacting to a missed 3 footer on 16, if they’re spiraling, I’m not going to wire them 9 figures” 😂</title>
     <link>https://www.youtube.com/shorts/qXY8w1txgkw</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/qXY8w1txgkw</guid>
@@ -667,20 +678,6 @@ Subscribe to Skratch &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shor
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/SSC_Players_Cover_a63bc9611a/SSC_Players_Cover_a63bc9611a.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>A Full Range Session With Justin Thomas At An INSANE Facility</title>
-    <link>https://www.youtube.com/watch?v=IRc5gN52Rc0</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=IRc5gN52Rc0</guid>
-    <pubDate>Tue, 03 Mar 2026 23:01:06 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Justin Thomas joins Dan on the range for a full range session at Panther National, diving into how he hits certain shots, his warmup routine &amp; finishing with Tiger Woods&#x27; famous nine-shot drill.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=IRc5gN52Rc0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/IRc5gN52Rc0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/IRc5gN52Rc0" type="text/html" medium="video"/>
-    <yt:videoId>IRc5gN52Rc0</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
 </channel>
 </rss>
