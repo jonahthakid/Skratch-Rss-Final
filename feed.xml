@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 11 Mar 2026 17:25:24 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Mar 2026 18:08:13 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Let’s go Joel and Geno this week.</title>
@@ -58,6 +58,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Kay Adams at The PLAYERS Has Been a Massive W</title>
+    <link>https://skratch.golf/news/news/kay-adams-players-week-pga-tour-interviews-up-and-adams-show</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/kay-adams-players-week-pga-tour-interviews-up-and-adams-show</guid>
+    <pubDate>Wed, 11 Mar 2026 15:19:40 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Popular sportscaster Kay Adams has been chatting with some of our favorite PGA TOUR guys...and each interview gets better and better.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/kay-adams-players-week-pga-tour-interviews-up-and-adams-show"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1793855009_494712a2dc/Getty_Images_1793855009_494712a2dc.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Read the Full Transcript of Brian Rolapp&#x27;s PLAYERS Press Conference</title>
@@ -441,17 +452,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>Sim Seeking: A Quiet Nook For The Golf Purist in NYC&#x27;s Upper East Side</title>
-    <link>https://skratch.golf/news/golf-culture/sim-seeking-loftlinks-nyc-simulator-golf-best-indoor-golf-locations-episode-4</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/sim-seeking-loftlinks-nyc-simulator-golf-best-indoor-golf-locations-episode-4</guid>
-    <pubDate>Fri, 06 Mar 2026 17:40:57 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;This week we head back uptown to the intimate, no frills of Loftlinks. Here&#x27;s what I discovered.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/sim-seeking-loftlinks-nyc-simulator-golf-best-indoor-golf-locations-episode-4"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/2_square_b10fb5715a/2_square_b10fb5715a.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Will Tiger Play?™️—That, and More Early Masters Storylines to Watch</title>
     <link>https://skratch.golf/news/pro-golf/masters-2026-early-storylines-tiger-woods-rory-mcilroy-augusta-national</link>
     <guid isPermaLink="true">https://skratch.golf/news/pro-golf/masters-2026-early-storylines-tiger-woods-rory-mcilroy-augusta-national</guid>
@@ -488,13 +488,13 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>Titleist Expands AIM Line With More Model Options</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/titleist-aim-golf-balls-visual-technology</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/titleist-aim-golf-balls-visual-technology</guid>
-    <pubDate>Fri, 06 Mar 2026 13:46:27 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;To help more golfers improve consistency on the greens, Titleist is expanding its AIM line of golf balls with new models and new looks.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/titleist-aim-golf-balls-visual-technology"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Titleist_AIM_ball_new_bda007935f/Titleist_AIM_ball_new_bda007935f.jpg"/>
+    <title>Auston Kim in the Hunt at Blue Bay LPGA After Another Strong Start</title>
+    <link>https://skratch.golf/news/news/lpga-blue-bay-2026-auston-kim-second-round-recap</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-blue-bay-2026-auston-kim-second-round-recap</guid>
+    <pubDate>Fri, 06 Mar 2026 13:51:53 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;&quot;I prefer being in contention either way.&quot;&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-blue-bay-2026-auston-kim-second-round-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2265059545_8b92ca69ce/Getty_Images_2265059545_8b92ca69ce.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -511,17 +511,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>These Early Storylines Could Define The 2026 Augusta National Women’s Amateur</title>
-    <link>https://skratch.golf/news/news/2026-augusta-national-womens-amateur-anwa-preview-storylines</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/2026-augusta-national-womens-amateur-anwa-preview-storylines</guid>
-    <pubDate>Thu, 05 Mar 2026 22:00:59 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Players to watch, champion perks, and everything in between. Here&#x27;s what has our attention leading into the best week in women&#x27;s amateur golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-augusta-national-womens-amateur-anwa-preview-storylines"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/anwa_header_2642b8947d/anwa_header_2642b8947d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Blaming caddies is a big, ugly, giant RED FLAG. @manorsgolf</title>
@@ -678,6 +667,20 @@ Dan travels all year and never leav&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.yo
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/SSC_Players_Cover_a63bc9611a/SSC_Players_Cover_a63bc9611a.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>A Full Range Session With Justin Thomas At An INSANE Facility</title>
+    <link>https://www.youtube.com/watch?v=IRc5gN52Rc0</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=IRc5gN52Rc0</guid>
+    <pubDate>Tue, 03 Mar 2026 23:01:06 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Justin Thomas joins Dan on the range for a full range session at Panther National, diving into how he hits certain shots, his warmup routine &amp; finishing with Tiger Woods&#x27; famous nine-shot drill.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=IRc5gN52Rc0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/IRc5gN52Rc0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/IRc5gN52Rc0" type="text/html" medium="video"/>
+    <yt:videoId>IRc5gN52Rc0</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
   </item>
 </channel>
 </rss>
