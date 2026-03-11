@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 11 Mar 2026 19:14:03 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Mar 2026 19:56:00 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Inside Brian Rolapp&#x27;s Thunderdome at The Players Championship</title>
@@ -19,6 +19,17 @@
     <dc:creator>Alan Shipnuck</dc:creator>
     <description>&lt;p&gt;This morning, the media—and everyone at PGA TOUR HQ—experienced the clear-eyed, well-considered vision of an outsider who is unburdened by the compromises and controversies of his predecessor.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/brian-rolapp-pga-tour-press-conference-media-wednesday-analysis-reaction"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2265985246_e0ac8fd157/Getty_Images_2265985246_e0ac8fd157.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The Curious Case of Jordan Spieth and THE PLAYERS</title>
+    <link>https://skratch.golf/news/news/the-players-championship-jordan-spieth-chances-to-win-tpc-sawgrass-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/the-players-championship-jordan-spieth-chances-to-win-tpc-sawgrass-pga-tour</guid>
+    <pubDate>Wed, 11 Mar 2026 18:58:16 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;TPC Sawgrass hasn&#x27;t been too kind to Jordan Spieth during his career—can that change this time around?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-players-championship-jordan-spieth-chances-to-win-tpc-sawgrass-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2262555219_a3efe798da/Getty_Images_2262555219_a3efe798da.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -461,17 +472,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Will Tiger Play?™️—That, and More Early Masters Storylines to Watch</title>
-    <link>https://skratch.golf/news/pro-golf/masters-2026-early-storylines-tiger-woods-rory-mcilroy-augusta-national</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/masters-2026-early-storylines-tiger-woods-rory-mcilroy-augusta-national</guid>
-    <pubDate>Fri, 06 Mar 2026 17:05:44 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;With the Masters 34 days away, I’ve got a few things on my mind as Augusta approaches—starting with the big one.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/masters-2026-early-storylines-tiger-woods-rory-mcilroy-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Look_Back_Tiger_Cover_562011d65d/Look_Back_Tiger_Cover_562011d65d.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Come play a hole with Min Woo Lee at Bay Hill</title>
