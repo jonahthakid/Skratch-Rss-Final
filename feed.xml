@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 12 Mar 2026 13:59:32 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Mar 2026 14:56:30 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Of all the places in the world to hit a shank, 17 at TPC Sawgrass might be the WORST. 😭</title>
@@ -132,6 +132,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;TPC Sawgrass hasn&#x27;t been too kind to Jordan Spieth during his career—can that change this time around?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-players-championship-jordan-spieth-chances-to-win-tpc-sawgrass-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2262555219_a3efe798da/Getty_Images_2262555219_a3efe798da.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>New Oil Can Finish Spices Up Titleist T-Series Irons</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/titleist-t-series-oil-can-finish-limited-irons</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/titleist-t-series-oil-can-finish-limited-irons</guid>
+    <pubDate>Wed, 11 Mar 2026 18:49:39 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;As irons with limited edition finishes gain popularity, Titleist ups its game with a fresh take on a classic look.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/titleist-t-series-oil-can-finish-limited-irons"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Oil_Can_t_series_a8131f3b0b/Oil_Can_t_series_a8131f3b0b.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -533,17 +544,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;Whether you&#x27;re a touring pro or trying to break 80, Berger&#x27;s recent driver insights can help you dial things in off the tee.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/daniel-berger-driver-witb-ping-440-lst-api-bay-hill"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2265145012_0b786a82d8/Getty_Images_2265145012_0b786a82d8.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>In Praise of Scottie Scheffler and One of Golf&#x27;s Most Liberating Feelings</title>
-    <link>https://skratch.golf/news/pro-golf/scottie-scheffler-throws-ball-water-woods-arnold-palmer-invitational</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/scottie-scheffler-throws-ball-water-woods-arnold-palmer-invitational</guid>
-    <pubDate>Sun, 08 Mar 2026 00:00:45 +0000</pubDate>
-    <dc:creator>Ben Boskovich</dc:creator>
-    <description>&lt;p&gt;Sometimes it&#x27;s a body of water, other times it&#x27;s acres of woods. Hurling your golf ball into oblivion is our god-given right.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/scottie-scheffler-throws-ball-water-woods-arnold-palmer-invitational"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_03_07_at_3_55_41_PM_fd0698c7e5/Screenshot_2026_03_07_at_3_55_41_PM_fd0698c7e5.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
