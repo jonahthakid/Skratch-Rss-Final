@@ -9,8 +9,44 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 12 Mar 2026 19:38:41 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Mar 2026 20:28:08 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Are You Kidding Me, Tommy? THE PLAYERS Fit Goes Crazy</title>
+    <link>https://skratch.golf/style/mens-style/tommy-fleetwood-golf-style-players-nike-johnnieo-lululemon-no-sponsorship</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/tommy-fleetwood-golf-style-players-nike-johnnieo-lululemon-no-sponsorship</guid>
+    <pubDate>Thu, 12 Mar 2026 20:18:58 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;Nike, Lululemon, Johnnie-O… and a reminder that golf style is better when it isn’t uniform.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/tommy-fleetwood-golf-style-players-nike-johnnieo-lululemon-no-sponsorship"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Tommy_THE_PLAYERS_Cover_c797fa6c27/Tommy_THE_PLAYERS_Cover_c797fa6c27.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>JT is back on your leaderboard at THE PLAYERS. Watch him absolutely flush it in a full range session</title>
+    <link>https://www.youtube.com/shorts/GXjLEIK_HfA</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/GXjLEIK_HfA</guid>
+    <pubDate>Thu, 12 Mar 2026 20:12:15 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/GXjLEIK_HfA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/GXjLEIK_HfA/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/GXjLEIK_HfA" type="text/html" medium="video"/>
+    <yt:videoId>GXjLEIK_HfA</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>After a WD from THE PLAYERS, Ryan Fox had Surgery for Kidney Stones</title>
+    <link>https://skratch.golf/news/news/Ryan-fox-kidney-stones-wd-the-players-2026-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/Ryan-fox-kidney-stones-wd-the-players-2026-pga-tour</guid>
+    <pubDate>Thu, 12 Mar 2026 20:00:55 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Ryan Fox had a VERY good reason for his WD from THE PLAYERS on Thursday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Ryan-fox-kidney-stones-wd-the-players-2026-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2264811606_29c5902ec9/Getty_Images_2264811606_29c5902ec9.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>We apologize to anyone who got a Karl autograph back in 2018. 😭</title>
     <link>https://www.youtube.com/shorts/pBhXU8GCpVE</link>
@@ -512,17 +548,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>The Boys are Back Together (For Just THE PLAYERS)</title>
-    <link>https://skratch.golf/news/news/Joel-dahmen-geno-bonnalie-the-players-2026-back-together</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/Joel-dahmen-geno-bonnalie-the-players-2026-back-together</guid>
-    <pubDate>Mon, 09 Mar 2026 14:52:56 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Joel Dahmen will have his long-time friend Geno Bonnalie back on the bag for THE PLAYERS.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Joel-dahmen-geno-bonnalie-the-players-2026-back-together"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1492046316_cb7de392cb/Getty_Images_1492046316_cb7de392cb.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Making par the HARD way. 😭</title>
     <link>https://www.youtube.com/shorts/DKSJFBczhN0</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/DKSJFBczhN0</guid>
@@ -544,6 +569,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;The major winner is now a missus! Inside her LPGA star-studded wedding.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lexi-thompson-wedding-lpga-tour-star-studded-guest-list"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2158793339_44f8db621c/Getty_Images_2158793339_44f8db621c.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>In a Sea of Rookies, Veteran Player Mi Hyang Lee Prevails at Blue Bay</title>
+    <link>https://skratch.golf/news/news/mi-hyang-lee-lpga-tour-blue-bay-lpga-2026-winner-recap</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/mi-hyang-lee-lpga-tour-blue-bay-lpga-2026-winner-recap</guid>
+    <pubDate>Mon, 09 Mar 2026 12:35:16 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;After nine years since her last win, the 32-year-old secured her third LPGA title with a rollercoaster final round (that included five birdies, two bogeys, and two double bogeys!!).&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/mi-hyang-lee-lpga-tour-blue-bay-lpga-2026-winner-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Mi_Hyang_Lee_RD_4_BB_Trophy2_df6bf2bc9b/Mi_Hyang_Lee_RD_4_BB_Trophy2_df6bf2bc9b.jpeg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -601,17 +637,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>Puma Golf Shows Its Range With the Latest Arnold Palmer Collection</title>
-    <link>https://skratch.golf/style/mens-style/puma-golf-s-arnold-palmer-collection-returns-to-bay-hill</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/puma-golf-s-arnold-palmer-collection-returns-to-bay-hill</guid>
-    <pubDate>Fri, 06 Mar 2026 14:42:58 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;From the new Avant footwear to classic umbrella details, Puma keeps Palmer’s presence alive on TOUR.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/puma-golf-s-arnold-palmer-collection-returns-to-bay-hill"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Puma_Golf_API_Cover_ec0dc561d8/Puma_Golf_API_Cover_ec0dc561d8.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Blaming caddies is a big, ugly, giant RED FLAG. @manorsgolf</title>
     <link>https://www.youtube.com/shorts/_JhH9egbVjM</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/_JhH9egbVjM</guid>
@@ -635,34 +660,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://img.youtube.com/vi/4gaPKKQMrpw/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/4gaPKKQMrpw" type="text/html" medium="video"/>
     <yt:videoId>4gaPKKQMrpw</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>He’s certainly not taking the path of least resistance.</title>
-    <link>https://www.youtube.com/shorts/UKLbOazYHdo</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/UKLbOazYHdo</guid>
-    <pubDate>Thu, 05 Mar 2026 17:14:12 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/UKLbOazYHdo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/UKLbOazYHdo/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/UKLbOazYHdo" type="text/html" medium="video"/>
-    <yt:videoId>UKLbOazYHdo</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>He could ride off into the sunset if he wanted to, but he’s back for more. That’ll fire his boys up.</title>
-    <link>https://www.youtube.com/shorts/oHG-joZLxEE</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/oHG-joZLxEE</guid>
-    <pubDate>Thu, 05 Mar 2026 00:51:59 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/oHG-joZLxEE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/oHG-joZLxEE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/oHG-joZLxEE" type="text/html" medium="video"/>
-    <yt:videoId>oHG-joZLxEE</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
