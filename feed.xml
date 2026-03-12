@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 12 Mar 2026 21:00:36 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Mar 2026 21:53:53 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Are You Kidding Me, Tommy? THE PLAYERS Fit Goes Crazy</title>
@@ -389,6 +389,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
+    <title>5 UV Protection Golf Staples Every Golfer Should Own</title>
+    <link>https://skratch.golf/style/mens-style/golf-sun-staples-uv-protection-style</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/golf-sun-staples-uv-protection-style</guid>
+    <pubDate>Tue, 10 Mar 2026 17:12:36 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;For golfers who’d rather play than reapply sunscreen.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/golf-sun-staples-uv-protection-style"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/UV_Cover_d5205a5ebc/UV_Cover_d5205a5ebc.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>The PLAYERS Championship Best Bets: Why Rory&#x27;s Still Our Guy</title>
     <link>https://skratch.golf/news/pro-golf/2026-players-championship-picks-best-bets-who-will-win</link>
     <guid isPermaLink="true">https://skratch.golf/news/pro-golf/2026-players-championship-picks-best-bets-who-will-win</guid>
@@ -569,17 +580,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;The major winner is now a missus! Inside her LPGA star-studded wedding.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lexi-thompson-wedding-lpga-tour-star-studded-guest-list"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2158793339_44f8db621c/Getty_Images_2158793339_44f8db621c.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>In a Sea of Rookies, Veteran Player Mi Hyang Lee Prevails at Blue Bay</title>
-    <link>https://skratch.golf/news/news/mi-hyang-lee-lpga-tour-blue-bay-lpga-2026-winner-recap</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/mi-hyang-lee-lpga-tour-blue-bay-lpga-2026-winner-recap</guid>
-    <pubDate>Mon, 09 Mar 2026 12:35:16 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;After nine years since her last win, the 32-year-old secured her third LPGA title with a rollercoaster final round (that included five birdies, two bogeys, and two double bogeys!!).&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/mi-hyang-lee-lpga-tour-blue-bay-lpga-2026-winner-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Mi_Hyang_Lee_RD_4_BB_Trophy2_df6bf2bc9b/Mi_Hyang_Lee_RD_4_BB_Trophy2_df6bf2bc9b.jpeg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
