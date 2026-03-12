@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 12 Mar 2026 16:58:14 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Mar 2026 17:50:27 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Volatility to the Max</title>
+    <link>https://skratch.golf/news/news/the-players-2026-max-homa-wild-scores-tpc-sawgrass-max-greyserman</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/the-players-2026-max-homa-wild-scores-tpc-sawgrass-max-greyserman</guid>
+    <pubDate>Thu, 12 Mar 2026 17:36:42 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;A couple guys named Max put up some crazy scores at THE PLAYERS on Thursday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-players-2026-max-homa-wild-scores-tpc-sawgrass-max-greyserman"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266134237_f7d98af7cc/Getty_Images_2266134237_f7d98af7cc.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>LPGA’s First Full-Field Event of 2026 Features a Major-Caliber Lineup</title>
     <link>https://skratch.golf/news/news/lpga-founders-cup-first-full-field-event-2026-big-stars</link>
@@ -483,17 +494,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;THE PLAYERS has arrived. Here&#x27;s all the information you need to watch the action from TPC Sawgrass this week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/the-players-how-to-watch-pga-tour-tee-times-tpc-sawgrass"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2205064301_989cac1b08/Getty_Images_2205064301_989cac1b08.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Boys are Back Together (For Just THE PLAYERS)</title>
-    <link>https://skratch.golf/news/news/Joel-dahmen-geno-bonnalie-the-players-2026-back-together</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/Joel-dahmen-geno-bonnalie-the-players-2026-back-together</guid>
-    <pubDate>Mon, 09 Mar 2026 14:52:56 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Joel Dahmen will have his long-time friend Geno Bonnalie back on the bag for THE PLAYERS.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Joel-dahmen-geno-bonnalie-the-players-2026-back-together"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1492046316_cb7de392cb/Getty_Images_1492046316_cb7de392cb.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
