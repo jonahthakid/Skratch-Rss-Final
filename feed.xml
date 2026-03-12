@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 12 Mar 2026 12:44:51 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Mar 2026 13:59:32 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Of all the places in the world to hit a shank, 17 at TPC Sawgrass might be the WORST. 😭</title>
+    <link>https://www.youtube.com/shorts/RjI2Fa81sE4</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/RjI2Fa81sE4</guid>
+    <pubDate>Thu, 12 Mar 2026 13:25:46 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/RjI2Fa81sE4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/RjI2Fa81sE4/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/RjI2Fa81sE4" type="text/html" medium="video"/>
+    <yt:videoId>RjI2Fa81sE4</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Watch the Moment Collin Morikawa’s 2026 PLAYERS Week Abruptly Ended</title>
+    <link>https://skratch.golf/news/news/Collin-morikawa-the-players-2026-withdrew-wd-tpc-sawgrass</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/Collin-morikawa-the-players-2026-withdrew-wd-tpc-sawgrass</guid>
+    <pubDate>Thu, 12 Mar 2026 13:20:29 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;“I just knew it was gone,” Morikawa said after one practice swing&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Collin-morikawa-the-players-2026-withdrew-wd-tpc-sawgrass"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266120114_cf0a3277af/Getty_Images_2266120114_cf0a3277af.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>How can you not be rooting for Gary Woodland?</title>
     <link>https://www.youtube.com/shorts/okXaMROncHY</link>
@@ -574,31 +599,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Puma_Golf_API_Cover_ec0dc561d8/Puma_Golf_API_Cover_ec0dc561d8.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Auston Kim in the Hunt at Blue Bay LPGA After Another Strong Start</title>
-    <link>https://skratch.golf/news/news/lpga-blue-bay-2026-auston-kim-second-round-recap</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-blue-bay-2026-auston-kim-second-round-recap</guid>
-    <pubDate>Fri, 06 Mar 2026 13:51:53 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;&quot;I prefer being in contention either way.&quot;&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-blue-bay-2026-auston-kim-second-round-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2265059545_8b92ca69ce/Getty_Images_2265059545_8b92ca69ce.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>No pressure like bungee jumping off a cliff 🤣</title>
-    <link>https://www.youtube.com/shorts/DihUYKHz_wM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/DihUYKHz_wM</guid>
-    <pubDate>Thu, 05 Mar 2026 22:17:28 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/DihUYKHz_wM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/DihUYKHz_wM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/DihUYKHz_wM" type="text/html" medium="video"/>
-    <yt:videoId>DihUYKHz_wM</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Blaming caddies is a big, ugly, giant RED FLAG. @manorsgolf</title>
