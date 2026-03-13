@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 13 Mar 2026 19:53:06 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Mar 2026 20:27:46 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>It&#x27;s only appropriate that we&#x27;re playing #17 on Friday the 13th.</title>
@@ -44,6 +44,17 @@
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Folks, it&#x27;s time to prepare for the #SpiethExperience at THE PLAYERS this weekend.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Jordan-spieth-the-players-2026-low-second-round-scores-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2265793798_c77f4eeef4/Getty_Images_2265793798_c77f4eeef4.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Ping Is Going The Distance With G740 &amp; i540 Irons</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/new-ping-irons-g740-i540-players-distance</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/new-ping-irons-g740-i540-players-distance</guid>
+    <pubDate>Fri, 13 Mar 2026 16:23:54 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Ping&#x27;s newest G and i-series irons deliver on the promise of speed, forgiveness, and stopping power.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/new-ping-irons-g740-i540-players-distance"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Ping_i540_iron_title_53cf619329/Ping_i540_iron_title_53cf619329.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -540,17 +551,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;Team Australia’s International Crown winners Minjee Lee, Hannah Green, Grace Kim and Steph Kyriacou reunite at their home country&#x27;s Open Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/international-crown-team-womens-australian-open-ladies-european-tour-minjee-lee-hannah-green-grace-kim-steph-kyriacou"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2243363373_5619a003ef/Getty_Images_2243363373_5619a003ef.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>THE PLAYERS Doesn’t Need a Promotion, Even If It Deserves One</title>
-    <link>https://skratch.golf/news/pro-golf/the-players-championship-major-debate-not-necessary</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/the-players-championship-major-debate-not-necessary</guid>
-    <pubDate>Tue, 10 Mar 2026 01:53:05 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;There&#x27;s a ton of value in THE PLAYERS remaining what it already is: the best non-major in the world.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/the-players-championship-major-debate-not-necessary"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2204749934_2b165a7776/Getty_Images_2204749934_2b165a7776.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
