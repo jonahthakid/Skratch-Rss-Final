@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 13 Mar 2026 21:00:53 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Mar 2026 21:54:01 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Looking back at Craig Perks’ unbelievable finish to the 2002 PLAYERS and the club behind the magic.</title>
+    <link>https://www.youtube.com/shorts/A0mDdrBO66Q</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/A0mDdrBO66Q</guid>
+    <pubDate>Fri, 13 Mar 2026 21:35:57 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/A0mDdrBO66Q"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/A0mDdrBO66Q/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/A0mDdrBO66Q" type="text/html" medium="video"/>
+    <yt:videoId>A0mDdrBO66Q</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>It&#x27;s only appropriate that we&#x27;re playing #17 on Friday the 13th.</title>
     <link>https://www.youtube.com/shorts/KU7jBUCaS9c</link>
@@ -517,20 +531,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/TPC_18_1_ffc0858545/TPC_18_1_ffc0858545.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>JT cleaned out his garage and dug out some OLD @titleist.</title>
-    <link>https://www.youtube.com/shorts/4cwwoneX0Ik</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/4cwwoneX0Ik</guid>
-    <pubDate>Tue, 10 Mar 2026 18:26:57 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Ryan gets the scoop from the man himself at THE PLAYERS.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/4cwwoneX0Ik"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/4cwwoneX0Ik/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/4cwwoneX0Ik" type="text/html" medium="video"/>
-    <yt:videoId>4cwwoneX0Ik</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>5 UV Protection Golf Staples Every Golfer Should Own</title>
