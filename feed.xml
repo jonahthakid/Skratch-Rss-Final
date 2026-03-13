@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 13 Mar 2026 12:43:43 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Mar 2026 13:56:46 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Pranking golfers by telling them 17 at TPC Sawgrass is CLOSED went exactly how you think it would.😭</title>
+    <link>https://www.youtube.com/shorts/ZPry9Qo5HT0</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/ZPry9Qo5HT0</guid>
+    <pubDate>Fri, 13 Mar 2026 12:39:47 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ZPry9Qo5HT0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/ZPry9Qo5HT0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/ZPry9Qo5HT0" type="text/html" medium="video"/>
+    <yt:videoId>ZPry9Qo5HT0</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>You could throw a blanket over these shots with the new Callaway Quantum Drivers</title>
     <link>https://www.youtube.com/shorts/geBbFPDcYpU</link>
@@ -593,20 +607,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2205064301_989cac1b08/Getty_Images_2205064301_989cac1b08.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Making par the HARD way. 😭</title>
-    <link>https://www.youtube.com/shorts/DKSJFBczhN0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/DKSJFBczhN0</guid>
-    <pubDate>Mon, 09 Mar 2026 14:24:19 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/DKSJFBczhN0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/DKSJFBczhN0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/DKSJFBczhN0" type="text/html" medium="video"/>
-    <yt:videoId>DKSJFBczhN0</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Lexi Thompson Ties the Knot With a Tuscan-Themed Ceremony</title>
