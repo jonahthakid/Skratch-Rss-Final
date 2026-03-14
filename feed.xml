@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 14 Mar 2026 12:37:52 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Mar 2026 13:41:09 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Walk &amp; Talk at THE PLAYERS Championship</title>
+    <link>https://www.youtube.com/watch?v=7_eLLl4VA_Q</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=7_eLLl4VA_Q</guid>
+    <pubDate>Sat, 14 Mar 2026 13:00:24 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;An extended course report inside the ropes at THE PLAYERS Championship. Walk &amp; talk with Ashkay Bhatia, Jake Knapp, Shane Lowry &amp; many more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=7_eLLl4VA_Q"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/7_eLLl4VA_Q/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/7_eLLl4VA_Q" type="text/html" medium="video"/>
+    <yt:videoId>7_eLLl4VA_Q</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>The Sanctity of The Cut Line Is More Than Alive at TPC Sawgrass</title>
     <link>https://skratch.golf/news/pro-golf/players-championship-2026-cut-line-reactions-field-interview</link>
@@ -651,20 +665,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://img.youtube.com/vi/tAXqfllMn6U/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/tAXqfllMn6U" type="text/html" medium="video"/>
     <yt:videoId>tAXqfllMn6U</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Blaming caddies is a big, ugly, giant RED FLAG. @manorsgolf</title>
-    <link>https://www.youtube.com/shorts/_JhH9egbVjM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/_JhH9egbVjM</guid>
-    <pubDate>Thu, 05 Mar 2026 21:00:45 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/_JhH9egbVjM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/_JhH9egbVjM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/_JhH9egbVjM" type="text/html" medium="video"/>
-    <yt:videoId>_JhH9egbVjM</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
