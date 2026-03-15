@@ -9,8 +9,30 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 15 Mar 2026 19:23:47 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Mar 2026 19:47:58 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>We May Not See Rory McIlroy Until the Masters</title>
+    <link>https://skratch.golf/news/news/the-players-rory-mcilroy-next-start-masters-augusta-national</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/the-players-rory-mcilroy-next-start-masters-augusta-national</guid>
+    <pubDate>Sun, 15 Mar 2026 18:51:21 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The defending Masters champion says he wants to see how his body responds before deciding if he&#x27;ll play again before Augusta.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-players-rory-mcilroy-next-start-masters-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266633235_ec7b250c67/Getty_Images_2266633235_ec7b250c67.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Mic’d-Up PGA TOUR Content from NFL Films? Yes, Please.</title>
+    <link>https://skratch.golf/news/news/the-players-nfl-films-pga-tour-chasing-sunday</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/the-players-nfl-films-pga-tour-chasing-sunday</guid>
+    <pubDate>Sun, 15 Mar 2026 17:39:04 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Some of the best content in sports is coming to the PGA TOUR on Tuesday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-players-nfl-films-pga-tour-chasing-sunday"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266496994_af8fde51c1/Getty_Images_2266496994_af8fde51c1.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>We Finally Got Our First Hole-In-One at The 2026 PLAYERS. No, Not There.</title>
     <link>https://skratch.golf/news/news/2026-players-hole-in-one-tpc-sawgrass-chad-ramey</link>
@@ -497,17 +519,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Kay Adams at The PLAYERS Has Been a Massive W</title>
-    <link>https://skratch.golf/news/news/kay-adams-players-week-pga-tour-interviews-up-and-adams-show</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/kay-adams-players-week-pga-tour-interviews-up-and-adams-show</guid>
-    <pubDate>Wed, 11 Mar 2026 15:19:40 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Popular sportscaster Kay Adams has been chatting with some of our favorite PGA TOUR guys...and each interview gets better and better.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/kay-adams-players-week-pga-tour-interviews-up-and-adams-show"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1793855009_494712a2dc/Getty_Images_1793855009_494712a2dc.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Read the Full Transcript of Brian Rolapp&#x27;s PLAYERS Press Conference</title>
     <link>https://skratch.golf/news/pro-golf/brian-rolapp-future-pga-tour-press-conference-full-transcript</link>
     <guid isPermaLink="true">https://skratch.golf/news/pro-golf/brian-rolapp-future-pga-tour-press-conference-full-transcript</guid>
@@ -556,17 +567,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>This Trend Says Half the Field May Already Be Eliminated From Winning THE PLAYERS</title>
-    <link>https://skratch.golf/news/news/2026-players-championship-trending-stories-to-watch</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/2026-players-championship-trending-stories-to-watch</guid>
-    <pubDate>Tue, 10 Mar 2026 21:36:50 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;There&#x27;s an interesting stat tied to tee times that could come into play in 2026. That, and two more storylines watch at TPC Sawgrass this week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-players-championship-trending-stories-to-watch"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263035130_efb66359f1/Getty_Images_2263035130_efb66359f1.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>She saw her opportunity and took it. 🫡</title>
