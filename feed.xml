@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 15 Mar 2026 22:53:28 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Mar 2026 23:23:20 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Cameron Young Went Hunting at Sawgrass—and Bagged THE PLAYERS</title>
+    <link>https://skratch.golf/news/news/the-players-cameron-young-wins-tpc-sawgrass-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/the-players-cameron-young-wins-tpc-sawgrass-pga-tour</guid>
+    <pubDate>Sun, 15 Mar 2026 22:54:16 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Major League gave us one of the most iconic GIFs in sports. Turns out it perfectly sums up Cameron Young winning THE PLAYERS.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-players-cameron-young-wins-tpc-sawgrass-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266695417_590e27afd4/Getty_Images_2266695417_590e27afd4.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Cam Young. PLAYERS Champ. @RickRunGood knew it all along.</title>
     <link>https://www.youtube.com/shorts/k9IjHKuFH-s</link>
@@ -556,17 +567,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Read the Full Transcript of Brian Rolapp&#x27;s PLAYERS Press Conference</title>
-    <link>https://skratch.golf/news/pro-golf/brian-rolapp-future-pga-tour-press-conference-full-transcript</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/brian-rolapp-future-pga-tour-press-conference-full-transcript</guid>
-    <pubDate>Wed, 11 Mar 2026 15:11:10 +0000</pubDate>
-    <dc:creator>Brittany Romano</dc:creator>
-    <description>&lt;p&gt;During a press conference at THE PLAYERS, PGA TOUR CEO Brian Rolapp discussed potential schedule changes, field sizes, promotion and relegation, and the long-term future of the TOUR. Here&#x27;s the full tape.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/brian-rolapp-future-pga-tour-press-conference-full-transcript"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2265958540_aaf77b9a6d/Getty_Images_2265958540_aaf77b9a6d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Simpler times. Boo Weekley scaring the HELL out of Anthony Kim at the 2008 PLAYERS.</title>
