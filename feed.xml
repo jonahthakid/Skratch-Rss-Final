@@ -1,4 +1,5 @@
-<!-- Warning: Error fetching Dan On Golf Show: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
+<!-- Warning: Error fetching Skratch: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwtGQ3sgidNlQGbIUBPP3xw -->
+<!-- Warning: Error fetching Dan On Golf Show: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -10,7 +11,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 15 Mar 2026 04:28:49 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Mar 2026 05:50:14 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>The Sanctity of The Cut Line Is More Than Alive at TPC Sawgrass</title>
@@ -33,34 +34,6 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266361024_f6860f1e40/Getty_Images_2266361024_f6860f1e40.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Looking back at Craig Perks’ unbelievable finish to the 2002 PLAYERS and the club behind the magic.</title>
-    <link>https://www.youtube.com/shorts/A0mDdrBO66Q</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/A0mDdrBO66Q</guid>
-    <pubDate>Fri, 13 Mar 2026 21:35:57 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/A0mDdrBO66Q"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/A0mDdrBO66Q/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/A0mDdrBO66Q" type="text/html" medium="video"/>
-    <yt:videoId>A0mDdrBO66Q</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>It&#x27;s only appropriate that we&#x27;re playing #17 on Friday the 13th.</title>
-    <link>https://www.youtube.com/shorts/KU7jBUCaS9c</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/KU7jBUCaS9c</guid>
-    <pubDate>Fri, 13 Mar 2026 18:10:39 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/KU7jBUCaS9c"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/KU7jBUCaS9c/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/KU7jBUCaS9c" type="text/html" medium="video"/>
-    <yt:videoId>KU7jBUCaS9c</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Tom Hoge’s Quintuple-Bogey Nine at THE PLAYERS is Must-Watch Stuff</title>
@@ -107,20 +80,6 @@
     <category>article</category>
   </item>
   <item>
-    <title>No one like him on TOUR. Come play a hole with Si Woo at TPC Sawgrass.</title>
-    <link>https://www.youtube.com/shorts/hUSgqdNkJu8</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/hUSgqdNkJu8</guid>
-    <pubDate>Fri, 13 Mar 2026 14:51:58 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/hUSgqdNkJu8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/hUSgqdNkJu8/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/hUSgqdNkJu8" type="text/html" medium="video"/>
-    <yt:videoId>hUSgqdNkJu8</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>PXG Offers Up Next-Gen Stick&#x27;em Wedges</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/pxg-stickem-wedges-forged-grooves-spin</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/pxg-stickem-wedges-forged-grooves-spin</guid>
@@ -130,56 +89,6 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/PXG_Stickem_wedge_title_18ba7bf074/PXG_Stickem_wedge_title_18ba7bf074.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Pranking golfers by telling them 17 at TPC Sawgrass is CLOSED went exactly how you think it would.😭</title>
-    <link>https://www.youtube.com/shorts/ZPry9Qo5HT0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ZPry9Qo5HT0</guid>
-    <pubDate>Fri, 13 Mar 2026 12:39:47 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ZPry9Qo5HT0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ZPry9Qo5HT0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ZPry9Qo5HT0" type="text/html" medium="video"/>
-    <yt:videoId>ZPry9Qo5HT0</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>You could throw a blanket over these shots with the new Callaway Quantum Drivers</title>
-    <link>https://www.youtube.com/shorts/geBbFPDcYpU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/geBbFPDcYpU</guid>
-    <pubDate>Thu, 12 Mar 2026 22:35:01 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Ryan Barath is back with another Bench Tested featuring the @callawaygolf Quantum Max, Triple Diamond Max, and Triple Diamond that focus on new face tech and consistency.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavo&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/geBbFPDcYpU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/geBbFPDcYpU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/geBbFPDcYpU" type="text/html" medium="video"/>
-    <yt:videoId>geBbFPDcYpU</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Get the DISPERSION OF YOUR DREAMS with Callaway&#x27;s New Quantum Drivers | Bench Tested</title>
-    <link>https://www.youtube.com/watch?v=uOtbgFjPnzA</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=uOtbgFjPnzA</guid>
-    <pubDate>Thu, 12 Mar 2026 22:31:29 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Skratch&#x27;s resident gear expert Ryan Barath tries the new face tech and consistency of the @callawaygolf Quantum Max, Triple Diamond Max, and Triple Diamond in this episode of Bench Tested.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game,&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=uOtbgFjPnzA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/uOtbgFjPnzA/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/uOtbgFjPnzA" type="text/html" medium="video"/>
-    <yt:videoId>uOtbgFjPnzA</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Are You Kidding Me, Tommy? THE PLAYERS Fit Goes Crazy</title>
@@ -202,20 +111,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2264811606_29c5902ec9/Getty_Images_2264811606_29c5902ec9.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>We apologize to anyone who got a Karl autograph back in 2018. 😭</title>
-    <link>https://www.youtube.com/shorts/pBhXU8GCpVE</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/pBhXU8GCpVE</guid>
-    <pubDate>Thu, 12 Mar 2026 18:04:59 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/pBhXU8GCpVE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/pBhXU8GCpVE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/pBhXU8GCpVE" type="text/html" medium="video"/>
-    <yt:videoId>pBhXU8GCpVE</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Volatility to the Max</title>
@@ -262,20 +157,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>Of all the places in the world to hit a shank, 17 at TPC Sawgrass might be the WORST. 😭</title>
-    <link>https://www.youtube.com/shorts/RjI2Fa81sE4</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/RjI2Fa81sE4</guid>
-    <pubDate>Thu, 12 Mar 2026 13:25:46 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/RjI2Fa81sE4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/RjI2Fa81sE4/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/RjI2Fa81sE4" type="text/html" medium="video"/>
-    <yt:videoId>RjI2Fa81sE4</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Watch the Moment Collin Morikawa’s 2026 PLAYERS Week Abruptly Ended</title>
     <link>https://skratch.golf/news/news/Collin-morikawa-the-players-2026-withdrew-wd-tpc-sawgrass</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/Collin-morikawa-the-players-2026-withdrew-wd-tpc-sawgrass</guid>
@@ -285,34 +166,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266120114_cf0a3277af/Getty_Images_2266120114_cf0a3277af.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>The most delayed club twirl in PLAYERS history, courtesy of JT. 😅</title>
-    <link>https://www.youtube.com/shorts/rnfhyUY36CU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/rnfhyUY36CU</guid>
-    <pubDate>Wed, 11 Mar 2026 22:00:56 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/rnfhyUY36CU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/rnfhyUY36CU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/rnfhyUY36CU" type="text/html" medium="video"/>
-    <yt:videoId>rnfhyUY36CU</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Trent making #17 look HARD. 🤣</title>
-    <link>https://www.youtube.com/shorts/W1l-E3GSSRA</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/W1l-E3GSSRA</guid>
-    <pubDate>Wed, 11 Mar 2026 20:42:37 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/W1l-E3GSSRA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/W1l-E3GSSRA/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/W1l-E3GSSRA" type="text/html" medium="video"/>
-    <yt:videoId>W1l-E3GSSRA</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Inside Brian Rolapp&#x27;s Thunderdome at The Players Championship</title>
@@ -348,54 +201,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>Let’s go Joel and Geno this week.</title>
-    <link>https://www.youtube.com/shorts/2_yjB8GQMV0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/2_yjB8GQMV0</guid>
-    <pubDate>Wed, 11 Mar 2026 17:10:59 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/2_yjB8GQMV0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/2_yjB8GQMV0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/2_yjB8GQMV0" type="text/html" medium="video"/>
-    <yt:videoId>2_yjB8GQMV0</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>When the World&#x27;s WORST Golfers Took on TPC Sawgrass 😭</title>
-    <link>https://www.youtube.com/watch?v=ZVBcgwf0Aig</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=ZVBcgwf0Aig</guid>
-    <pubDate>Wed, 11 Mar 2026 17:04:26 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Many amazing things came out of the 1980s, but maybe none more so than the World&#x27;s Worst Avid Golfer contest held at TPC Sawgrass.
-
-It&#x27;s when we met the then 31-year-old Angelo Spagnolo, who put on the performance of a lifetime. No spoilers here, but once you see what Angelo did at the famous 17th island green, you probably won&#x27;t feel so bad about your own game.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotion&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ZVBcgwf0Aig"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ZVBcgwf0Aig/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ZVBcgwf0Aig" type="text/html" medium="video"/>
-    <yt:videoId>ZVBcgwf0Aig</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Course Report at THE PLAYERS, what dreams are made of</title>
-    <link>https://www.youtube.com/shorts/F1RFcoAh0js</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/F1RFcoAh0js</guid>
-    <pubDate>Wed, 11 Mar 2026 15:32:39 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/F1RFcoAh0js"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/F1RFcoAh0js/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/F1RFcoAh0js" type="text/html" medium="video"/>
-    <yt:videoId>F1RFcoAh0js</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Kay Adams at The PLAYERS Has Been a Massive W</title>
     <link>https://skratch.golf/news/news/kay-adams-players-week-pga-tour-interviews-up-and-adams-show</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/kay-adams-players-week-pga-tour-interviews-up-and-adams-show</guid>
@@ -429,20 +234,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>Simpler times. Boo Weekley scaring the HELL out of Anthony Kim at the 2008 PLAYERS.</title>
-    <link>https://www.youtube.com/shorts/JXJlQL5bweI</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/JXJlQL5bweI</guid>
-    <pubDate>Wed, 11 Mar 2026 13:24:26 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/JXJlQL5bweI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/JXJlQL5bweI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/JXJlQL5bweI" type="text/html" medium="video"/>
-    <yt:videoId>JXJlQL5bweI</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>This Trend Says Half the Field May Already Be Eliminated From Winning THE PLAYERS</title>
     <link>https://skratch.golf/news/news/2026-players-championship-trending-stories-to-watch</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/2026-players-championship-trending-stories-to-watch</guid>
@@ -452,20 +243,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263035130_efb66359f1/Getty_Images_2263035130_efb66359f1.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>She saw her opportunity and took it. 🫡</title>
-    <link>https://www.youtube.com/shorts/dK5EPKRVIuI</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/dK5EPKRVIuI</guid>
-    <pubDate>Tue, 10 Mar 2026 20:14:36 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/dK5EPKRVIuI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/dK5EPKRVIuI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/dK5EPKRVIuI" type="text/html" medium="video"/>
-    <yt:videoId>dK5EPKRVIuI</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>5 UV Protection Golf Staples Every Golfer Should Own</title>
