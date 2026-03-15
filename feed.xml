@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 15 Mar 2026 17:24:29 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Mar 2026 17:52:20 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>We Finally Got Our First Hole-In-One at The 2026 PLAYERS. No, Not There.</title>
+    <link>https://skratch.golf/news/news/2026-players-hole-in-one-tpc-sawgrass-chad-ramey</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/2026-players-hole-in-one-tpc-sawgrass-chad-ramey</guid>
+    <pubDate>Sun, 15 Mar 2026 17:17:06 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;We had to wait until Sunday, but we finally got a hole-in-one at Sawgrass.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-players-hole-in-one-tpc-sawgrass-chad-ramey"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_03_15_at_10_27_31_AM_6098e35c58/Screenshot_2026_03_15_at_10_27_31_AM_6098e35c58.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>BONUS Watch Along! Ludvig Aberg Leading Saturday at THE PLAYERS!</title>
     <link>https://www.youtube.com/watch?v=VyrCRBmJxX0</link>
@@ -579,17 +590,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Raymond Williams</dc:creator>
     <description>&lt;p&gt;For golfers who’d rather play than reapply sunscreen.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/golf-sun-staples-uv-protection-style"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/UV_Cover_d5205a5ebc/UV_Cover_d5205a5ebc.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>International Crown-Winning Quartet Headlines Women’s Australian Open</title>
-    <link>https://skratch.golf/news/news/international-crown-team-womens-australian-open-ladies-european-tour-minjee-lee-hannah-green-grace-kim-steph-kyriacou</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/international-crown-team-womens-australian-open-ladies-european-tour-minjee-lee-hannah-green-grace-kim-steph-kyriacou</guid>
-    <pubDate>Tue, 10 Mar 2026 13:09:54 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Team Australia’s International Crown winners Minjee Lee, Hannah Green, Grace Kim and Steph Kyriacou reunite at their home country&#x27;s Open Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/international-crown-team-womens-australian-open-ladies-european-tour-minjee-lee-hannah-green-grace-kim-steph-kyriacou"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2243363373_5619a003ef/Getty_Images_2243363373_5619a003ef.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
