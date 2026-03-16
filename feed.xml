@@ -9,8 +9,55 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 16 Mar 2026 20:32:11 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Mar 2026 21:33:30 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Got no issues with the World No. 1 pushing back.</title>
+    <link>https://www.youtube.com/shorts/Fjpg3Y5NQSc</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/Fjpg3Y5NQSc</guid>
+    <pubDate>Mon, 16 Mar 2026 21:11:48 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Fjpg3Y5NQSc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Fjpg3Y5NQSc/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Fjpg3Y5NQSc" type="text/html" medium="video"/>
+    <yt:videoId>Fjpg3Y5NQSc</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>It&#x27;s Officially Masters Season</title>
+    <link>https://skratch.golf/news/news/masters-releases-promo-social-media-video-james-brown-augusta-national</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/masters-releases-promo-social-media-video-james-brown-augusta-national</guid>
+    <pubDate>Mon, 16 Mar 2026 20:12:38 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The Masters social team never misses—and Monday’s promotional video was no exception.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-releases-promo-social-media-video-james-brown-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1310903556_18d70b7a7f/Getty_Images_1310903556_18d70b7a7f.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Why Callaway Ball Engineers Focus on Shrinking Dispersion</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/gear-smart-podcast-callaway-golf-call-ecpc</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/gear-smart-podcast-callaway-golf-call-ecpc</guid>
+    <pubDate>Mon, 16 Mar 2026 19:12:11 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Shrinking approach dispersion is a key to better scoring, which is why Callaway golf ball engineers focus on every last detail.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/gear-smart-podcast-callaway-golf-call-ecpc"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Bench_tested_Chrome_Golf_Ball_cf3a6e3b85/Bench_tested_Chrome_Golf_Ball_cf3a6e3b85.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Rory McIlroy In, Tiger Woods Out for Tuesday&#x27;s TGL Playoff Match</title>
+    <link>https://skratch.golf/news/news/rory-mcilroy-back-injury-tgl-playoffs-tiger-woods-not-playing</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/rory-mcilroy-back-injury-tgl-playoffs-tiger-woods-not-playing</guid>
+    <pubDate>Mon, 16 Mar 2026 19:11:26 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Rory McIlroy is feeling well enough to play in Tuesday night&#x27;s TGL playoff match—Tiger, on the other hand, is not in the lineup.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rory-mcilroy-back-injury-tgl-playoffs-tiger-woods-not-playing"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Tiger_Rory_TGL_Sized_14cf0640c2/Tiger_Rory_TGL_Sized_14cf0640c2.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>S2 E20: THE PLAYERS Recap Episode - 18 Parting Thoughts on Cam Young, Scottie, Future of TOUR &amp; More</title>
     <link>https://www.youtube.com/watch?v=Xl-IJYb7Ezw</link>
@@ -86,7 +133,7 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Ludvig Leading Fitz, CamYoung At TPC Sawgrass | THE PLAYERS Live Watch Along</title>
+    <title>Ludvig Leading Fitz, Cam Young At TPC Sawgrass | THE PLAYERS Live Watch Along</title>
     <link>https://www.youtube.com/watch?v=iifYHYe-4VA</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=iifYHYe-4VA</guid>
     <pubDate>Sun, 15 Mar 2026 22:24:10 +0000</pubDate>
@@ -352,17 +399,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Are You Kidding Me, Tommy? THE PLAYERS Fit Goes Crazy</title>
-    <link>https://skratch.golf/style/mens-style/tommy-fleetwood-golf-style-players-nike-johnnieo-lululemon-no-sponsorship</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/tommy-fleetwood-golf-style-players-nike-johnnieo-lululemon-no-sponsorship</guid>
-    <pubDate>Thu, 12 Mar 2026 20:18:58 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Nike, Lululemon, Johnnie-O… and a reminder that golf style is better when it isn’t uniform.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/tommy-fleetwood-golf-style-players-nike-johnnieo-lululemon-no-sponsorship"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Tommy_THE_PLAYERS_Cover_c797fa6c27/Tommy_THE_PLAYERS_Cover_c797fa6c27.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>JT is back on your leaderboard at THE PLAYERS. Watch him absolutely flush it in a full range session</title>
     <link>https://www.youtube.com/shorts/GXjLEIK_HfA</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/GXjLEIK_HfA</guid>
@@ -400,17 +436,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Volatility to the Max</title>
-    <link>https://skratch.golf/news/news/the-players-2026-max-homa-wild-scores-tpc-sawgrass-max-greyserman</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/the-players-2026-max-homa-wild-scores-tpc-sawgrass-max-greyserman</guid>
-    <pubDate>Thu, 12 Mar 2026 17:36:42 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;A couple guys named Max put up some crazy scores at THE PLAYERS on Thursday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-players-2026-max-homa-wild-scores-tpc-sawgrass-max-greyserman"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266134237_f7d98af7cc/Getty_Images_2266134237_f7d98af7cc.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Bench Tested: Callaway Quantum Drivers</title>
@@ -607,17 +632,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Read the Full Transcript of Brian Rolapp&#x27;s PLAYERS Press Conference</title>
-    <link>https://skratch.golf/news/pro-golf/brian-rolapp-future-pga-tour-press-conference-full-transcript</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/brian-rolapp-future-pga-tour-press-conference-full-transcript</guid>
-    <pubDate>Wed, 11 Mar 2026 15:11:10 +0000</pubDate>
-    <dc:creator>Brittany Romano</dc:creator>
-    <description>&lt;p&gt;During a press conference at THE PLAYERS, PGA TOUR CEO Brian Rolapp discussed potential schedule changes, field sizes, promotion and relegation, and the long-term future of the TOUR. Here&#x27;s the full tape.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/brian-rolapp-future-pga-tour-press-conference-full-transcript"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2265958540_aaf77b9a6d/Getty_Images_2265958540_aaf77b9a6d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Simpler times. Boo Weekley scaring the HELL out of Anthony Kim at the 2008 PLAYERS.</title>
     <link>https://www.youtube.com/shorts/JXJlQL5bweI</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/JXJlQL5bweI</guid>
@@ -644,17 +658,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>5 UV Protection Golf Staples Every Golfer Should Own</title>
-    <link>https://skratch.golf/style/mens-style/golf-sun-staples-uv-protection-style</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/golf-sun-staples-uv-protection-style</guid>
-    <pubDate>Tue, 10 Mar 2026 17:12:36 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;For golfers who’d rather play than reapply sunscreen.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/golf-sun-staples-uv-protection-style"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/UV_Cover_d5205a5ebc/UV_Cover_d5205a5ebc.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Major or not, THE PLAYERS is an unbelievable watch.</title>
