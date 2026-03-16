@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 15 Mar 2026 23:50:38 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Mar 2026 01:55:13 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Cameron Young Is Who We Thought He Was</title>
+    <link>https://skratch.golf/news/pro-golf/cameron-young-2026-players-championship-interview-reaction</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/cameron-young-2026-players-championship-interview-reaction</guid>
+    <pubDate>Mon, 16 Mar 2026 01:09:00 +0000</pubDate>
+    <dc:creator>Alan Shipnuck</dc:creator>
+    <description>&lt;p&gt;Pete Dye&#x27;s words lived on at the 2026 Players: “You want to call yourself the Players champion?&quot; he said. &quot;You have to go through hell and back. You gotta show us what you’re made of.”&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/cameron-young-2026-players-championship-interview-reaction"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266704003_f22a72d882/Getty_Images_2266704003_f22a72d882.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Cameron Young Went Hunting at Sawgrass—and Bagged THE PLAYERS</title>
     <link>https://skratch.golf/news/news/the-players-cameron-young-wins-tpc-sawgrass-pga-tour</link>
@@ -488,28 +499,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>Inside Brian Rolapp&#x27;s Thunderdome at The Players Championship</title>
-    <link>https://skratch.golf/news/pro-golf/brian-rolapp-pga-tour-press-conference-media-wednesday-analysis-reaction</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/brian-rolapp-pga-tour-press-conference-media-wednesday-analysis-reaction</guid>
-    <pubDate>Wed, 11 Mar 2026 19:02:34 +0000</pubDate>
-    <dc:creator>Alan Shipnuck</dc:creator>
-    <description>&lt;p&gt;This morning, the media—and everyone at PGA TOUR HQ—experienced the clear-eyed, well-considered vision of an outsider who is unburdened by the compromises and controversies of his predecessor.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/brian-rolapp-pga-tour-press-conference-media-wednesday-analysis-reaction"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2265985246_e0ac8fd157/Getty_Images_2265985246_e0ac8fd157.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Curious Case of Jordan Spieth and THE PLAYERS</title>
-    <link>https://skratch.golf/news/news/the-players-championship-jordan-spieth-chances-to-win-tpc-sawgrass-pga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/the-players-championship-jordan-spieth-chances-to-win-tpc-sawgrass-pga-tour</guid>
-    <pubDate>Wed, 11 Mar 2026 18:58:16 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;TPC Sawgrass hasn&#x27;t been too kind to Jordan Spieth during his career—can that change this time around?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-players-championship-jordan-spieth-chances-to-win-tpc-sawgrass-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2262555219_a3efe798da/Getty_Images_2262555219_a3efe798da.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>New Oil Can Finish Spices Up Titleist T-Series Irons</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/titleist-t-series-oil-can-finish-limited-irons</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/titleist-t-series-oil-can-finish-limited-irons</guid>
@@ -567,6 +556,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Read the Full Transcript of Brian Rolapp&#x27;s PLAYERS Press Conference</title>
+    <link>https://skratch.golf/news/pro-golf/brian-rolapp-future-pga-tour-press-conference-full-transcript</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/brian-rolapp-future-pga-tour-press-conference-full-transcript</guid>
+    <pubDate>Wed, 11 Mar 2026 15:11:10 +0000</pubDate>
+    <dc:creator>Brittany Romano</dc:creator>
+    <description>&lt;p&gt;During a press conference at THE PLAYERS, PGA TOUR CEO Brian Rolapp discussed potential schedule changes, field sizes, promotion and relegation, and the long-term future of the TOUR. Here&#x27;s the full tape.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/brian-rolapp-future-pga-tour-press-conference-full-transcript"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2265958540_aaf77b9a6d/Getty_Images_2265958540_aaf77b9a6d.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Simpler times. Boo Weekley scaring the HELL out of Anthony Kim at the 2008 PLAYERS.</title>
