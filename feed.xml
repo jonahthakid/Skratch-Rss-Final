@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 17 Mar 2026 16:59:24 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Mar 2026 18:01:45 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>From Now On, We Need All Player-Caddie Convos at Sawgrass&#x27; 17th to be Mic&#x27;d-Up</title>
+    <link>https://skratch.golf/news/news/watch-pga-tour-chasing-sunday-nfl-films-akshay-bhatia-caddie-conversation</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/watch-pga-tour-chasing-sunday-nfl-films-akshay-bhatia-caddie-conversation</guid>
+    <pubDate>Tue, 17 Mar 2026 17:34:20 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;This teaser for tonight&#x27;s &quot;Chasing Sunday&quot; shows exactly why it&#x27;s going to be must-watch viewing.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/watch-pga-tour-chasing-sunday-nfl-films-akshay-bhatia-caddie-conversation"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2205438410_93c83cc09d/Getty_Images_2205438410_93c83cc09d.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Enjoy Augusta National from Home with ‘Taste of the Masters’</title>
     <link>https://skratch.golf/news/news/masters-augusta-national-taste-of-the-masters-order</link>
@@ -314,17 +325,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The Sanctity of The Cut Line Is More Than Alive at TPC Sawgrass</title>
-    <link>https://skratch.golf/news/pro-golf/players-championship-2026-cut-line-reactions-field-interview</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/players-championship-2026-cut-line-reactions-field-interview</guid>
-    <pubDate>Fri, 13 Mar 2026 23:34:06 +0000</pubDate>
-    <dc:creator>Alan Shipnuck</dc:creator>
-    <description>&lt;p&gt;Rory McIlroy, Aaron Rai, Keegan Bradley and more spoke to Skratch after they narrowly secured weekend tee times at The Players.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/players-championship-2026-cut-line-reactions-field-interview"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266346886_dc6686aae4/Getty_Images_2266346886_dc6686aae4.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>So Far, The Players Is Delivering on Its Major Promises</title>
