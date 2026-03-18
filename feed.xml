@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 18 Mar 2026 12:58:19 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Mar 2026 14:22:07 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>A Great Golf Debate Reignited: Should You Have to Tuck Your Shirt In?</title>
@@ -19,6 +19,17 @@
     <dc:creator>Ben Boskovich</dc:creator>
     <description>&lt;p&gt;You may say &quot;because that&#x27;s the rule.&quot; But the rule as it&#x27;s written leaves a lot to the imagination.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/golf-dress-code-tuck-shirt-in-rule-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2256348355_f51ece5c33/Getty_Images_2256348355_f51ece5c33.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The LPGA Returns to The U.S. This Week—Here&#x27;s How You Can Watch The Action</title>
+    <link>https://skratch.golf/news/news/lpga-tour-founders-cup-full-field-how-to-watch-tv-streaming</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-tour-founders-cup-full-field-how-to-watch-tv-streaming</guid>
+    <pubDate>Tue, 17 Mar 2026 20:18:08 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The LPGA touches down stateside for its first full-field event of the season, the Fortinet Founders Cup at Sharon Heights. Here&#x27;s everything you need to know.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-tour-founders-cup-full-field-how-to-watch-tv-streaming"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2198597299_472b5e7ffe/Getty_Images_2198597299_472b5e7ffe.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -107,6 +118,17 @@
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Cleveland Golf Goes Retro With Latest Drop</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/cleveland-golf-retro-drop-bag-hats</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/cleveland-golf-retro-drop-bag-hats</guid>
+    <pubDate>Tue, 17 Mar 2026 01:33:05 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;As a fun way to connect with the past, Cleveland is dropping a limited-edition Retro collection featuring hats, accessories, and even a Sunday bag.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/cleveland-golf-retro-drop-bag-hats"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Cleveland_Retro_title_13802a0035/Cleveland_Retro_title_13802a0035.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Golf Pride Expands Tour Winning Align MAX Grip Series</title>
@@ -202,6 +224,17 @@
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Rory McIlroy is feeling well enough to play in Tuesday night&#x27;s TGL playoff match—Tiger, on the other hand, is not in the lineup.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rory-mcilroy-back-injury-tgl-playoffs-tiger-woods-not-playing"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Tiger_Rory_TGL_Sized_14cf0640c2/Tiger_Rory_TGL_Sized_14cf0640c2.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>On Tap: Valspar Championship at Innisbrook Resort</title>
+    <link>https://skratch.golf/news/pro-golf/how-to-watch-valspar-championship-pga-tour-tee-times</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/how-to-watch-valspar-championship-pga-tour-tee-times</guid>
+    <pubDate>Mon, 16 Mar 2026 18:49:16 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Here&#x27;s all the information you need to watch this week&#x27;s Valspar Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/how-to-watch-valspar-championship-pga-tour-tee-times"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1473750721_68bad3844c/Getty_Images_1473750721_68bad3844c.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -377,17 +410,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>So Far, The Players Is Delivering on Its Major Promises</title>
-    <link>https://skratch.golf/news/pro-golf/the-players-2026-ludvig-aberg-major-promise-tpc-sawgrass-pga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/the-players-2026-ludvig-aberg-major-promise-tpc-sawgrass-pga-tour</guid>
-    <pubDate>Fri, 13 Mar 2026 23:10:20 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;There&#x27;s been some big-time golf played at Sawgrass, and we still have 36 holes to go.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/the-players-2026-ludvig-aberg-major-promise-tpc-sawgrass-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266361024_f6860f1e40/Getty_Images_2266361024_f6860f1e40.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Looking back at Craig Perks’ unbelievable finish to the 2002 PLAYERS and the club behind the magic.</title>
     <link>https://www.youtube.com/shorts/A0mDdrBO66Q</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/A0mDdrBO66Q</guid>
@@ -416,17 +438,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Tom Hoge’s Quintuple-Bogey Nine at THE PLAYERS is Must-Watch Stuff</title>
-    <link>https://skratch.golf/news/news/the-players-tom-hoge-quintuple-bogey-must-watch-video</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/the-players-tom-hoge-quintuple-bogey-must-watch-video</guid>
-    <pubDate>Fri, 13 Mar 2026 17:35:14 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;A drive in the water, a topped fairway-wood, a baseball swing. Tom Hoge brought the heat with this quintuple bogey.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-players-tom-hoge-quintuple-bogey-must-watch-video"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2261474744_fdaf9e41a2/Getty_Images_2261474744_fdaf9e41a2.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>It Was Pure Cinema from Jordan Spieth at THE PLAYERS on Friday</title>
     <link>https://skratch.golf/news/news/Jordan-spieth-the-players-2026-low-second-round-scores-pga-tour</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/Jordan-spieth-the-players-2026-low-second-round-scores-pga-tour</guid>
@@ -434,17 +445,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Folks, it&#x27;s time to prepare for the #SpiethExperience at THE PLAYERS this weekend.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Jordan-spieth-the-players-2026-low-second-round-scores-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2265793798_c77f4eeef4/Getty_Images_2265793798_c77f4eeef4.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Ping Is Going The Distance With G740 &amp; i540 Irons</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/new-ping-irons-g740-i540-players-distance</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/new-ping-irons-g740-i540-players-distance</guid>
-    <pubDate>Fri, 13 Mar 2026 16:23:54 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Ping&#x27;s newest G and i-series irons deliver on the promise of speed, forgiveness, and stopping power.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/new-ping-irons-g740-i540-players-distance"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Ping_i540_iron_title_53cf619329/Ping_i540_iron_title_53cf619329.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
