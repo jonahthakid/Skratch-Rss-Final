@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 18 Mar 2026 11:41:10 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Mar 2026 12:58:19 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>A Great Golf Debate Reignited: Should You Have to Tuck Your Shirt In?</title>
+    <link>https://skratch.golf/style/mens-style/golf-dress-code-tuck-shirt-in-rule-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/golf-dress-code-tuck-shirt-in-rule-pga-tour</guid>
+    <pubDate>Tue, 17 Mar 2026 21:01:59 +0000</pubDate>
+    <dc:creator>Ben Boskovich</dc:creator>
+    <description>&lt;p&gt;You may say &quot;because that&#x27;s the rule.&quot; But the rule as it&#x27;s written leaves a lot to the imagination.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/golf-dress-code-tuck-shirt-in-rule-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2256348355_f51ece5c33/Getty_Images_2256348355_f51ece5c33.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Happy #stpatricksday. Don’t forget your lucky green shirt today. #tigertuesday</title>
     <link>https://www.youtube.com/shorts/493YiXfF4cY</link>
@@ -652,26 +663,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://img.youtube.com/vi/2_yjB8GQMV0/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/2_yjB8GQMV0" type="text/html" medium="video"/>
     <yt:videoId>2_yjB8GQMV0</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>When the World&#x27;s WORST Golfers Took on TPC Sawgrass 😭</title>
-    <link>https://www.youtube.com/watch?v=ZVBcgwf0Aig</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=ZVBcgwf0Aig</guid>
-    <pubDate>Wed, 11 Mar 2026 17:04:26 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Many amazing things came out of the 1980s, but maybe none more so than the World&#x27;s Worst Avid Golfer contest held at TPC Sawgrass.
-
-It&#x27;s when we met the then 31-year-old Angelo Spagnolo, who put on the performance of a lifetime. No spoilers here, but once you see what Angelo did at the famous 17th island green, you probably won&#x27;t feel so bad about your own game.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotion&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ZVBcgwf0Aig"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ZVBcgwf0Aig/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ZVBcgwf0Aig" type="text/html" medium="video"/>
-    <yt:videoId>ZVBcgwf0Aig</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
