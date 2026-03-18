@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 18 Mar 2026 19:46:36 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Mar 2026 20:30:10 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Surprised Domino&#x27;s wasn&#x27;t on Rory&#x27;s Champions Dinner menu. 🤣</title>
+    <link>https://www.youtube.com/shorts/8WveGDPkMIA</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/8WveGDPkMIA</guid>
+    <pubDate>Wed, 18 Mar 2026 20:23:33 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8WveGDPkMIA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/8WveGDPkMIA/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/8WveGDPkMIA" type="text/html" medium="video"/>
+    <yt:videoId>8WveGDPkMIA</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>ANYTHING to save a stroke. 🫡</title>
     <link>https://www.youtube.com/shorts/7uuVv-mYt9s</link>
@@ -24,6 +38,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Chasing Sunday from THE PLAYERS is Exactly the Content We Need More Of</title>
+    <link>https://skratch.golf/news/news/pga-tour-chasing-sunday-the-players-reaction-best-moments</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-chasing-sunday-the-players-reaction-best-moments</guid>
+    <pubDate>Wed, 18 Mar 2026 17:31:48 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Chasing Sunday is the content golf needs. If you haven&#x27;t seen it yet, carve out an hour to do so. This thing rocks.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-chasing-sunday-the-players-reaction-best-moments"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2265793629_cd0ccd080b/Getty_Images_2265793629_cd0ccd080b.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Rory McIlroy’s Masters Champions Dinner Menu is Here</title>
@@ -49,6 +74,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>An Insider&#x27;s Look at The LPGA&#x27;s New Venue Sharon Heights</title>
+    <link>https://skratch.golf/news/news/sharon-heights-golf-club-lpga-tour-new-venue-course-preview</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/sharon-heights-golf-club-lpga-tour-new-venue-course-preview</guid>
+    <pubDate>Wed, 18 Mar 2026 06:20:05 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The LPGA Tour’s latest venue is drawing plenty of attention this week—here’s why it matters.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/sharon-heights-golf-club-lpga-tour-new-venue-course-preview"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/IMG_6797_69cd6d774f/IMG_6797_69cd6d774f.jpeg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>A Great Golf Debate Reignited: Should You Have to Tuck Your Shirt In?</title>
@@ -130,6 +166,17 @@
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Don&#x27;t miss your chance to enjoy Augusta National from home with the &quot;Taste of the Masters&quot;.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-augusta-national-taste-of-the-masters-order"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_03_17_at_12_07_49_PM_987656e7b8/Screenshot_2026_03_17_at_12_07_49_PM_987656e7b8.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Three Players to Watch at the Valspar Championship</title>
+    <link>https://skratch.golf/news/pro-golf/valspar-championship-players-to-watch-justin-thomas-brooks-koepka-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/valspar-championship-players-to-watch-justin-thomas-brooks-koepka-pga-tour</guid>
+    <pubDate>Tue, 17 Mar 2026 15:47:59 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Casual fans sleep on the Valspar every year. They shouldn’t. Great course. Loaded field. Real test. 3 players to watch this week 👇&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/valspar-championship-players-to-watch-justin-thomas-brooks-koepka-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266084885_4479b931d5/Getty_Images_2266084885_4479b931d5.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -377,17 +424,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>We May Not See Rory McIlroy Until the Masters</title>
-    <link>https://skratch.golf/news/news/the-players-rory-mcilroy-next-start-masters-augusta-national</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/the-players-rory-mcilroy-next-start-masters-augusta-national</guid>
-    <pubDate>Sun, 15 Mar 2026 18:51:21 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The defending Masters champion says he wants to see how his body responds before deciding if he&#x27;ll play again before Augusta.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-players-rory-mcilroy-next-start-masters-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266633235_ec7b250c67/Getty_Images_2266633235_ec7b250c67.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Ludvig Aberg Still Uses This $150 Fairway Wood</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/ludvig-aberg-players-championship-witb-stealth-fairway</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/ludvig-aberg-players-championship-witb-stealth-fairway</guid>
@@ -477,17 +513,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>It Was Pure Cinema from Jordan Spieth at THE PLAYERS on Friday</title>
-    <link>https://skratch.golf/news/news/Jordan-spieth-the-players-2026-low-second-round-scores-pga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/Jordan-spieth-the-players-2026-low-second-round-scores-pga-tour</guid>
-    <pubDate>Fri, 13 Mar 2026 17:07:11 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Folks, it&#x27;s time to prepare for the #SpiethExperience at THE PLAYERS this weekend.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Jordan-spieth-the-players-2026-low-second-round-scores-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2265793798_c77f4eeef4/Getty_Images_2265793798_c77f4eeef4.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>No one like him on TOUR. Come play a hole with Si Woo at TPC Sawgrass.</title>
     <link>https://www.youtube.com/shorts/hUSgqdNkJu8</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/hUSgqdNkJu8</guid>
@@ -500,17 +525,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>PXG Offers Up Next-Gen Stick&#x27;em Wedges</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/pxg-stickem-wedges-forged-grooves-spin</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/pxg-stickem-wedges-forged-grooves-spin</guid>
-    <pubDate>Fri, 13 Mar 2026 12:44:01 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;PXG&#x27;s newest forged wedges offer spin, control, and sole designs to make things a little easier around the greens.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/pxg-stickem-wedges-forged-grooves-spin"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/PXG_Stickem_wedge_title_18ba7bf074/PXG_Stickem_wedge_title_18ba7bf074.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Pranking golfers by telling them 17 at TPC Sawgrass is CLOSED went exactly how you think it would.😭</title>
@@ -651,20 +665,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:videoId>iktKqye1uJw</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>The most delayed club twirl in PLAYERS history, courtesy of JT. 😅</title>
-    <link>https://www.youtube.com/shorts/rnfhyUY36CU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/rnfhyUY36CU</guid>
-    <pubDate>Wed, 11 Mar 2026 22:00:56 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/rnfhyUY36CU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/rnfhyUY36CU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/rnfhyUY36CU" type="text/html" medium="video"/>
-    <yt:videoId>rnfhyUY36CU</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
     <category>video</category>
   </item>
 </channel>
