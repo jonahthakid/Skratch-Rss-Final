@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 18 Mar 2026 17:56:18 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Mar 2026 18:56:30 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>ANYTHING to save a stroke. 🫡</title>
+    <link>https://www.youtube.com/shorts/7uuVv-mYt9s</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/7uuVv-mYt9s</guid>
+    <pubDate>Wed, 18 Mar 2026 18:27:53 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/7uuVv-mYt9s"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/7uuVv-mYt9s/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/7uuVv-mYt9s" type="text/html" medium="video"/>
+    <yt:videoId>7uuVv-mYt9s</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Rory McIlroy’s Masters Champions Dinner Menu is Here</title>
     <link>https://skratch.golf/news/news/Masters-rory-mcilroy-champions-dinner-menu-augusta-national</link>
@@ -649,20 +663,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://img.youtube.com/vi/rnfhyUY36CU/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/rnfhyUY36CU" type="text/html" medium="video"/>
     <yt:videoId>rnfhyUY36CU</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Trent making #17 look HARD. 🤣</title>
-    <link>https://www.youtube.com/shorts/W1l-E3GSSRA</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/W1l-E3GSSRA</guid>
-    <pubDate>Wed, 11 Mar 2026 20:42:37 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/W1l-E3GSSRA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/W1l-E3GSSRA/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/W1l-E3GSSRA" type="text/html" medium="video"/>
-    <yt:videoId>W1l-E3GSSRA</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
