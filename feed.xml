@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 19 Mar 2026 17:30:19 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Mar 2026 18:49:49 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>PLAYERS Winner Cam Young Uses This Off-menu Hybrid</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/players-club-fitting-cam-young-hybrid-titleist-gear-smart</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/players-club-fitting-cam-young-hybrid-titleist-gear-smart</guid>
+    <pubDate>Thu, 19 Mar 2026 16:23:15 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Cam Young won the PLAYERS with a unique hybrid setup that any golfer can try—they just need to know what to ask for.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/players-club-fitting-cam-young-hybrid-titleist-gear-smart"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/GT_1_hybrid_6fa00c2bb4/GT_1_hybrid_6fa00c2bb4.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>The Masters Continues Its Content Masterclass with ‘Masters Vault’</title>
     <link>https://skratch.golf/news/news/Masters-launches-masters-vault-any-final-round-shot-since-1968</link>
@@ -518,17 +529,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Dan Rapaport</dc:creator>
     <description>&lt;p&gt;Cameron Young is now a winner of the PGA TOUR&#x27;s Crown Jewel—and he did so in macho fashion.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/2026-players-championship-full-tournament-recap-analysis"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266698447_611070890a/Getty_Images_2266698447_611070890a.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>We May Not See Rory McIlroy Until the Masters</title>
-    <link>https://skratch.golf/news/news/the-players-rory-mcilroy-next-start-masters-augusta-national</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/the-players-rory-mcilroy-next-start-masters-augusta-national</guid>
-    <pubDate>Sun, 15 Mar 2026 18:51:21 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The defending Masters champion says he wants to see how his body responds before deciding if he&#x27;ll play again before Augusta.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-players-rory-mcilroy-next-start-masters-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266633235_ec7b250c67/Getty_Images_2266633235_ec7b250c67.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
