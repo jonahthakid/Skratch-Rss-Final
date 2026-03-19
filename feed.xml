@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 19 Mar 2026 16:13:42 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Mar 2026 17:30:19 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>The Masters Continues Its Content Masterclass with ‘Masters Vault’</title>
@@ -19,6 +19,17 @@
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;The Masters has perfected the content game—the latest example being the new &quot;Masters Vault&quot;.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Masters-launches-masters-vault-any-final-round-shot-since-1968"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_81398045_ac27e7d5a7/Getty_Images_81398045_ac27e7d5a7.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The Wine List Alone Could Cost Rory McIlroy Over $50K at This Year’s Masters Champions Dinner</title>
+    <link>https://skratch.golf/news/news/masters-champions-dinner-rory-mcilroy-wine-list-cost</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/masters-champions-dinner-rory-mcilroy-wine-list-cost</guid>
+    <pubDate>Thu, 19 Mar 2026 15:50:16 +0000</pubDate>
+    <dc:creator>Brittany Romano</dc:creator>
+    <description>&lt;p&gt;McIlroy’s menu balances Irish roots with Augusta polish—but the bottle service is where things get serious.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-champions-dinner-rory-mcilroy-wine-list-cost"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/rory_mcilroy_2025_masters_win_Getty_Images_2210134696_7c1ad1d6a9/rory_mcilroy_2025_masters_win_Getty_Images_2210134696_7c1ad1d6a9.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -461,6 +472,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
+    <title>Cameron Young Went Hunting at Sawgrass—and Bagged THE PLAYERS</title>
+    <link>https://skratch.golf/news/news/the-players-cameron-young-wins-tpc-sawgrass-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/the-players-cameron-young-wins-tpc-sawgrass-pga-tour</guid>
+    <pubDate>Sun, 15 Mar 2026 22:54:16 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Major League gave us one of the most iconic GIFs in sports. Turns out it perfectly sums up Cameron Young winning THE PLAYERS.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-players-cameron-young-wins-tpc-sawgrass-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266695417_590e27afd4/Getty_Images_2266695417_590e27afd4.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Cam Young. PLAYERS Champ. @RickRunGood knew it all along.</title>
     <link>https://www.youtube.com/shorts/k9IjHKuFH-s</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/k9IjHKuFH-s</guid>
@@ -507,28 +529,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;The defending Masters champion says he wants to see how his body responds before deciding if he&#x27;ll play again before Augusta.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-players-rory-mcilroy-next-start-masters-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266633235_ec7b250c67/Getty_Images_2266633235_ec7b250c67.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Ludvig Aberg Still Uses This $150 Fairway Wood</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/ludvig-aberg-players-championship-witb-stealth-fairway</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/ludvig-aberg-players-championship-witb-stealth-fairway</guid>
-    <pubDate>Sun, 15 Mar 2026 18:06:28 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Like many PGA TOUR players, Ludvig Aberg proves that it&#x27;s hard to replace trusty fairway woods.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/ludvig-aberg-players-championship-witb-stealth-fairway"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Ludvig_Stealth_fairway_5357b09f6c/Ludvig_Stealth_fairway_5357b09f6c.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>We Finally Got Our First Hole-In-One at The 2026 PLAYERS. No, Not There.</title>
-    <link>https://skratch.golf/news/news/2026-players-hole-in-one-tpc-sawgrass-chad-ramey</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/2026-players-hole-in-one-tpc-sawgrass-chad-ramey</guid>
-    <pubDate>Sun, 15 Mar 2026 17:17:06 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;We had to wait until Sunday, but we finally got a hole-in-one at Sawgrass.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-players-hole-in-one-tpc-sawgrass-chad-ramey"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_03_15_at_10_27_31_AM_6098e35c58/Screenshot_2026_03_15_at_10_27_31_AM_6098e35c58.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
