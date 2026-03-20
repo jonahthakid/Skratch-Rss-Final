@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 20 Mar 2026 15:37:17 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Mar 2026 16:36:40 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>MOST average Spieth par. 🤣</title>
@@ -24,6 +24,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Stanford Women&#x27;s Golf Alumni Making Early Moves at LPGA Founders Cup</title>
+    <link>https://skratch.golf/news/news/lpga-tour-fortinent-founders-cup-stanford-womens-golf-alumni-round-1-recap</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-tour-fortinent-founders-cup-stanford-womens-golf-alumni-round-1-recap</guid>
+    <pubDate>Fri, 20 Mar 2026 14:54:13 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;There are four former Stanford players in the field this week: Aline Krauter, Andrea Lee, Albane Valenzuela and Rose Zhang—and each player shot under-par during the opening round at Sharon Heights.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-tour-fortinent-founders-cup-stanford-womens-golf-alumni-round-1-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2267406849_379c94fbb3/Getty_Images_2267406849_379c94fbb3.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>“I think he understands now.” 🥶 Don’t poke the Tiger. Tiger wins 9&amp;8 over Stephen Ames.</title>
@@ -461,17 +472,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if&lt;/p&gt;&
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;The Masters social team never misses—and Monday’s promotional video was no exception.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-releases-promo-social-media-video-james-brown-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1310903556_18d70b7a7f/Getty_Images_1310903556_18d70b7a7f.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Rory McIlroy In, Tiger Woods Out for Tuesday&#x27;s TGL Playoff Match</title>
-    <link>https://skratch.golf/news/news/rory-mcilroy-back-injury-tgl-playoffs-tiger-woods-not-playing</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/rory-mcilroy-back-injury-tgl-playoffs-tiger-woods-not-playing</guid>
-    <pubDate>Mon, 16 Mar 2026 19:11:26 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Rory McIlroy is feeling well enough to play in Tuesday night&#x27;s TGL playoff match—Tiger, on the other hand, is not in the lineup.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rory-mcilroy-back-injury-tgl-playoffs-tiger-woods-not-playing"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Tiger_Rory_TGL_Sized_14cf0640c2/Tiger_Rory_TGL_Sized_14cf0640c2.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
