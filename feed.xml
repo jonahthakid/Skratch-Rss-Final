@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 21 Mar 2026 20:19:58 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Mar 2026 20:49:04 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>A Little Girl was Hit by a Golf Cart at the Valspar Championship</title>
+    <link>https://skratch.golf/news/news/valspar-championship-little-girl-hit-by-golf-cart-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/valspar-championship-little-girl-hit-by-golf-cart-pga-tour</guid>
+    <pubDate>Sat, 21 Mar 2026 20:21:37 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;A scary situation unfolded at the Valspar Championship on Saturday when a little girl was struck by a golf cart.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/valspar-championship-little-girl-hit-by-golf-cart-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2267443971_86dc86bb3c/Getty_Images_2267443971_86dc86bb3c.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Is this the most scenic par 3 course in America?!</title>
     <link>https://www.youtube.com/shorts/IR_aM24J2Sc</link>
@@ -519,17 +530,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if&lt;/p&gt;&
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>It&#x27;s Officially Masters Season</title>
-    <link>https://skratch.golf/news/news/masters-releases-promo-social-media-video-james-brown-augusta-national</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/masters-releases-promo-social-media-video-james-brown-augusta-national</guid>
-    <pubDate>Mon, 16 Mar 2026 20:12:38 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The Masters social team never misses—and Monday’s promotional video was no exception.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-releases-promo-social-media-video-james-brown-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1310903556_18d70b7a7f/Getty_Images_1310903556_18d70b7a7f.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>On Tap: Valspar Championship at Innisbrook Resort</title>
