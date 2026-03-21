@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 21 Mar 2026 16:52:36 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Mar 2026 17:20:54 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Is this the most scenic par 3 course in America?!</title>
+    <link>https://www.youtube.com/shorts/IR_aM24J2Sc</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/IR_aM24J2Sc</guid>
+    <pubDate>Sat, 21 Mar 2026 17:06:17 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/IR_aM24J2Sc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/IR_aM24J2Sc/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/IR_aM24J2Sc" type="text/html" medium="video"/>
+    <yt:videoId>IR_aM24J2Sc</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Jon Rahm has Withdrawn His 18-Month Appeal with the DP World Tour</title>
     <link>https://skratch.golf/news/news/jon-rahm-withdrew-appeal-dp-world-tour-ryder-cup-status</link>
@@ -646,20 +660,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/KU7jBUCaS9c/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/KU7jBUCaS9c" type="text/html" medium="video"/>
     <yt:videoId>KU7jBUCaS9c</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>No one like him on TOUR. Come play a hole with Si Woo at TPC Sawgrass.</title>
-    <link>https://www.youtube.com/shorts/hUSgqdNkJu8</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/hUSgqdNkJu8</guid>
-    <pubDate>Fri, 13 Mar 2026 14:51:58 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/hUSgqdNkJu8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/hUSgqdNkJu8/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/hUSgqdNkJu8" type="text/html" medium="video"/>
-    <yt:videoId>hUSgqdNkJu8</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
