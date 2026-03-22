@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 22 Mar 2026 22:50:24 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Mar 2026 23:21:49 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>When the Going Gets Tough, Matt Fitzpatrick Gets Going</title>
+    <link>https://skratch.golf/news/news/matt-fitzpatrick-wins-valspar-championship-analysis-recap</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/matt-fitzpatrick-wins-valspar-championship-analysis-recap</guid>
+    <pubDate>Sun, 22 Mar 2026 22:41:03 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;When par is a good score, Matt Fitzpatrick puts his cape on.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/matt-fitzpatrick-wins-valspar-championship-analysis-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2267886147_e3473474c5/Getty_Images_2267886147_e3473474c5.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>There&#x27;s a Lot at Stake on Sunday at The Valspar</title>
     <link>https://skratch.golf/news/news/valspar-championship-pga-tour-sunday-preview</link>
@@ -439,17 +450,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if&lt;/p&gt;&
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Casual fans sleep on the Valspar every year. They shouldn’t. Great course. Loaded field. Real test. 3 players to watch this week 👇&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/valspar-championship-players-to-watch-justin-thomas-brooks-koepka-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266084885_4479b931d5/Getty_Images_2266084885_4479b931d5.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>LeBron James, Tom Kim And Golf’s Funniest Truth, Told the Nike Way</title>
-    <link>https://skratch.golf/style/mens-style/lebron-james-tom-kim-nike-commercial-collab</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/lebron-james-tom-kim-nike-commercial-collab</guid>
-    <pubDate>Tue, 17 Mar 2026 14:33:09 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;When LeBron Hits the Course, Everyone Becomes a Coach&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/lebron-james-tom-kim-nike-commercial-collab"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/t_59d324737e7b44e9b0fcf8c806e12eb5_name_aa_20260317_Beats_x_Nike_Le_Bron_1_513e2761e7/t_59d324737e7b44e9b0fcf8c806e12eb5_name_aa_20260317_Beats_x_Nike_Le_Bron_1_513e2761e7.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
