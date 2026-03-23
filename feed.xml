@@ -1,5 +1,4 @@
-<!-- Warning: Error fetching Skratch: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwtGQ3sgidNlQGbIUBPP3xw -->
-<!-- Warning: Error fetching Dan On Golf Show: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
+<!-- Warning: Error fetching Dan On Golf Show: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -11,7 +10,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 23 Mar 2026 04:24:14 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Mar 2026 05:52:50 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Surprise! Titleist Just Dropped a First Look at Their New GTS Drivers</title>
@@ -58,6 +57,20 @@
     <category>article</category>
   </item>
   <item>
+    <title>Is this the most scenic par 3 course in America?!</title>
+    <link>https://www.youtube.com/shorts/IR_aM24J2Sc</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/IR_aM24J2Sc</guid>
+    <pubDate>Sat, 21 Mar 2026 17:06:17 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/IR_aM24J2Sc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/IR_aM24J2Sc/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/IR_aM24J2Sc" type="text/html" medium="video"/>
+    <yt:videoId>IR_aM24J2Sc</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Jon Rahm has Withdrawn His 18-Month Appeal with the DP World Tour</title>
     <link>https://skratch.golf/news/news/jon-rahm-withdrew-appeal-dp-world-tour-ryder-cup-status</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/jon-rahm-withdrew-appeal-dp-world-tour-ryder-cup-status</guid>
@@ -67,6 +80,40 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2267051874_3fde631b84/Getty_Images_2267051874_3fde631b84.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>The RAREST Shot in Golf 🦅🦅 | PGA TOUR Albatrosses</title>
+    <link>https://www.youtube.com/watch?v=T_JPr2QbYdc</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=T_JPr2QbYdc</guid>
+    <pubDate>Fri, 20 Mar 2026 17:00:00 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;The odds of an albatross on the PGA TOUR are 1 in 1,000,000. Watch the best in the world pull off the impossible. Which is your favorite? 
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subsc&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=T_JPr2QbYdc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/T_JPr2QbYdc/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/T_JPr2QbYdc" type="text/html" medium="video"/>
+    <yt:videoId>T_JPr2QbYdc</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>MOST average Spieth par. 🤣</title>
+    <link>https://www.youtube.com/shorts/vX0jo5Nsn4I</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/vX0jo5Nsn4I</guid>
+    <pubDate>Fri, 20 Mar 2026 15:31:19 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/vX0jo5Nsn4I"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/vX0jo5Nsn4I/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/vX0jo5Nsn4I" type="text/html" medium="video"/>
+    <yt:videoId>vX0jo5Nsn4I</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>LPGA Founders Cup: Weekend Storylines to Follow</title>
@@ -89,6 +136,20 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2267406849_379c94fbb3/Getty_Images_2267406849_379c94fbb3.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>“I think he understands now.” 🥶 Don’t poke the Tiger. Tiger wins 9&amp;8 over Stephen Ames.</title>
+    <link>https://www.youtube.com/shorts/azjLcdW6PHk</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/azjLcdW6PHk</guid>
+    <pubDate>Fri, 20 Mar 2026 14:38:57 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/azjLcdW6PHk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/azjLcdW6PHk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/azjLcdW6PHk" type="text/html" medium="video"/>
+    <yt:videoId>azjLcdW6PHk</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>Brandt Snedeker Comes Out Firing—With a New Putter 👀</title>
@@ -146,6 +207,48 @@
     <category>article</category>
   </item>
   <item>
+    <title>It’s only right we’d have a slam dunk today at the Valspar. 🤣🏀</title>
+    <link>https://www.youtube.com/shorts/1PXW5dQ0RI0</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/1PXW5dQ0RI0</guid>
+    <pubDate>Thu, 19 Mar 2026 14:45:43 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/1PXW5dQ0RI0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/1PXW5dQ0RI0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/1PXW5dQ0RI0" type="text/html" medium="video"/>
+    <yt:videoId>1PXW5dQ0RI0</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Surprised Domino&#x27;s wasn&#x27;t on Rory&#x27;s Champions Dinner menu. 🤣</title>
+    <link>https://www.youtube.com/shorts/8WveGDPkMIA</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/8WveGDPkMIA</guid>
+    <pubDate>Wed, 18 Mar 2026 20:23:33 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8WveGDPkMIA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/8WveGDPkMIA/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/8WveGDPkMIA" type="text/html" medium="video"/>
+    <yt:videoId>8WveGDPkMIA</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>ANYTHING to save a stroke. 🫡</title>
+    <link>https://www.youtube.com/shorts/7uuVv-mYt9s</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/7uuVv-mYt9s</guid>
+    <pubDate>Wed, 18 Mar 2026 18:27:53 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/7uuVv-mYt9s"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/7uuVv-mYt9s/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/7uuVv-mYt9s" type="text/html" medium="video"/>
+    <yt:videoId>7uuVv-mYt9s</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Chasing Sunday from THE PLAYERS is Exactly the Content We Need More Of</title>
     <link>https://skratch.golf/news/news/pga-tour-chasing-sunday-the-players-reaction-best-moments</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-chasing-sunday-the-players-reaction-best-moments</guid>
@@ -166,6 +269,20 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/mcilroy_Getty_Images_2210133366_d620fd6212/mcilroy_Getty_Images_2210133366_d620fd6212.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>When Sepp almost took out JT and Bones at the 2024 Valspar. 🤣</title>
+    <link>https://www.youtube.com/shorts/onccL4bM9vI</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/onccL4bM9vI</guid>
+    <pubDate>Wed, 18 Mar 2026 14:53:47 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/onccL4bM9vI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/onccL4bM9vI/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/onccL4bM9vI" type="text/html" medium="video"/>
+    <yt:videoId>onccL4bM9vI</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>An Insider&#x27;s Look at The LPGA&#x27;s New Venue Sharon Heights</title>
@@ -199,6 +316,20 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2198597299_472b5e7ffe/Getty_Images_2198597299_472b5e7ffe.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>Happy #stpatricksday. Don’t forget your lucky green shirt today. #tigertuesday</title>
+    <link>https://www.youtube.com/shorts/493YiXfF4cY</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/493YiXfF4cY</guid>
+    <pubDate>Tue, 17 Mar 2026 19:57:24 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/493YiXfF4cY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/493YiXfF4cY/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/493YiXfF4cY" type="text/html" medium="video"/>
+    <yt:videoId>493YiXfF4cY</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>Bryson DeChambeau Boldly States That Drivers Haven&#x27;t Changed Since 2009. What!?</title>
@@ -276,6 +407,98 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1473750721_68bad3844c/Getty_Images_1473750721_68bad3844c.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>Inside the &quot;Tour Truck for the Everyday Guy&quot; at New Level&#x27;s HQ | Launch Lab</title>
+    <link>https://www.youtube.com/watch?v=n7qS3kcGjVs</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=n7qS3kcGjVs</guid>
+    <pubDate>Mon, 16 Mar 2026 17:41:33 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Come with Skratch&#x27;s Ryan Barath and Golf WRX&#x27;s Brian Knudson visit the @newlevelgolfco headquarters in Scottsdale, Arizona. From the showroom to the build shop, Ryan and Brian get an inside look at how New Level is giving average golfers a tour truck experience.  
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what make&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=n7qS3kcGjVs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/n7qS3kcGjVs/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/n7qS3kcGjVs" type="text/html" medium="video"/>
+    <yt:videoId>n7qS3kcGjVs</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Looking back at Craig Perks’ unbelievable finish to the 2002 PLAYERS and the club behind the magic.</title>
+    <link>https://www.youtube.com/shorts/A0mDdrBO66Q</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/A0mDdrBO66Q</guid>
+    <pubDate>Fri, 13 Mar 2026 21:35:57 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/A0mDdrBO66Q"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/A0mDdrBO66Q/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/A0mDdrBO66Q" type="text/html" medium="video"/>
+    <yt:videoId>A0mDdrBO66Q</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>It&#x27;s only appropriate that we&#x27;re playing #17 on Friday the 13th.</title>
+    <link>https://www.youtube.com/shorts/KU7jBUCaS9c</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/KU7jBUCaS9c</guid>
+    <pubDate>Fri, 13 Mar 2026 18:10:39 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/KU7jBUCaS9c"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/KU7jBUCaS9c/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/KU7jBUCaS9c" type="text/html" medium="video"/>
+    <yt:videoId>KU7jBUCaS9c</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>No one like him on TOUR. Come play a hole with Si Woo at TPC Sawgrass.</title>
+    <link>https://www.youtube.com/shorts/hUSgqdNkJu8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/hUSgqdNkJu8</guid>
+    <pubDate>Fri, 13 Mar 2026 14:51:58 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/hUSgqdNkJu8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/hUSgqdNkJu8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/hUSgqdNkJu8" type="text/html" medium="video"/>
+    <yt:videoId>hUSgqdNkJu8</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Pranking golfers by telling them 17 at TPC Sawgrass is CLOSED went exactly how you think it would.😭</title>
+    <link>https://www.youtube.com/shorts/ZPry9Qo5HT0</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/ZPry9Qo5HT0</guid>
+    <pubDate>Fri, 13 Mar 2026 12:39:47 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ZPry9Qo5HT0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/ZPry9Qo5HT0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/ZPry9Qo5HT0" type="text/html" medium="video"/>
+    <yt:videoId>ZPry9Qo5HT0</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>You could throw a blanket over these shots with the new Callaway Quantum Drivers</title>
+    <link>https://www.youtube.com/shorts/geBbFPDcYpU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/geBbFPDcYpU</guid>
+    <pubDate>Thu, 12 Mar 2026 22:35:01 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Ryan Barath is back with another Bench Tested featuring the @callawaygolf Quantum Max, Triple Diamond Max, and Triple Diamond that focus on new face tech and consistency.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavo&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/geBbFPDcYpU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/geBbFPDcYpU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/geBbFPDcYpU" type="text/html" medium="video"/>
+    <yt:videoId>geBbFPDcYpU</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>Let’s Rank Every Masters Champions Dinner Menu Since 2020</title>
