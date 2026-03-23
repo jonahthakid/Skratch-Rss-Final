@@ -1,4 +1,3 @@
-<!-- Warning: Error fetching Dan On Golf Show: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -10,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 23 Mar 2026 05:52:50 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Mar 2026 07:02:46 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Surprise! Titleist Just Dropped a First Look at Their New GTS Drivers</title>
@@ -174,6 +173,20 @@ Subsc&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=T_JPr2QbYdc"
     <category>article</category>
   </item>
   <item>
+    <title>Plenty of good—and some not-so-good—from the guys at TPC Sawgrass.</title>
+    <link>https://www.youtube.com/shorts/Lr9aWtJa9M4</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/Lr9aWtJa9M4</guid>
+    <pubDate>Thu, 19 Mar 2026 20:26:21 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Lr9aWtJa9M4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Lr9aWtJa9M4/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Lr9aWtJa9M4" type="text/html" medium="video"/>
+    <yt:videoId>Lr9aWtJa9M4</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>PLAYERS Winner Cam Young Uses This Off-menu Hybrid</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/players-club-fitting-cam-young-hybrid-titleist-gear-smart</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/players-club-fitting-cam-young-hybrid-titleist-gear-smart</guid>
@@ -218,6 +231,68 @@ Subsc&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=T_JPr2QbYdc"
     <yt:videoId>1PXW5dQ0RI0</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>No. 1 Golf Coach Mark Blackburn On Matt Fitzpatrick’s Transformation &amp; Max Homa Reunion</title>
+    <link>https://www.youtube.com/watch?v=XgtPh1CLATQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=XgtPh1CLATQ</guid>
+    <pubDate>Thu, 19 Mar 2026 14:00:57 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;No. 1 golf coach in America joins the show to discuss his reunion with Max Homa, the resurgence of Matt Fitzpatrick, swings on TOUR &amp; much more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=XgtPh1CLATQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/XgtPh1CLATQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/XgtPh1CLATQ" type="text/html" medium="video"/>
+    <yt:videoId>XgtPh1CLATQ</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Petition for Bryson to bring back one of these 2009 models.</title>
+    <link>https://www.youtube.com/shorts/1UJNddqtR7Q</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/1UJNddqtR7Q</guid>
+    <pubDate>Thu, 19 Mar 2026 00:39:01 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/1UJNddqtR7Q"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/1UJNddqtR7Q/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/1UJNddqtR7Q" type="text/html" medium="video"/>
+    <yt:videoId>1UJNddqtR7Q</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>S2 E21: Bryson CALLS OUT Tiger, Rory&#x27;s Champions Dinner Menu, No. 1 Coach Mark Blackburn</title>
+    <link>https://www.youtube.com/watch?v=QpreH5D4bYI</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=QpreH5D4bYI</guid>
+    <pubDate>Wed, 18 Mar 2026 23:57:00 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Bryson calls out Tiger &amp; Jupiter Links in a 4v4 match. Rory&#x27;s Masters Champions Dinner menu is out — what do we think? No. 1 golf coach Mark Blackburn joins the show to discuss working with Matt Fitzpatrick, reuniting with Max Homa &amp; more. Also, a Mark Hubbard interview &amp; a new version of the World Dankings.
+
+Thank You to Our Sponsors!
+
+Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
+
+Dan travels all year and never leaves his Knockarounds behind, and if&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=QpreH5D4bYI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/QpreH5D4bYI/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/QpreH5D4bYI" type="text/html" medium="video"/>
+    <yt:videoId>QpreH5D4bYI</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>No. 1 coach Mark Blackburn explains how moving to a cut helped transform Fitz’s approach play.</title>
+    <link>https://www.youtube.com/shorts/dR4Wx7xOWtg</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/dR4Wx7xOWtg</guid>
+    <pubDate>Wed, 18 Mar 2026 23:35:52 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/dR4Wx7xOWtg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/dR4Wx7xOWtg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/dR4Wx7xOWtg" type="text/html" medium="video"/>
+    <yt:videoId>dR4Wx7xOWtg</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
     <category>video</category>
   </item>
   <item>
@@ -343,6 +418,20 @@ Subsc&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=T_JPr2QbYdc"
     <category>article</category>
   </item>
   <item>
+    <title>Team Dan or Team Ben?</title>
+    <link>https://www.youtube.com/shorts/jc4lWnQ3c3I</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/jc4lWnQ3c3I</guid>
+    <pubDate>Tue, 17 Mar 2026 18:44:33 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/jc4lWnQ3c3I"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/jc4lWnQ3c3I/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/jc4lWnQ3c3I" type="text/html" medium="video"/>
+    <yt:videoId>jc4lWnQ3c3I</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Enjoy Augusta National from Home with ‘Taste of the Masters’</title>
     <link>https://skratch.golf/news/news/masters-augusta-national-taste-of-the-masters-order</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/masters-augusta-national-taste-of-the-masters-order</guid>
@@ -363,6 +452,20 @@ Subsc&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=T_JPr2QbYdc"
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266084885_4479b931d5/Getty_Images_2266084885_4479b931d5.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>Why Are Young Golfers Hurting Their Backs?</title>
+    <link>https://www.youtube.com/watch?v=rVQSm66A9R0</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=rVQSm66A9R0</guid>
+    <pubDate>Tue, 17 Mar 2026 13:31:06 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Dan brings on Dr. Ara Suppiah, who&#x27;s a 23-year vet in sports medicine, to discuss the back injuries plaguing the young stars on the PGA TOUR.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=rVQSm66A9R0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/rVQSm66A9R0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/rVQSm66A9R0" type="text/html" medium="video"/>
+    <yt:videoId>rVQSm66A9R0</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
   </item>
   <item>
     <title>Cleveland Golf Goes Retro With Latest Drop</title>
@@ -387,6 +490,20 @@ Subsc&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=T_JPr2QbYdc"
     <category>article</category>
   </item>
   <item>
+    <title>&quot;Sometimes when you do that, the edge pushes back.&quot;</title>
+    <link>https://www.youtube.com/shorts/fykhIkXsWlU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/fykhIkXsWlU</guid>
+    <pubDate>Mon, 16 Mar 2026 23:38:45 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/fykhIkXsWlU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/fykhIkXsWlU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/fykhIkXsWlU" type="text/html" medium="video"/>
+    <yt:videoId>fykhIkXsWlU</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Don&#x27;t Sleep on Jacob Bridgeman at the Valspar This Week. Here&#x27;s Why.</title>
     <link>https://skratch.golf/news/pro-golf/expert-picks-to-win-valspar-championship-pga-tour-best-bets</link>
     <guid isPermaLink="true">https://skratch.golf/news/pro-golf/expert-picks-to-win-valspar-championship-pga-tour-best-bets</guid>
@@ -398,6 +515,34 @@ Subsc&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=T_JPr2QbYdc"
     <category>article</category>
   </item>
   <item>
+    <title>The fried-egg par on 16, the birdie on 17, the drive on 18…what a performance from Cameron Young.</title>
+    <link>https://www.youtube.com/shorts/vmf45JImdgw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/vmf45JImdgw</guid>
+    <pubDate>Mon, 16 Mar 2026 22:00:58 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/vmf45JImdgw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/vmf45JImdgw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/vmf45JImdgw" type="text/html" medium="video"/>
+    <yt:videoId>vmf45JImdgw</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Got no issues with the World No. 1 pushing back.</title>
+    <link>https://www.youtube.com/shorts/Fjpg3Y5NQSc</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/Fjpg3Y5NQSc</guid>
+    <pubDate>Mon, 16 Mar 2026 21:11:48 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Fjpg3Y5NQSc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Fjpg3Y5NQSc/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Fjpg3Y5NQSc" type="text/html" medium="video"/>
+    <yt:videoId>Fjpg3Y5NQSc</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>On Tap: Valspar Championship at Innisbrook Resort</title>
     <link>https://skratch.golf/news/pro-golf/how-to-watch-valspar-championship-pga-tour-tee-times</link>
     <guid isPermaLink="true">https://skratch.golf/news/pro-golf/how-to-watch-valspar-championship-pga-tour-tee-times</guid>
@@ -407,6 +552,26 @@ Subsc&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=T_JPr2QbYdc"
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1473750721_68bad3844c/Getty_Images_1473750721_68bad3844c.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>S2 E20: THE PLAYERS Recap Episode - 18 Parting Thoughts on Cam Young, Scottie, Future of TOUR &amp; More</title>
+    <link>https://www.youtube.com/watch?v=Xl-IJYb7Ezw</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=Xl-IJYb7Ezw</guid>
+    <pubDate>Mon, 16 Mar 2026 18:20:24 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;An ELECTRIC finish to THE PLAYERS, as Cam Young comes out on top. We dive into it all: angsty Scottie, Ludvig&#x27;s collapse, back injuries galore, the future of the PGA TOUR &amp; much, much more.
+
+Thank You to Our Sponsors!
+
+Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
+
+Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround.com/golf and use code DANONGOLF20, you can stock up with 20% off, which brings many pairs under $&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Xl-IJYb7Ezw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Xl-IJYb7Ezw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Xl-IJYb7Ezw" type="text/html" medium="video"/>
+    <yt:videoId>Xl-IJYb7Ezw</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
   </item>
   <item>
     <title>Inside the &quot;Tour Truck for the Everyday Guy&quot; at New Level&#x27;s HQ | Launch Lab</title>
@@ -427,6 +592,62 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
+    <title>Cam Young. PLAYERS Champ. @RickRunGood knew it all along.</title>
+    <link>https://www.youtube.com/shorts/k9IjHKuFH-s</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/k9IjHKuFH-s</guid>
+    <pubDate>Sun, 15 Mar 2026 22:25:10 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/k9IjHKuFH-s"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/k9IjHKuFH-s/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/k9IjHKuFH-s" type="text/html" medium="video"/>
+    <yt:videoId>k9IjHKuFH-s</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Ludvig Leading Fitz, Cam Young At TPC Sawgrass | THE PLAYERS Live Watch Along</title>
+    <link>https://www.youtube.com/watch?v=iifYHYe-4VA</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=iifYHYe-4VA</guid>
+    <pubDate>Sun, 15 Mar 2026 22:24:10 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Watch the final-round action unfold at THE PLAYERS Championship at TPC Sawgrass alongside Dan Rapaport&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=iifYHYe-4VA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/iifYHYe-4VA/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/iifYHYe-4VA" type="text/html" medium="video"/>
+    <yt:videoId>iifYHYe-4VA</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>BONUS Watch Along! Ludvig Aberg Leading Saturday at THE PLAYERS!</title>
+    <link>https://www.youtube.com/watch?v=VyrCRBmJxX0</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=VyrCRBmJxX0</guid>
+    <pubDate>Sun, 15 Mar 2026 11:23:55 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Follow along for this bonus watch along with Dan Rapaport as the Saturday action unfolds at THE PLAYERS at TPC Sawgrass.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=VyrCRBmJxX0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/VyrCRBmJxX0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/VyrCRBmJxX0" type="text/html" medium="video"/>
+    <yt:videoId>VyrCRBmJxX0</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Walk &amp; Talk With The Pros At THE PLAYERS</title>
+    <link>https://www.youtube.com/watch?v=7_eLLl4VA_Q</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=7_eLLl4VA_Q</guid>
+    <pubDate>Sat, 14 Mar 2026 13:00:24 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;An extended course report inside the ropes at THE PLAYERS Championship. Walk &amp; talk with Ashkay Bhatia, Jake Knapp, Shane Lowry &amp; many more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=7_eLLl4VA_Q"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/7_eLLl4VA_Q/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/7_eLLl4VA_Q" type="text/html" medium="video"/>
+    <yt:videoId>7_eLLl4VA_Q</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Looking back at Craig Perks’ unbelievable finish to the 2002 PLAYERS and the club behind the magic.</title>
     <link>https://www.youtube.com/shorts/A0mDdrBO66Q</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/A0mDdrBO66Q</guid>
@@ -439,77 +660,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>It&#x27;s only appropriate that we&#x27;re playing #17 on Friday the 13th.</title>
-    <link>https://www.youtube.com/shorts/KU7jBUCaS9c</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/KU7jBUCaS9c</guid>
-    <pubDate>Fri, 13 Mar 2026 18:10:39 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/KU7jBUCaS9c"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/KU7jBUCaS9c/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/KU7jBUCaS9c" type="text/html" medium="video"/>
-    <yt:videoId>KU7jBUCaS9c</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>No one like him on TOUR. Come play a hole with Si Woo at TPC Sawgrass.</title>
-    <link>https://www.youtube.com/shorts/hUSgqdNkJu8</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/hUSgqdNkJu8</guid>
-    <pubDate>Fri, 13 Mar 2026 14:51:58 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/hUSgqdNkJu8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/hUSgqdNkJu8/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/hUSgqdNkJu8" type="text/html" medium="video"/>
-    <yt:videoId>hUSgqdNkJu8</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Pranking golfers by telling them 17 at TPC Sawgrass is CLOSED went exactly how you think it would.😭</title>
-    <link>https://www.youtube.com/shorts/ZPry9Qo5HT0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ZPry9Qo5HT0</guid>
-    <pubDate>Fri, 13 Mar 2026 12:39:47 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ZPry9Qo5HT0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ZPry9Qo5HT0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ZPry9Qo5HT0" type="text/html" medium="video"/>
-    <yt:videoId>ZPry9Qo5HT0</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>You could throw a blanket over these shots with the new Callaway Quantum Drivers</title>
-    <link>https://www.youtube.com/shorts/geBbFPDcYpU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/geBbFPDcYpU</guid>
-    <pubDate>Thu, 12 Mar 2026 22:35:01 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Ryan Barath is back with another Bench Tested featuring the @callawaygolf Quantum Max, Triple Diamond Max, and Triple Diamond that focus on new face tech and consistency.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavo&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/geBbFPDcYpU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/geBbFPDcYpU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/geBbFPDcYpU" type="text/html" medium="video"/>
-    <yt:videoId>geBbFPDcYpU</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Let’s Rank Every Masters Champions Dinner Menu Since 2020</title>
-    <link>https://skratch.golf/news/pro-golf/masters-champions-dinner-menu-ranking-since-2020</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/masters-champions-dinner-menu-ranking-since-2020</guid>
-    <pubDate>Wed, 19 Mar 2025 16:26:09 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;We&#x27;d polish off all this food, but some dinners are better than others.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/masters-champions-dinner-menu-ranking-since-2020"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1346808293_6490b7e6bb/Getty_Images_1346808293_6490b7e6bb.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
