@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 24 Mar 2026 12:59:05 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Mar 2026 14:20:24 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Live look at Tiger getting ready for his TGL return tonight.</title>
+    <link>https://www.youtube.com/shorts/FJWvOXPdTso</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/FJWvOXPdTso</guid>
+    <pubDate>Tue, 24 Mar 2026 14:12:50 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/FJWvOXPdTso"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/FJWvOXPdTso/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/FJWvOXPdTso" type="text/html" medium="video"/>
+    <yt:videoId>FJWvOXPdTso</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>How to Watch Tiger Woods Play in the TGL Finals</title>
+    <link>https://skratch.golf/news/news/tiger-woods-how-to-watch-tgl-finals-jupiter-links</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/tiger-woods-how-to-watch-tgl-finals-jupiter-links</guid>
+    <pubDate>Tue, 24 Mar 2026 13:14:56 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Here&#x27;s how you can watch the GOAT make his TGL debut on Tuesday night.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-how-to-watch-tgl-finals-jupiter-links"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2268079604_85e4ebea73/Getty_Images_2268079604_85e4ebea73.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Tiger Woods Will Play in TGL Finals on Tuesday</title>
     <link>https://skratch.golf/news/news/tiger-woods-will-play-tgl-finals-tuesday-night-jupiter-links</link>
@@ -472,17 +497,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if&lt;/p&gt;&
     <category>video</category>
   </item>
   <item>
-    <title>Chasing Sunday from THE PLAYERS is Exactly the Content We Need More Of</title>
-    <link>https://skratch.golf/news/news/pga-tour-chasing-sunday-the-players-reaction-best-moments</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-chasing-sunday-the-players-reaction-best-moments</guid>
-    <pubDate>Wed, 18 Mar 2026 17:31:48 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Chasing Sunday is the content golf needs. If you haven&#x27;t seen it yet, carve out an hour to do so. This thing rocks.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-chasing-sunday-the-players-reaction-best-moments"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2265793629_cd0ccd080b/Getty_Images_2265793629_cd0ccd080b.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>When Sepp almost took out JT and Bones at the 2024 Valspar. 🤣</title>
     <link>https://www.youtube.com/shorts/onccL4bM9vI</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/onccL4bM9vI</guid>
@@ -650,20 +664,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/k9IjHKuFH-s/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/k9IjHKuFH-s" type="text/html" medium="video"/>
     <yt:videoId>k9IjHKuFH-s</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Ludvig Leading Fitz, Cam Young At TPC Sawgrass | THE PLAYERS Live Watch Along</title>
-    <link>https://www.youtube.com/watch?v=iifYHYe-4VA</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=iifYHYe-4VA</guid>
-    <pubDate>Sun, 15 Mar 2026 22:24:10 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Watch the final-round action unfold at THE PLAYERS Championship at TPC Sawgrass alongside Dan Rapaport&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=iifYHYe-4VA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/iifYHYe-4VA/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/iifYHYe-4VA" type="text/html" medium="video"/>
-    <yt:videoId>iifYHYe-4VA</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
