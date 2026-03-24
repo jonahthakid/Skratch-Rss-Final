@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 24 Mar 2026 14:20:24 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Mar 2026 15:39:37 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Scottie Scheffler has Withdrawn from the Texas Children’s Houston Open</title>
+    <link>https://skratch.golf/news/news/scottie-scheffler-wd-texas-childrens-houston-open-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/scottie-scheffler-wd-texas-childrens-houston-open-pga-tour</guid>
+    <pubDate>Tue, 24 Mar 2026 14:57:20 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;World No. 1 Scottie Scheffler has WD&#x27;d from the Texas Children&#x27;s Houston Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/scottie-scheffler-wd-texas-childrens-houston-open-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2264787485_9774355d52/Getty_Images_2264787485_9774355d52.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Live look at Tiger getting ready for his TGL return tonight.</title>
     <link>https://www.youtube.com/shorts/FJWvOXPdTso</link>
@@ -24,6 +35,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Jessica Korda Returns to Full LPGA Competition at Ford Championship—Here&#x27;s How You Can Tune In</title>
+    <link>https://skratch.golf/news/news/lpga-ford-championship-jessica-korda-returns-how-to-watch-tv-streaming</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-ford-championship-jessica-korda-returns-how-to-watch-tv-streaming</guid>
+    <pubDate>Tue, 24 Mar 2026 13:59:24 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The Korda sisters will be teeing it up together in a regular season LPGA event for the first time since 2023 at this week&#x27;s Ford Championship in Arizona.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-ford-championship-jessica-korda-returns-how-to-watch-tv-streaming"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1353663200_9dc35d55a4/Getty_Images_1353663200_9dc35d55a4.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>How to Watch Tiger Woods Play in the TGL Finals</title>
@@ -349,28 +371,6 @@ Subsc&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=T_JPr2QbYdc"
     <category>article</category>
   </item>
   <item>
-    <title>The Masters Continues Its Content Masterclass with ‘Masters Vault’</title>
-    <link>https://skratch.golf/news/news/Masters-launches-masters-vault-any-final-round-shot-since-1968</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/Masters-launches-masters-vault-any-final-round-shot-since-1968</guid>
-    <pubDate>Thu, 19 Mar 2026 15:56:39 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The Masters has perfected the content game—the latest example being the new &quot;Masters Vault&quot;.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Masters-launches-masters-vault-any-final-round-shot-since-1968"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_81398045_ac27e7d5a7/Getty_Images_81398045_ac27e7d5a7.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Wine List Alone Could Cost Rory McIlroy Over $50K at This Year’s Masters Champions Dinner</title>
-    <link>https://skratch.golf/news/news/masters-champions-dinner-rory-mcilroy-wine-list-cost</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/masters-champions-dinner-rory-mcilroy-wine-list-cost</guid>
-    <pubDate>Thu, 19 Mar 2026 15:50:16 +0000</pubDate>
-    <dc:creator>Brittany Romano</dc:creator>
-    <description>&lt;p&gt;McIlroy’s menu balances Irish roots with Augusta polish—but the bottle service is where things get serious.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-champions-dinner-rory-mcilroy-wine-list-cost"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/rory_mcilroy_2025_masters_win_Getty_Images_2210134696_7c1ad1d6a9/rory_mcilroy_2025_masters_win_Getty_Images_2210134696_7c1ad1d6a9.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>It’s only right we’d have a slam dunk today at the Valspar. 🤣🏀</title>
     <link>https://www.youtube.com/shorts/1PXW5dQ0RI0</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/1PXW5dQ0RI0</guid>
@@ -511,28 +511,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if&lt;/p&gt;&
     <category>video</category>
   </item>
   <item>
-    <title>An Insider&#x27;s Look at The LPGA&#x27;s New Venue Sharon Heights</title>
-    <link>https://skratch.golf/news/news/sharon-heights-golf-club-lpga-tour-new-venue-course-preview</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/sharon-heights-golf-club-lpga-tour-new-venue-course-preview</guid>
-    <pubDate>Wed, 18 Mar 2026 06:20:05 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The LPGA Tour’s latest venue is drawing plenty of attention this week—here’s why it matters.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/sharon-heights-golf-club-lpga-tour-new-venue-course-preview"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/IMG_6797_69cd6d774f/IMG_6797_69cd6d774f.jpeg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The LPGA Returns to The U.S. This Week—Here&#x27;s How You Can Watch The Action</title>
-    <link>https://skratch.golf/news/news/lpga-tour-founders-cup-full-field-how-to-watch-tv-streaming</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-tour-founders-cup-full-field-how-to-watch-tv-streaming</guid>
-    <pubDate>Tue, 17 Mar 2026 20:18:08 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The LPGA touches down stateside for its first full-field event of the season, the Fortinet Founders Cup at Sharon Heights. Here&#x27;s everything you need to know.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-tour-founders-cup-full-field-how-to-watch-tv-streaming"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2198597299_472b5e7ffe/Getty_Images_2198597299_472b5e7ffe.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Happy #stpatricksday. Don’t forget your lucky green shirt today. #tigertuesday</title>
     <link>https://www.youtube.com/shorts/493YiXfF4cY</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/493YiXfF4cY</guid>
@@ -664,6 +642,34 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/k9IjHKuFH-s/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/k9IjHKuFH-s" type="text/html" medium="video"/>
     <yt:videoId>k9IjHKuFH-s</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Ludvig Leading Fitz, Cam Young At TPC Sawgrass | THE PLAYERS Live Watch Along</title>
+    <link>https://www.youtube.com/watch?v=iifYHYe-4VA</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=iifYHYe-4VA</guid>
+    <pubDate>Sun, 15 Mar 2026 22:24:10 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Watch the final-round action unfold at THE PLAYERS Championship at TPC Sawgrass alongside Dan Rapaport&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=iifYHYe-4VA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/iifYHYe-4VA/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/iifYHYe-4VA" type="text/html" medium="video"/>
+    <yt:videoId>iifYHYe-4VA</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>BONUS Watch Along! Ludvig Aberg Leading Saturday at THE PLAYERS!</title>
+    <link>https://www.youtube.com/watch?v=VyrCRBmJxX0</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=VyrCRBmJxX0</guid>
+    <pubDate>Sun, 15 Mar 2026 11:23:55 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Follow along for this bonus watch along with Dan Rapaport as the Saturday action unfolds at THE PLAYERS at TPC Sawgrass.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=VyrCRBmJxX0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/VyrCRBmJxX0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/VyrCRBmJxX0" type="text/html" medium="video"/>
+    <yt:videoId>VyrCRBmJxX0</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
