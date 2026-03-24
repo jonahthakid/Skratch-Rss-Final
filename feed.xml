@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 24 Mar 2026 17:51:23 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Mar 2026 18:55:10 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The 2026 Masters Gnome is Here</title>
+    <link>https://skratch.golf/news/news/Masters-2026-gnome-augusta-national</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/Masters-2026-gnome-augusta-national</guid>
+    <pubDate>Tue, 24 Mar 2026 16:45:05 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;One of the most beloved traditions at the Masters is the gnome—and the 2026 edition is here!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Masters-2026-gnome-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2208997642_4622c6bfcb/Getty_Images_2208997642_4622c6bfcb.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Another sickos-only ranking here.</title>
     <link>https://www.youtube.com/shorts/eVXXCMzzGVY</link>
@@ -68,7 +79,7 @@
     <pubDate>Tue, 24 Mar 2026 13:14:56 +0000</pubDate>
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Here&#x27;s how you can watch the GOAT make his TGL debut on Tuesday night.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-how-to-watch-tgl-finals-jupiter-links"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2268079604_85e4ebea73/Getty_Images_2268079604_85e4ebea73.jpg"/>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_03_24_at_11_02_29_AM_4e6f5d8a55/Screenshot_2026_03_24_at_11_02_29_AM_4e6f5d8a55.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -372,17 +383,6 @@ Subsc&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=T_JPr2QbYdc"
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>PLAYERS Winner Cam Young Uses This Off-menu Hybrid</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/players-club-fitting-cam-young-hybrid-titleist-gear-smart</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/players-club-fitting-cam-young-hybrid-titleist-gear-smart</guid>
-    <pubDate>Thu, 19 Mar 2026 16:23:15 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Cam Young won the PLAYERS with a unique hybrid setup that any golfer can try—they just need to know what to ask for.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/players-club-fitting-cam-young-hybrid-titleist-gear-smart"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/GT_1_hybrid_6fa00c2bb4/GT_1_hybrid_6fa00c2bb4.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>It’s only right we’d have a slam dunk today at the Valspar. 🤣🏀</title>
