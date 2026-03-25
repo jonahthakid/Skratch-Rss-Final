@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 25 Mar 2026 16:04:32 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Mar 2026 17:32:27 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>“It’s not even close.”</title>
@@ -166,6 +166,17 @@
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Sound the alarm! Tiger Woods will make his TGL season debut on Tuesday night!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-will-play-tgl-finals-tuesday-night-jupiter-links"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2256149069_82c600bd6d/Getty_Images_2256149069_82c600bd6d.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Love Letter To: Queenstown Golf</title>
+    <link>https://skratch.golf/news/news/jacks-point-golf-club-review-queenstown-golf-overview-new-zealand</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/jacks-point-golf-club-review-queenstown-golf-overview-new-zealand</guid>
+    <pubDate>Mon, 23 Mar 2026 21:30:44 +0000</pubDate>
+    <dc:creator>Luke Leesburg</dc:creator>
+    <description>&lt;p&gt;I described Jack’s Point as feeling like you were playing golf through Middle earth. Like you were part of the Fellowship trying to get Frodo to Mordor.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jacks-point-golf-club-review-queenstown-golf-overview-new-zealand"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/DSC_00069_0791fba057/DSC_00069_0791fba057.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -386,17 +397,6 @@ Subsc&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=T_JPr2QbYdc"
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>LPGA Founders Cup: Weekend Storylines to Follow</title>
-    <link>https://skratch.golf/news/news/founders-cup-lpga-weekend-storylines-to-watch</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/founders-cup-lpga-weekend-storylines-to-watch</guid>
-    <pubDate>Fri, 20 Mar 2026 14:55:09 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The what, the who, and the how to watch this weekend in women&#x27;s golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/founders-cup-lpga-weekend-storylines-to-watch"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2267463229_c8de790e96/Getty_Images_2267463229_c8de790e96.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>“I think he understands now.” 🥶 Don’t poke the Tiger. Tiger wins 9&amp;8 over Stephen Ames.</title>
