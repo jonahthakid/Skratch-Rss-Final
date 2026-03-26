@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 26 Mar 2026 20:31:30 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Mar 2026 21:26:21 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Reminder: there are NO foul balls in golf.</title>
+    <link>https://www.youtube.com/shorts/rDxgHM2gxMo</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/rDxgHM2gxMo</guid>
+    <pubDate>Thu, 26 Mar 2026 20:43:24 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/rDxgHM2gxMo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/rDxgHM2gxMo/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/rDxgHM2gxMo" type="text/html" medium="video"/>
+    <yt:videoId>rDxgHM2gxMo</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Paul Waring, Where Did That Come From?</title>
     <link>https://skratch.golf/news/news/Paul-waring-texas-childrens-houston-open-pga-tour-first-round-scores</link>
@@ -593,20 +607,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if&lt;/p&gt;&
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/New_Level_702_CB_toe_182e6858d1/New_Level_702_CB_toe_182e6858d1.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>ANYTHING to save a stroke. 🫡</title>
-    <link>https://www.youtube.com/shorts/7uuVv-mYt9s</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/7uuVv-mYt9s</guid>
-    <pubDate>Wed, 18 Mar 2026 18:27:53 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/7uuVv-mYt9s"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/7uuVv-mYt9s/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/7uuVv-mYt9s" type="text/html" medium="video"/>
-    <yt:videoId>7uuVv-mYt9s</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Team Dan or Team Ben?</title>
