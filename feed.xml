@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 26 Mar 2026 16:07:56 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Mar 2026 17:33:35 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>“That’s not a hole in one roar, RIGHT?” 🤣</title>
+    <link>https://www.youtube.com/shorts/7r-4wYhVSC4</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/7r-4wYhVSC4</guid>
+    <pubDate>Thu, 26 Mar 2026 17:00:55 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/7r-4wYhVSC4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/7r-4wYhVSC4/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/7r-4wYhVSC4" type="text/html" medium="video"/>
+    <yt:videoId>7r-4wYhVSC4</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>How did we get a video of your drive? 🤣🚮</title>
     <link>https://www.youtube.com/shorts/e2vzkMh6Gpg</link>
@@ -579,20 +593,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if&lt;/p&gt;&
     <media:thumbnail url="https://img.youtube.com/vi/7uuVv-mYt9s/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/7uuVv-mYt9s" type="text/html" medium="video"/>
     <yt:videoId>7uuVv-mYt9s</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>When Sepp almost took out JT and Bones at the 2024 Valspar. 🤣</title>
-    <link>https://www.youtube.com/shorts/onccL4bM9vI</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/onccL4bM9vI</guid>
-    <pubDate>Wed, 18 Mar 2026 14:53:47 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/onccL4bM9vI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/onccL4bM9vI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/onccL4bM9vI" type="text/html" medium="video"/>
-    <yt:videoId>onccL4bM9vI</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
