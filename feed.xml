@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 27 Mar 2026 15:13:30 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Mar 2026 16:11:11 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Tiger Woods has Entered the U.S. Senior Open—But Will He Play?</title>
+    <link>https://skratch.golf/news/news/tiger-woods-us-senior-open-2026-usga</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/tiger-woods-us-senior-open-2026-usga</guid>
+    <pubDate>Fri, 27 Mar 2026 15:36:46 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Tiger Woods was one of 2,780 entrants into the U.S. Senior Open—but that doesn&#x27;t mean he&#x27;ll play.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-us-senior-open-2026-usga"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2226381812_864e616dfd/Getty_Images_2226381812_864e616dfd.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Patrick Reed’s ace (and race 🤣) at the 2015 Houston Open.</title>
     <link>https://www.youtube.com/shorts/SX9tleFgGFo</link>
@@ -349,17 +360,6 @@
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Sound the alarm! Tiger Woods will make his TGL season debut on Tuesday night!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-will-play-tgl-finals-tuesday-night-jupiter-links"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2256149069_82c600bd6d/Getty_Images_2256149069_82c600bd6d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Love Letter To: Queenstown Golf</title>
-    <link>https://skratch.golf/news/news/jacks-point-golf-club-review-queenstown-golf-overview-new-zealand</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/jacks-point-golf-club-review-queenstown-golf-overview-new-zealand</guid>
-    <pubDate>Mon, 23 Mar 2026 21:30:44 +0000</pubDate>
-    <dc:creator>Luke Leesburg</dc:creator>
-    <description>&lt;p&gt;I described Jack’s Point as feeling like you were playing golf through Middle earth. Like you were part of the Fellowship trying to get Frodo to Mordor.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jacks-point-golf-club-review-queenstown-golf-overview-new-zealand"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/DSC_00069_0791fba057/DSC_00069_0791fba057.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
