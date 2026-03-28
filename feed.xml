@@ -9,8 +9,24 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 28 Mar 2026 16:59:07 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Mar 2026 17:34:31 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>We got to be the FIRST to play the newly renovated Maggie Hathaway Golf Course!!</title>
+    <link>https://www.youtube.com/shorts/2nxw82mF6oU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/2nxw82mF6oU</guid>
+    <pubDate>Sat, 28 Mar 2026 16:55:40 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Sitting just a few miles east of LAX, the newly renovated Maggie Hathaway Golf Course is a must-play on your next trip to Los Angeles.
+
+We got to tee it up before this weekend’s opening to check out all the changes.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/2nxw82mF6oU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/2nxw82mF6oU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/2nxw82mF6oU" type="text/html" medium="video"/>
+    <yt:videoId>2nxw82mF6oU</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Golf in 🇯🇵 is an incredible experience.</title>
     <link>https://www.youtube.com/shorts/l4eglvbD3Oo</link>
@@ -556,20 +572,6 @@ Subsc&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=T_JPr2QbYdc"
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Vokey_WW_K_2026_f9232713ae/Vokey_WW_K_2026_f9232713ae.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>It’s only right we’d have a slam dunk today at the Valspar. 🤣🏀</title>
-    <link>https://www.youtube.com/shorts/1PXW5dQ0RI0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/1PXW5dQ0RI0</guid>
-    <pubDate>Thu, 19 Mar 2026 14:45:43 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/1PXW5dQ0RI0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/1PXW5dQ0RI0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/1PXW5dQ0RI0" type="text/html" medium="video"/>
-    <yt:videoId>1PXW5dQ0RI0</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>No. 1 Golf Coach Mark Blackburn On Matt Fitzpatrick’s Transformation &amp; Max Homa Reunion</title>
