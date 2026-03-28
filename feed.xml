@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 28 Mar 2026 15:32:13 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Mar 2026 16:27:19 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Golf in 🇯🇵 is an incredible experience.</title>
@@ -55,6 +55,17 @@
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Woods was released late Friday night after being held a mandatory eight hours following his arrest.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-rollover-car-crash-2026-before-masters"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2149024719_3e1769a6bb/Getty_Images_2149024719_3e1769a6bb.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>First Out at the New Maggie Hathaway, Southern California&#x27;s Most Important Golf Project</title>
+    <link>https://skratch.golf/news/golf-culture/maggie-hathaway-golf-2026-preview-gil-hanse-restoration-los-angeles</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/maggie-hathaway-golf-2026-preview-gil-hanse-restoration-los-angeles</guid>
+    <pubDate>Fri, 27 Mar 2026 15:38:01 +0000</pubDate>
+    <dc:creator>Ben Boskovich</dc:creator>
+    <description>&lt;p&gt;On an overcast March morning, we headed south on La Cienaga, cut through Inglewood, and found ourselves among nine very special holes of golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/maggie-hathaway-golf-2026-preview-gil-hanse-restoration-los-angeles"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/MHGC_Hole_6_3_edca0c1659/MHGC_Hole_6_3_edca0c1659.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -387,17 +398,6 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Jessica Korda Returns to Full LPGA Competition at Ford Championship—Here&#x27;s How You Can Tune In</title>
-    <link>https://skratch.golf/news/news/lpga-ford-championship-jessica-korda-returns-how-to-watch-tv-streaming</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-ford-championship-jessica-korda-returns-how-to-watch-tv-streaming</guid>
-    <pubDate>Tue, 24 Mar 2026 13:59:24 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The Korda sisters will be teeing it up together in a regular season LPGA event for the first time since 2023 at this week&#x27;s Ford Championship in Arizona.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-ford-championship-jessica-korda-returns-how-to-watch-tv-streaming"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1353663200_9dc35d55a4/Getty_Images_1353663200_9dc35d55a4.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>On Tap: The Texas Children’s Houston Open</title>
