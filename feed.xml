@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 28 Mar 2026 11:52:09 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Mar 2026 12:40:56 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Jason Day&#x27;s Iron Swap Paying Off In Houston</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/jason-day-irons-houston-golf-fitting</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/jason-day-irons-houston-golf-fitting</guid>
+    <pubDate>Sat, 28 Mar 2026 01:52:16 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;With some new (old) irons in the bag, Jason Day is showcasing great iron play in Houston.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/jason-day-irons-houston-golf-fitting"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2230136110_67d74db9ea/Getty_Images_2230136110_67d74db9ea.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Weekend Forecast: 4 Reasons Why You Need to Be Watching The Ford Championship</title>
     <link>https://skratch.golf/news/news/lpga-tour-ford-championship-weekend-forecast-storylines-to-follow</link>
@@ -314,6 +325,17 @@
     <category>article</category>
   </item>
   <item>
+    <title>The 2026 Masters Gnome is Here</title>
+    <link>https://skratch.golf/news/news/Masters-2026-gnome-augusta-national</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/Masters-2026-gnome-augusta-national</guid>
+    <pubDate>Tue, 24 Mar 2026 16:45:05 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;One of the most beloved traditions at the Masters is the gnome—and the 2026 edition is here!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Masters-2026-gnome-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2208997642_4622c6bfcb/Getty_Images_2208997642_4622c6bfcb.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Another sickos-only ranking here.</title>
     <link>https://www.youtube.com/shorts/eVXXCMzzGVY</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/eVXXCMzzGVY</guid>
@@ -360,17 +382,6 @@
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;The Korda sisters will be teeing it up together in a regular season LPGA event for the first time since 2023 at this week&#x27;s Ford Championship in Arizona.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-ford-championship-jessica-korda-returns-how-to-watch-tv-streaming"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1353663200_9dc35d55a4/Getty_Images_1353663200_9dc35d55a4.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Tiger Woods Will Play in TGL Finals on Tuesday</title>
-    <link>https://skratch.golf/news/news/tiger-woods-will-play-tgl-finals-tuesday-night-jupiter-links</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/tiger-woods-will-play-tgl-finals-tuesday-night-jupiter-links</guid>
-    <pubDate>Tue, 24 Mar 2026 03:40:48 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Sound the alarm! Tiger Woods will make his TGL season debut on Tuesday night!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-will-play-tgl-finals-tuesday-night-jupiter-links"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2256149069_82c600bd6d/Getty_Images_2256149069_82c600bd6d.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -643,20 +654,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if&lt;/p&gt;&
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Celeveland_SWAG_title_1b620171fd/Celeveland_SWAG_title_1b620171fd.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Why Are Young Golfers Hurting Their Backs?</title>
-    <link>https://www.youtube.com/watch?v=rVQSm66A9R0</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=rVQSm66A9R0</guid>
-    <pubDate>Tue, 17 Mar 2026 13:31:06 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Dan brings on Dr. Ara Suppiah, who&#x27;s a 23-year vet in sports medicine, to discuss the back injuries plaguing the young stars on the PGA TOUR.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=rVQSm66A9R0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/rVQSm66A9R0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/rVQSm66A9R0" type="text/html" medium="video"/>
-    <yt:videoId>rVQSm66A9R0</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
 </channel>
 </rss>
