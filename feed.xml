@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 28 Mar 2026 20:23:37 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Mar 2026 20:54:02 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Throwback to Matt Jones’ INSANE playoff win at the 2014 Houston Open 🤯</title>
+    <link>https://www.youtube.com/shorts/2PO64mzA_cI</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/2PO64mzA_cI</guid>
+    <pubDate>Sat, 28 Mar 2026 20:19:25 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/2PO64mzA_cI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/2PO64mzA_cI/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/2PO64mzA_cI" type="text/html" medium="video"/>
+    <yt:videoId>2PO64mzA_cI</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>We got to be the FIRST to play the newly renovated Maggie Hathaway Golf Course!!</title>
     <link>https://www.youtube.com/shorts/2nxw82mF6oU</link>
@@ -530,20 +544,6 @@ Subsc&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=T_JPr2QbYdc"
     <media:thumbnail url="https://img.youtube.com/vi/vX0jo5Nsn4I/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/vX0jo5Nsn4I" type="text/html" medium="video"/>
     <yt:videoId>vX0jo5Nsn4I</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>“I think he understands now.” 🥶 Don’t poke the Tiger. Tiger wins 9&amp;8 over Stephen Ames.</title>
-    <link>https://www.youtube.com/shorts/azjLcdW6PHk</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/azjLcdW6PHk</guid>
-    <pubDate>Fri, 20 Mar 2026 14:38:57 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/azjLcdW6PHk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/azjLcdW6PHk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/azjLcdW6PHk" type="text/html" medium="video"/>
-    <yt:videoId>azjLcdW6PHk</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
