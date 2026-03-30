@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 30 Mar 2026 14:47:24 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 30 Mar 2026 16:02:16 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Gary Woodland Chasing INCREDIBLE Win | Texas Children&#x27;s Houston Open LIVE Watchalong</title>
@@ -419,17 +419,6 @@ We got to tee it up before this weekend’s opening to check out all the changes
     <category>article</category>
   </item>
   <item>
-    <title>Scottie Scheffler has Withdrawn from the Texas Children’s Houston Open</title>
-    <link>https://skratch.golf/news/news/scottie-scheffler-wd-texas-childrens-houston-open-pga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/scottie-scheffler-wd-texas-childrens-houston-open-pga-tour</guid>
-    <pubDate>Tue, 24 Mar 2026 14:57:20 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;World No. 1 Scottie Scheffler has WD&#x27;d from the Texas Children&#x27;s Houston Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/scottie-scheffler-wd-texas-childrens-houston-open-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2264787485_9774355d52/Getty_Images_2264787485_9774355d52.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Live look at Tiger getting ready for his TGL return tonight.</title>
     <link>https://www.youtube.com/shorts/FJWvOXPdTso</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/FJWvOXPdTso</guid>
@@ -462,6 +451,17 @@ We got to tee it up before this weekend’s opening to check out all the changes
     <dc:creator>Luke Leesburg, Zane Moulton</dc:creator>
     <description>&lt;p&gt;I described Jack’s Point as feeling like you were playing golf through Middle earth. Like you were part of the Fellowship trying to get Frodo to Mordor.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jacks-point-golf-club-review-queenstown-golf-overview-new-zealand"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/DSC_00069_0791fba057/DSC_00069_0791fba057.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>On Tap: The Texas Children’s Houston Open</title>
+    <link>https://skratch.golf/news/news/texas-childrens-houston-open-how-to-watch-pga-tour-tee-times</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/texas-childrens-houston-open-how-to-watch-pga-tour-tee-times</guid>
+    <pubDate>Mon, 23 Mar 2026 19:11:10 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Here&#x27;s all the information you need to watch this week&#x27;s Texas Children&#x27;s Houston Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/texas-childrens-houston-open-how-to-watch-pga-tour-tee-times"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2123177128_585e13478e/Getty_Images_2123177128_585e13478e.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
