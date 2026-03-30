@@ -9,13 +9,13 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 30 Mar 2026 18:11:38 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 30 Mar 2026 19:32:19 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>S2 E22: Tiger’s Arrest, Woodland’s Comeback, The Best Player In The World?</title>
     <link>https://www.youtube.com/watch?v=uL_a3HjlmIQ</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=uL_a3HjlmIQ</guid>
-    <pubDate>Mon, 30 Mar 2026 16:46:06 +0000</pubDate>
+    <pubDate>Mon, 30 Mar 2026 18:24:34 +0000</pubDate>
     <dc:creator>Dan on Golf</dc:creator>
     <description>&lt;p&gt;We&#x27;re back from a week away to discuss it all: Tiger Woods&#x27; accident and arrest, Gary Woodland&#x27;s heartwarming victory, a new edition of the World Dankings, Dan&#x27;s Japan golf experience, &amp; much more.
 
@@ -30,6 +30,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>People Aren’t Happy with Jim Nantz—and the Reason Why is Ridiculous</title>
+    <link>https://skratch.golf/news/news/masters-bryson-dechambeau-liv-golf-fans-mad-jim-nantz</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/masters-bryson-dechambeau-liv-golf-fans-mad-jim-nantz</guid>
+    <pubDate>Mon, 30 Mar 2026 17:16:50 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Jim Nantz ruffled some (sensitive) feathers on Monday with a comment on Bryson DeChambeau heading into the Masters.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-bryson-dechambeau-liv-golf-fans-mad-jim-nantz"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2217340290_a9bc58e4ee/Getty_Images_2217340290_a9bc58e4ee.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Justin Thomas, Nelly Korda, and Other Pros Congratulate Gary Woodland</title>
@@ -468,20 +479,9 @@ We got to tee it up before this weekend’s opening to check out all the changes
     <link>https://skratch.golf/news/news/jacks-point-golf-club-review-queenstown-golf-overview-new-zealand</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/jacks-point-golf-club-review-queenstown-golf-overview-new-zealand</guid>
     <pubDate>Mon, 23 Mar 2026 21:30:44 +0000</pubDate>
-    <dc:creator>Luke Leesburg, Zane Moulton</dc:creator>
+    <dc:creator>Luke Leesburg</dc:creator>
     <description>&lt;p&gt;I described Jack’s Point as feeling like you were playing golf through Middle earth. Like you were part of the Fellowship trying to get Frodo to Mordor.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jacks-point-golf-club-review-queenstown-golf-overview-new-zealand"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/DSC_00069_0791fba057/DSC_00069_0791fba057.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>On Tap: The Texas Children’s Houston Open</title>
-    <link>https://skratch.golf/news/news/texas-childrens-houston-open-how-to-watch-pga-tour-tee-times</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/texas-childrens-houston-open-how-to-watch-pga-tour-tee-times</guid>
-    <pubDate>Mon, 23 Mar 2026 19:11:10 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Here&#x27;s all the information you need to watch this week&#x27;s Texas Children&#x27;s Houston Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/texas-childrens-houston-open-how-to-watch-pga-tour-tee-times"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2123177128_585e13478e/Getty_Images_2123177128_585e13478e.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
