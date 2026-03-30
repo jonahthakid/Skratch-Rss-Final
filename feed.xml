@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 30 Mar 2026 20:38:52 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 30 Mar 2026 21:36:34 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>A heartwarming victory for Gary and all of golf.</title>
+    <link>https://www.youtube.com/shorts/Hux0BRsjKQ8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/Hux0BRsjKQ8</guid>
+    <pubDate>Mon, 30 Mar 2026 21:31:57 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Hux0BRsjKQ8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Hux0BRsjKQ8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Hux0BRsjKQ8" type="text/html" medium="video"/>
+    <yt:videoId>Hux0BRsjKQ8</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>S2 E22: Tiger’s Arrest, Woodland’s Comeback, The Best Player In The World?</title>
     <link>https://www.youtube.com/watch?v=uL_a3HjlmIQ</link>
@@ -335,17 +349,6 @@ We got to tee it up before this weekend’s opening to check out all the changes
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;There will be no shortage of coverage when the golf world heads to Augusta National in two weeks.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-tv-streaming-coverage-plan-2026-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/justin_thomas_masters_2025_Getty_Images_2209170004_dfb4f652c0/justin_thomas_masters_2025_Getty_Images_2209170004_dfb4f652c0.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The LPGA Story You’re Not Following (But Should): Lindy Duncan</title>
-    <link>https://skratch.golf/news/pro-golf/lindy-duncan-lpga-tour-drive-on-series-player-profile</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/lindy-duncan-lpga-tour-drive-on-series-player-profile</guid>
-    <pubDate>Wed, 25 Mar 2026 18:01:16 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Lindy Duncan has one of the LPGA’s best story arcs, and not enough people know it. In a re-boot series titled &#x27;Drive On&#x27;, the Tour and Duncan open up about the tournament that changed her forever.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/lindy-duncan-lpga-tour-drive-on-series-player-profile"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2212299364_f9db398e33/Getty_Images_2212299364_f9db398e33.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
