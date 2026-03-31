@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 31 Mar 2026 08:51:42 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 31 Mar 2026 10:00:07 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Exclusive: Read an Excerpt from Alan Shipnuck&#x27;s &#x27;RORY&#x27;</title>
+    <link>https://skratch.golf/news/pro-golf/rory-book-alan-shipnuck-excerpt-masters-2025-behind-the-scenes</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/rory-book-alan-shipnuck-excerpt-masters-2025-behind-the-scenes</guid>
+    <pubDate>Mon, 30 Mar 2026 23:44:24 +0000</pubDate>
+    <dc:creator>Alan Shipnuck</dc:creator>
+    <description>&lt;p&gt;Relive the drama of Sunday at Augusta from the highly anticipated new biography.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/rory-book-alan-shipnuck-excerpt-masters-2025-behind-the-scenes"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Rory_cover_final_no_shadow_e3e11d3749/Rory_cover_final_no_shadow_e3e11d3749.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>None of us want to see Tiger like this.</title>
     <link>https://www.youtube.com/shorts/GphqSOXXEOc</link>
@@ -352,17 +363,6 @@ We got to tee it up before this weekend’s opening to check out all the changes
     <dc:creator>Rick Gehman</dc:creator>
     <description>&lt;p&gt;There are few places on the schedule better for Gotterup than Memorial Park.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/texas-childrens-houston-open-best-bets-pick-winner"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2261658356_4c6c347a87/Getty_Images_2261658356_4c6c347a87.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Masters Unveils its Full TV and Streaming Coverage Plan for 2026</title>
-    <link>https://skratch.golf/news/news/masters-tv-streaming-coverage-plan-2026-augusta-national</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/masters-tv-streaming-coverage-plan-2026-augusta-national</guid>
-    <pubDate>Wed, 25 Mar 2026 18:16:16 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;There will be no shortage of coverage when the golf world heads to Augusta National in two weeks.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-tv-streaming-coverage-plan-2026-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/justin_thomas_masters_2025_Getty_Images_2209170004_dfb4f652c0/justin_thomas_masters_2025_Getty_Images_2209170004_dfb4f652c0.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
