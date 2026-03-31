@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 31 Mar 2026 23:00:46 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 31 Mar 2026 23:56:24 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Tiger Woods is Stepping Away to Receive Treatment and Focus on Health</title>
+    <link>https://skratch.golf/news/news/tiger-woods-issues-statement-car-accident-stepping-away-masters-status</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/tiger-woods-issues-statement-car-accident-stepping-away-masters-status</guid>
+    <pubDate>Tue, 31 Mar 2026 22:57:27 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Tiger Woods is stepping away from golf to prioritize treatment, health, and personal well-being.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-issues-statement-car-accident-stepping-away-masters-status"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2250361556_8b6ee9a6ef/Getty_Images_2250361556_8b6ee9a6ef.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Playing nine holes at one of New Zealand&#x27;s most SCENIC courses | Working Holiday with Mac Boucher</title>
     <link>https://www.youtube.com/watch?v=wwd6Ym6VDVI</link>
@@ -342,17 +353,6 @@ We got to tee it up before this weekend’s opening to check out all the changes
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;Things are heating up for the LPGA in the Arizona desert. These are four storylines for you to follow heading into the weekend.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-tour-ford-championship-weekend-forecast-storylines-to-follow"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Lydia_Ko_R1_Leader_Credit_LPGA_and_Getty_dd3a86b5ce/Lydia_Ko_R1_Leader_Credit_LPGA_and_Getty_dd3a86b5ce.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Tiger Woods Arrested for DUI After Rollover Car Crash: Everything We Know</title>
-    <link>https://skratch.golf/news/news/tiger-woods-rollover-car-crash-2026-before-masters</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/tiger-woods-rollover-car-crash-2026-before-masters</guid>
-    <pubDate>Fri, 27 Mar 2026 19:30:34 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Woods was released late Friday night after being held a mandatory eight hours following his arrest.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-rollover-car-crash-2026-before-masters"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2149024719_3e1769a6bb/Getty_Images_2149024719_3e1769a6bb.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
