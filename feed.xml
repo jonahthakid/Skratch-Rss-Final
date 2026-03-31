@@ -1,3 +1,4 @@
+<!-- Warning: Error fetching Skratch: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwtGQ3sgidNlQGbIUBPP3xw -->
 <!-- Warning: Error fetching Dan On Golf Show: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
@@ -10,7 +11,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 31 Mar 2026 04:58:01 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 31 Mar 2026 06:16:22 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>People Aren’t Happy with Jim Nantz—and the Reason Why is Ridiculous</title>
@@ -44,36 +45,6 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2268976683_c90c0ac797/Getty_Images_2268976683_c90c0ac797.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Throwback to Matt Jones’ INSANE playoff win at the 2014 Houston Open 🤯</title>
-    <link>https://www.youtube.com/shorts/2PO64mzA_cI</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/2PO64mzA_cI</guid>
-    <pubDate>Sat, 28 Mar 2026 20:19:25 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/2PO64mzA_cI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/2PO64mzA_cI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/2PO64mzA_cI" type="text/html" medium="video"/>
-    <yt:videoId>2PO64mzA_cI</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>We got to be the FIRST to play the newly renovated Maggie Hathaway Golf Course!!</title>
-    <link>https://www.youtube.com/shorts/2nxw82mF6oU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/2nxw82mF6oU</guid>
-    <pubDate>Sat, 28 Mar 2026 16:55:40 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Sitting just a few miles east of LAX, the newly renovated Maggie Hathaway Golf Course is a must-play on your next trip to Los Angeles.
-
-We got to tee it up before this weekend’s opening to check out all the changes.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/2nxw82mF6oU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/2nxw82mF6oU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/2nxw82mF6oU" type="text/html" medium="video"/>
-    <yt:videoId>2nxw82mF6oU</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Jason Day&#x27;s Iron Swap is Paying Off in Houston</title>
@@ -131,20 +102,6 @@ We got to tee it up before this weekend’s opening to check out all the changes
     <category>article</category>
   </item>
   <item>
-    <title>Patrick Reed’s ace (and race 🤣) at the 2015 Houston Open.</title>
-    <link>https://www.youtube.com/shorts/SX9tleFgGFo</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/SX9tleFgGFo</guid>
-    <pubDate>Fri, 27 Mar 2026 14:20:43 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/SX9tleFgGFo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/SX9tleFgGFo/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/SX9tleFgGFo" type="text/html" medium="video"/>
-    <yt:videoId>SX9tleFgGFo</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Michael Peña’s Golf Swing Is Way Too Good for Hollywood</title>
     <link>https://skratch.golf/news/golf-culture/Micheal-pena-golf-swing-analysis-vanity-index-podcast</link>
     <guid isPermaLink="true">https://skratch.golf/news/golf-culture/Micheal-pena-golf-swing-analysis-vanity-index-podcast</guid>
@@ -178,20 +135,6 @@ We got to tee it up before this weekend’s opening to check out all the changes
     <category>article</category>
   </item>
   <item>
-    <title>Reminder: there are NO foul balls in golf.</title>
-    <link>https://www.youtube.com/shorts/rDxgHM2gxMo</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/rDxgHM2gxMo</guid>
-    <pubDate>Thu, 26 Mar 2026 20:43:24 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/rDxgHM2gxMo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/rDxgHM2gxMo/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/rDxgHM2gxMo" type="text/html" medium="video"/>
-    <yt:videoId>rDxgHM2gxMo</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Paul Waring, Where Did That Come From?</title>
     <link>https://skratch.golf/news/news/Paul-waring-texas-childrens-houston-open-pga-tour-first-round-scores</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/Paul-waring-texas-childrens-houston-open-pga-tour-first-round-scores</guid>
@@ -212,48 +155,6 @@ We got to tee it up before this weekend’s opening to check out all the changes
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2209579051_8c209112e1/Getty_Images_2209579051_8c209112e1.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>“That’s not a hole in one roar, RIGHT?” 🤣</title>
-    <link>https://www.youtube.com/shorts/7r-4wYhVSC4</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/7r-4wYhVSC4</guid>
-    <pubDate>Thu, 26 Mar 2026 17:00:55 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/7r-4wYhVSC4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/7r-4wYhVSC4/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/7r-4wYhVSC4" type="text/html" medium="video"/>
-    <yt:videoId>7r-4wYhVSC4</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>How did we get a video of your drive? 🤣🚮</title>
-    <link>https://www.youtube.com/shorts/e2vzkMh6Gpg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/e2vzkMh6Gpg</guid>
-    <pubDate>Thu, 26 Mar 2026 13:30:52 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/e2vzkMh6Gpg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/e2vzkMh6Gpg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/e2vzkMh6Gpg" type="text/html" medium="video"/>
-    <yt:videoId>e2vzkMh6Gpg</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Alex Fitzpatrick is paving his own path in Europe.</title>
-    <link>https://www.youtube.com/shorts/plw5lI2d2Qw</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/plw5lI2d2Qw</guid>
-    <pubDate>Wed, 25 Mar 2026 20:43:00 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/plw5lI2d2Qw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/plw5lI2d2Qw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/plw5lI2d2Qw" type="text/html" medium="video"/>
-    <yt:videoId>plw5lI2d2Qw</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Chris Gotterup Has Been Waiting for Houston. Here&#x27;s Why You Should Pick Him.</title>
@@ -311,20 +212,6 @@ We got to tee it up before this weekend’s opening to check out all the changes
     <category>article</category>
   </item>
   <item>
-    <title>When Tiger LAYED UP from 199 yards. 🤣</title>
-    <link>https://www.youtube.com/shorts/Jp5HLbgLGXg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/Jp5HLbgLGXg</guid>
-    <pubDate>Tue, 24 Mar 2026 20:17:51 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Jp5HLbgLGXg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/Jp5HLbgLGXg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/Jp5HLbgLGXg" type="text/html" medium="video"/>
-    <yt:videoId>Jp5HLbgLGXg</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Yellow The Label Drops a Golf-Inspired Capsule, And It&#x27;s Anything But Par For The Course</title>
     <link>https://skratch.golf/style/womens-style/yellow-the-label-golf-inspired-collection-street-wear-fashion-new-drop</link>
     <guid isPermaLink="true">https://skratch.golf/style/womens-style/yellow-the-label-golf-inspired-collection-street-wear-fashion-new-drop</guid>
@@ -347,20 +234,6 @@ We got to tee it up before this weekend’s opening to check out all the changes
     <category>article</category>
   </item>
   <item>
-    <title>Live look at Tiger getting ready for his TGL return tonight.</title>
-    <link>https://www.youtube.com/shorts/FJWvOXPdTso</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/FJWvOXPdTso</guid>
-    <pubDate>Tue, 24 Mar 2026 14:12:50 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/FJWvOXPdTso"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/FJWvOXPdTso/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/FJWvOXPdTso" type="text/html" medium="video"/>
-    <yt:videoId>FJWvOXPdTso</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Love Letter To: Queenstown Golf</title>
     <link>https://skratch.golf/news/news/jacks-point-golf-club-review-queenstown-golf-overview-new-zealand</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/jacks-point-golf-club-review-queenstown-golf-overview-new-zealand</guid>
@@ -370,100 +243,6 @@ We got to tee it up before this weekend’s opening to check out all the changes
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/DSC_00069_0791fba057/DSC_00069_0791fba057.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Ultimate CUSTOMIZATION with New Level 702s</title>
-    <link>https://www.youtube.com/watch?v=opAMDeZEw-s</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=opAMDeZEw-s</guid>
-    <pubDate>Mon, 23 Mar 2026 17:00:00 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;This is why New Level Golf Co. is only about creating the ultimate custom iron set for every golfer. Ryan Barath hits the range to try the new 702s in the latest episode of Bench Tested.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, a&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=opAMDeZEw-s"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/opAMDeZEw-s/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/opAMDeZEw-s" type="text/html" medium="video"/>
-    <yt:videoId>opAMDeZEw-s</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>HATE to see it. 🫣</title>
-    <link>https://www.youtube.com/shorts/dm1Ocz_W9g0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/dm1Ocz_W9g0</guid>
-    <pubDate>Mon, 23 Mar 2026 15:45:38 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/dm1Ocz_W9g0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/dm1Ocz_W9g0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/dm1Ocz_W9g0" type="text/html" medium="video"/>
-    <yt:videoId>dm1Ocz_W9g0</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Spring is here. It&#x27;s officially golf tan season.</title>
-    <link>https://www.youtube.com/shorts/t4C4-H54AvM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/t4C4-H54AvM</guid>
-    <pubDate>Mon, 23 Mar 2026 14:15:44 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/t4C4-H54AvM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/t4C4-H54AvM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/t4C4-H54AvM" type="text/html" medium="video"/>
-    <yt:videoId>t4C4-H54AvM</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Is this the most scenic par 3 course in America?!</title>
-    <link>https://www.youtube.com/shorts/IR_aM24J2Sc</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/IR_aM24J2Sc</guid>
-    <pubDate>Sat, 21 Mar 2026 17:06:17 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/IR_aM24J2Sc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/IR_aM24J2Sc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/IR_aM24J2Sc" type="text/html" medium="video"/>
-    <yt:videoId>IR_aM24J2Sc</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>The RAREST Shot in Golf 🦅🦅 | PGA TOUR Albatrosses</title>
-    <link>https://www.youtube.com/watch?v=T_JPr2QbYdc</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=T_JPr2QbYdc</guid>
-    <pubDate>Fri, 20 Mar 2026 17:00:00 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The odds of an albatross on the PGA TOUR are 1 in 1,000,000. Watch the best in the world pull off the impossible. Which is your favorite? 
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subsc&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=T_JPr2QbYdc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/T_JPr2QbYdc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/T_JPr2QbYdc" type="text/html" medium="video"/>
-    <yt:videoId>T_JPr2QbYdc</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>MOST average Spieth par. 🤣</title>
-    <link>https://www.youtube.com/shorts/vX0jo5Nsn4I</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/vX0jo5Nsn4I</guid>
-    <pubDate>Fri, 20 Mar 2026 15:31:19 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/vX0jo5Nsn4I"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/vX0jo5Nsn4I/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/vX0jo5Nsn4I" type="text/html" medium="video"/>
-    <yt:videoId>vX0jo5Nsn4I</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Vokey Unveils Complete SM11 Wedge Works Grind Options</title>
