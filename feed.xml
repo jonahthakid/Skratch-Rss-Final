@@ -9,8 +9,26 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 31 Mar 2026 19:52:19 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 31 Mar 2026 20:37:35 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Playing nine holes at one of New Zealand&#x27;s most SCENIC courses | Working Holiday with Mac Boucher</title>
+    <link>https://www.youtube.com/watch?v=wwd6Ym6VDVI</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=wwd6Ym6VDVI</guid>
+    <pubDate>Tue, 31 Mar 2026 20:30:00 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;In the latest episode of Working Holiday, Mac Boucher and the boys headed to one of New Zealand&#x27;s most beautiful courses, Jack&#x27;s Point. Mac plays his nine favorite holes on the course and brings you along for the journey.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never bee&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=wwd6Ym6VDVI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/wwd6Ym6VDVI/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/wwd6Ym6VDVI" type="text/html" medium="video"/>
+    <yt:videoId>wwd6Ym6VDVI</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>If you can&#x27;t grip it, then you most definitely can&#x27;t rip it.</title>
     <link>https://www.youtube.com/shorts/KRZe72BKVOA</link>
@@ -47,6 +65,17 @@
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;The 2014 U.S. Women&#x27;s Open Champion is headed to Riv!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/michelle-wie-west-us-womens-open-2026-riviera-comeback"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_451058544_37d1dc3423/Getty_Images_451058544_37d1dc3423.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Collin Morikawa WD’s from the Valero Texas Open as Back Injury Lingers</title>
+    <link>https://skratch.golf/news/news/collin-morikawa-wd-valero-texas-open-masters-status-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/collin-morikawa-wd-valero-texas-open-masters-status-pga-tour</guid>
+    <pubDate>Tue, 31 Mar 2026 15:48:24 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Collin Morikawa&#x27;s status for the Masters feels up in the air after his WD from this week&#x27;s Valero Texas Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/collin-morikawa-wd-valero-texas-open-masters-status-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266120114_cf0a3277af/Getty_Images_2266120114_cf0a3277af.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -189,6 +218,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Jim Nantz ruffled some (sensitive) feathers on Monday with a comment on Bryson DeChambeau heading into the Masters.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-bryson-dechambeau-liv-golf-fans-mad-jim-nantz"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2217340290_a9bc58e4ee/Getty_Images_2217340290_a9bc58e4ee.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Every Non-PGA TOUR Member in the Masters Field</title>
+    <link>https://skratch.golf/news/news/Masters-2026-non-pga-tour-players-in-the-field-augusta-national</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/Masters-2026-non-pga-tour-players-in-the-field-augusta-national</guid>
+    <pubDate>Mon, 30 Mar 2026 15:47:57 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;From amateurs to LIV Golf members, there are plenty of non-PGA TOUR players in the field for the Masters.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Masters-2026-non-pga-tour-players-in-the-field-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/bryson_dechambeau_masters_2025_Getty_Images_2209959969_c08426ff12/bryson_dechambeau_masters_2025_Getty_Images_2209959969_c08426ff12.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -353,17 +393,6 @@ We got to tee it up before this weekend’s opening to check out all the changes
     <category>article</category>
   </item>
   <item>
-    <title>What Happens When a Golf Ball Is Submerged in Water? A Field Test</title>
-    <link>https://skratch.golf/news/golf-culture/how-to-hit-golf-ball-out-of-water-tested</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/how-to-hit-golf-ball-out-of-water-tested</guid>
-    <pubDate>Fri, 27 Mar 2026 00:16:32 +0000</pubDate>
-    <dc:creator>Cameron Robinson</dc:creator>
-    <description>&lt;p&gt;You&#x27;ve seen it plenty on the pro tours. But how can you pull it off if it happens to you? Here&#x27;s what we learned.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/how-to-hit-golf-ball-out-of-water-tested"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/6_3e006bf319/6_3e006bf319.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Did Trump Just Reveal Tiger Woods’ Status for the Masters?</title>
     <link>https://skratch.golf/news/news/donald-trump-reveals-tiger-woods-status-masters-augusta-national</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/donald-trump-reveals-tiger-woods-status-masters-augusta-national</guid>
@@ -387,17 +416,6 @@ We got to tee it up before this weekend’s opening to check out all the changes
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Paul Waring, Where Did That Come From?</title>
-    <link>https://skratch.golf/news/news/Paul-waring-texas-childrens-houston-open-pga-tour-first-round-scores</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/Paul-waring-texas-childrens-houston-open-pga-tour-first-round-scores</guid>
-    <pubDate>Thu, 26 Mar 2026 20:10:43 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Playing on a medical exemption, Paul Waring showed Thursday that you never know when it&#x27;s going to click.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Paul-waring-texas-childrens-houston-open-pga-tour-first-round-scores"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_03_26_at_1_17_47_PM_63c507e118/Screenshot_2026_03_26_at_1_17_47_PM_63c507e118.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Rory McIlroy, Bryson DeChambeau, and the Ninth Hole at Last Year’s Masters</title>
@@ -614,20 +632,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/t4C4-H54AvM/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/t4C4-H54AvM" type="text/html" medium="video"/>
     <yt:videoId>t4C4-H54AvM</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Is this the most scenic par 3 course in America?!</title>
-    <link>https://www.youtube.com/shorts/IR_aM24J2Sc</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/IR_aM24J2Sc</guid>
-    <pubDate>Sat, 21 Mar 2026 17:06:17 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/IR_aM24J2Sc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/IR_aM24J2Sc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/IR_aM24J2Sc" type="text/html" medium="video"/>
-    <yt:videoId>IR_aM24J2Sc</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
