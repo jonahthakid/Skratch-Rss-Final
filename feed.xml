@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 01 Apr 2026 20:38:42 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 01 Apr 2026 21:36:31 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Pranking PRO golfers with a FAKE caddie 😭</title>
@@ -83,6 +83,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The Best Training Gear Coming From Golf Brands Right Now</title>
+    <link>https://skratch.golf/style/mens-style/best-training-gear-golf-brand-performance-wear</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/best-training-gear-golf-brand-performance-wear</guid>
+    <pubDate>Wed, 01 Apr 2026 05:35:38 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;The golf brands getting performance wear right&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/best-training-gear-golf-brand-performance-wear"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Training_Cover_de8893a957/Training_Cover_de8893a957.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Why Finding The Right Grip Goes Way Beyond Sizing</title>
@@ -417,17 +428,6 @@ We got to tee it up before this weekend’s opening to check out all the changes
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Jason Day&#x27;s Iron Swap is Paying Off in Houston</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/jason-day-irons-houston-golf-fitting</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/jason-day-irons-houston-golf-fitting</guid>
-    <pubDate>Sat, 28 Mar 2026 01:52:16 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;With some new (old) irons in the bag, Jason Day is showcasing great iron play in Houston.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/jason-day-irons-houston-golf-fitting"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2230136110_67d74db9ea/Getty_Images_2230136110_67d74db9ea.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>First Out at the New Maggie Hathaway, Southern California&#x27;s Most Important Golf Project</title>
