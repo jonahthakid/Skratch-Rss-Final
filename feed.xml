@@ -9,8 +9,36 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 02 Apr 2026 17:44:25 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 02 Apr 2026 18:50:01 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>If you know, you know. 30904 from @P@PUMAs built for the week we all tap into.</title>
+    <link>https://www.youtube.com/shorts/ymCmiY3Xqus</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/ymCmiY3Xqus</guid>
+    <pubDate>Thu, 02 Apr 2026 18:02:31 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ymCmiY3Xqus"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/ymCmiY3Xqus/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/ymCmiY3Xqus" type="text/html" medium="video"/>
+    <yt:videoId>ymCmiY3Xqus</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Handicap mogged by your own sponsor is WILD @manorsgolf</title>
+    <link>https://www.youtube.com/shorts/m2iEE2-GfXY</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/m2iEE2-GfXY</guid>
+    <pubDate>Thu, 02 Apr 2026 17:56:39 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/m2iEE2-GfXY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/m2iEE2-GfXY/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/m2iEE2-GfXY" type="text/html" medium="video"/>
+    <yt:videoId>m2iEE2-GfXY</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Happy 50th to Rory Sabbatini. If anyone&#x27;s invited to the party, it should be this guy. 🤣</title>
     <link>https://www.youtube.com/shorts/xw_mApGudh0</link>
@@ -346,17 +374,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>We&#x27;re so Here For Michelle Wie West&#x27;s Comeback</title>
-    <link>https://skratch.golf/news/news/michelle-wie-west-us-womens-open-2026-riviera-comeback</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/michelle-wie-west-us-womens-open-2026-riviera-comeback</guid>
-    <pubDate>Tue, 31 Mar 2026 16:47:01 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The 2014 U.S. Women&#x27;s Open Champion is headed to Riv!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/michelle-wie-west-us-womens-open-2026-riviera-comeback"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_451058544_37d1dc3423/Getty_Images_451058544_37d1dc3423.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Collin Morikawa WD’s from the Valero Texas Open as Back Injury Lingers</title>
     <link>https://skratch.golf/news/news/collin-morikawa-wd-valero-texas-open-masters-status-pga-tour</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/collin-morikawa-wd-valero-texas-open-masters-status-pga-tour</guid>
@@ -414,6 +431,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;The stage is set. Players have arrived. Here&#x27;s an inside look at how and what the 72-player field at the Augusta National Women&#x27;s Amateur are practicing ahead of the competition.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/augusta-national-womens-amateur-2026-how-the-field-is-prepping"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/26_TL_201460_dc6d5ab3d3/26_TL_201460_dc6d5ab3d3.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Bobby Mac, Jordan Spieth, and more Valero Texas Open Picks</title>
+    <link>https://skratch.golf/news/pro-golf/valero-texas-open-2026-best-bets-picks-to-win</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/valero-texas-open-2026-best-bets-picks-to-win</guid>
+    <pubDate>Tue, 31 Mar 2026 00:44:38 +0000</pubDate>
+    <dc:creator>Rick Gehman</dc:creator>
+    <description>&lt;p&gt;Here&#x27;s who our resident winner-picker Rick Gehman like to win, top 5, top 10, and more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/valero-texas-open-2026-best-bets-picks-to-win"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2155649515_2e31235fc2/Getty_Images_2155649515_2e31235fc2.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -613,20 +641,6 @@ We got to tee it up before this weekend’s opening to check out all the changes
     <category>video</category>
   </item>
   <item>
-    <title>Alex Fitzpatrick is paving his own path in Europe.</title>
-    <link>https://www.youtube.com/shorts/plw5lI2d2Qw</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/plw5lI2d2Qw</guid>
-    <pubDate>Wed, 25 Mar 2026 20:43:00 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/plw5lI2d2Qw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/plw5lI2d2Qw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/plw5lI2d2Qw" type="text/html" medium="video"/>
-    <yt:videoId>plw5lI2d2Qw</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>“It’s not even close.”</title>
     <link>https://www.youtube.com/shorts/ugU2gfnZZbk</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/ugU2gfnZZbk</guid>
@@ -636,20 +650,6 @@ We got to tee it up before this weekend’s opening to check out all the changes
     <media:thumbnail url="https://img.youtube.com/vi/ugU2gfnZZbk/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/ugU2gfnZZbk" type="text/html" medium="video"/>
     <yt:videoId>ugU2gfnZZbk</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>&quot;He&#x27;s got his own golf swing, but it works really, really well.&quot;</title>
-    <link>https://www.youtube.com/shorts/QfJeeTabyt0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/QfJeeTabyt0</guid>
-    <pubDate>Tue, 24 Mar 2026 20:26:54 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/QfJeeTabyt0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/QfJeeTabyt0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/QfJeeTabyt0" type="text/html" medium="video"/>
-    <yt:videoId>QfJeeTabyt0</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
