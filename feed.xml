@@ -9,8 +9,36 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 02 Apr 2026 14:23:07 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 02 Apr 2026 15:33:33 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Full Swing Season 4, coming April 17th on Netflix. 👀</title>
+    <link>https://www.youtube.com/shorts/dC9LoXHkpPQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/dC9LoXHkpPQ</guid>
+    <pubDate>Thu, 02 Apr 2026 15:01:50 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/dC9LoXHkpPQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/dC9LoXHkpPQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/dC9LoXHkpPQ" type="text/html" medium="video"/>
+    <yt:videoId>dC9LoXHkpPQ</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Inside a Tour Caddie&#x27;s Augusta Yardage Book</title>
+    <link>https://www.youtube.com/watch?v=pMKnu1hGOwg</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=pMKnu1hGOwg</guid>
+    <pubDate>Thu, 02 Apr 2026 14:25:59 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Sunjgae Im&#x27;s caddie, and friend of the show, Willy Wilcox joins the show to go through hole-by-hole in his Augusta National yardage book, ahead of The Masters Tournament.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=pMKnu1hGOwg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/pMKnu1hGOwg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/pMKnu1hGOwg" type="text/html" medium="video"/>
+    <yt:videoId>pMKnu1hGOwg</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>PLEASE say #AprilFools... The golf god&#x27;s CRUELEST prank 😭</title>
     <link>https://www.youtube.com/shorts/VTVN_-VY0bM</link>
@@ -65,6 +93,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The Trailer for Full Swing Season 4 is Electric</title>
+    <link>https://skratch.golf/news/news/full-swing-season-four-pga-tour-behind-the-scenes-netflix</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/full-swing-season-four-pga-tour-behind-the-scenes-netflix</guid>
+    <pubDate>Thu, 02 Apr 2026 04:12:55 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The teaser for Full Swing season four dropped on Thursday morning, and it looks like we’ll be getting plenty of insight into the contentious Ryder Cup at Bethpage Black—plus a whole lot more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/full-swing-season-four-pga-tour-behind-the-scenes-netflix"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2237713625_056cf42670/Getty_Images_2237713625_056cf42670.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Rory’s caddie doesn’t respond to the criticism &amp; he doesn’t respond to the praise.</title>
@@ -616,31 +655,6 @@ We got to tee it up before this weekend’s opening to check out all the changes
     <category>video</category>
   </item>
   <item>
-    <title>Another sickos-only ranking here.</title>
-    <link>https://www.youtube.com/shorts/eVXXCMzzGVY</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/eVXXCMzzGVY</guid>
-    <pubDate>Tue, 24 Mar 2026 16:15:02 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/eVXXCMzzGVY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/eVXXCMzzGVY/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/eVXXCMzzGVY" type="text/html" medium="video"/>
-    <yt:videoId>eVXXCMzzGVY</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Players to Watch at The 2026 Augusta National Women&#x27;s Amateur</title>
-    <link>https://skratch.golf/news/news/augusta-national-womens-amateur-2026-players-to-watch</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/augusta-national-womens-amateur-2026-players-to-watch</guid>
-    <pubDate>Tue, 24 Mar 2026 16:14:46 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;A pair of defending champs, top-ranked stars, and a whopping 35 first-timers—the ANWA field is the most stacked it&#x27;s ever been—and these are the standouts we&#x27;re keeping an eye on.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/augusta-national-womens-amateur-2026-players-to-watch"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2208163667_c56566ab4d/Getty_Images_2208163667_c56566ab4d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>What We&#x27;re Buying from Shopbop for the Course Right Now</title>
     <link>https://skratch.golf/style/mens-style/best-shopbop-golf-clothes-accessories</link>
     <guid isPermaLink="true">https://skratch.golf/style/mens-style/best-shopbop-golf-clothes-accessories</guid>
@@ -650,20 +664,6 @@ We got to tee it up before this weekend’s opening to check out all the changes
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/FUJI_4241_2_342067a63e/FUJI_4241_2_342067a63e.jpeg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Live look at Tiger getting ready for his TGL return tonight.</title>
-    <link>https://www.youtube.com/shorts/FJWvOXPdTso</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/FJWvOXPdTso</guid>
-    <pubDate>Tue, 24 Mar 2026 14:12:50 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/FJWvOXPdTso"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/FJWvOXPdTso/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/FJWvOXPdTso" type="text/html" medium="video"/>
-    <yt:videoId>FJWvOXPdTso</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Love Letter To: Queenstown Golf</title>
