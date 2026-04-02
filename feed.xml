@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 02 Apr 2026 16:52:08 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 02 Apr 2026 17:44:25 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Happy 50th to Rory Sabbatini. If anyone&#x27;s invited to the party, it should be this guy. 🤣</title>
+    <link>https://www.youtube.com/shorts/xw_mApGudh0</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/xw_mApGudh0</guid>
+    <pubDate>Thu, 02 Apr 2026 16:59:38 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/xw_mApGudh0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/xw_mApGudh0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/xw_mApGudh0" type="text/html" medium="video"/>
+    <yt:videoId>xw_mApGudh0</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Bodycam Footage of Tiger Woods’ Arrest has Been Released</title>
     <link>https://skratch.golf/news/news/tiger-woods-bodycam-footage-arrest-car-accident</link>
@@ -19,6 +33,17 @@
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Watch: Bodycam footage of Tiger Woods&#x27; arrest has been released.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-bodycam-footage-arrest-car-accident"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2190984037_b33d0dba7f/Getty_Images_2190984037_b33d0dba7f.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>An Ode to The ANWA Magnolia</title>
+    <link>https://skratch.golf/news/golf-culture/augusta-national-womens-amateur-azalea-logo-anwa-merch</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/augusta-national-womens-amateur-azalea-logo-anwa-merch</guid>
+    <pubDate>Thu, 02 Apr 2026 16:05:16 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;And no, it&#x27;s not a bloomin&#x27; onion.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/augusta-national-womens-amateur-azalea-logo-anwa-merch"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2268873074_def6b6fd0f/Getty_Images_2268873074_def6b6fd0f.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -84,6 +109,17 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/VTVN_-VY0bM"&gt;
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>This Week’s Best Gear Drops Ahead Major Season (And a Few You Didn’t See Coming)</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/golf-limited-edition-gear-augusta-inspired-texas-open-anwa-releases</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/golf-limited-edition-gear-augusta-inspired-texas-open-anwa-releases</guid>
+    <pubDate>Thu, 02 Apr 2026 13:19:12 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;April is when the golf season really starts. With all eyes on Augusta next week, here’s a look at the newest releases and limited drops worth your attention.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/golf-limited-edition-gear-augusta-inspired-texas-open-anwa-releases"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/drops_title_spring_4b1306a585/drops_title_spring_4b1306a585.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>S2 E23: Tiger Steps Away, Willy Wilcox’s Guide To Augusta, Rory Doc Review</title>
@@ -343,17 +379,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>Police Report Says Prescription Pills Were Found in Tiger Woods’ Pocket After Crash</title>
-    <link>https://skratch.golf/news/news/tiger-woods-crash-arrest-affidavit-pills-bloodshot-eyes-dilated-pupils</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/tiger-woods-crash-arrest-affidavit-pills-bloodshot-eyes-dilated-pupils</guid>
-    <pubDate>Tue, 31 Mar 2026 15:03:37 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The newly released affidavit offers new details about Woods’ condition immediately following last week’s accident.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-crash-arrest-affidavit-pills-bloodshot-eyes-dilated-pupils"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2268215808_4ed2e17488/Getty_Images_2268215808_4ed2e17488.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Gary Woodland &amp; Chris Gotterup hit some all-time stingers.</title>
     <link>https://www.youtube.com/shorts/_E6Ubb18dSU</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/_E6Ubb18dSU</guid>
@@ -389,17 +414,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;The stage is set. Players have arrived. Here&#x27;s an inside look at how and what the 72-player field at the Augusta National Women&#x27;s Amateur are practicing ahead of the competition.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/augusta-national-womens-amateur-2026-how-the-field-is-prepping"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/26_TL_201460_dc6d5ab3d3/26_TL_201460_dc6d5ab3d3.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Bobby Mac, Jordan Spieth, and more Valero Texas Open Picks</title>
-    <link>https://skratch.golf/news/pro-golf/valero-texas-open-2026-best-bets-picks-to-win</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/valero-texas-open-2026-best-bets-picks-to-win</guid>
-    <pubDate>Tue, 31 Mar 2026 00:44:38 +0000</pubDate>
-    <dc:creator>Rick Gehman</dc:creator>
-    <description>&lt;p&gt;Here&#x27;s who our resident winner-picker Rick Gehman like to win, top 5, top 10, and more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/valero-texas-open-2026-best-bets-picks-to-win"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2155649515_2e31235fc2/Getty_Images_2155649515_2e31235fc2.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -638,20 +652,6 @@ We got to tee it up before this weekend’s opening to check out all the changes
     <yt:videoId>QfJeeTabyt0</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>When Tiger LAYED UP from 199 yards. 🤣</title>
-    <link>https://www.youtube.com/shorts/Jp5HLbgLGXg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/Jp5HLbgLGXg</guid>
-    <pubDate>Tue, 24 Mar 2026 20:17:51 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Jp5HLbgLGXg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/Jp5HLbgLGXg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/Jp5HLbgLGXg" type="text/html" medium="video"/>
-    <yt:videoId>Jp5HLbgLGXg</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
     <category>video</category>
   </item>
   <item>
