@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 03 Apr 2026 18:02:12 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 03 Apr 2026 19:09:45 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The Ultimate Go-To Guide for Watching the Masters</title>
+    <link>https://skratch.golf/news/news/masters-how-to-watch-guide-maximize-your-experience</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/masters-how-to-watch-guide-maximize-your-experience</guid>
+    <pubDate>Fri, 03 Apr 2026 18:00:17 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Maximize your at-home Masters experience with this ultimate how-to-watch guide.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-how-to-watch-guide-maximize-your-experience"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2213380637_e8ed71b4d3/Getty_Images_2213380637_e8ed71b4d3.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>The MOST ELECTRIC Moments on the PGA TOUR ⚡️⚡️⚡️</title>
     <link>https://www.youtube.com/watch?v=K3KaiuuBYoM</link>
@@ -53,6 +64,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Early Weather Forecast for the Masters</title>
+    <link>https://skratch.golf/news/news/masters-2026-early-weather-forecast-augusta-national</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/masters-2026-early-weather-forecast-augusta-national</guid>
+    <pubDate>Fri, 03 Apr 2026 14:23:16 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;We don&#x27;t want to jinx it, but there&#x27;s plenty of sunshine in the forecast for the Masters next week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-2026-early-weather-forecast-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2209189291_facafc4465/Getty_Images_2209189291_facafc4465.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Looked like a par the WHOLE way. 🙄</title>
@@ -533,28 +555,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Bobby Mac, Jordan Spieth, and more Valero Texas Open Picks</title>
-    <link>https://skratch.golf/news/pro-golf/valero-texas-open-2026-best-bets-picks-to-win</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/valero-texas-open-2026-best-bets-picks-to-win</guid>
-    <pubDate>Tue, 31 Mar 2026 00:44:38 +0000</pubDate>
-    <dc:creator>Rick Gehman</dc:creator>
-    <description>&lt;p&gt;Here&#x27;s who our resident winner-picker Rick Gehman like to win, top 5, top 10, and more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/valero-texas-open-2026-best-bets-picks-to-win"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2155649515_2e31235fc2/Getty_Images_2155649515_2e31235fc2.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Exclusive: Read an Excerpt from Alan Shipnuck&#x27;s &#x27;RORY&#x27;</title>
-    <link>https://skratch.golf/news/pro-golf/rory-book-alan-shipnuck-excerpt-masters-2025-behind-the-scenes</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/rory-book-alan-shipnuck-excerpt-masters-2025-behind-the-scenes</guid>
-    <pubDate>Mon, 30 Mar 2026 23:44:24 +0000</pubDate>
-    <dc:creator>Alan Shipnuck</dc:creator>
-    <description>&lt;p&gt;Relive the drama of Sunday at Augusta from the highly anticipated new biography.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/rory-book-alan-shipnuck-excerpt-masters-2025-behind-the-scenes"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Rory_cover_final_no_shadow_e3e11d3749/Rory_cover_final_no_shadow_e3e11d3749.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>None of us want to see Tiger like this.</title>
