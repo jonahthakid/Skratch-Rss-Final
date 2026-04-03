@@ -9,8 +9,26 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 03 Apr 2026 16:42:01 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 03 Apr 2026 17:29:01 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The MOST ELECTRIC Moments on the PGA TOUR ⚡️⚡️⚡️</title>
+    <link>https://www.youtube.com/watch?v=K3KaiuuBYoM</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=K3KaiuuBYoM</guid>
+    <pubDate>Fri, 03 Apr 2026 17:00:00 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Golf isn’t always quiet. From walk-off putts to crowd eruptions, these are the moments that turned golf into pure chaos. Featuring iconic celebrations, clutch shots, and the loudest roars you’ll ever hear on a golf course — this is the TOUR at its absolute best.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=K3KaiuuBYoM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/K3KaiuuBYoM/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/K3KaiuuBYoM" type="text/html" medium="video"/>
+    <yt:videoId>K3KaiuuBYoM</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>My Game STINKS! What Should I Practice With Limited Time?</title>
     <link>https://www.youtube.com/watch?v=RMPsbyN_giU</link>
@@ -478,17 +496,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Collin Morikawa WD’s from the Valero Texas Open as Back Injury Lingers</title>
-    <link>https://skratch.golf/news/news/collin-morikawa-wd-valero-texas-open-masters-status-pga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/collin-morikawa-wd-valero-texas-open-masters-status-pga-tour</guid>
-    <pubDate>Tue, 31 Mar 2026 15:48:24 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Collin Morikawa&#x27;s status for the Masters feels up in the air after his WD from this week&#x27;s Valero Texas Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/collin-morikawa-wd-valero-texas-open-masters-status-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266120114_cf0a3277af/Getty_Images_2266120114_cf0a3277af.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Gary Woodland &amp; Chris Gotterup hit some all-time stingers.</title>
     <link>https://www.youtube.com/shorts/_E6Ubb18dSU</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/_E6Ubb18dSU</guid>
@@ -517,13 +524,13 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>ANWA 2026: How The Most Elite Amateur Field in Golf is Prepping</title>
-    <link>https://skratch.golf/news/news/augusta-national-womens-amateur-2026-how-the-field-is-prepping</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/augusta-national-womens-amateur-2026-how-the-field-is-prepping</guid>
-    <pubDate>Tue, 31 Mar 2026 11:18:42 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The stage is set. Players have arrived. Here&#x27;s an inside look at how and what the 72-player field at the Augusta National Women&#x27;s Amateur are practicing ahead of the competition.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/augusta-national-womens-amateur-2026-how-the-field-is-prepping"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/26_TL_201460_dc6d5ab3d3/26_TL_201460_dc6d5ab3d3.jpg"/>
+    <title>Exclusive: Read an Excerpt from Alan Shipnuck&#x27;s &#x27;RORY&#x27;</title>
+    <link>https://skratch.golf/news/pro-golf/rory-book-alan-shipnuck-excerpt-masters-2025-behind-the-scenes</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/rory-book-alan-shipnuck-excerpt-masters-2025-behind-the-scenes</guid>
+    <pubDate>Mon, 30 Mar 2026 23:44:24 +0000</pubDate>
+    <dc:creator>Alan Shipnuck</dc:creator>
+    <description>&lt;p&gt;Relive the drama of Sunday at Augusta from the highly anticipated new biography.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/rory-book-alan-shipnuck-excerpt-masters-2025-behind-the-scenes"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Rory_cover_final_no_shadow_e3e11d3749/Rory_cover_final_no_shadow_e3e11d3749.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -620,20 +627,6 @@ We got to tee it up before this weekend’s opening to check out all the changes
     <category>video</category>
   </item>
   <item>
-    <title>Patrick Reed’s ace (and race 🤣) at the 2015 Houston Open.</title>
-    <link>https://www.youtube.com/shorts/SX9tleFgGFo</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/SX9tleFgGFo</guid>
-    <pubDate>Fri, 27 Mar 2026 14:20:43 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/SX9tleFgGFo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/SX9tleFgGFo/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/SX9tleFgGFo" type="text/html" medium="video"/>
-    <yt:videoId>SX9tleFgGFo</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Puma Golf&#x27;s Latest 30904 Is Built for the Week Everyone’s Watching</title>
     <link>https://skratch.golf/style/mens-style/puma-golf-collection-30904-spring-style-shoes-polo-accessories</link>
     <guid isPermaLink="true">https://skratch.golf/style/mens-style/puma-golf-collection-30904-spring-style-shoes-polo-accessories</guid>
@@ -677,6 +670,17 @@ We got to tee it up before this weekend’s opening to check out all the changes
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;Getting ready for the season doesn’t have to be complicated. Here’s where to start.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/amazon-golf-gear-spring-kick-off-shopping-guide-review"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/ryanamazonspring_header_93ae3e73ee/ryanamazonspring_header_93ae3e73ee.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Spring Tune-Up: What Skratch Editors Are Adding to Their Bags Right Now</title>
+    <link>https://skratch.golf/style/style/spring-golf-amazon-picks-skratch-editors-picks</link>
+    <guid isPermaLink="true">https://skratch.golf/style/style/spring-golf-amazon-picks-skratch-editors-picks</guid>
+    <pubDate>Mon, 16 Mar 2026 14:47:05 +0000</pubDate>
+    <dc:creator>Brittany Romano</dc:creator>
+    <description>&lt;p&gt;From fresh grips to lightweight layers, these Amazon finds are the small upgrades making a big difference as golf season ramps back up.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/spring-golf-amazon-picks-skratch-editors-picks"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/amazonspringproducts_header_27a6bbf112/amazonspringproducts_header_27a6bbf112.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
