@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 03 Apr 2026 21:57:19 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 03 Apr 2026 22:33:42 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Relive Last Year&#x27;s Masters with Rory McIlroy Himself</title>
@@ -622,6 +622,22 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
+    <title>We got to be the FIRST to play the newly renovated Maggie Hathaway Golf Course!!</title>
+    <link>https://www.youtube.com/shorts/2nxw82mF6oU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/2nxw82mF6oU</guid>
+    <pubDate>Sat, 28 Mar 2026 16:55:40 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Sitting just a few miles east of LAX, the newly renovated Maggie Hathaway Golf Course is a must-play on your next trip to Los Angeles.
+
+We got to tee it up before this weekend’s opening to check out all the changes.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/2nxw82mF6oU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/2nxw82mF6oU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/2nxw82mF6oU" type="text/html" medium="video"/>
+    <yt:videoId>2nxw82mF6oU</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Puma Golf&#x27;s Latest 30904 Is Built for the Week Everyone’s Watching</title>
     <link>https://skratch.golf/style/mens-style/puma-golf-collection-30904-spring-style-shoes-polo-accessories</link>
     <guid isPermaLink="true">https://skratch.golf/style/mens-style/puma-golf-collection-30904-spring-style-shoes-polo-accessories</guid>
@@ -665,17 +681,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;Getting ready for the season doesn’t have to be complicated. Here’s where to start.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/amazon-golf-gear-spring-kick-off-shopping-guide-review"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/ryanamazonspring_header_93ae3e73ee/ryanamazonspring_header_93ae3e73ee.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Spring Tune-Up: What Skratch Editors Are Adding to Their Bags Right Now</title>
-    <link>https://skratch.golf/style/style/spring-golf-amazon-picks-skratch-editors-picks</link>
-    <guid isPermaLink="true">https://skratch.golf/style/style/spring-golf-amazon-picks-skratch-editors-picks</guid>
-    <pubDate>Mon, 16 Mar 2026 14:47:05 +0000</pubDate>
-    <dc:creator>Brittany Romano</dc:creator>
-    <description>&lt;p&gt;From fresh grips to lightweight layers, these Amazon finds are the small upgrades making a big difference as golf season ramps back up.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/spring-golf-amazon-picks-skratch-editors-picks"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/amazonspringproducts_header_27a6bbf112/amazonspringproducts_header_27a6bbf112.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
