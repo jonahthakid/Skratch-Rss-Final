@@ -9,22 +9,8 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 03 Apr 2026 21:27:59 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 03 Apr 2026 21:57:19 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
-  <item>
-    <title>Building a brand with Eastside Golf | Course Café</title>
-    <link>https://www.youtube.com/watch?v=fb4wBGvJjpE</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=fb4wBGvJjpE</guid>
-    <pubDate>Fri, 03 Apr 2026 21:22:20 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;In this episode of Course Café presented by @amazon, Raymond sits down with Olajuwon Ajanaku and Earl Cooper, the founders of Eastside Golf, for a conversation that goes far beyond product, diving into the emotional weight of building a brand, the pressure that comes with growth, and the realities people do not see from the outside, from early sacrifices and uncertainty to moments where it became clear this was bigger than just them, all while exploring how accessibility is shaping the future of&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=fb4wBGvJjpE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/fb4wBGvJjpE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/fb4wBGvJjpE" type="text/html" medium="video"/>
-    <yt:videoId>fb4wBGvJjpE</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
   <item>
     <title>Relive Last Year&#x27;s Masters with Rory McIlroy Himself</title>
     <link>https://skratch.golf/news/news/rory-mcilroy-final-round-2025-masters-interview-relive-every-moment</link>
@@ -679,6 +665,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;Getting ready for the season doesn’t have to be complicated. Here’s where to start.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/amazon-golf-gear-spring-kick-off-shopping-guide-review"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/ryanamazonspring_header_93ae3e73ee/ryanamazonspring_header_93ae3e73ee.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Spring Tune-Up: What Skratch Editors Are Adding to Their Bags Right Now</title>
+    <link>https://skratch.golf/style/style/spring-golf-amazon-picks-skratch-editors-picks</link>
+    <guid isPermaLink="true">https://skratch.golf/style/style/spring-golf-amazon-picks-skratch-editors-picks</guid>
+    <pubDate>Mon, 16 Mar 2026 14:47:05 +0000</pubDate>
+    <dc:creator>Brittany Romano</dc:creator>
+    <description>&lt;p&gt;From fresh grips to lightweight layers, these Amazon finds are the small upgrades making a big difference as golf season ramps back up.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/spring-golf-amazon-picks-skratch-editors-picks"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/amazonspringproducts_header_27a6bbf112/amazonspringproducts_header_27a6bbf112.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
