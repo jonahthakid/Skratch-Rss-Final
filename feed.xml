@@ -9,8 +9,30 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 03 Apr 2026 19:09:45 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 03 Apr 2026 19:57:35 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Relive Last Year&#x27;s Masters with Rory McIlroy Himself</title>
+    <link>https://skratch.golf/news/news/rory-mcilroy-final-round-2025-masters-interview-relive-every-moment</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/rory-mcilroy-final-round-2025-masters-interview-relive-every-moment</guid>
+    <pubDate>Fri, 03 Apr 2026 19:38:28 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Hearing Rory McIlroy relive every shot from the final round of last year&#x27;s Masters is truly the good stuff.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rory-mcilroy-final-round-2025-masters-interview-relive-every-moment"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2209624124_1b0d7ae5d7/Getty_Images_2209624124_1b0d7ae5d7.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>What Everyone Got Wrong About Malbon’s Birds of Georgia Collection</title>
+    <link>https://skratch.golf/style/mens-style/malbon-masters-birds-of-georgia-collection-stephen-interview</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/malbon-masters-birds-of-georgia-collection-stephen-interview</guid>
+    <pubDate>Fri, 03 Apr 2026 18:54:16 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;“It wasn’t just jacking the green and yellow color combo and doing the same thing people have been doing forever,&quot; Stephen Malbon told us Friday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/malbon-masters-birds-of-georgia-collection-stephen-interview"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Brids_of_Georgia_Cover_e5fd9e68ef/Brids_of_Georgia_Cover_e5fd9e68ef.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>The Ultimate Go-To Guide for Watching the Masters</title>
     <link>https://skratch.golf/news/news/masters-how-to-watch-guide-maximize-your-experience</link>
@@ -375,17 +397,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>Tiger Woods Steps Away From 2027 Ryder Cup Captaincy</title>
-    <link>https://skratch.golf/news/news/tiger-woods-steps-away-from-2027-ryder-cup-captaincy</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/tiger-woods-steps-away-from-2027-ryder-cup-captaincy</guid>
-    <pubDate>Wed, 01 Apr 2026 22:07:08 +0000</pubDate>
-    <dc:creator>Brittany Romano</dc:creator>
-    <description>&lt;p&gt;The PGA of America confirmed Woods will not take on the role as he focuses on his health and well-being.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-steps-away-from-2027-ryder-cup-captaincy"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/tiger_woods_2018_ryder_cup_Getty_Images_1044068522_4a9950426a/tiger_woods_2018_ryder_cup_Getty_Images_1044068522_4a9950426a.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Day One at ANWA 2026: A Viral Moment That&#x27;s More Than It Seems, and a Pair of 65s</title>
     <link>https://skratch.golf/news/news/augusta-national-womens-amateur-round-one-recap</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/augusta-national-womens-amateur-round-one-recap</guid>
@@ -516,17 +527,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Matt and Katherine Fitzpatrick are Expecting Their First Child</title>
-    <link>https://skratch.golf/news/news/matt-fitzpatrick-wife-katherine-expecting-first-child-pga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/matt-fitzpatrick-wife-katherine-expecting-first-child-pga-tour</guid>
-    <pubDate>Tue, 31 Mar 2026 15:26:41 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Congratulations to Matt and Katherine!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/matt-fitzpatrick-wife-katherine-expecting-first-child-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2237017728_a60db85147/Getty_Images_2237017728_a60db85147.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Gary Woodland &amp; Chris Gotterup hit some all-time stingers.</title>
