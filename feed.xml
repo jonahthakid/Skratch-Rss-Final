@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 03 Apr 2026 17:29:01 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 03 Apr 2026 18:02:12 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>The MOST ELECTRIC Moments on the PGA TOUR ⚡️⚡️⚡️</title>
@@ -28,6 +28,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Stars, Stakes, and Augusta: Your ANWA Final Round Watch Guide</title>
+    <link>https://skratch.golf/news/news/2026-augusta-national-womens-amateur-final-round-things-to-know</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/2026-augusta-national-womens-amateur-final-round-things-to-know</guid>
+    <pubDate>Fri, 03 Apr 2026 15:02:36 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The stage is set. A new champion will be crowned. This is everything you need to know for the final round of the Augusta National Women&#x27;s Amateur.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-augusta-national-womens-amateur-final-round-things-to-know"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/26_LW_1_9657_a15607bb51/26_LW_1_9657_a15607bb51.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>My Game STINKS! What Should I Practice With Limited Time?</title>
@@ -439,17 +450,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>Tiger Woods is Stepping Away to Receive Treatment and Focus on Health</title>
-    <link>https://skratch.golf/news/news/tiger-woods-issues-statement-car-accident-stepping-away-masters-status</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/tiger-woods-issues-statement-car-accident-stepping-away-masters-status</guid>
-    <pubDate>Tue, 31 Mar 2026 22:57:27 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Tiger Woods is stepping away from golf to prioritize treatment, health, and personal well-being.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-issues-statement-car-accident-stepping-away-masters-status"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2250361556_8b6ee9a6ef/Getty_Images_2250361556_8b6ee9a6ef.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Playing nine holes at one of New Zealand&#x27;s most SCENIC courses | Working Holiday with Mac Boucher</title>
     <link>https://www.youtube.com/watch?v=wwd6Ym6VDVI</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=wwd6Ym6VDVI</guid>
@@ -496,6 +496,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
+    <title>Matt and Katherine Fitzpatrick are Expecting Their First Child</title>
+    <link>https://skratch.golf/news/news/matt-fitzpatrick-wife-katherine-expecting-first-child-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/matt-fitzpatrick-wife-katherine-expecting-first-child-pga-tour</guid>
+    <pubDate>Tue, 31 Mar 2026 15:26:41 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Congratulations to Matt and Katherine!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/matt-fitzpatrick-wife-katherine-expecting-first-child-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2237017728_a60db85147/Getty_Images_2237017728_a60db85147.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Gary Woodland &amp; Chris Gotterup hit some all-time stingers.</title>
     <link>https://www.youtube.com/shorts/_E6Ubb18dSU</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/_E6Ubb18dSU</guid>
@@ -522,6 +533,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Bobby Mac, Jordan Spieth, and more Valero Texas Open Picks</title>
+    <link>https://skratch.golf/news/pro-golf/valero-texas-open-2026-best-bets-picks-to-win</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/valero-texas-open-2026-best-bets-picks-to-win</guid>
+    <pubDate>Tue, 31 Mar 2026 00:44:38 +0000</pubDate>
+    <dc:creator>Rick Gehman</dc:creator>
+    <description>&lt;p&gt;Here&#x27;s who our resident winner-picker Rick Gehman like to win, top 5, top 10, and more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/valero-texas-open-2026-best-bets-picks-to-win"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2155649515_2e31235fc2/Getty_Images_2155649515_2e31235fc2.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Exclusive: Read an Excerpt from Alan Shipnuck&#x27;s &#x27;RORY&#x27;</title>
@@ -659,28 +681,6 @@ We got to tee it up before this weekend’s opening to check out all the changes
     <dc:creator>Ben Boskovich, Raymond Williams</dc:creator>
     <description>&lt;p&gt;Shopbop doesn&#x27;t just have a fully formed Golf Shop—they have a collection full of golf-ready wear you might not even know about—yet.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/best-shopbop-golf-clothes-accessories"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/FUJI_4241_2_342067a63e/FUJI_4241_2_342067a63e.jpeg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Kick Off Golf Season With These Essentials From Amazon</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/amazon-golf-gear-spring-kick-off-shopping-guide-review</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/amazon-golf-gear-spring-kick-off-shopping-guide-review</guid>
-    <pubDate>Mon, 16 Mar 2026 17:26:51 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Getting ready for the season doesn’t have to be complicated. Here’s where to start.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/amazon-golf-gear-spring-kick-off-shopping-guide-review"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/ryanamazonspring_header_93ae3e73ee/ryanamazonspring_header_93ae3e73ee.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Spring Tune-Up: What Skratch Editors Are Adding to Their Bags Right Now</title>
-    <link>https://skratch.golf/style/style/spring-golf-amazon-picks-skratch-editors-picks</link>
-    <guid isPermaLink="true">https://skratch.golf/style/style/spring-golf-amazon-picks-skratch-editors-picks</guid>
-    <pubDate>Mon, 16 Mar 2026 14:47:05 +0000</pubDate>
-    <dc:creator>Brittany Romano</dc:creator>
-    <description>&lt;p&gt;From fresh grips to lightweight layers, these Amazon finds are the small upgrades making a big difference as golf season ramps back up.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/spring-golf-amazon-picks-skratch-editors-picks"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/amazonspringproducts_header_27a6bbf112/amazonspringproducts_header_27a6bbf112.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
