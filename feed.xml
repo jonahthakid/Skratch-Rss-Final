@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 04 Apr 2026 15:00:02 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 04 Apr 2026 15:39:54 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Gear essentials from Amazon you NEED for your next golf trip</title>
+    <link>https://www.youtube.com/shorts/B-ELgNdEA5k</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/B-ELgNdEA5k</guid>
+    <pubDate>Sat, 04 Apr 2026 15:11:21 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;The last thing anyone wants on a golf trip is a gear emergency. Ryan Barath shares a few of his favorite essentials from @amazon to pack on your next trip to make sure you have everything you need to play your best.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/B-ELgNdEA5k"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/B-ELgNdEA5k/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/B-ELgNdEA5k" type="text/html" medium="video"/>
+    <yt:videoId>B-ELgNdEA5k</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Building a brand with Eastside Golf</title>
     <link>https://www.youtube.com/shorts/btgU8JKEVag</link>
@@ -527,20 +541,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/KRZe72BKVOA/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/KRZe72BKVOA" type="text/html" medium="video"/>
     <yt:videoId>KRZe72BKVOA</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>PLEASE fist pump responsibly. 😭</title>
-    <link>https://www.youtube.com/shorts/TIRt4NFYABM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/TIRt4NFYABM</guid>
-    <pubDate>Tue, 31 Mar 2026 17:03:04 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/TIRt4NFYABM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/TIRt4NFYABM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/TIRt4NFYABM" type="text/html" medium="video"/>
-    <yt:videoId>TIRt4NFYABM</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
