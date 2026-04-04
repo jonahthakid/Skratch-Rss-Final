@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 04 Apr 2026 20:55:11 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 04 Apr 2026 21:26:13 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Maria&#x27;s Moment: Meet the 2026 Augusta National Women&#x27;s Amateur Champion</title>
+    <link>https://skratch.golf/news/news/2026-augusta-national-womens-amateur-champion-maria-jose-marin</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/2026-augusta-national-womens-amateur-champion-maria-jose-marin</guid>
+    <pubDate>Sat, 04 Apr 2026 18:10:08 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;&quot;It&#x27;s now or never—I&#x27;m going for it.&quot;&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-augusta-national-womens-amateur-champion-maria-jose-marin"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2269825618_49bad5341b/Getty_Images_2269825618_49bad5341b.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>We spent HOW MUCH on our New Zealand golf trip?! 💰 | Working Holiday</title>
     <link>https://www.youtube.com/watch?v=RNVPh6xaf0M</link>
@@ -477,17 +488,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Day One at ANWA 2026: A Viral Moment That&#x27;s More Than It Seems, and a Pair of 65s</title>
-    <link>https://skratch.golf/news/news/augusta-national-womens-amateur-round-one-recap</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/augusta-national-womens-amateur-round-one-recap</guid>
-    <pubDate>Wed, 01 Apr 2026 20:36:23 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Bailey Shoemaker was the talk of the Internet, but it&#x27;s Maria Jose Marin and Soomin Oh atop the leaderboard.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/augusta-national-womens-amateur-round-one-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2268787196_4a173e697d/Getty_Images_2268787196_4a173e697d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Pranking PRO golfers with a FAKE caddie 😭</title>
