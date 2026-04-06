@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 06 Apr 2026 12:57:45 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 06 Apr 2026 14:10:38 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>HAPPY MASTERS WEEK! 🌺</title>
@@ -365,17 +365,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>LeBron James x Bob Does Sports Absolutely Rocked</title>
-    <link>https://skratch.golf/news/news/lebron-james-bob-does-sports-youtube-golf-recap-best-moments</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/lebron-james-bob-does-sports-youtube-golf-recap-best-moments</guid>
-    <pubDate>Thu, 02 Apr 2026 19:51:09 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Not only did Bron hit the euro-step celebration with FP—he also commented on the slope controversy from the Internet Invitational—he watched the whole thing.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lebron-james-bob-does-sports-youtube-golf-recap-best-moments"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_04_02_at_3_55_13_PM_9d2742766e/Screenshot_2026_04_02_at_3_55_13_PM_9d2742766e.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Phil Mickelson Won&#x27;t Play in the Masters Next Week</title>
     <link>https://skratch.golf/news/news/phil-mickelson-not-playing-masters-augusta-national</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/phil-mickelson-not-playing-masters-augusta-national</guid>
@@ -519,17 +508,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The Trailer for Full Swing Season 4 is Electric</title>
-    <link>https://skratch.golf/news/news/full-swing-season-four-pga-tour-behind-the-scenes-netflix</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/full-swing-season-four-pga-tour-behind-the-scenes-netflix</guid>
-    <pubDate>Thu, 02 Apr 2026 04:12:55 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The teaser for Full Swing season four dropped on Thursday morning, and it looks like we’ll be getting plenty of insight into the contentious Ryder Cup at Bethpage Black—plus a whole lot more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/full-swing-season-four-pga-tour-behind-the-scenes-netflix"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2237713625_056cf42670/Getty_Images_2237713625_056cf42670.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Rory’s caddie doesn’t respond to the criticism &amp; he doesn’t respond to the praise.</title>
@@ -676,6 +654,28 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Kick Off Golf Season With These Essentials From Amazon</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/amazon-golf-gear-spring-kick-off-shopping-guide-review</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/amazon-golf-gear-spring-kick-off-shopping-guide-review</guid>
+    <pubDate>Mon, 16 Mar 2026 17:26:51 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Getting ready for the season doesn’t have to be complicated. Here’s where to start.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/amazon-golf-gear-spring-kick-off-shopping-guide-review"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/ryanamazonspring_header_93ae3e73ee/ryanamazonspring_header_93ae3e73ee.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Spring Golf Essentials for Women: Stylish Amazon Finds for Your Next Golf Trip &amp; Travel</title>
+    <link>https://skratch.golf/style/womens-style/best-womens-golf-styles-spring-fashion-travel-essentials-amazon-shop</link>
+    <guid isPermaLink="true">https://skratch.golf/style/womens-style/best-womens-golf-styles-spring-fashion-travel-essentials-amazon-shop</guid>
+    <pubDate>Fri, 13 Mar 2026 15:32:28 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;These 20 women&#x27;s golf spring styles on Amazon have this editor’s stamp of approval.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/womens-style/best-womens-golf-styles-spring-fashion-travel-essentials-amazon-shop"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/ANWA_Guide_Header_ef0212484c/ANWA_Guide_Header_ef0212484c.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
 </channel>
 </rss>
