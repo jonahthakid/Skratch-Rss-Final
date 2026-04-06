@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 06 Apr 2026 20:32:39 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 06 Apr 2026 21:32:48 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>S2 E24: MASTERS MEGA PREVIEW: Breaking Down EVERY Player In the Field (91-1)</title>
@@ -98,6 +98,17 @@ Subscrib&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/lfRF4xT0OT
     <dc:creator>Raymond Williams</dc:creator>
     <description>&lt;p&gt;A decade-long push for a pink watch turned into one of the most personal pieces in golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/bubba-watson-augusta-watch-2.5-million-dollars-richard-mille"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Bubba_Cover_a4e5fe50f5/Bubba_Cover_a4e5fe50f5.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The Future of the LPGA? It&#x27;s in the Hands of These ANWA Breakout Stars</title>
+    <link>https://skratch.golf/news/news/augusta-national-womens-amateur-five-players-to-know-lpga</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/augusta-national-womens-amateur-five-players-to-know-lpga</guid>
+    <pubDate>Mon, 06 Apr 2026 15:26:12 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The next wave of women&#x27;s golf has arrived, and these are the Augusta National Women&#x27;s Amateur participants you need to keep an eye on for the rest of 2026 (and beyond).&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/augusta-national-womens-amateur-five-players-to-know-lpga"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2269284066_5b068cb03b/Getty_Images_2269284066_5b068cb03b.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -526,17 +537,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Luke Leesburg</dc:creator>
     <description>&lt;p&gt;When you get this New Zealand trip right, it delivers in a way very few places can.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/new-zealand-golf-trip-cost-budget-travel-greens-fee-prices"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/DSC_4542_7a9d8df043/DSC_4542_7a9d8df043.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Bodycam Footage of Tiger Woods’ Arrest has Been Released</title>
-    <link>https://skratch.golf/news/news/tiger-woods-bodycam-footage-arrest-car-accident</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/tiger-woods-bodycam-footage-arrest-car-accident</guid>
-    <pubDate>Thu, 02 Apr 2026 16:12:32 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Watch: Bodycam footage of Tiger Woods&#x27; arrest has been released.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-bodycam-footage-arrest-car-accident"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2190984037_b33d0dba7f/Getty_Images_2190984037_b33d0dba7f.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
