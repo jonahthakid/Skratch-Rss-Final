@@ -1,3 +1,5 @@
+<!-- Warning: Error fetching Skratch: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwtGQ3sgidNlQGbIUBPP3xw -->
+<!-- Warning: Error fetching Skratch Articles: HTTPSConnectionPool(host='www.skratch.golf', port=443): Read timed out. (read timeout=15) -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -9,7 +11,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 06 Apr 2026 01:59:08 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 06 Apr 2026 04:48:29 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Can Anyone Catch J.J. Spaun? | Valero Texas Open LIVE Watch Along</title>
@@ -26,216 +28,6 @@
     <category>video</category>
   </item>
   <item>
-    <title>Exploring the evolution of Municipal Co</title>
-    <link>https://www.youtube.com/shorts/qklSRYeiH0s</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/qklSRYeiH0s</guid>
-    <pubDate>Sun, 05 Apr 2026 19:31:07 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;A brand built on community and connection, ​⁠Municipal’s deep understanding of their consumer has helped them become a leader in sports utility. 
-
-CEO Harry Arnett joined this special edition of Course Café presented by @amazon to discuss their evolution and more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/qklSRYeiH0s"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/qklSRYeiH0s/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/qklSRYeiH0s" type="text/html" medium="video"/>
-    <yt:videoId>qklSRYeiH0s</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Exploring the Evolution of Municipal with CEO Harry Arnett | Course Café with Raymond Williams</title>
-    <link>https://www.youtube.com/watch?v=Q3uRCKF55uw</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=Q3uRCKF55uw</guid>
-    <pubDate>Sun, 05 Apr 2026 18:57:12 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;In this episode of Course Café presented by @amazon, Raymond Williams sits down with Municipal CEO Harry Arnett to unpack what it really takes to build a brand that resonates in today’s game, from the early days of limitless ideas to the discipline required to grow with clarity and intention. The conversation explores the evolution of Municipal, the challenges of designing performance driven footwear like the Sportcross ATG, and how product, identity, and innovation come together to shape a mode&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Q3uRCKF55uw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/Q3uRCKF55uw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/Q3uRCKF55uw" type="text/html" medium="video"/>
-    <yt:videoId>Q3uRCKF55uw</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Skin essentials from Amazon to keep you golf ready</title>
-    <link>https://www.youtube.com/shorts/n-fgT-UsG0Q</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/n-fgT-UsG0Q</guid>
-    <pubDate>Sun, 05 Apr 2026 16:53:00 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Look good, feel good starts with your skin! Addie Parker shares her go to items from @amazon to keep her skin fresh and protected on the golf course.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/n-fgT-UsG0Q"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/n-fgT-UsG0Q/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/n-fgT-UsG0Q" type="text/html" medium="video"/>
-    <yt:videoId>n-fgT-UsG0Q</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Every Player in the 2026 Masters Tournament, Ranked 91-1</title>
-    <link>https://skratch.golf/news/pro-golf/masters-tournament-2026-entire-field-ranking</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/masters-tournament-2026-entire-field-ranking</guid>
-    <pubDate>Sun, 05 Apr 2026 16:17:20 +0000</pubDate>
-    <dc:creator>Dan Rapaport</dc:creator>
-    <description>&lt;p&gt;To get you prepped for the 2026 Masters we have ranked all 91 players in the field by the advanced metric of One Man’s Opinion.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/masters-tournament-2026-entire-field-ranking"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/2026_Masters_Rankings_13ee8701e8/2026_Masters_Rankings_13ee8701e8.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Malbon Signs ANWA Star Aphrodite Deng</title>
-    <link>https://skratch.golf/style/style/aphrodite-deng-malbon-augusta-national-womens-amateur-womens-golf-style</link>
-    <guid isPermaLink="true">https://skratch.golf/style/style/aphrodite-deng-malbon-augusta-national-womens-amateur-womens-golf-style</guid>
-    <pubDate>Sat, 04 Apr 2026 22:46:55 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The teen becomes the latest women&#x27;s golf brand ambassador to join a roster that includes some of the biggest names on the LPGA.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/aphrodite-deng-malbon-augusta-national-womens-amateur-womens-golf-style"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2269798786_942d47d2c0/Getty_Images_2269798786_942d47d2c0.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Maria&#x27;s Moment: Meet the 2026 Augusta National Women&#x27;s Amateur Champion</title>
-    <link>https://skratch.golf/news/news/2026-augusta-national-womens-amateur-champion-maria-jose-marin</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/2026-augusta-national-womens-amateur-champion-maria-jose-marin</guid>
-    <pubDate>Sat, 04 Apr 2026 18:10:08 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;&quot;It&#x27;s now or never—I&#x27;m going for it.&quot;&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-augusta-national-womens-amateur-champion-maria-jose-marin"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2269825618_49bad5341b/Getty_Images_2269825618_49bad5341b.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>We spent HOW MUCH on our New Zealand golf trip?! 💰 | Working Holiday</title>
-    <link>https://www.youtube.com/watch?v=RNVPh6xaf0M</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=RNVPh6xaf0M</guid>
-    <pubDate>Sat, 04 Apr 2026 17:09:18 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The Working Holiday boys Mac, Pete and Luke returned to their old stomping grounds for a bucket list trip to the North and South islands of New Zealand. From golf and accommodations to airfare and food, here&#x27;s how much their trip actually cost, and how to make it more budget-friendly.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=RNVPh6xaf0M"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/RNVPh6xaf0M/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/RNVPh6xaf0M" type="text/html" medium="video"/>
-    <yt:videoId>RNVPh6xaf0M</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Gear essentials from Amazon you NEED for your next golf trip</title>
-    <link>https://www.youtube.com/shorts/B-ELgNdEA5k</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/B-ELgNdEA5k</guid>
-    <pubDate>Sat, 04 Apr 2026 15:11:21 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The last thing anyone wants on a golf trip is a gear emergency. Ryan Barath shares a few of his favorite essentials from @amazon to pack on your next trip to make sure you have everything you need to play your best.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/B-ELgNdEA5k"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/B-ELgNdEA5k/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/B-ELgNdEA5k" type="text/html" medium="video"/>
-    <yt:videoId>B-ELgNdEA5k</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>The Happiest Day in Golf: How to Watch the 2026 Drive, Chip, and Putt Finals</title>
-    <link>https://skratch.golf/news/news/2026-drive-chip-putt-finals-augusta-national-how-to-watch-tv</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/2026-drive-chip-putt-finals-augusta-national-how-to-watch-tv</guid>
-    <pubDate>Sat, 04 Apr 2026 14:16:48 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;All the details you need ahead of the 2026 Drive, Chip, and Putt National Finals at Augusta National Golf Club.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-drive-chip-putt-finals-augusta-national-how-to-watch-tv"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2146433284_8b6affc410/Getty_Images_2146433284_8b6affc410.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Building a brand with Eastside Golf</title>
-    <link>https://www.youtube.com/shorts/btgU8JKEVag</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/btgU8JKEVag</guid>
-    <pubDate>Sat, 04 Apr 2026 00:51:04 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Building a brand based on authenticity and inclusion was one of the keys for @eastsidegolf founders Olajuwon Ajanku and Earl Coooer. They sat down with Raymond Williams in this episode of Course Café presented by @amazon to discuss pressure that comes with growth, connecting with people in everyday life and how accessibility is shaping the future of the game.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/btgU8JKEVag"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/btgU8JKEVag/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/btgU8JKEVag" type="text/html" medium="video"/>
-    <yt:videoId>btgU8JKEVag</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Building a brand with Eastside Golf | Course Café with Raymond Williams</title>
-    <link>https://www.youtube.com/watch?v=GZ8ipHDp2_M</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=GZ8ipHDp2_M</guid>
-    <pubDate>Sat, 04 Apr 2026 00:42:13 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;In this episode of Course Café presented by @amazon, Raymond Williams sits down with Olajuwon Ajanaku and Earl Cooper, the founders of Eastside Golf, for a conversation that goes far beyond product, diving into the emotional weight of building a brand, the pressure that comes with growth, and the realities people do not see from the outside, from early sacrifices and uncertainty to moments where it became clear this was bigger than just them, all while exploring how accessibility is shaping the &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=GZ8ipHDp2_M"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/GZ8ipHDp2_M/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/GZ8ipHDp2_M" type="text/html" medium="video"/>
-    <yt:videoId>GZ8ipHDp2_M</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Relive Last Year&#x27;s Masters with Rory McIlroy Himself</title>
-    <link>https://skratch.golf/news/news/rory-mcilroy-final-round-2025-masters-interview-relive-every-moment</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/rory-mcilroy-final-round-2025-masters-interview-relive-every-moment</guid>
-    <pubDate>Fri, 03 Apr 2026 19:38:28 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Hearing Rory McIlroy relive every shot from the final round of last year&#x27;s Masters is truly the good stuff.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rory-mcilroy-final-round-2025-masters-interview-relive-every-moment"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2209624124_1b0d7ae5d7/Getty_Images_2209624124_1b0d7ae5d7.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>What Everyone Got Wrong About Malbon’s Birds of Georgia Collection</title>
-    <link>https://skratch.golf/style/mens-style/malbon-masters-birds-of-georgia-collection-stephen-interview</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/malbon-masters-birds-of-georgia-collection-stephen-interview</guid>
-    <pubDate>Fri, 03 Apr 2026 18:54:16 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;“It wasn’t just jacking the green and yellow color combo and doing the same thing people have been doing forever,&quot; Stephen Malbon told us Friday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/malbon-masters-birds-of-georgia-collection-stephen-interview"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Brids_of_Georgia_Cover_e5fd9e68ef/Brids_of_Georgia_Cover_e5fd9e68ef.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Ultimate Go-To Guide for Watching the Masters</title>
-    <link>https://skratch.golf/news/news/masters-how-to-watch-guide-maximize-your-experience</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/masters-how-to-watch-guide-maximize-your-experience</guid>
-    <pubDate>Fri, 03 Apr 2026 18:00:17 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Maximize your at-home Masters experience with this ultimate how-to-watch guide.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-how-to-watch-guide-maximize-your-experience"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2213380637_e8ed71b4d3/Getty_Images_2213380637_e8ed71b4d3.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The MOST ELECTRIC Moments on the PGA TOUR ⚡️⚡️⚡️</title>
-    <link>https://www.youtube.com/watch?v=K3KaiuuBYoM</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=K3KaiuuBYoM</guid>
-    <pubDate>Fri, 03 Apr 2026 17:00:00 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Golf isn’t always quiet. From walk-off putts to crowd eruptions, these are the moments that turned golf into pure chaos. Featuring iconic celebrations, clutch shots, and the loudest roars you’ll ever hear on a golf course — this is the TOUR at its absolute best.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=K3KaiuuBYoM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/K3KaiuuBYoM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/K3KaiuuBYoM" type="text/html" medium="video"/>
-    <yt:videoId>K3KaiuuBYoM</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Stars, Stakes, and Augusta: Your ANWA Final Round Watch Guide</title>
-    <link>https://skratch.golf/news/news/2026-augusta-national-womens-amateur-final-round-things-to-know</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/2026-augusta-national-womens-amateur-final-round-things-to-know</guid>
-    <pubDate>Fri, 03 Apr 2026 15:02:36 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The stage is set. A new champion will be crowned. This is everything you need to know for the final round of the Augusta National Women&#x27;s Amateur.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-augusta-national-womens-amateur-final-round-things-to-know"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/26_LW_1_9657_a15607bb51/26_LW_1_9657_a15607bb51.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>My Game STINKS! What Should I Practice With Limited Time?</title>
     <link>https://www.youtube.com/watch?v=RMPsbyN_giU</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=RMPsbyN_giU</guid>
@@ -247,132 +39,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:videoId>RMPsbyN_giU</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Early Weather Forecast for the Masters</title>
-    <link>https://skratch.golf/news/news/masters-2026-early-weather-forecast-augusta-national</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/masters-2026-early-weather-forecast-augusta-national</guid>
-    <pubDate>Fri, 03 Apr 2026 14:23:16 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;We don&#x27;t want to jinx it, but there&#x27;s plenty of sunshine in the forecast for the Masters next week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-2026-early-weather-forecast-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2209189291_facafc4465/Getty_Images_2209189291_facafc4465.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Looked like a par the WHOLE way. 🙄</title>
-    <link>https://www.youtube.com/shorts/05K_StNI-ck</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/05K_StNI-ck</guid>
-    <pubDate>Fri, 03 Apr 2026 13:55:16 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/05K_StNI-ck"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/05K_StNI-ck/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/05K_StNI-ck" type="text/html" medium="video"/>
-    <yt:videoId>05K_StNI-ck</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Brandon Holtz and the Spirit of Sugarloaf Social Club</title>
-    <link>https://skratch.golf/style/mens-style/brandon-holtz-masters-amateur-sugarloaf-social-club-scripting</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/brandon-holtz-masters-amateur-sugarloaf-social-club-scripting</guid>
-    <pubDate>Fri, 03 Apr 2026 05:09:38 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;A father, a Mid-Am champ, and a brand built on joy. The most human story at Augusta this year is wearing Sugarloaf Social Club.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/brandon-holtz-masters-amateur-sugarloaf-social-club-scripting"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_04_04_at_8_34_09_AM_fd3e5f3c3e/Screenshot_2026_04_04_at_8_34_09_AM_fd3e5f3c3e.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>One of these THREE players could win the Masters based on historical trends 👀</title>
-    <link>https://www.youtube.com/watch?v=o6nNbgwsjVo</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=o6nNbgwsjVo</guid>
-    <pubDate>Thu, 02 Apr 2026 21:33:28 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The Masters is nearly here, but who will slip on the green jacket? @RickRunGood breaks down the players with the best shot based on historical trends.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=o6nNbgwsjVo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/o6nNbgwsjVo/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/o6nNbgwsjVo" type="text/html" medium="video"/>
-    <yt:videoId>o6nNbgwsjVo</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>ANWA 2026: The Second-Round Pressure Cooker—Who Survived—and Who Didn’t</title>
-    <link>https://skratch.golf/news/news/2026-augusta-national-womens-amateur-second-round-recap</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/2026-augusta-national-womens-amateur-second-round-recap</guid>
-    <pubDate>Thu, 02 Apr 2026 21:25:06 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The second round of ANWA provides one of the most dramatic, emotional swings in golf. Here&#x27;s who moves on, and who came up a bit short.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-augusta-national-womens-amateur-second-round-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2268913868_2f7c7331af/Getty_Images_2268913868_2f7c7331af.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Happy ******* birthday, Shane. 🤬😭</title>
-    <link>https://www.youtube.com/shorts/m3pGU0ZGwE8</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/m3pGU0ZGwE8</guid>
-    <pubDate>Thu, 02 Apr 2026 21:21:58 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/m3pGU0ZGwE8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/m3pGU0ZGwE8/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/m3pGU0ZGwE8" type="text/html" medium="video"/>
-    <yt:videoId>m3pGU0ZGwE8</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Asterisk Talley Just Made ANWA History With Her Fourth Consecutive Round in the 60s</title>
-    <link>https://skratch.golf/news/news/asterisk-talley-augusta-national-womens-amateur-second-round-making-history</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/asterisk-talley-augusta-national-womens-amateur-second-round-making-history</guid>
-    <pubDate>Thu, 02 Apr 2026 20:24:14 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;And she had the most wonderfully teenage reaction to finding out, too.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/asterisk-talley-augusta-national-womens-amateur-second-round-making-history"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2268894593_af847dc17f/Getty_Images_2268894593_af847dc17f.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>LeBron James x Bob Does Sports Absolutely Rocked</title>
-    <link>https://skratch.golf/news/news/lebron-james-bob-does-sports-youtube-golf-recap-best-moments</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/lebron-james-bob-does-sports-youtube-golf-recap-best-moments</guid>
-    <pubDate>Thu, 02 Apr 2026 19:51:09 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Not only did Bron hit the euro-step celebration with FP—he also commented on the slope controversy from the Internet Invitational—he watched the whole thing.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lebron-james-bob-does-sports-youtube-golf-recap-best-moments"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_04_02_at_3_55_13_PM_9d2742766e/Screenshot_2026_04_02_at_3_55_13_PM_9d2742766e.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Phil Mickelson Won&#x27;t Play in the Masters Next Week</title>
-    <link>https://skratch.golf/news/news/phil-mickelson-not-playing-masters-augusta-national</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/phil-mickelson-not-playing-masters-augusta-national</guid>
-    <pubDate>Thu, 02 Apr 2026 19:12:27 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The three-time Masters champion says he &quot;will be out for an extended period of time as my family continues to navigate a personal health matter.&quot;&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/phil-mickelson-not-playing-masters-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266876693_5cd08375ae/Getty_Images_2266876693_5cd08375ae.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>If you know, you know. 30904 from @P@PUMAs built for the week we all tap into.</title>
-    <link>https://www.youtube.com/shorts/ymCmiY3Xqus</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ymCmiY3Xqus</guid>
-    <pubDate>Thu, 02 Apr 2026 18:02:31 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ymCmiY3Xqus"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ymCmiY3Xqus/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ymCmiY3Xqus" type="text/html" medium="video"/>
-    <yt:videoId>ymCmiY3Xqus</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
     <category>video</category>
   </item>
   <item>
@@ -390,67 +56,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>What Does the Best Golf Road Trip on Earth Really Cost?</title>
-    <link>https://skratch.golf/news/golf-culture/new-zealand-golf-trip-cost-budget-travel-greens-fee-prices</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/new-zealand-golf-trip-cost-budget-travel-greens-fee-prices</guid>
-    <pubDate>Thu, 02 Apr 2026 17:19:41 +0000</pubDate>
-    <dc:creator>Luke Leesburg</dc:creator>
-    <description>&lt;p&gt;When you get this New Zealand trip right, it delivers in a way very few places can.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/new-zealand-golf-trip-cost-budget-travel-greens-fee-prices"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/DSC_4542_7a9d8df043/DSC_4542_7a9d8df043.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Happy 50th to Rory Sabbatini. If anyone&#x27;s invited to the party, it should be this guy. 🤣</title>
-    <link>https://www.youtube.com/shorts/xw_mApGudh0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/xw_mApGudh0</guid>
-    <pubDate>Thu, 02 Apr 2026 16:59:38 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/xw_mApGudh0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/xw_mApGudh0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/xw_mApGudh0" type="text/html" medium="video"/>
-    <yt:videoId>xw_mApGudh0</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Bodycam Footage of Tiger Woods’ Arrest has Been Released</title>
-    <link>https://skratch.golf/news/news/tiger-woods-bodycam-footage-arrest-car-accident</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/tiger-woods-bodycam-footage-arrest-car-accident</guid>
-    <pubDate>Thu, 02 Apr 2026 16:12:32 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Watch: Bodycam footage of Tiger Woods&#x27; arrest has been released.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-bodycam-footage-arrest-car-accident"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2190984037_b33d0dba7f/Getty_Images_2190984037_b33d0dba7f.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>An Ode to The ANWA Magnolia</title>
-    <link>https://skratch.golf/news/golf-culture/augusta-national-womens-amateur-azalea-logo-anwa-merch</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/augusta-national-womens-amateur-azalea-logo-anwa-merch</guid>
-    <pubDate>Thu, 02 Apr 2026 16:05:16 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;And no, it&#x27;s not a bloomin&#x27; onion.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/augusta-national-womens-amateur-azalea-logo-anwa-merch"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2268873074_def6b6fd0f/Getty_Images_2268873074_def6b6fd0f.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Full Swing Season 4, coming April 17th on Netflix. 👀</title>
-    <link>https://www.youtube.com/shorts/dC9LoXHkpPQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/dC9LoXHkpPQ</guid>
-    <pubDate>Thu, 02 Apr 2026 15:01:50 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/dC9LoXHkpPQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/dC9LoXHkpPQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/dC9LoXHkpPQ" type="text/html" medium="video"/>
-    <yt:videoId>dC9LoXHkpPQ</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Inside a Tour Caddie&#x27;s Augusta Yardage Book</title>
     <link>https://www.youtube.com/watch?v=pMKnu1hGOwg</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=pMKnu1hGOwg</guid>
@@ -463,38 +68,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>PLEASE say #AprilFools... The golf god&#x27;s CRUELEST prank 😭</title>
-    <link>https://www.youtube.com/shorts/VTVN_-VY0bM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/VTVN_-VY0bM</guid>
-    <pubDate>Thu, 02 Apr 2026 13:58:54 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
-
-Check out our website: https://skratch.golf/
-Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/VTVN_-VY0bM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/VTVN_-VY0bM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/VTVN_-VY0bM" type="text/html" medium="video"/>
-    <yt:videoId>VTVN_-VY0bM</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>This Week’s Best Gear Drops Ahead Major Season (And a Few You Didn’t See Coming)</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/golf-limited-edition-gear-augusta-inspired-texas-open-anwa-releases</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/golf-limited-edition-gear-augusta-inspired-texas-open-anwa-releases</guid>
-    <pubDate>Thu, 02 Apr 2026 13:19:12 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;April is when the golf season really starts. With all eyes on Augusta next week, here’s a look at the newest releases and limited drops worth your attention.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/golf-limited-edition-gear-augusta-inspired-texas-open-anwa-releases"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/drops_title_spring_4b1306a585/drops_title_spring_4b1306a585.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>S2 E23: Tiger Steps Away, Willy Wilcox’s Guide To Augusta, Rory Doc Review</title>
@@ -517,17 +90,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>The Trailer for Full Swing Season 4 is Electric</title>
-    <link>https://skratch.golf/news/news/full-swing-season-four-pga-tour-behind-the-scenes-netflix</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/full-swing-season-four-pga-tour-behind-the-scenes-netflix</guid>
-    <pubDate>Thu, 02 Apr 2026 04:12:55 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The teaser for Full Swing season four dropped on Thursday morning, and it looks like we’ll be getting plenty of insight into the contentious Ryder Cup at Bethpage Black—plus a whole lot more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/full-swing-season-four-pga-tour-behind-the-scenes-netflix"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2237713625_056cf42670/Getty_Images_2237713625_056cf42670.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Rory’s caddie doesn’t respond to the criticism &amp; he doesn’t respond to the praise.</title>
     <link>https://www.youtube.com/shorts/tJBnsNee_L4</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/tJBnsNee_L4</guid>
@@ -540,17 +102,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Double The Fun: Why This Week&#x27;s LPGA Event at Shadow Creek and ANWA Are Essential Viewing</title>
-    <link>https://skratch.golf/news/news/lpga-tour-aramco-championship-augusta-national-womens-amateur-womens-golf-how-to-watch</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-tour-aramco-championship-augusta-national-womens-amateur-womens-golf-how-to-watch</guid>
-    <pubDate>Thu, 02 Apr 2026 00:19:53 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;It&#x27;s a busy week in women&#x27;s golf—here&#x27;s the need to know on the LPGA Tour while ANWA is going on so you don&#x27;t get behind!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-tour-aramco-championship-augusta-national-womens-amateur-womens-golf-how-to-watch"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2269536526_7e7698958b/Getty_Images_2269536526_7e7698958b.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>A perspective unlike any other.</title>
