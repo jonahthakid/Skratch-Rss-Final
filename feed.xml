@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 06 Apr 2026 15:10:36 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 06 Apr 2026 16:07:01 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Jim Nantz shares the origin story behind &quot;Hello Friends&quot;</title>
@@ -77,6 +77,17 @@ The&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ss4uwGftlVI"&g
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Cure Your Augusta FOMO With These Picks</title>
+    <link>https://skratch.golf/style/mens-style/augusta-inspired-masters-fomo-style-picks</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/augusta-inspired-masters-fomo-style-picks</guid>
+    <pubDate>Mon, 06 Apr 2026 04:56:59 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;You didn’t get in but your wardrobe still can&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/augusta-inspired-masters-fomo-style-picks"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Augusta_Haul_Cover_5683451915/Augusta_Haul_Cover_5683451915.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>The Singular Swagger of Chris Gotterup</title>
@@ -415,17 +426,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>LeBron James x Bob Does Sports Absolutely Rocked</title>
-    <link>https://skratch.golf/news/news/lebron-james-bob-does-sports-youtube-golf-recap-best-moments</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/lebron-james-bob-does-sports-youtube-golf-recap-best-moments</guid>
-    <pubDate>Thu, 02 Apr 2026 19:51:09 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Not only did Bron hit the euro-step celebration with FP—he also commented on the slope controversy from the Internet Invitational—he watched the whole thing.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lebron-james-bob-does-sports-youtube-golf-recap-best-moments"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_04_02_at_3_55_13_PM_9d2742766e/Screenshot_2026_04_02_at_3_55_13_PM_9d2742766e.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>If you know, you know. 30904 from @P@PUMAs built for the week we all tap into.</title>
     <link>https://www.youtube.com/shorts/ymCmiY3Xqus</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/ymCmiY3Xqus</guid>
@@ -477,17 +477,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>This Week’s Best Gear Drops Ahead of Major Season (And a Few You Didn’t See Coming)</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/golf-limited-edition-gear-augusta-inspired-texas-open-anwa-releases</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/golf-limited-edition-gear-augusta-inspired-texas-open-anwa-releases</guid>
-    <pubDate>Thu, 02 Apr 2026 13:19:12 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;April is when the golf season really starts. With all eyes on Augusta next week, here’s a look at the newest releases and limited drops worth your attention.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/golf-limited-edition-gear-augusta-inspired-texas-open-anwa-releases"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/drops_title_spring_4b1306a585/drops_title_spring_4b1306a585.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>S2 E23: Tiger Steps Away, Willy Wilcox’s Guide To Augusta, Rory Doc Review</title>
@@ -575,6 +564,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The Best Stat to Predict Who Will Win the Masters</title>
+    <link>https://skratch.golf/news/news/masters-best-stat-to-predict-the-winner-augusta-national</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/masters-best-stat-to-predict-the-winner-augusta-national</guid>
+    <pubDate>Tue, 31 Mar 2026 19:30:00 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;If you&#x27;re into trends, there&#x27;s a high chance that only 11 players can win the Masters this year.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-best-stat-to-predict-the-winner-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/rory_mcilroy_2025_masters_win_Getty_Images_2210134696_7c1ad1d6a9/rory_mcilroy_2025_masters_win_Getty_Images_2210134696_7c1ad1d6a9.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Gary Woodland &amp; Chris Gotterup hit some all-time stingers.</title>
