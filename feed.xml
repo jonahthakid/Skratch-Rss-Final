@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 07 Apr 2026 16:07:01 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 07 Apr 2026 17:30:59 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Must-Watch Groups for the First Two Rounds of the Masters</title>
+    <link>https://skratch.golf/news/news/masters-best-groupings-must-watch-tee-times-augusta-national</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/masters-best-groupings-must-watch-tee-times-augusta-national</guid>
+    <pubDate>Tue, 07 Apr 2026 16:36:31 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Jordan Spieth, Justin Rose, and Brooks Koepka? Yes, please. Here are the best groups for the first few days at Augusta National.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-best-groupings-must-watch-tee-times-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2269576719_fd165314f1/Getty_Images_2269576719_fd165314f1.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>The Picks Are In: Rick&#x27;s Gehman&#x27;s Best Bets for the 2026 Masters</title>
     <link>https://skratch.golf/news/pro-golf/masters-2026-betting-best-bets-picks-to-win</link>
@@ -445,17 +456,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>What Everyone Got Wrong About Malbon’s Birds of Georgia Collection</title>
-    <link>https://skratch.golf/style/mens-style/malbon-masters-birds-of-georgia-collection-stephen-interview</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/malbon-masters-birds-of-georgia-collection-stephen-interview</guid>
-    <pubDate>Fri, 03 Apr 2026 18:54:16 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;“It wasn’t just jacking the green and yellow color combo and doing the same thing people have been doing forever,&quot; Stephen Malbon told us Friday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/malbon-masters-birds-of-georgia-collection-stephen-interview"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Brids_of_Georgia_Cover_e5fd9e68ef/Brids_of_Georgia_Cover_e5fd9e68ef.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>The Ultimate Go-To Guide for Watching the Masters</title>
