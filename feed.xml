@@ -9,8 +9,30 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 08 Apr 2026 14:51:12 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 08 Apr 2026 16:11:18 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Masters Style Preview: Day 2 Was All About Sweaters</title>
+    <link>https://skratch.golf/style/mens-style/augusta-practice-rounds-masters-style-sweaters-layering-knitwear</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/augusta-practice-rounds-masters-style-sweaters-layering-knitwear</guid>
+    <pubDate>Wed, 08 Apr 2026 15:21:03 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;The most timeless layer in golf showed up exactly when it should.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/augusta-practice-rounds-masters-style-sweaters-layering-knitwear"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Sweater_Augusta_Cover_5d6be82ea2/Sweater_Augusta_Cover_5d6be82ea2.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Why Bryson’s Wedges Could Be His Weak Spot This Week in Augusta</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/bryson-masters-wedges-gear-smart-lie-angle</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/bryson-masters-wedges-gear-smart-lie-angle</guid>
+    <pubDate>Wed, 08 Apr 2026 15:06:19 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Even with his advantage off the tee, it&#x27;s Bryson&#x27;s approach play under the microscope this week as he attempts to win his first Masters.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/bryson-masters-wedges-gear-smart-lie-angle"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/bryson_dechambeau_masters_2025_Getty_Images_2209959969_c08426ff12/bryson_dechambeau_masters_2025_Getty_Images_2209959969_c08426ff12.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>How do you master style on the green? Take notes from our Addie Parker and swing for a matching set</title>
     <link>https://www.youtube.com/shorts/VzJVSC2Sw3k</link>
@@ -24,6 +46,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>&#x27;Under the Tree&#x27;: A Masters Meeting Place Unlike Any Other</title>
+    <link>https://skratch.golf/news/golf-culture/the-big-oak-tree-augusta-national-golf-club-meeting-place-masters</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/the-big-oak-tree-augusta-national-golf-club-meeting-place-masters</guid>
+    <pubDate>Wed, 08 Apr 2026 14:12:08 +0000</pubDate>
+    <dc:creator>Chad Mumm</dc:creator>
+    <description>&lt;p&gt;An ode to Augusta National&#x27;s most famous spot.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/the-big-oak-tree-augusta-national-golf-club-meeting-place-masters"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1311288399_28b1e4330b/Getty_Images_1311288399_28b1e4330b.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>How to Watch the Masters Par 3 Contest</title>
@@ -453,17 +486,6 @@ CEO Harry Arnett joined this special edition of Course Café presented by @amazo
     <category>video</category>
   </item>
   <item>
-    <title>Every Player in the 2026 Masters Tournament, Ranked 91-1</title>
-    <link>https://skratch.golf/news/pro-golf/masters-tournament-2026-entire-field-ranking</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/masters-tournament-2026-entire-field-ranking</guid>
-    <pubDate>Sun, 05 Apr 2026 16:17:20 +0000</pubDate>
-    <dc:creator>Dan Rapaport</dc:creator>
-    <description>&lt;p&gt;To get you prepped for the 2026 Masters we have ranked all 91 players in the field by the advanced metric of One Man’s Opinion.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/masters-tournament-2026-entire-field-ranking"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/2026_Masters_Rankings_13ee8701e8/2026_Masters_Rankings_13ee8701e8.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>20 Years Ago They Called Him Crazy, then He Won the Masters</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/phil-mickelson-masters-win-lookback-two-drivers-gear</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/phil-mickelson-masters-win-lookback-two-drivers-gear</guid>
@@ -471,17 +493,6 @@ CEO Harry Arnett joined this special edition of Course Café presented by @amazo
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;In a world before advanced analytics, Phil Mickelson proved that bringing two drivers to Augusta National could offer an advantage. It won him The Masters.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/phil-mickelson-masters-win-lookback-two-drivers-gear"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266876693_5cd08375ae/Getty_Images_2266876693_5cd08375ae.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Malbon Signs ANWA Star Aphrodite Deng</title>
-    <link>https://skratch.golf/style/style/aphrodite-deng-malbon-augusta-national-womens-amateur-womens-golf-style</link>
-    <guid isPermaLink="true">https://skratch.golf/style/style/aphrodite-deng-malbon-augusta-national-womens-amateur-womens-golf-style</guid>
-    <pubDate>Sat, 04 Apr 2026 22:46:55 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The teen becomes the latest women&#x27;s golf brand ambassador to join a roster that includes some of the biggest names on the LPGA.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/aphrodite-deng-malbon-augusta-national-womens-amateur-womens-golf-style"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2269798786_942d47d2c0/Getty_Images_2269798786_942d47d2c0.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -516,17 +527,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The Happiest Day in Golf: How to Watch the 2026 Drive, Chip, and Putt Finals</title>
-    <link>https://skratch.golf/news/news/2026-drive-chip-putt-finals-augusta-national-how-to-watch-tv</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/2026-drive-chip-putt-finals-augusta-national-how-to-watch-tv</guid>
-    <pubDate>Sat, 04 Apr 2026 14:16:48 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;All the details you need ahead of the 2026 Drive, Chip, and Putt National Finals at Augusta National Golf Club.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-drive-chip-putt-finals-augusta-national-how-to-watch-tv"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2146433284_8b6affc410/Getty_Images_2146433284_8b6affc410.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Building a brand with Eastside Golf</title>
