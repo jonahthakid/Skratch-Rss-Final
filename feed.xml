@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 08 Apr 2026 13:09:26 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 08 Apr 2026 14:51:12 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>How do you master style on the green? Take notes from our Addie Parker and swing for a matching set</title>
+    <link>https://www.youtube.com/shorts/VzJVSC2Sw3k</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/VzJVSC2Sw3k</guid>
+    <pubDate>Wed, 08 Apr 2026 14:37:23 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/VzJVSC2Sw3k"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/VzJVSC2Sw3k/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/VzJVSC2Sw3k" type="text/html" medium="video"/>
+    <yt:videoId>VzJVSC2Sw3k</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>How to Watch the Masters Par 3 Contest</title>
+    <link>https://skratch.golf/news/news/masters-par-3-contest-how-to-watch-tv-streaming</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/masters-par-3-contest-how-to-watch-tv-streaming</guid>
+    <pubDate>Wed, 08 Apr 2026 13:35:46 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;One of the best days in golf is here. Here&#x27;s how you can watch the Masters Par 3 Contest.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-par-3-contest-how-to-watch-tv-streaming"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2208789690_2bbb7b6157/Getty_Images_2208789690_2bbb7b6157.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Happy #NationalBeerDay, golf fans… Just try not to hold up play.</title>
     <link>https://www.youtube.com/shorts/U2abH5YfhdA</link>
@@ -461,17 +486,6 @@ CEO Harry Arnett joined this special edition of Course Café presented by @amazo
     <category>article</category>
   </item>
   <item>
-    <title>Maria&#x27;s Moment: Meet the 2026 Augusta National Women&#x27;s Amateur Champion</title>
-    <link>https://skratch.golf/news/news/2026-augusta-national-womens-amateur-champion-maria-jose-marin</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/2026-augusta-national-womens-amateur-champion-maria-jose-marin</guid>
-    <pubDate>Sat, 04 Apr 2026 18:10:08 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;&quot;It&#x27;s now or never—I&#x27;m going for it.&quot;&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-augusta-national-womens-amateur-champion-maria-jose-marin"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2269825618_49bad5341b/Getty_Images_2269825618_49bad5341b.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>We spent HOW MUCH on our New Zealand golf trip?! 💰 | Working Holiday</title>
     <link>https://www.youtube.com/watch?v=RNVPh6xaf0M</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=RNVPh6xaf0M</guid>
@@ -543,24 +557,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>The MOST ELECTRIC Moments on the PGA TOUR ⚡️⚡️⚡️</title>
-    <link>https://www.youtube.com/watch?v=K3KaiuuBYoM</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=K3KaiuuBYoM</guid>
-    <pubDate>Fri, 03 Apr 2026 17:00:00 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Golf isn’t always quiet. From walk-off putts to crowd eruptions, these are the moments that turned golf into pure chaos. Featuring iconic celebrations, clutch shots, and the loudest roars you’ll ever hear on a golf course — this is the TOUR at its absolute best.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=K3KaiuuBYoM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/K3KaiuuBYoM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/K3KaiuuBYoM" type="text/html" medium="video"/>
-    <yt:videoId>K3KaiuuBYoM</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>My Game STINKS! What Should I Practice With Limited Time?</title>
     <link>https://www.youtube.com/watch?v=RMPsbyN_giU</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=RMPsbyN_giU</guid>
@@ -573,17 +569,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Early Weather Forecast for the Masters</title>
-    <link>https://skratch.golf/news/news/masters-2026-early-weather-forecast-augusta-national</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/masters-2026-early-weather-forecast-augusta-national</guid>
-    <pubDate>Fri, 03 Apr 2026 14:23:16 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;We don&#x27;t want to jinx it, but there&#x27;s plenty of sunshine in the forecast for the Masters next week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-2026-early-weather-forecast-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2209189291_facafc4465/Getty_Images_2209189291_facafc4465.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Brandon Holtz and the Spirit of Sugarloaf Social Club</title>
@@ -694,6 +679,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;If you&#x27;re into trends, there&#x27;s a high chance that only 11 players can win the Masters this year.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-best-stat-to-predict-the-winner-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/rory_mcilroy_2025_masters_win_Getty_Images_2210134696_7c1ad1d6a9/rory_mcilroy_2025_masters_win_Getty_Images_2210134696_7c1ad1d6a9.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>All the Limited Edition Staff Bags &amp; Gear Ahead of the 2026 Masters</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/masters-staff-bags-golf-spring-release</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/masters-staff-bags-golf-spring-release</guid>
+    <pubDate>Tue, 31 Mar 2026 18:32:16 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;For the first men&#x27;s major of the year, most big equipment manufacturers pull out all the stops to celebrate the return of spring and the Masters.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/masters-staff-bags-golf-spring-release"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Masters_gear_2026_10d6da581f/Masters_gear_2026_10d6da581f.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
