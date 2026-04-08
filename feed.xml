@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 08 Apr 2026 20:07:01 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 08 Apr 2026 21:07:45 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Special rules for Harris? 👀</title>
@@ -24,6 +24,17 @@
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Bryson DeChambeau&#x27;s Caddie for the Masters Par 3 Contest? Kevin Hart</title>
+    <link>https://skratch.golf/news/news/masters-par-3-contest-bryson-dechambeau-caddie-kevin-hart</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/masters-par-3-contest-bryson-dechambeau-caddie-kevin-hart</guid>
+    <pubDate>Wed, 08 Apr 2026 18:18:56 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;We didn&#x27;t expect to see Kevin Hart in an Augusta National caddie jumper this week, but here we are.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-par-3-contest-bryson-dechambeau-caddie-kevin-hart"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270442065_0093baa46b/Getty_Images_2270442065_0093baa46b.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>S2 E25: LIVE IN AUGUSTA - The Night Before The Masters ft. Harris English</title>
@@ -396,6 +407,17 @@ Subscrib&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/lfRF4xT0OT
     <category>video</category>
   </item>
   <item>
+    <title>The Future of the LPGA? It&#x27;s in the Hands of These ANWA Breakout Stars</title>
+    <link>https://skratch.golf/news/news/augusta-national-womens-amateur-five-players-to-know-lpga</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/augusta-national-womens-amateur-five-players-to-know-lpga</guid>
+    <pubDate>Mon, 06 Apr 2026 15:26:12 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The next wave of women&#x27;s golf has arrived, and these are the Augusta National Women&#x27;s Amateur participants you need to keep an eye on for the rest of 2026 (and beyond).&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/augusta-national-womens-amateur-five-players-to-know-lpga"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2269284066_5b068cb03b/Getty_Images_2269284066_5b068cb03b.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Augusta National’s Secret Ingredient Has New Jersey Roots</title>
     <link>https://skratch.golf/news/news/rutgers-university-richard-hurley-augusta-grass</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/rutgers-university-richard-hurley-augusta-grass</guid>
@@ -474,17 +496,6 @@ The&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ss4uwGftlVI"&g
     <category>video</category>
   </item>
   <item>
-    <title>Cure Your Augusta FOMO With These Picks</title>
-    <link>https://skratch.golf/style/mens-style/augusta-inspired-masters-fomo-style-picks</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/augusta-inspired-masters-fomo-style-picks</guid>
-    <pubDate>Mon, 06 Apr 2026 04:56:59 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;You didn’t get in but your wardrobe still can&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/augusta-inspired-masters-fomo-style-picks"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Augusta_Haul_Cover_5683451915/Augusta_Haul_Cover_5683451915.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>The Singular Swagger of Chris Gotterup</title>
     <link>https://skratch.golf/news/news/chris-gotterup-profile-interview-2026</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/chris-gotterup-profile-interview-2026</guid>
@@ -538,17 +549,6 @@ CEO Harry Arnett joined this special edition of Course Café presented by @amazo
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>20 Years Ago They Called Him Crazy, then He Won the Masters</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/phil-mickelson-masters-win-lookback-two-drivers-gear</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/phil-mickelson-masters-win-lookback-two-drivers-gear</guid>
-    <pubDate>Sun, 05 Apr 2026 12:04:08 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;In a world before advanced analytics, Phil Mickelson proved that bringing two drivers to Augusta National could offer an advantage. It won him The Masters.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/phil-mickelson-masters-win-lookback-two-drivers-gear"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266876693_5cd08375ae/Getty_Images_2266876693_5cd08375ae.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>We spent HOW MUCH on our New Zealand golf trip?! 💰 | Working Holiday</title>
@@ -609,17 +609,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Brandon Holtz and the Spirit of Sugarloaf Social Club</title>
-    <link>https://skratch.golf/style/mens-style/brandon-holtz-masters-amateur-sugarloaf-social-club-scripting</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/brandon-holtz-masters-amateur-sugarloaf-social-club-scripting</guid>
-    <pubDate>Fri, 03 Apr 2026 05:09:38 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;A father, a Mid-Am champ, and a brand built on joy. The most human story at Augusta this year is wearing Sugarloaf Social Club.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/brandon-holtz-masters-amateur-sugarloaf-social-club-scripting"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_04_04_at_8_34_09_AM_fd3e5f3c3e/Screenshot_2026_04_04_at_8_34_09_AM_fd3e5f3c3e.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Handicap mogged by your own sponsor is WILD @manorsgolf</title>
@@ -684,13 +673,13 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>The Best Stat to Predict Who Will Win the Masters</title>
-    <link>https://skratch.golf/news/news/masters-best-stat-to-predict-the-winner-augusta-national</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/masters-best-stat-to-predict-the-winner-augusta-national</guid>
-    <pubDate>Tue, 31 Mar 2026 19:30:00 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;If you&#x27;re into trends, there&#x27;s a high chance that only 11 players can win the Masters this year.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-best-stat-to-predict-the-winner-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/rory_mcilroy_2025_masters_win_Getty_Images_2210134696_7c1ad1d6a9/rory_mcilroy_2025_masters_win_Getty_Images_2210134696_7c1ad1d6a9.jpg"/>
+    <title>All the Limited Edition Staff Bags &amp; Gear Ahead of the 2026 Masters</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/masters-staff-bags-golf-spring-release</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/masters-staff-bags-golf-spring-release</guid>
+    <pubDate>Tue, 31 Mar 2026 18:32:16 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;For the first men&#x27;s major of the year, most big equipment manufacturers pull out all the stops to celebrate the return of spring and the Masters.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/masters-staff-bags-golf-spring-release"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Masters_gear_2026_10d6da581f/Masters_gear_2026_10d6da581f.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -702,6 +691,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;The roots of the Masters Champions Dinner go back to Ben Hogan in 1952.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/masters-first-champions-dinner-1952-ben-hogan-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_83123138_e19764e93f/Getty_Images_83123138_e19764e93f.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Prices at the Masters Concessions are Unbeatable—Here&#x27;s How We&#x27;d Spend $20</title>
+    <link>https://skratch.golf/news/pro-golf/masters-concessions-prices-augusta-national-golf-club</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/masters-concessions-prices-augusta-national-golf-club</guid>
+    <pubDate>Tue, 08 Apr 2025 18:27:22 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;For less than $80, you could order one of everything off the Masters concessions menu.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/masters-concessions-prices-augusta-national-golf-club"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2147597821_b4ec5c17de/Getty_Images_2147597821_b4ec5c17de.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
