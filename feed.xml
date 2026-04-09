@@ -9,8 +9,53 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 09 Apr 2026 22:02:35 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 09 Apr 2026 23:05:43 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>LIVE IN AUGUSTA: Rory Flying, Bryson and Rahm Struggle on Day 1</title>
+    <link>https://www.youtube.com/watch?v=vsbDrGus6_0</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=vsbDrGus6_0</guid>
+    <pubDate>Thu, 09 Apr 2026 22:50:40 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;We&#x27;re LIVE in Augusta at the Wheels Up Clubhouse chatting through the opening round. Rory picks back up where he left off last year. Bryson &amp; Rahm struggle. Scottie, Reed, Xander &amp; more contending. Plus: Dan gets question mogged at Rory’s Press Conference, Ben rates Day 1 fits &amp; much more.
+
+Thank You to Our Sponsors!
+
+Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
+
+Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaro&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=vsbDrGus6_0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/vsbDrGus6_0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/vsbDrGus6_0" type="text/html" medium="video"/>
+    <yt:videoId>vsbDrGus6_0</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Great first round, Sam. 🤜🤛</title>
+    <link>https://www.youtube.com/shorts/P8AdkEw2dg8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/P8AdkEw2dg8</guid>
+    <pubDate>Thu, 09 Apr 2026 22:22:01 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/P8AdkEw2dg8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/P8AdkEw2dg8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/P8AdkEw2dg8" type="text/html" medium="video"/>
+    <yt:videoId>P8AdkEw2dg8</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Masters 2026: The Best Golf Shoes Spotted at Augusta So Far</title>
+    <link>https://skratch.golf/style/mens-style/best-golf-shoes-masters-footjoy</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/best-golf-shoes-masters-footjoy</guid>
+    <pubDate>Thu, 09 Apr 2026 21:24:07 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;A sea of white and green, plus one pair that actually made us look twice.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/best-golf-shoes-masters-footjoy"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Augusta_Cover_footwear_435cae3b60/Augusta_Cover_footwear_435cae3b60.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>It&#x27;s Like Rory McIlroy Never Even Left Augusta National</title>
     <link>https://skratch.golf/news/news/masters-2026-rory-mcilroy-first-round-score-augusta-national-67</link>
@@ -528,17 +573,6 @@ Subscrib&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/lfRF4xT0OT
     <category>video</category>
   </item>
   <item>
-    <title>Augusta National’s Secret Ingredient Has New Jersey Roots</title>
-    <link>https://skratch.golf/news/news/rutgers-university-richard-hurley-augusta-grass</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/rutgers-university-richard-hurley-augusta-grass</guid>
-    <pubDate>Mon, 06 Apr 2026 15:16:27 +0000</pubDate>
-    <dc:creator>Jim Gorant</dc:creator>
-    <description>&lt;p&gt;How a Rutgers program and one longtime New Jersey agronomist, Richard Hurley, helped define Augusta National Golf Club’s playing surfaces.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rutgers-university-richard-hurley-augusta-grass"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/divot_masters_2016_Getty_Images_1133652227_ab4008f51e/divot_masters_2016_Getty_Images_1133652227_ab4008f51e.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Jim Nantz shares the origin story behind &quot;Hello Friends&quot;</title>
     <link>https://www.youtube.com/shorts/3rcitSoHAUQ</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/3rcitSoHAUQ</guid>
@@ -647,38 +681,6 @@ CEO Harry Arnett joined this special edition of Course Café presented by @amazo
     <yt:videoId>n-fgT-UsG0Q</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>We spent HOW MUCH on our New Zealand golf trip?! 💰 | Working Holiday</title>
-    <link>https://www.youtube.com/watch?v=RNVPh6xaf0M</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=RNVPh6xaf0M</guid>
-    <pubDate>Sat, 04 Apr 2026 17:09:18 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The Working Holiday boys Mac, Pete and Luke returned to their old stomping grounds for a bucket list trip to the North and South islands of New Zealand. From golf and accommodations to airfare and food, here&#x27;s how much their trip actually cost, and how to make it more budget-friendly.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=RNVPh6xaf0M"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/RNVPh6xaf0M/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/RNVPh6xaf0M" type="text/html" medium="video"/>
-    <yt:videoId>RNVPh6xaf0M</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>My Game STINKS! What Should I Practice With Limited Time?</title>
-    <link>https://www.youtube.com/watch?v=RMPsbyN_giU</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=RMPsbyN_giU</guid>
-    <pubDate>Fri, 03 Apr 2026 15:00:42 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Scott Fawcett joins the show to discuss everything inside the game of golf, and what to work on to get better with limited practice time.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=RMPsbyN_giU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/RMPsbyN_giU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/RMPsbyN_giU" type="text/html" medium="video"/>
-    <yt:videoId>RMPsbyN_giU</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
     <category>video</category>
   </item>
   <item>
