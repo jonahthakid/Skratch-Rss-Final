@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 09 Apr 2026 11:50:53 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 09 Apr 2026 13:12:53 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Mind your Manors, people! @manorsgolf</title>
+    <link>https://www.youtube.com/shorts/x9k1g_TZYJM</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/x9k1g_TZYJM</guid>
+    <pubDate>Thu, 09 Apr 2026 12:59:21 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/x9k1g_TZYJM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/x9k1g_TZYJM/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/x9k1g_TZYJM" type="text/html" medium="video"/>
+    <yt:videoId>x9k1g_TZYJM</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>A very, very substantial week due to his role.</title>
     <link>https://www.youtube.com/shorts/Wq89HPuygeE</link>
@@ -674,20 +688,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_04_04_at_8_34_09_AM_fd3e5f3c3e/Screenshot_2026_04_04_at_8_34_09_AM_fd3e5f3c3e.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Handicap mogged by your own sponsor is WILD @manorsgolf</title>
-    <link>https://www.youtube.com/shorts/m2iEE2-GfXY</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/m2iEE2-GfXY</guid>
-    <pubDate>Thu, 02 Apr 2026 17:56:39 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/m2iEE2-GfXY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/m2iEE2-GfXY/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/m2iEE2-GfXY" type="text/html" medium="video"/>
-    <yt:videoId>m2iEE2-GfXY</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
 </channel>
 </rss>
