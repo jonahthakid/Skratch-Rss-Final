@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 09 Apr 2026 17:55:27 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 09 Apr 2026 18:58:04 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Patrick Reed eagled both par 5s on the first nine to shoot a bogey-free 31. 👀</title>
@@ -33,6 +33,17 @@
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Well, you don&#x27;t see this every day—or ever.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-xander-schauffele-tee-shot-patron-merchandise-bag"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270585603_6da806f7fe/Getty_Images_2270585603_6da806f7fe.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Rose Zhang Relives Her Worst Moment at Augusta’s 15th Hole</title>
+    <link>https://skratch.golf/news/news/rose-zhang-anwa-15-hole-augusta-national-bad-shot-explained</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/rose-zhang-anwa-15-hole-augusta-national-bad-shot-explained</guid>
+    <pubDate>Thu, 09 Apr 2026 16:17:51 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;As the 90th Masters Tournament kicks off, the LPGA star takes a trip down memory lane to relive what she has identified as one of the worst shots of her life.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rose-zhang-anwa-15-hole-augusta-national-bad-shot-explained"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1478823387_f33349cf59/Getty_Images_1478823387_f33349cf59.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -374,6 +385,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
+    <title>How Ready Is Collin Morikawa&#x27;s Back for the 2026 Masters?</title>
+    <link>https://skratch.golf/news/news/collin-morikawa-back-injury-masters-update</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/collin-morikawa-back-injury-masters-update</guid>
+    <pubDate>Tue, 07 Apr 2026 18:15:32 +0000</pubDate>
+    <dc:creator>Will Schube</dc:creator>
+    <description>&lt;p&gt;The two-time major champion and 2026 AT&amp;amp;T Pebble Beach Pro-Am winner spoke candidly about how his back is recovering after two consecutive WDs.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/collin-morikawa-back-injury-masters-update"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/26_CC_1_2892_1_d701fd6a24/26_CC_1_2892_1_d701fd6a24.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Augusta Day 1 Style Notes Are Already Saying Something</title>
     <link>https://skratch.golf/style/mens-style/augusta-day-one-style-notes-are-already-saying-something</link>
     <guid isPermaLink="true">https://skratch.golf/style/mens-style/augusta-day-one-style-notes-are-already-saying-something</guid>
@@ -403,17 +425,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Rick Gehman</dc:creator>
     <description>&lt;p&gt;There&#x27;s a whole lot of value out there this year—here&#x27;s where to focus your attention.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/masters-2026-betting-best-bets-picks-to-win"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2245634583_16954b83ea/Getty_Images_2245634583_16954b83ea.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Masters 2026: Tee Times and Groupings for Thursday and Friday Rounds Are Here</title>
-    <link>https://skratch.golf/news/news/masters-tee-times-groups-first-second-rounds-augusta-national</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/masters-tee-times-groups-first-second-rounds-augusta-national</guid>
-    <pubDate>Tue, 07 Apr 2026 15:29:30 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;After the Honorary Starters Ceremony at 7:25 a.m. ET, John Keefer and Haotong Lee will have the privilege of kicking off the 90th edition of the year’s first major championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-tee-times-groups-first-second-rounds-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/26_MA_1_3321_475507c317/26_MA_1_3321_475507c317.jpeg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -526,17 +537,6 @@ Subscrib&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/lfRF4xT0OT
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Augusta National’s Secret Ingredient Has New Jersey Roots</title>
-    <link>https://skratch.golf/news/news/rutgers-university-richard-hurley-augusta-grass</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/rutgers-university-richard-hurley-augusta-grass</guid>
-    <pubDate>Mon, 06 Apr 2026 15:16:27 +0000</pubDate>
-    <dc:creator>Jim Gorant</dc:creator>
-    <description>&lt;p&gt;How a Rutgers program and one longtime New Jersey agronomist, Richard Hurley, helped define Augusta National Golf Club’s playing surfaces.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rutgers-university-richard-hurley-augusta-grass"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/divot_masters_2016_Getty_Images_1133652227_ab4008f51e/divot_masters_2016_Getty_Images_1133652227_ab4008f51e.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Jim Nantz shares the origin story behind &quot;Hello Friends&quot;</title>
