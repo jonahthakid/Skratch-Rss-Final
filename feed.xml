@@ -1,3 +1,4 @@
+<!-- Warning: Error fetching Skratch: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwtGQ3sgidNlQGbIUBPP3xw -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -9,7 +10,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 09 Apr 2026 02:27:59 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 09 Apr 2026 04:57:02 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>A very, very substantial week due to his role.</title>
@@ -131,24 +132,6 @@ Check out Manors Golf, the official apparel sponsor of the Dan on G&lt;/p&gt;&lt
     <category>article</category>
   </item>
   <item>
-    <title>Amazon items to upgrade your golf experience</title>
-    <link>https://www.youtube.com/shorts/OOQU1Pi8JEs</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/OOQU1Pi8JEs</guid>
-    <pubDate>Wed, 08 Apr 2026 16:08:58 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;If you’re looking for ways to upgrade your golf experience this spring, @amazon has you covered. Ryan Barath shares some of his favorite items for the course.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to expl&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/OOQU1Pi8JEs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/OOQU1Pi8JEs/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/OOQU1Pi8JEs" type="text/html" medium="video"/>
-    <yt:videoId>OOQU1Pi8JEs</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Augusta National Holding Strong On Support For Rollback</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/masters-ball-rollback-augusta-chairman-fred-ridley</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/masters-ball-rollback-augusta-chairman-fred-ridley</guid>
@@ -182,20 +165,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>How do you master style on the green? Take notes from our Addie Parker and swing for a matching set</title>
-    <link>https://www.youtube.com/shorts/VzJVSC2Sw3k</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/VzJVSC2Sw3k</guid>
-    <pubDate>Wed, 08 Apr 2026 14:37:23 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/VzJVSC2Sw3k"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/VzJVSC2Sw3k/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/VzJVSC2Sw3k" type="text/html" medium="video"/>
-    <yt:videoId>VzJVSC2Sw3k</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>&#x27;Under the Tree&#x27;: A Masters Meeting Place Unlike Any Other</title>
     <link>https://skratch.golf/news/golf-culture/the-big-oak-tree-augusta-national-golf-club-meeting-place-masters</link>
     <guid isPermaLink="true">https://skratch.golf/news/golf-culture/the-big-oak-tree-augusta-national-golf-club-meeting-place-masters</guid>
@@ -216,20 +185,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2208789690_2bbb7b6157/Getty_Images_2208789690_2bbb7b6157.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Happy #NationalBeerDay, golf fans… Just try not to hold up play.</title>
-    <link>https://www.youtube.com/shorts/U2abH5YfhdA</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/U2abH5YfhdA</guid>
-    <pubDate>Tue, 07 Apr 2026 20:33:28 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/U2abH5YfhdA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/U2abH5YfhdA/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/U2abH5YfhdA" type="text/html" medium="video"/>
-    <yt:videoId>U2abH5YfhdA</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>What’s your favorite?</title>
@@ -315,20 +270,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>Rors all day, every day. This is your week, described by the defending #Masters champion.</title>
-    <link>https://www.youtube.com/shorts/kYTuqx6VYTA</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/kYTuqx6VYTA</guid>
-    <pubDate>Tue, 07 Apr 2026 13:37:57 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/kYTuqx6VYTA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/kYTuqx6VYTA/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/kYTuqx6VYTA" type="text/html" medium="video"/>
-    <yt:videoId>kYTuqx6VYTA</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Dan breaks down some of The Masters contenders.</title>
     <link>https://www.youtube.com/shorts/w7KoVnWzioc</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/w7KoVnWzioc</guid>
@@ -388,26 +329,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>Spring layers to elevate your golf style this season</title>
-    <link>https://www.youtube.com/shorts/lfRF4xT0OTQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/lfRF4xT0OTQ</guid>
-    <pubDate>Mon, 06 Apr 2026 18:31:09 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The sun will lie to you this time of year. Looks warm, still plays cool. Keep a layer handy and keep the fit simple and enjoy the walk.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscrib&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/lfRF4xT0OTQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/lfRF4xT0OTQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/lfRF4xT0OTQ" type="text/html" medium="video"/>
-    <yt:videoId>lfRF4xT0OTQ</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>“He’s not a billionaire yet, but it&#x27;s coming very soon.&quot;</title>
     <link>https://www.youtube.com/shorts/_scrG0-Z2qg</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/_scrG0-Z2qg</guid>
@@ -458,59 +379,6 @@ Subscrib&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/lfRF4xT0OT
     <category>article</category>
   </item>
   <item>
-    <title>Jim Nantz shares the origin story behind &quot;Hello Friends&quot;</title>
-    <link>https://www.youtube.com/shorts/3rcitSoHAUQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/3rcitSoHAUQ</guid>
-    <pubDate>Mon, 06 Apr 2026 14:59:19 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
-
-Check out our website: https://skratch.golf/
-Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/3rcitSoHAUQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/3rcitSoHAUQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/3rcitSoHAUQ" type="text/html" medium="video"/>
-    <yt:videoId>3rcitSoHAUQ</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Jim Nantz on &quot;Hello Friends,&quot; calling the Masters and an all-time Arnold Palmer story</title>
-    <link>https://www.youtube.com/watch?v=ss4uwGftlVI</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=ss4uwGftlVI</guid>
-    <pubDate>Mon, 06 Apr 2026 14:43:28 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;In this special Masters edition of the Vanity Index Podcast, legendary sports broadcaster Jim Nantz joins to talk all things Augusta. He shares the touching origin story of his &quot;Hello Friends&quot; welcome, what it was like to call Tiger&#x27;s 2019 comeback and Rory&#x27;s 2025 Grand Slam moment, getting emotional in the booth, and an epic dinner with Arnold Palmer and the Queen of England.
-
-Catch the Vanity Index Podcast on Golf Channel every Wednesday at 10am ET, or listen anytime on Spotify and Apple.
-
-The&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ss4uwGftlVI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ss4uwGftlVI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ss4uwGftlVI" type="text/html" medium="video"/>
-    <yt:videoId>ss4uwGftlVI</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>HAPPY MASTERS WEEK! 🌺</title>
-    <link>https://www.youtube.com/shorts/FxzsurRnODA</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/FxzsurRnODA</guid>
-    <pubDate>Mon, 06 Apr 2026 12:47:03 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/FxzsurRnODA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/FxzsurRnODA/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/FxzsurRnODA" type="text/html" medium="video"/>
-    <yt:videoId>FxzsurRnODA</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Can Anyone Catch J.J. Spaun? | Valero Texas Open LIVE Watch Along</title>
     <link>https://www.youtube.com/watch?v=Xok_wgDJ3Cc</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=Xok_wgDJ3Cc</guid>
@@ -536,50 +404,6 @@ The&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ss4uwGftlVI"&g
     <category>article</category>
   </item>
   <item>
-    <title>Exploring the evolution of Municipal Co</title>
-    <link>https://www.youtube.com/shorts/qklSRYeiH0s</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/qklSRYeiH0s</guid>
-    <pubDate>Sun, 05 Apr 2026 19:31:07 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;A brand built on community and connection, ​⁠Municipal’s deep understanding of their consumer has helped them become a leader in sports utility. 
-
-CEO Harry Arnett joined this special edition of Course Café presented by @amazon to discuss their evolution and more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/qklSRYeiH0s"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/qklSRYeiH0s/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/qklSRYeiH0s" type="text/html" medium="video"/>
-    <yt:videoId>qklSRYeiH0s</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Exploring the Evolution of Municipal with CEO Harry Arnett | Course Café with Raymond Williams</title>
-    <link>https://www.youtube.com/watch?v=Q3uRCKF55uw</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=Q3uRCKF55uw</guid>
-    <pubDate>Sun, 05 Apr 2026 18:57:12 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;In this episode of Course Café presented by @amazon, Raymond Williams sits down with Municipal CEO Harry Arnett to unpack what it really takes to build a brand that resonates in today’s game, from the early days of limitless ideas to the discipline required to grow with clarity and intention. The conversation explores the evolution of Municipal, the challenges of designing performance driven footwear like the Sportcross ATG, and how product, identity, and innovation come together to shape a mode&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Q3uRCKF55uw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/Q3uRCKF55uw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/Q3uRCKF55uw" type="text/html" medium="video"/>
-    <yt:videoId>Q3uRCKF55uw</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Skin essentials from Amazon to keep you golf ready</title>
-    <link>https://www.youtube.com/shorts/n-fgT-UsG0Q</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/n-fgT-UsG0Q</guid>
-    <pubDate>Sun, 05 Apr 2026 16:53:00 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Look good, feel good starts with your skin! Addie Parker shares her go to items from @amazon to keep her skin fresh and protected on the golf course.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/n-fgT-UsG0Q"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/n-fgT-UsG0Q/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/n-fgT-UsG0Q" type="text/html" medium="video"/>
-    <yt:videoId>n-fgT-UsG0Q</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>20 Years Ago They Called Him Crazy, then He Won the Masters</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/phil-mickelson-masters-win-lookback-two-drivers-gear</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/phil-mickelson-masters-win-lookback-two-drivers-gear</guid>
@@ -589,66 +413,6 @@ CEO Harry Arnett joined this special edition of Course Café presented by @amazo
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266876693_5cd08375ae/Getty_Images_2266876693_5cd08375ae.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>We spent HOW MUCH on our New Zealand golf trip?! 💰 | Working Holiday</title>
-    <link>https://www.youtube.com/watch?v=RNVPh6xaf0M</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=RNVPh6xaf0M</guid>
-    <pubDate>Sat, 04 Apr 2026 17:09:18 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The Working Holiday boys Mac, Pete and Luke returned to their old stomping grounds for a bucket list trip to the North and South islands of New Zealand. From golf and accommodations to airfare and food, here&#x27;s how much their trip actually cost, and how to make it more budget-friendly.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=RNVPh6xaf0M"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/RNVPh6xaf0M/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/RNVPh6xaf0M" type="text/html" medium="video"/>
-    <yt:videoId>RNVPh6xaf0M</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Gear essentials from Amazon you NEED for your next golf trip</title>
-    <link>https://www.youtube.com/shorts/B-ELgNdEA5k</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/B-ELgNdEA5k</guid>
-    <pubDate>Sat, 04 Apr 2026 15:11:21 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The last thing anyone wants on a golf trip is a gear emergency. Ryan Barath shares a few of his favorite essentials from @amazon to pack on your next trip to make sure you have everything you need to play your best.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/B-ELgNdEA5k"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/B-ELgNdEA5k/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/B-ELgNdEA5k" type="text/html" medium="video"/>
-    <yt:videoId>B-ELgNdEA5k</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Building a brand with Eastside Golf</title>
-    <link>https://www.youtube.com/shorts/btgU8JKEVag</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/btgU8JKEVag</guid>
-    <pubDate>Sat, 04 Apr 2026 00:51:04 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Building a brand based on authenticity and inclusion was one of the keys for @eastsidegolf founders Olajuwon Ajanku and Earl Coooer. They sat down with Raymond Williams in this episode of Course Café presented by @amazon to discuss pressure that comes with growth, connecting with people in everyday life and how accessibility is shaping the future of the game.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/btgU8JKEVag"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/btgU8JKEVag/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/btgU8JKEVag" type="text/html" medium="video"/>
-    <yt:videoId>btgU8JKEVag</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Building a brand with Eastside Golf | Course Café with Raymond Williams</title>
-    <link>https://www.youtube.com/watch?v=GZ8ipHDp2_M</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=GZ8ipHDp2_M</guid>
-    <pubDate>Sat, 04 Apr 2026 00:42:13 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;In this episode of Course Café presented by @amazon, Raymond Williams sits down with Olajuwon Ajanaku and Earl Cooper, the founders of Eastside Golf, for a conversation that goes far beyond product, diving into the emotional weight of building a brand, the pressure that comes with growth, and the realities people do not see from the outside, from early sacrifices and uncertainty to moments where it became clear this was bigger than just them, all while exploring how accessibility is shaping the &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=GZ8ipHDp2_M"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/GZ8ipHDp2_M/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/GZ8ipHDp2_M" type="text/html" medium="video"/>
-    <yt:videoId>GZ8ipHDp2_M</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>My Game STINKS! What Should I Practice With Limited Time?</title>
@@ -688,6 +452,64 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Inside a Tour Caddie&#x27;s Augusta Yardage Book</title>
+    <link>https://www.youtube.com/watch?v=pMKnu1hGOwg</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=pMKnu1hGOwg</guid>
+    <pubDate>Thu, 02 Apr 2026 14:25:59 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Sunjgae Im&#x27;s caddie, and friend of the show, Willy Wilcox joins the show to go through hole-by-hole in his Augusta National yardage book, ahead of The Masters Tournament.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=pMKnu1hGOwg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/pMKnu1hGOwg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/pMKnu1hGOwg" type="text/html" medium="video"/>
+    <yt:videoId>pMKnu1hGOwg</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Ben Hogan and the First Masters Champions Dinner</title>
+    <link>https://skratch.golf/news/pro-golf/masters-first-champions-dinner-1952-ben-hogan-augusta-national</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/masters-first-champions-dinner-1952-ben-hogan-augusta-national</guid>
+    <pubDate>Thu, 19 Mar 2026 19:43:44 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The roots of the Masters Champions Dinner go back to Ben Hogan in 1952.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/masters-first-champions-dinner-1952-ben-hogan-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_83123138_e19764e93f/Getty_Images_83123138_e19764e93f.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Prices at the Masters Concessions are Unbeatable—Here&#x27;s How We&#x27;d Spend $20</title>
+    <link>https://skratch.golf/news/pro-golf/masters-concessions-prices-augusta-national-golf-club</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/masters-concessions-prices-augusta-national-golf-club</guid>
+    <pubDate>Tue, 08 Apr 2025 18:27:22 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;For less than $80, you could order one of everything off the Masters concessions menu.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/masters-concessions-prices-augusta-national-golf-club"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2147597821_b4ec5c17de/Getty_Images_2147597821_b4ec5c17de.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>An Insider&#x27;s Guide to Augusta</title>
+    <link>https://skratch.golf/news/golf-culture/insider-guide-to-augusta-georgia-masters-week</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/insider-guide-to-augusta-georgia-masters-week</guid>
+    <pubDate>Thu, 03 Apr 2025 00:53:38 +0000</pubDate>
+    <dc:creator>Ian Gilley</dc:creator>
+    <description>&lt;p&gt;For first timers and veterans alike, here&#x27;s how to make the most of your trip on both sides of Washington Road.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/insider-guide-to-augusta-georgia-masters-week"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_731614015_7a48583ee3/Getty_Images_731614015_7a48583ee3.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The Best Masters Par 3 Moments of All Time</title>
+    <link>https://skratch.golf/news/pro-golf/masters-best-moments-par-3-contest-all-time-augusta-national</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/masters-best-moments-par-3-contest-all-time-augusta-national</guid>
+    <pubDate>Wed, 02 Apr 2025 18:02:22 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Scroll through some of our favorite moments from recent years of the Masters Par 3 Contest.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/masters-best-moments-par-3-contest-all-time-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_519439828_b0c072274a/Getty_Images_519439828_b0c072274a.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
 </channel>
 </rss>
