@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 10 Apr 2026 14:42:49 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 10 Apr 2026 15:44:30 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>This Iconic Sneaker Just Made the Jump to Golf</title>
+    <link>https://skratch.golf/style/mens-style/onitsuka-tiger-sneaker-golf-ready</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/onitsuka-tiger-sneaker-golf-ready</guid>
+    <pubDate>Fri, 10 Apr 2026 14:57:49 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;The bridge between heritage running and modern golf style just got spikes&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/onitsuka-tiger-sneaker-golf-ready"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Tiger_Cover_0bac5f938d/Tiger_Cover_0bac5f938d.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Me if I ever played Augusta National… 🤣</title>
     <link>https://www.youtube.com/shorts/YLlq-QJ7_PM</link>
@@ -182,12 +193,12 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>More Than 75 Years Later, Bobby Jones&#x27; Gameplan for Watching The Masters Still Hits</title>
+    <title>More Than 75 Years Later, Bobby Jones&#x27; Gameplan for Watching The Masters Still Applies</title>
     <link>https://skratch.golf/news/news/bobby-jones-augusta-spectator-guide-revisited</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/bobby-jones-augusta-spectator-guide-revisited</guid>
     <pubDate>Thu, 09 Apr 2026 16:01:15 +0000</pubDate>
     <dc:creator>Chad Mumm</dc:creator>
-    <description>&lt;p&gt;We followed the advice of Augusta&#x27;s founder in hopes of discovering a new way to watch The Masters. Turns out the guy that built the place has some good ideas.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/bobby-jones-augusta-spectator-guide-revisited"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;We followed the advice of Augusta&#x27;s founder in hopes of discovering the best way to watch The Masters in person. Turns out the guy that built the place has some good ideas.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/bobby-jones-augusta-spectator-guide-revisited"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/26_LW_1_0189_fea274e6c1/26_LW_1_0189_fea274e6c1.jpeg"/>
     <category>Skratch Articles</category>
     <category>article</category>
@@ -375,17 +386,6 @@ Check out Manors Golf, the official apparel sponsor of the Dan on G&lt;/p&gt;&lt
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;We went inside the Titleist Tour Truck to get the inside scoop on some of the changes being made by Titleist staffers this week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/titleist-masters-tour-truck-tour-drivers"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Titleist_Drivers_Tour_truck_G_Ts_2026_cbbbbb422d/Titleist_Drivers_Tour_truck_G_Ts_2026_cbbbbb422d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Bryson DeChambeau&#x27;s Caddie for the Masters Par 3 Contest? Kevin Hart</title>
-    <link>https://skratch.golf/news/news/masters-par-3-contest-bryson-dechambeau-caddie-kevin-hart</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/masters-par-3-contest-bryson-dechambeau-caddie-kevin-hart</guid>
-    <pubDate>Wed, 08 Apr 2026 18:18:56 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;We didn&#x27;t expect to see Kevin Hart in an Augusta National caddie jumper this week, but here we are.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-par-3-contest-bryson-dechambeau-caddie-kevin-hart"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270442065_0093baa46b/Getty_Images_2270442065_0093baa46b.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
