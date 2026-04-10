@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 10 Apr 2026 22:00:57 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 10 Apr 2026 23:02:17 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Fred gets it. 🤣</title>
@@ -116,6 +116,17 @@
     <dc:creator>Raymond Williams</dc:creator>
     <description>&lt;p&gt;A new chapter for an old logo, written on the biggest stage&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/nike-shield-returns-to-augusta-masters-week-style"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Nike_Shield_Cover_Augusta_1b5b07416f/Nike_Shield_Cover_Augusta_1b5b07416f.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The Top Putters After Round Two at the Masters</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/top-putters-round-two-masters-leaders</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/top-putters-round-two-masters-leaders</guid>
+    <pubDate>Fri, 10 Apr 2026 15:53:06 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;With the leaderboard rounding into shape heading into the weekend, we take a look at the putter trends leading the charge.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/top-putters-round-two-masters-leaders"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270588753_ba1b4e2e85/Getty_Images_2270588753_ba1b4e2e85.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -670,24 +681,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/3rcitSoHAUQ"&gt;
     <media:thumbnail url="https://img.youtube.com/vi/3rcitSoHAUQ/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/3rcitSoHAUQ" type="text/html" medium="video"/>
     <yt:videoId>3rcitSoHAUQ</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Jim Nantz on &quot;Hello Friends,&quot; calling the Masters and an all-time Arnold Palmer story</title>
-    <link>https://www.youtube.com/watch?v=ss4uwGftlVI</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=ss4uwGftlVI</guid>
-    <pubDate>Mon, 06 Apr 2026 14:43:28 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;In this special Masters edition of the Vanity Index Podcast, legendary sports broadcaster Jim Nantz joins to talk all things Augusta. He shares the touching origin story of his &quot;Hello Friends&quot; welcome, what it was like to call Tiger&#x27;s 2019 comeback and Rory&#x27;s 2025 Grand Slam moment, getting emotional in the booth, and an epic dinner with Arnold Palmer and the Queen of England.
-
-Catch the Vanity Index Podcast on Golf Channel every Wednesday at 10am ET, or listen anytime on Spotify and Apple.
-
-The&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ss4uwGftlVI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ss4uwGftlVI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ss4uwGftlVI" type="text/html" medium="video"/>
-    <yt:videoId>ss4uwGftlVI</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
