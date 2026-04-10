@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 10 Apr 2026 12:03:58 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 10 Apr 2026 13:53:17 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Me if I ever played Augusta National… 🤣</title>
+    <link>https://www.youtube.com/shorts/YLlq-QJ7_PM</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/YLlq-QJ7_PM</guid>
+    <pubDate>Fri, 10 Apr 2026 13:45:09 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/YLlq-QJ7_PM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/YLlq-QJ7_PM/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/YLlq-QJ7_PM" type="text/html" medium="video"/>
+    <yt:videoId>YLlq-QJ7_PM</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Let’s get it spicy this weekend.</title>
     <link>https://www.youtube.com/shorts/Y_ZMfwACG58</link>
@@ -128,17 +142,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;There&#x27;s plenty of golf left, but freed-up Rory looks like a problem.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-2026-rory-mcilroy-first-round-score-augusta-national-67"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270588753_ba1b4e2e85/Getty_Images_2270588753_ba1b4e2e85.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Why Titleist Wedges Dominate Usage At The Masters</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/titleist-wedges-vokey-masters-26-sm11-spin-grinds</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/titleist-wedges-vokey-masters-26-sm11-spin-grinds</guid>
-    <pubDate>Thu, 09 Apr 2026 18:16:08 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Thanks to the huge selection of grind options and sole shapes, Titleist is once again the Number 1 wedge of choice for players at The Masters.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/titleist-wedges-vokey-masters-26-sm11-spin-grinds"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/leading_edge_vokey_64_t_grind_d55dea4ad9/leading_edge_vokey_64_t_grind_d55dea4ad9.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -363,6 +366,17 @@ Check out Manors Golf, the official apparel sponsor of the Dan on G&lt;/p&gt;&lt
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>An Inside Scoop On Gear From Inside The Titleist Tour Truck</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/titleist-masters-tour-truck-tour-drivers</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/titleist-masters-tour-truck-tour-drivers</guid>
+    <pubDate>Wed, 08 Apr 2026 19:02:46 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;We went inside the Titleist Tour Truck to get the inside scoop on some of the changes being made by Titleist staffers this week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/titleist-masters-tour-truck-tour-drivers"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Titleist_Drivers_Tour_truck_G_Ts_2026_cbbbbb422d/Titleist_Drivers_Tour_truck_G_Ts_2026_cbbbbb422d.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Bryson DeChambeau&#x27;s Caddie for the Masters Par 3 Contest? Kevin Hart</title>
@@ -654,20 +668,6 @@ CEO Harry Arnett joined this special edition of Course Café presented by @amazo
     <media:thumbnail url="https://img.youtube.com/vi/qklSRYeiH0s/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/qklSRYeiH0s" type="text/html" medium="video"/>
     <yt:videoId>qklSRYeiH0s</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Exploring the Evolution of Municipal with CEO Harry Arnett | Course Café with Raymond Williams</title>
-    <link>https://www.youtube.com/watch?v=Q3uRCKF55uw</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=Q3uRCKF55uw</guid>
-    <pubDate>Sun, 05 Apr 2026 18:57:12 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;In this episode of Course Café presented by @amazon, Raymond Williams sits down with Municipal CEO Harry Arnett to unpack what it really takes to build a brand that resonates in today’s game, from the early days of limitless ideas to the discipline required to grow with clarity and intention. The conversation explores the evolution of Municipal, the challenges of designing performance driven footwear like the Sportcross ATG, and how product, identity, and innovation come together to shape a mode&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Q3uRCKF55uw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/Q3uRCKF55uw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/Q3uRCKF55uw" type="text/html" medium="video"/>
-    <yt:videoId>Q3uRCKF55uw</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
