@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 10 Apr 2026 16:43:30 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 10 Apr 2026 17:42:38 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The Nike Shield Returns to Augusta</title>
+    <link>https://skratch.golf/style/mens-style/nike-shield-returns-to-augusta-masters-week-style</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/nike-shield-returns-to-augusta-masters-week-style</guid>
+    <pubDate>Fri, 10 Apr 2026 17:02:02 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;A new chapter for an old logo, written on the biggest stage&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/nike-shield-returns-to-augusta-masters-week-style"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Nike_Shield_Cover_Augusta_1b5b07416f/Nike_Shield_Cover_Augusta_1b5b07416f.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Brooks Koepka Going Driver of the Deck at Augusta is *Chef&#x27;s Kiss*</title>
     <link>https://skratch.golf/news/news/masters-brooks-koepka-driver-of-the-deck-augusta-national</link>
@@ -680,17 +691,6 @@ CEO Harry Arnett joined this special edition of Course Café presented by @amazo
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;The roots of the Masters Champions Dinner go back to Ben Hogan in 1952.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/masters-first-champions-dinner-1952-ben-hogan-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_83123138_e19764e93f/Getty_Images_83123138_e19764e93f.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>In Defense of Pimento Cheese</title>
-    <link>https://skratch.golf/news/golf-culture/masters-augusta-national-concessions-pimento-cheese</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/masters-augusta-national-concessions-pimento-cheese</guid>
-    <pubDate>Fri, 11 Apr 2025 20:18:44 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;It&#x27;s delicious. I&#x27;m no longer accepting the slander I&#x27;ve seen. Don&#x27;t @ me.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/masters-augusta-national-concessions-pimento-cheese"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1137427628_a4f6be030f/Getty_Images_1137427628_a4f6be030f.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
