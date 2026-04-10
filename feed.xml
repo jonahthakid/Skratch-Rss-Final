@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 10 Apr 2026 19:39:24 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 10 Apr 2026 20:28:51 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The boys were DRESSING for the first round of The Masters.</title>
+    <link>https://www.youtube.com/shorts/er8CSRQrGkU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/er8CSRQrGkU</guid>
+    <pubDate>Fri, 10 Apr 2026 19:58:34 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/er8CSRQrGkU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/er8CSRQrGkU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/er8CSRQrGkU" type="text/html" medium="video"/>
+    <yt:videoId>er8CSRQrGkU</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Tyrrell Hatton Made History at the Masters on Friday</title>
+    <link>https://skratch.golf/news/news/masters-tyrrell-hatton-historic-stat-augusta-national</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/masters-tyrrell-hatton-historic-stat-augusta-national</guid>
+    <pubDate>Fri, 10 Apr 2026 19:22:11 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Tyrrell Hatton did something Friday at Augusta National that only two other players have done since 1997.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-tyrrell-hatton-historic-stat-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270752557_96a5f5f765/Getty_Images_2270752557_96a5f5f765.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>TITE Eyewear Takes on Golf’s Toughest Green-Reading Test</title>
     <link>https://skratch.golf/style/mens-style/tite-eyewear-green-reading-augusta-justin-thomas</link>
@@ -44,6 +69,17 @@
     <dc:creator>Brittany Romano</dc:creator>
     <description>&lt;p&gt;There’s more than one way to get to the Masters—and this year, more of our team experienced the journey with Wheels Up.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/augusta-travel-private-jet-wheels-up"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260410_wheels_up_2f90e110f1/20260410_wheels_up_2f90e110f1.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Augusta Is a Hidden Gem for Used Clubs</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/augusta-hidden-gem-used-golf-clubs</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/augusta-hidden-gem-used-golf-clubs</guid>
+    <pubDate>Fri, 10 Apr 2026 17:46:18 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;While some golfers search for Masters merch, we went hunting for something a little different around Augusta.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/augusta-hidden-gem-used-golf-clubs"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Used_club_shopping_augusta_b81b5b1951/Used_club_shopping_augusta_b81b5b1951.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -426,17 +462,6 @@ Check out Manors Golf, the official apparel sponsor of the Dan on G&lt;/p&gt;&lt
     <category>video</category>
   </item>
   <item>
-    <title>An Inside Scoop On Gear From Inside The Titleist Tour Truck</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/titleist-masters-tour-truck-tour-drivers</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/titleist-masters-tour-truck-tour-drivers</guid>
-    <pubDate>Wed, 08 Apr 2026 19:02:46 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;We went inside the Titleist Tour Truck to get the inside scoop on some of the changes being made by Titleist staffers this week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/titleist-masters-tour-truck-tour-drivers"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Titleist_Drivers_Tour_truck_G_Ts_2026_cbbbbb422d/Titleist_Drivers_Tour_truck_G_Ts_2026_cbbbbb422d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Amazon items to upgrade your golf experience</title>
     <link>https://www.youtube.com/shorts/OOQU1Pi8JEs</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/OOQU1Pi8JEs</guid>
@@ -604,20 +629,6 @@ Subscrib&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/lfRF4xT0OT
     <category>video</category>
   </item>
   <item>
-    <title>“He’s not a billionaire yet, but it&#x27;s coming very soon.&quot;</title>
-    <link>https://www.youtube.com/shorts/_scrG0-Z2qg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/_scrG0-Z2qg</guid>
-    <pubDate>Mon, 06 Apr 2026 18:24:06 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/_scrG0-Z2qg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/_scrG0-Z2qg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/_scrG0-Z2qg" type="text/html" medium="video"/>
-    <yt:videoId>_scrG0-Z2qg</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Jim Nantz shares the origin story behind &quot;Hello Friends&quot;</title>
     <link>https://www.youtube.com/shorts/3rcitSoHAUQ</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/3rcitSoHAUQ</guid>
@@ -669,17 +680,6 @@ The&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ss4uwGftlVI"&g
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Ben Hogan and the First Masters Champions Dinner</title>
-    <link>https://skratch.golf/news/pro-golf/masters-first-champions-dinner-1952-ben-hogan-augusta-national</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/masters-first-champions-dinner-1952-ben-hogan-augusta-national</guid>
-    <pubDate>Thu, 19 Mar 2026 19:43:44 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The roots of the Masters Champions Dinner go back to Ben Hogan in 1952.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/masters-first-champions-dinner-1952-ben-hogan-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_83123138_e19764e93f/Getty_Images_83123138_e19764e93f.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>In Defense of Pimento Cheese</title>
