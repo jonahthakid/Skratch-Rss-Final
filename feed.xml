@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 10 Apr 2026 15:44:30 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 10 Apr 2026 16:43:30 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Brooks Koepka Going Driver of the Deck at Augusta is *Chef&#x27;s Kiss*</title>
+    <link>https://skratch.golf/news/news/masters-brooks-koepka-driver-of-the-deck-augusta-national</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/masters-brooks-koepka-driver-of-the-deck-augusta-national</guid>
+    <pubDate>Fri, 10 Apr 2026 15:45:09 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Didn&#x27;t expect to see DOD from Brooks Koepka at Augusta National on Friday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-brooks-koepka-driver-of-the-deck-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270733737_7b62e79b95/Getty_Images_2270733737_7b62e79b95.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>This Iconic Sneaker Just Made the Jump to Golf</title>
     <link>https://skratch.golf/style/mens-style/onitsuka-tiger-sneaker-golf-ready</link>
@@ -193,7 +204,7 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>More Than 75 Years Later, Bobby Jones&#x27; Gameplan for Watching The Masters Still Applies</title>
+    <title>More Than 75 Years Later, Bobby Jones&#x27; On-Course Guide for Masters Patrons Is Still the Perfect Gameplan</title>
     <link>https://skratch.golf/news/news/bobby-jones-augusta-spectator-guide-revisited</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/bobby-jones-augusta-spectator-guide-revisited</guid>
     <pubDate>Thu, 09 Apr 2026 16:01:15 +0000</pubDate>
@@ -451,17 +462,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Chad Mumm</dc:creator>
     <description>&lt;p&gt;An ode to Augusta National&#x27;s most famous spot.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/the-big-oak-tree-augusta-national-golf-club-meeting-place-masters"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1311288399_28b1e4330b/Getty_Images_1311288399_28b1e4330b.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>How to Watch the Masters Par 3 Contest</title>
-    <link>https://skratch.golf/news/news/masters-par-3-contest-how-to-watch-tv-streaming</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/masters-par-3-contest-how-to-watch-tv-streaming</guid>
-    <pubDate>Wed, 08 Apr 2026 13:35:46 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;One of the best days in golf is here. Here&#x27;s how you can watch the Masters Par 3 Contest.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-par-3-contest-how-to-watch-tv-streaming"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2208789690_2bbb7b6157/Getty_Images_2208789690_2bbb7b6157.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
