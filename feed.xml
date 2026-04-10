@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 10 Apr 2026 21:03:44 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 10 Apr 2026 22:00:57 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Fred gets it. 🤣</title>
@@ -24,6 +24,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Fred Couples Describing Augusta National Sounds Like All of Us</title>
+    <link>https://skratch.golf/news/news/masters-fred-couples-idiot-to-not-like-augusta-national</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/masters-fred-couples-idiot-to-not-like-augusta-national</guid>
+    <pubDate>Fri, 10 Apr 2026 20:31:21 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;We agree, Fred Couples. We agree.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-fred-couples-idiot-to-not-like-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270714038_6c4de3cd01/Getty_Images_2270714038_6c4de3cd01.jpeg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>The boys were DRESSING for the first round of The Masters.</title>
@@ -494,13 +505,13 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Masters Style Preview: Day 2 Was All About Sweaters</title>
-    <link>https://skratch.golf/style/mens-style/augusta-practice-rounds-masters-style-sweaters-layering-knitwear</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/augusta-practice-rounds-masters-style-sweaters-layering-knitwear</guid>
-    <pubDate>Wed, 08 Apr 2026 15:21:03 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;The most timeless layer in golf showed up exactly when it should.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/augusta-practice-rounds-masters-style-sweaters-layering-knitwear"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Sweater_Augusta_Cover_5d6be82ea2/Sweater_Augusta_Cover_5d6be82ea2.png"/>
+    <title>Augusta National Holding Strong On Support For Rollback</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/masters-ball-rollback-augusta-chairman-fred-ridley</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/masters-ball-rollback-augusta-chairman-fred-ridley</guid>
+    <pubDate>Wed, 08 Apr 2026 16:07:06 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;During his Annual Press Conference, Augusta National Chairman Fred Ridley reconfirmed the club&#x27;s stance that distance has gone too far at the highest level.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/masters-ball-rollback-augusta-chairman-fred-ridley"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/186047_HQ_7_DLLUFZF_lt_99bef6e3e7/186047_HQ_7_DLLUFZF_lt_99bef6e3e7.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -680,17 +691,6 @@ The&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ss4uwGftlVI"&g
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>In Defense of Pimento Cheese</title>
-    <link>https://skratch.golf/news/golf-culture/masters-augusta-national-concessions-pimento-cheese</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/masters-augusta-national-concessions-pimento-cheese</guid>
-    <pubDate>Fri, 11 Apr 2025 20:18:44 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;It&#x27;s delicious. I&#x27;m no longer accepting the slander I&#x27;ve seen. Don&#x27;t @ me.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/masters-augusta-national-concessions-pimento-cheese"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1137427628_a4f6be030f/Getty_Images_1137427628_a4f6be030f.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
