@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 11 Apr 2026 18:42:26 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Apr 2026 19:31:03 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Phil Mickelson Has Some Strong Thoughts About Augusta’s Added Length</title>
+    <link>https://skratch.golf/news/news/masters-phil-mickelson-excitement-gone-augusta-national-back-nine-par-5s</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/masters-phil-mickelson-excitement-gone-augusta-national-back-nine-par-5s</guid>
+    <pubDate>Sat, 11 Apr 2026 18:18:22 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;According to the three-time Masters champ, changes to 13 and 15 aren’t doing much for him—or the second nine.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-phil-mickelson-excitement-gone-augusta-national-back-nine-par-5s"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2148549764_12e58fd1cd/Getty_Images_2148549764_12e58fd1cd.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Masters Prize Money Hits Record $22.5 Million in 2026. Here&#x27;s the Purse Breakdown.</title>
     <link>https://skratch.golf/news/pro-golf/masters-prize-money-payout-breakdown-augusta-national-purse</link>
@@ -530,17 +541,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Inside Pro Shop&#x27;s 2026 &#x27;After Hours&#x27; Party in Augusta</title>
-    <link>https://skratch.golf/news/golf-culture/pro-shop-after-hours-photos-recap-2026</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/pro-shop-after-hours-photos-recap-2026</guid>
-    <pubDate>Thu, 09 Apr 2026 13:58:16 +0000</pubDate>
-    <dc:creator>Skratch Staff</dc:creator>
-    <description>&lt;p&gt;On the eve of the Par 3 contest, Pro Shop and Amazon partnered up to turn Midtown Tavern into a patron&#x27;s paradise.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/pro-shop-after-hours-photos-recap-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/gmp_191_c2f11cf510/gmp_191_c2f11cf510.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Please don’t tell my boss. #TheMasters</title>
