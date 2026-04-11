@@ -9,8 +9,49 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 10 Apr 2026 23:58:20 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Apr 2026 02:33:24 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Rory McIlroy’s Masters Preparation Sounds Like the Dream</title>
+    <link>https://skratch.golf/news/news/masters-rory-mcilroy-preparation-day-trips-augusta-national</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/masters-rory-mcilroy-preparation-day-trips-augusta-national</guid>
+    <pubDate>Sat, 11 Apr 2026 01:18:12 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Every golfer in the world should be jealous of Rory McIlroy&#x27;s Masters preparation.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-rory-mcilroy-preparation-day-trips-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270225484_22d760fa23/Getty_Images_2270225484_22d760fa23.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Here’s why Vokey wedges are the No. 1 choice at Augusta this week</title>
+    <link>https://www.youtube.com/shorts/aZHTu_BNUvw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/aZHTu_BNUvw</guid>
+    <pubDate>Sat, 11 Apr 2026 00:38:55 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;@titleist has a staggering 114 Vokey wedges in play at Augusta National this week, but with their versatility in bounce options, it’s no surprise why. 
+
+Ryan Barath spoke to tour rep Aaron Dill about what he worked on with players.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/aZHTu_BNUvw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/aZHTu_BNUvw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/aZHTu_BNUvw" type="text/html" medium="video"/>
+    <yt:videoId>aZHTu_BNUvw</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>The guys were all positive, but we’re sad there won’t be a Low Amateur.</title>
+    <link>https://www.youtube.com/shorts/o7-cOMDaegE</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/o7-cOMDaegE</guid>
+    <pubDate>Sat, 11 Apr 2026 00:09:01 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/o7-cOMDaegE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/o7-cOMDaegE/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/o7-cOMDaegE" type="text/html" medium="video"/>
+    <yt:videoId>o7-cOMDaegE</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Does Alan know ball?</title>
     <link>https://www.youtube.com/shorts/SO3w_MpRmB0</link>
@@ -24,6 +65,17 @@
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Scottie, Wyndham, and Other Big Surprises Through 36 Holes at Augusta</title>
+    <link>https://skratch.golf/news/news/masters-biggest-surprises-scottie-scheffler-bryson-dechambeau-augusta</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/masters-biggest-surprises-scottie-scheffler-bryson-dechambeau-augusta</guid>
+    <pubDate>Fri, 10 Apr 2026 22:22:33 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;From Scottie Scheffler at even par to Wyndham Clark flashing, these are the biggest surprises through 36 holes at the Masters.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-biggest-surprises-scottie-scheffler-bryson-dechambeau-augusta"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270767403_3a21babee4/Getty_Images_2270767403_3a21babee4.jpeg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>For Golf’s Fiery Personalities, Augusta Cuts Both Ways</title>
@@ -498,17 +550,6 @@ Check out Manors Golf, the official apparel sponsor of the Dan on G&lt;/p&gt;&lt
     <category>video</category>
   </item>
   <item>
-    <title>Somehow, Rory McIlroy Feels Like the Forgotten Man at the Masters</title>
-    <link>https://skratch.golf/news/news/masters-rory-mcilroy-forgotten-man-augusta-national</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/masters-rory-mcilroy-forgotten-man-augusta-national</guid>
-    <pubDate>Wed, 08 Apr 2026 22:05:12 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;While most eyes are locked on other superstars, Rory McIlroy is unburdened, unleashed, and ready to take on Augusta National.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-rory-mcilroy-forgotten-man-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270391991_90f57a6f77/Getty_Images_2270391991_90f57a6f77.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Special rules for Harris? 👀</title>
     <link>https://www.youtube.com/shorts/FyL3HjgrL3s</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/FyL3HjgrL3s</guid>
@@ -622,61 +663,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:videoId>w7KoVnWzioc</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>They&#x27;re missing the most important part.</title>
-    <link>https://www.youtube.com/shorts/sglOT5whkbA</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/sglOT5whkbA</guid>
-    <pubDate>Tue, 07 Apr 2026 02:55:49 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/sglOT5whkbA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/sglOT5whkbA/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/sglOT5whkbA" type="text/html" medium="video"/>
-    <yt:videoId>sglOT5whkbA</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Spring layers to elevate your golf style this season</title>
-    <link>https://www.youtube.com/shorts/lfRF4xT0OTQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/lfRF4xT0OTQ</guid>
-    <pubDate>Mon, 06 Apr 2026 18:31:09 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The sun will lie to you this time of year. Looks warm, still plays cool. Keep a layer handy and keep the fit simple and enjoy the walk.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscrib&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/lfRF4xT0OTQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/lfRF4xT0OTQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/lfRF4xT0OTQ" type="text/html" medium="video"/>
-    <yt:videoId>lfRF4xT0OTQ</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Jim Nantz shares the origin story behind &quot;Hello Friends&quot;</title>
-    <link>https://www.youtube.com/shorts/3rcitSoHAUQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/3rcitSoHAUQ</guid>
-    <pubDate>Mon, 06 Apr 2026 14:59:19 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
-
-Check out our website: https://skratch.golf/
-Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/3rcitSoHAUQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/3rcitSoHAUQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/3rcitSoHAUQ" type="text/html" medium="video"/>
-    <yt:videoId>3rcitSoHAUQ</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
     <category>video</category>
   </item>
 </channel>
