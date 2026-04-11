@@ -1,3 +1,5 @@
+<!-- Warning: Error fetching Skratch: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwtGQ3sgidNlQGbIUBPP3xw -->
+<!-- Warning: Error fetching Dan On Golf Show: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -9,7 +11,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 11 Apr 2026 05:56:47 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Apr 2026 06:59:24 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Rory McIlroy’s Masters Preparation Sounds Like the Dream</title>
@@ -21,50 +23,6 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270225484_22d760fa23/Getty_Images_2270225484_22d760fa23.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Here’s why Vokey wedges are the No. 1 choice at Augusta this week</title>
-    <link>https://www.youtube.com/shorts/aZHTu_BNUvw</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/aZHTu_BNUvw</guid>
-    <pubDate>Sat, 11 Apr 2026 00:38:55 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;@titleist has a staggering 114 Vokey wedges in play at Augusta National this week, but with their versatility in bounce options, it’s no surprise why. 
-
-Ryan Barath spoke to tour rep Aaron Dill about what he worked on with players.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/aZHTu_BNUvw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/aZHTu_BNUvw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/aZHTu_BNUvw" type="text/html" medium="video"/>
-    <yt:videoId>aZHTu_BNUvw</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>The guys were all positive, but we’re sad there won’t be a Low Amateur.</title>
-    <link>https://www.youtube.com/shorts/o7-cOMDaegE</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/o7-cOMDaegE</guid>
-    <pubDate>Sat, 11 Apr 2026 00:09:01 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/o7-cOMDaegE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/o7-cOMDaegE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/o7-cOMDaegE" type="text/html" medium="video"/>
-    <yt:videoId>o7-cOMDaegE</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Does Alan know ball?</title>
-    <link>https://www.youtube.com/shorts/SO3w_MpRmB0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/SO3w_MpRmB0</guid>
-    <pubDate>Fri, 10 Apr 2026 23:17:34 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/SO3w_MpRmB0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/SO3w_MpRmB0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/SO3w_MpRmB0" type="text/html" medium="video"/>
-    <yt:videoId>SO3w_MpRmB0</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>Scottie, Wyndham, and Other Big Surprises Through 36 Holes at Augusta</title>
@@ -89,20 +47,6 @@ Ryan Barath spoke to tour rep Aaron Dill about what he worked on with players.&l
     <category>article</category>
   </item>
   <item>
-    <title>Fred gets it. 🤣</title>
-    <link>https://www.youtube.com/shorts/pHSVXkMiSUo</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/pHSVXkMiSUo</guid>
-    <pubDate>Fri, 10 Apr 2026 20:53:32 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/pHSVXkMiSUo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/pHSVXkMiSUo/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/pHSVXkMiSUo" type="text/html" medium="video"/>
-    <yt:videoId>pHSVXkMiSUo</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Fred Couples Describing Augusta National Sounds Like All of Us</title>
     <link>https://skratch.golf/news/news/masters-fred-couples-idiot-to-not-like-augusta-national</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/masters-fred-couples-idiot-to-not-like-augusta-national</guid>
@@ -112,20 +56,6 @@ Ryan Barath spoke to tour rep Aaron Dill about what he worked on with players.&l
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270714038_6c4de3cd01/Getty_Images_2270714038_6c4de3cd01.jpeg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>The boys were DRESSING for the first round of The Masters.</title>
-    <link>https://www.youtube.com/shorts/er8CSRQrGkU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/er8CSRQrGkU</guid>
-    <pubDate>Fri, 10 Apr 2026 19:58:34 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/er8CSRQrGkU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/er8CSRQrGkU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/er8CSRQrGkU" type="text/html" medium="video"/>
-    <yt:videoId>er8CSRQrGkU</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>Tyrrell Hatton Made History at the Masters on Friday</title>
@@ -148,20 +78,6 @@ Ryan Barath spoke to tour rep Aaron Dill about what he worked on with players.&l
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/TITE_Cover_9df15d8185/TITE_Cover_9df15d8185.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>This squirrel might be the only thing that can stop Rory now. 😭 #TheMasters</title>
-    <link>https://www.youtube.com/shorts/ae3dTZEWnlo</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ae3dTZEWnlo</guid>
-    <pubDate>Fri, 10 Apr 2026 19:04:55 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ae3dTZEWnlo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ae3dTZEWnlo/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ae3dTZEWnlo" type="text/html" medium="video"/>
-    <yt:videoId>ae3dTZEWnlo</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>All Roads Lead to Augusta. Some Just Fly Better.</title>
@@ -230,48 +146,6 @@ Ryan Barath spoke to tour rep Aaron Dill about what he worked on with players.&l
     <category>article</category>
   </item>
   <item>
-    <title>Me if I ever played Augusta National… 🤣</title>
-    <link>https://www.youtube.com/shorts/YLlq-QJ7_PM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/YLlq-QJ7_PM</guid>
-    <pubDate>Fri, 10 Apr 2026 13:45:09 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/YLlq-QJ7_PM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/YLlq-QJ7_PM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/YLlq-QJ7_PM" type="text/html" medium="video"/>
-    <yt:videoId>YLlq-QJ7_PM</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Let’s get it spicy this weekend.</title>
-    <link>https://www.youtube.com/shorts/Y_ZMfwACG58</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/Y_ZMfwACG58</guid>
-    <pubDate>Fri, 10 Apr 2026 03:42:40 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Y_ZMfwACG58"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/Y_ZMfwACG58/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/Y_ZMfwACG58" type="text/html" medium="video"/>
-    <yt:videoId>Y_ZMfwACG58</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>&quot;That&#x27;s on me, I wear it on the chest. I have to be better.&quot;</title>
-    <link>https://www.youtube.com/shorts/6PBq3lfpCTs</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/6PBq3lfpCTs</guid>
-    <pubDate>Fri, 10 Apr 2026 02:47:26 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/6PBq3lfpCTs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/6PBq3lfpCTs/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/6PBq3lfpCTs" type="text/html" medium="video"/>
-    <yt:videoId>6PBq3lfpCTs</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Adam Scott Just Teased Augusta’s Cleanest Shoe</title>
     <link>https://skratch.golf/style/mens-style/adam-scott-masters-teased-augustas-cleanest-golf-shoe</link>
     <guid isPermaLink="true">https://skratch.golf/style/mens-style/adam-scott-masters-teased-augustas-cleanest-golf-shoe</guid>
@@ -283,40 +157,6 @@ Ryan Barath spoke to tour rep Aaron Dill about what he worked on with players.&l
     <category>article</category>
   </item>
   <item>
-    <title>S2 E26: LIVE IN AUGUSTA: Rory Flying, Bryson and Rahm Struggle on Day 1</title>
-    <link>https://www.youtube.com/watch?v=vsbDrGus6_0</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=vsbDrGus6_0</guid>
-    <pubDate>Fri, 10 Apr 2026 00:20:17 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;We&#x27;re LIVE in Augusta at the Wheels Up Clubhouse chatting through the opening round. Rory picks back up where he left off last year. Bryson &amp; Rahm struggle. Scottie, Reed, Xander &amp; more contending. Plus: Dan gets question mogged at Rory’s Press Conference, Ben rates Day 1 fits &amp; much more.
-
-Thank You to Our Sponsors!
-
-Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
-
-Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaro&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=vsbDrGus6_0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/vsbDrGus6_0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/vsbDrGus6_0" type="text/html" medium="video"/>
-    <yt:videoId>vsbDrGus6_0</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Inside After Hours at Pro Shop Tavern presented by Amazon</title>
-    <link>https://www.youtube.com/shorts/YsoouHjqgWY</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/YsoouHjqgWY</guid>
-    <pubDate>Thu, 09 Apr 2026 23:59:08 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Another After Hours at Pro Shop Tavern presented by @amazon is in the books! Great vibes, great drinks, and even better company. See you next year, Augusta!&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/YsoouHjqgWY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/YsoouHjqgWY/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/YsoouHjqgWY" type="text/html" medium="video"/>
-    <yt:videoId>YsoouHjqgWY</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Cut Watch is On at the Masters</title>
     <link>https://skratch.golf/news/news/cut-watch-masters-bryson-dechambeau-robert-macintyre</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/cut-watch-masters-bryson-dechambeau-robert-macintyre</guid>
@@ -326,20 +166,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2269945764_bf654060f2/Getty_Images_2269945764_bf654060f2.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Great first round, Sam. 🤜🤛</title>
-    <link>https://www.youtube.com/shorts/P8AdkEw2dg8</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/P8AdkEw2dg8</guid>
-    <pubDate>Thu, 09 Apr 2026 22:22:01 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/P8AdkEw2dg8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/P8AdkEw2dg8/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/P8AdkEw2dg8" type="text/html" medium="video"/>
-    <yt:videoId>P8AdkEw2dg8</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Masters 2026: The Best Golf Shoes Spotted at Augusta So Far</title>
@@ -362,20 +188,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270588753_ba1b4e2e85/Getty_Images_2270588753_ba1b4e2e85.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Patrick Reed eagled both par 5s on the first nine to shoot a bogey-free 31. 👀</title>
-    <link>https://www.youtube.com/shorts/lK8cuX2ABgE</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/lK8cuX2ABgE</guid>
-    <pubDate>Thu, 09 Apr 2026 16:58:16 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/lK8cuX2ABgE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/lK8cuX2ABgE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/lK8cuX2ABgE" type="text/html" medium="video"/>
-    <yt:videoId>lK8cuX2ABgE</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Xander Schauffele Hit a Tee Shot into a Patron’s Merch Bag</title>
@@ -433,34 +245,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>How I think putting at Augusta National would feel like…</title>
-    <link>https://www.youtube.com/shorts/AdgK9s-x0zI</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/AdgK9s-x0zI</guid>
-    <pubDate>Thu, 09 Apr 2026 15:11:28 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/AdgK9s-x0zI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/AdgK9s-x0zI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/AdgK9s-x0zI" type="text/html" medium="video"/>
-    <yt:videoId>AdgK9s-x0zI</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Harris English’s Guide To Augusta National</title>
-    <link>https://www.youtube.com/watch?v=eqJ2j7P8O5w</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=eqJ2j7P8O5w</guid>
-    <pubDate>Thu, 09 Apr 2026 14:58:45 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Harris English joins the show for a deep dive into Augusta National before The Masters Tournament.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=eqJ2j7P8O5w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/eqJ2j7P8O5w/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/eqJ2j7P8O5w" type="text/html" medium="video"/>
-    <yt:videoId>eqJ2j7P8O5w</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Inside Pro Shop&#x27;s 2026 &#x27;After Hours&#x27; Party in Augusta</title>
     <link>https://skratch.golf/news/golf-culture/pro-shop-after-hours-photos-recap-2026</link>
     <guid isPermaLink="true">https://skratch.golf/news/golf-culture/pro-shop-after-hours-photos-recap-2026</guid>
@@ -472,198 +256,37 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>Please don’t tell my boss. #TheMasters</title>
-    <link>https://www.youtube.com/shorts/qjfEVXym-xI</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/qjfEVXym-xI</guid>
-    <pubDate>Thu, 09 Apr 2026 13:26:12 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/qjfEVXym-xI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/qjfEVXym-xI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/qjfEVXym-xI" type="text/html" medium="video"/>
-    <yt:videoId>qjfEVXym-xI</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
+    <title>How I Managed to Spend Less Than $200 at The Masters Golf Shop</title>
+    <link>https://skratch.golf/style/style/masters-week-gift-shop-best-things-to-buy</link>
+    <guid isPermaLink="true">https://skratch.golf/style/style/masters-week-gift-shop-best-things-to-buy</guid>
+    <pubDate>Fri, 11 Apr 2025 18:48:45 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;When you get in there, you black out. But here&#x27;s how to not max out your credit card (It&#x27;s mainly just hats.)&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/masters-week-gift-shop-best-things-to-buy"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_73775056_693c455549/Getty_Images_73775056_693c455549.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
-    <title>Mind your Manors, people! @manorsgolf</title>
-    <link>https://www.youtube.com/shorts/x9k1g_TZYJM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/x9k1g_TZYJM</guid>
-    <pubDate>Thu, 09 Apr 2026 12:59:21 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/x9k1g_TZYJM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/x9k1g_TZYJM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/x9k1g_TZYJM" type="text/html" medium="video"/>
-    <yt:videoId>x9k1g_TZYJM</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
+    <title>Prices at the Masters Concessions are Unbeatable—Here&#x27;s How We&#x27;d Spend $20</title>
+    <link>https://skratch.golf/news/pro-golf/masters-concessions-prices-augusta-national-golf-club</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/masters-concessions-prices-augusta-national-golf-club</guid>
+    <pubDate>Tue, 08 Apr 2025 18:27:22 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;For less than $80, you could order one of everything off the Masters concessions menu.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/masters-concessions-prices-augusta-national-golf-club"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2147597821_b4ec5c17de/Getty_Images_2147597821_b4ec5c17de.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
-    <title>A very, very substantial week due to his role.</title>
-    <link>https://www.youtube.com/shorts/Wq89HPuygeE</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/Wq89HPuygeE</guid>
-    <pubDate>Thu, 09 Apr 2026 00:18:04 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Wq89HPuygeE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/Wq89HPuygeE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/Wq89HPuygeE" type="text/html" medium="video"/>
-    <yt:videoId>Wq89HPuygeE</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>S2 E25: LIVE IN AUGUSTA - The Night Before The Masters Ft. Harris English</title>
-    <link>https://www.youtube.com/watch?v=ZhQ-EQNq6Vo</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=ZhQ-EQNq6Vo</guid>
-    <pubDate>Wed, 08 Apr 2026 22:59:31 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;It&#x27;s Masters Eve. We&#x27;re live from Augusta and dive into it all. Harris English &amp; the hilarious PE Guy join the show.
-
-Thank You to Our Sponsors!
-
-Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
-
-Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround.com/golf and use code DANONGOLF20, you can stock up with 20% off, which brings many pairs under $30. 
-
-Check out Manors Golf, the official apparel sponsor of the Dan on G&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ZhQ-EQNq6Vo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ZhQ-EQNq6Vo/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ZhQ-EQNq6Vo" type="text/html" medium="video"/>
-    <yt:videoId>ZhQ-EQNq6Vo</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>There is clearly no love lost between these two and it’s GREAT for the sport.</title>
-    <link>https://www.youtube.com/shorts/QaUt06tN7o8</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/QaUt06tN7o8</guid>
-    <pubDate>Wed, 08 Apr 2026 22:09:06 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/QaUt06tN7o8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/QaUt06tN7o8/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/QaUt06tN7o8" type="text/html" medium="video"/>
-    <yt:videoId>QaUt06tN7o8</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Special rules for Harris? 👀</title>
-    <link>https://www.youtube.com/shorts/FyL3HjgrL3s</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/FyL3HjgrL3s</guid>
-    <pubDate>Wed, 08 Apr 2026 20:00:24 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/FyL3HjgrL3s"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/FyL3HjgrL3s/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/FyL3HjgrL3s" type="text/html" medium="video"/>
-    <yt:videoId>FyL3HjgrL3s</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Amazon items to upgrade your golf experience</title>
-    <link>https://www.youtube.com/shorts/OOQU1Pi8JEs</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/OOQU1Pi8JEs</guid>
-    <pubDate>Wed, 08 Apr 2026 16:08:58 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;If you’re looking for ways to upgrade your golf experience this spring, @amazon has you covered. Ryan Barath shares some of his favorite items for the course.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to expl&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/OOQU1Pi8JEs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/OOQU1Pi8JEs/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/OOQU1Pi8JEs" type="text/html" medium="video"/>
-    <yt:videoId>OOQU1Pi8JEs</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>How do you master style on the green? Take notes from our Addie Parker and swing for a matching set</title>
-    <link>https://www.youtube.com/shorts/VzJVSC2Sw3k</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/VzJVSC2Sw3k</guid>
-    <pubDate>Wed, 08 Apr 2026 14:37:23 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/VzJVSC2Sw3k"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/VzJVSC2Sw3k/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/VzJVSC2Sw3k" type="text/html" medium="video"/>
-    <yt:videoId>VzJVSC2Sw3k</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Happy #NationalBeerDay, golf fans… Just try not to hold up play.</title>
-    <link>https://www.youtube.com/shorts/U2abH5YfhdA</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/U2abH5YfhdA</guid>
-    <pubDate>Tue, 07 Apr 2026 20:33:28 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/U2abH5YfhdA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/U2abH5YfhdA/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/U2abH5YfhdA" type="text/html" medium="video"/>
-    <yt:videoId>U2abH5YfhdA</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>What’s your favorite?</title>
-    <link>https://www.youtube.com/shorts/Ef_ULJAwcxE</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/Ef_ULJAwcxE</guid>
-    <pubDate>Tue, 07 Apr 2026 19:13:06 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Ef_ULJAwcxE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/Ef_ULJAwcxE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/Ef_ULJAwcxE" type="text/html" medium="video"/>
-    <yt:videoId>Ef_ULJAwcxE</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>A FULL Ranking Of The Masters Field (91-1)</title>
-    <link>https://www.youtube.com/watch?v=ZENmXXNByEI</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=ZENmXXNByEI</guid>
-    <pubDate>Tue, 07 Apr 2026 18:38:42 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Dan ranks the entire Masters field from No. 91 to No. 1 for this week at Augusta.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ZENmXXNByEI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ZENmXXNByEI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ZENmXXNByEI" type="text/html" medium="video"/>
-    <yt:videoId>ZENmXXNByEI</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Rors all day, every day. This is your week, described by the defending #Masters champion.</title>
-    <link>https://www.youtube.com/shorts/kYTuqx6VYTA</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/kYTuqx6VYTA</guid>
-    <pubDate>Tue, 07 Apr 2026 13:37:57 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/kYTuqx6VYTA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/kYTuqx6VYTA/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/kYTuqx6VYTA" type="text/html" medium="video"/>
-    <yt:videoId>kYTuqx6VYTA</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Dan breaks down some of The Masters contenders.</title>
-    <link>https://www.youtube.com/shorts/w7KoVnWzioc</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/w7KoVnWzioc</guid>
-    <pubDate>Tue, 07 Apr 2026 03:30:40 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/w7KoVnWzioc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/w7KoVnWzioc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/w7KoVnWzioc" type="text/html" medium="video"/>
-    <yt:videoId>w7KoVnWzioc</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
+    <title>How to Go to the Masters—a Badge Explainer</title>
+    <link>https://skratch.golf/news/pro-golf/how-to-masters-tickets-explainer-augusta-national</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/how-to-masters-tickets-explainer-augusta-national</guid>
+    <pubDate>Fri, 04 Apr 2025 17:40:25 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The lottery for the 2027 Masters opens on June 1, 2026. Mark your calendars!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/how-to-masters-tickets-explainer-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2147778960_835ec413fb/Getty_Images_2147778960_835ec413fb.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
 </channel>
 </rss>
