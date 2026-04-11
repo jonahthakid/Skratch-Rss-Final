@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 11 Apr 2026 19:31:03 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Apr 2026 20:26:18 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Shane Lowry Makes Another Hole-in-One at the Masters</title>
+    <link>https://skratch.golf/news/news/masters-shane-lowry-hole-in-one-sixth-hole-augusta-national</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/masters-shane-lowry-hole-in-one-sixth-hole-augusta-national</guid>
+    <pubDate>Sat, 11 Apr 2026 19:45:05 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Shane Lowry, are you kidding me? Another hole-in-one at Augusta National!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-shane-lowry-hole-in-one-sixth-hole-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270895416_942f883359/Getty_Images_2270895416_942f883359.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Phil Mickelson Has Some Strong Thoughts About Augusta’s Added Length</title>
     <link>https://skratch.golf/news/news/masters-phil-mickelson-excitement-gone-augusta-national-back-nine-par-5s</link>
@@ -458,17 +469,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Xander Schauffele Hit a Tee Shot into a Patron’s Merch Bag</title>
-    <link>https://skratch.golf/news/news/masters-xander-schauffele-tee-shot-patron-merchandise-bag</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/masters-xander-schauffele-tee-shot-patron-merchandise-bag</guid>
-    <pubDate>Thu, 09 Apr 2026 16:25:08 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Well, you don&#x27;t see this every day—or ever.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-xander-schauffele-tee-shot-patron-merchandise-bag"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270585603_6da806f7fe/Getty_Images_2270585603_6da806f7fe.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Rose Zhang Relives Her Worst Moment at Augusta’s 15th Hole</title>
