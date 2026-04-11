@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 11 Apr 2026 20:59:08 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Apr 2026 21:38:50 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Yes, Tommy Fleetwood Keeps Wearing These Lululemon Pants</title>
+    <link>https://skratch.golf/style/mens-style/tommy-fleetwood-lululemon-pants-at-masters</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/tommy-fleetwood-lululemon-pants-at-masters</guid>
+    <pubDate>Sat, 11 Apr 2026 20:56:20 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;Why this Lululemon pant works just as well off the course as it does at Augusta National.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/tommy-fleetwood-lululemon-pants-at-masters"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Fleetwood_Pants_Cover_5954646a50/Fleetwood_Pants_Cover_5954646a50.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Shane Lowry Makes Another Hole-in-One at the Masters</title>
     <link>https://skratch.golf/news/news/masters-shane-lowry-hole-in-one-sixth-hole-augusta-national</link>
@@ -435,6 +446,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
+    <title>Masters 2026: The Best Golf Shoes Spotted at Augusta So Far</title>
+    <link>https://skratch.golf/style/mens-style/best-golf-shoes-masters-footjoy</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/best-golf-shoes-masters-footjoy</guid>
+    <pubDate>Thu, 09 Apr 2026 21:24:07 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;A sea of white and green, plus one pair that actually made us look twice.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/best-golf-shoes-masters-footjoy"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Augusta_Cover_footwear_435cae3b60/Augusta_Cover_footwear_435cae3b60.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>It&#x27;s Like Rory McIlroy Never Even Left Augusta National</title>
     <link>https://skratch.golf/news/news/masters-2026-rory-mcilroy-first-round-score-augusta-national-67</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/masters-2026-rory-mcilroy-first-round-score-augusta-national-67</guid>
@@ -471,6 +493,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
+    <title>Xander Schauffele Hit a Tee Shot into a Patron’s Merch Bag</title>
+    <link>https://skratch.golf/news/news/masters-xander-schauffele-tee-shot-patron-merchandise-bag</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/masters-xander-schauffele-tee-shot-patron-merchandise-bag</guid>
+    <pubDate>Thu, 09 Apr 2026 16:25:08 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Well, you don&#x27;t see this every day—or ever.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-xander-schauffele-tee-shot-patron-merchandise-bag"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270585603_6da806f7fe/Getty_Images_2270585603_6da806f7fe.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Rose Zhang Relives Her Worst Moment at Augusta’s 15th Hole</title>
     <link>https://skratch.golf/news/news/rose-zhang-anwa-15-hole-augusta-national-bad-shot-explained</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/rose-zhang-anwa-15-hole-augusta-national-bad-shot-explained</guid>
@@ -478,28 +511,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;As the 90th Masters Tournament kicks off, the LPGA star takes a trip down memory lane to relive what she has identified as one of the worst shots of her life.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rose-zhang-anwa-15-hole-augusta-national-bad-shot-explained"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1478823387_f33349cf59/Getty_Images_1478823387_f33349cf59.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>More Than 75 Years Later, Bobby Jones&#x27; On-Course Guide for Masters Patrons Is Still the Perfect Gameplan</title>
-    <link>https://skratch.golf/news/news/bobby-jones-augusta-spectator-guide-revisited</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/bobby-jones-augusta-spectator-guide-revisited</guid>
-    <pubDate>Thu, 09 Apr 2026 16:01:15 +0000</pubDate>
-    <dc:creator>Chad Mumm</dc:creator>
-    <description>&lt;p&gt;We followed the advice of Augusta&#x27;s founder in hopes of discovering the best way to watch The Masters in person. Turns out the guy that built the place has some good ideas.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/bobby-jones-augusta-spectator-guide-revisited"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/26_LW_1_0189_fea274e6c1/26_LW_1_0189_fea274e6c1.jpeg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Yesterday, Frankie Fleetwood Showed Exactly What Club Fitting Can Do for Juniors</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/masters-frankie-fleetwood-par-three-club-fitting</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/masters-frankie-fleetwood-par-three-club-fitting</guid>
-    <pubDate>Thu, 09 Apr 2026 15:36:25 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;His swing at the par-3 contest is a shining example of why getting kids into the right clubs is the right complement to &quot;trying your hardest.&quot;&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/masters-frankie-fleetwood-par-three-club-fitting"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/26_KC_3_3781_1_b92dc903f4/26_KC_3_3781_1_b92dc903f4.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -648,20 +659,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/OOQU1Pi8JEs/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/OOQU1Pi8JEs" type="text/html" medium="video"/>
     <yt:videoId>OOQU1Pi8JEs</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>How do you master style on the green? Take notes from our Addie Parker and swing for a matching set</title>
-    <link>https://www.youtube.com/shorts/VzJVSC2Sw3k</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/VzJVSC2Sw3k</guid>
-    <pubDate>Wed, 08 Apr 2026 14:37:23 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/VzJVSC2Sw3k"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/VzJVSC2Sw3k/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/VzJVSC2Sw3k" type="text/html" medium="video"/>
-    <yt:videoId>VzJVSC2Sw3k</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
