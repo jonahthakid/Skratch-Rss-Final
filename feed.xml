@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 11 Apr 2026 17:26:33 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Apr 2026 17:56:46 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Masters Prize Money Hits Record $22.5 Million in 2026. Here&#x27;s the Purse Breakdown.</title>
+    <link>https://skratch.golf/news/pro-golf/masters-prize-money-payout-breakdown-augusta-national-purse</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/masters-prize-money-payout-breakdown-augusta-national-purse</guid>
+    <pubDate>Sat, 11 Apr 2026 17:29:30 +0000</pubDate>
+    <dc:creator>Brittany Romano</dc:creator>
+    <description>&lt;p&gt;Even those who didn’t make the weekend still earn a check, as the purse continues its steady climb.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/masters-prize-money-payout-breakdown-augusta-national-purse"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Masters_Leaderboard_Romano_8e3db28d94/Masters_Leaderboard_Romano_8e3db28d94.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>If you got to play in the Masters and start every hole on the green, do you think you could win? 👀</title>
     <link>https://www.youtube.com/shorts/G9CsH5tFJ9Y</link>
@@ -341,17 +352,6 @@ Ryan Barath spoke to tour rep Aaron Dill about what he worked on with players.&l
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Adam Scott Just Teased Augusta’s Cleanest Shoe</title>
-    <link>https://skratch.golf/style/mens-style/adam-scott-masters-teased-augustas-cleanest-golf-shoe</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/adam-scott-masters-teased-augustas-cleanest-golf-shoe</guid>
-    <pubDate>Fri, 10 Apr 2026 00:51:10 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;A familiar silhouette with details that feel anything but standard.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/adam-scott-masters-teased-augustas-cleanest-golf-shoe"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Footjoy_Augusta_cover_7a8cb29e4a/Footjoy_Augusta_cover_7a8cb29e4a.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>S2 E26: LIVE IN AUGUSTA: Rory Flying, Bryson and Rahm Struggle on Day 1</title>
