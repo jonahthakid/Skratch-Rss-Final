@@ -1,3 +1,4 @@
+<!-- Warning: Error fetching Skratch: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwtGQ3sgidNlQGbIUBPP3xw -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -9,7 +10,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 12 Apr 2026 05:09:30 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Apr 2026 06:51:37 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>It’s on Sundays that legacies are made.</title>
@@ -106,41 +107,6 @@
     <category>article</category>
   </item>
   <item>
-    <title>If you got to play in the Masters and start every hole on the green, do you think you could win? 👀</title>
-    <link>https://www.youtube.com/shorts/G9CsH5tFJ9Y</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/G9CsH5tFJ9Y</guid>
-    <pubDate>Sat, 11 Apr 2026 17:11:42 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
-
-Check out our website: https://skratch.golf/
-Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/G9CsH5tFJ9Y"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/G9CsH5tFJ9Y/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/G9CsH5tFJ9Y" type="text/html" medium="video"/>
-    <yt:videoId>G9CsH5tFJ9Y</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Friendly reminder that Scottie&#x27;s &quot;shank&quot; is better than your good shots. 😭</title>
-    <link>https://www.youtube.com/shorts/ewbu5T70n24</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ewbu5T70n24</guid>
-    <pubDate>Sat, 11 Apr 2026 16:36:18 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ewbu5T70n24"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ewbu5T70n24/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ewbu5T70n24" type="text/html" medium="video"/>
-    <yt:videoId>ewbu5T70n24</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>You Can Actually Shop Tommy Fleetwood’s Masters Outfit</title>
     <link>https://skratch.golf/style/mens-style/shop-tommy-fleetwood-augusta-masters-outfit</link>
     <guid isPermaLink="true">https://skratch.golf/style/mens-style/shop-tommy-fleetwood-augusta-masters-outfit</guid>
@@ -150,20 +116,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/G9CsH5tFJ9Y"&gt;
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270228730_7563cc3c99/Getty_Images_2270228730_7563cc3c99.jpeg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>The only conversation Tiger and Phil had on Masters Sunday in 2001. 🤣</title>
-    <link>https://www.youtube.com/shorts/mu58Gt_4ra0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/mu58Gt_4ra0</guid>
-    <pubDate>Sat, 11 Apr 2026 15:27:59 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/mu58Gt_4ra0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/mu58Gt_4ra0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/mu58Gt_4ra0" type="text/html" medium="video"/>
-    <yt:videoId>mu58Gt_4ra0</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>The Room at Augusta National You’re Not Supposed to See</title>
@@ -186,22 +138,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/G9CsH5tFJ9Y"&gt;
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270225484_22d760fa23/Getty_Images_2270225484_22d760fa23.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Here’s why Vokey wedges are the No. 1 choice at Augusta this week</title>
-    <link>https://www.youtube.com/shorts/aZHTu_BNUvw</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/aZHTu_BNUvw</guid>
-    <pubDate>Sat, 11 Apr 2026 00:38:55 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;@titleist has a staggering 114 Vokey wedges in play at Augusta National this week, but with their versatility in bounce options, it’s no surprise why. 
-
-Ryan Barath spoke to tour rep Aaron Dill about what he worked on with players.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/aZHTu_BNUvw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/aZHTu_BNUvw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/aZHTu_BNUvw" type="text/html" medium="video"/>
-    <yt:videoId>aZHTu_BNUvw</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>The guys were all positive, but we’re sad there won’t be a Low Amateur.</title>
@@ -254,20 +190,6 @@ Ryan Barath spoke to tour rep Aaron Dill about what he worked on with players.&l
     <category>article</category>
   </item>
   <item>
-    <title>Fred gets it. 🤣</title>
-    <link>https://www.youtube.com/shorts/pHSVXkMiSUo</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/pHSVXkMiSUo</guid>
-    <pubDate>Fri, 10 Apr 2026 20:53:32 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/pHSVXkMiSUo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/pHSVXkMiSUo/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/pHSVXkMiSUo" type="text/html" medium="video"/>
-    <yt:videoId>pHSVXkMiSUo</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Fred Couples Describing Augusta National Sounds Like All of Us</title>
     <link>https://skratch.golf/news/news/masters-fred-couples-idiot-to-not-like-augusta-national</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/masters-fred-couples-idiot-to-not-like-augusta-national</guid>
@@ -313,20 +235,6 @@ Ryan Barath spoke to tour rep Aaron Dill about what he worked on with players.&l
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/TITE_Cover_9df15d8185/TITE_Cover_9df15d8185.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>This squirrel might be the only thing that can stop Rory now. 😭 #TheMasters</title>
-    <link>https://www.youtube.com/shorts/ae3dTZEWnlo</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ae3dTZEWnlo</guid>
-    <pubDate>Fri, 10 Apr 2026 19:04:55 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ae3dTZEWnlo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ae3dTZEWnlo/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ae3dTZEWnlo" type="text/html" medium="video"/>
-    <yt:videoId>ae3dTZEWnlo</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>All Roads Lead to Augusta. Some Just Fly Better.</title>
@@ -395,20 +303,6 @@ Ryan Barath spoke to tour rep Aaron Dill about what he worked on with players.&l
     <category>article</category>
   </item>
   <item>
-    <title>Me if I ever played Augusta National… 🤣</title>
-    <link>https://www.youtube.com/shorts/YLlq-QJ7_PM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/YLlq-QJ7_PM</guid>
-    <pubDate>Fri, 10 Apr 2026 13:45:09 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/YLlq-QJ7_PM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/YLlq-QJ7_PM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/YLlq-QJ7_PM" type="text/html" medium="video"/>
-    <yt:videoId>YLlq-QJ7_PM</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Let’s get it spicy this weekend.</title>
     <link>https://www.youtube.com/shorts/Y_ZMfwACG58</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/Y_ZMfwACG58</guid>
@@ -457,34 +351,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>Inside After Hours at Pro Shop Tavern presented by Amazon</title>
-    <link>https://www.youtube.com/shorts/YsoouHjqgWY</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/YsoouHjqgWY</guid>
-    <pubDate>Thu, 09 Apr 2026 23:59:08 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Another After Hours at Pro Shop Tavern presented by @amazon is in the books! Great vibes, great drinks, and even better company. See you next year, Augusta!&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/YsoouHjqgWY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/YsoouHjqgWY/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/YsoouHjqgWY" type="text/html" medium="video"/>
-    <yt:videoId>YsoouHjqgWY</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Great first round, Sam. 🤜🤛</title>
-    <link>https://www.youtube.com/shorts/P8AdkEw2dg8</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/P8AdkEw2dg8</guid>
-    <pubDate>Thu, 09 Apr 2026 22:22:01 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/P8AdkEw2dg8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/P8AdkEw2dg8/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/P8AdkEw2dg8" type="text/html" medium="video"/>
-    <yt:videoId>P8AdkEw2dg8</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Why So Many Golfers Trust Titleist&#x27;s Vokey Wedges At The Masters</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/titleist-wedges-vokey-masters-sm11-grinds</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/titleist-wedges-vokey-masters-sm11-grinds</guid>
@@ -494,20 +360,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/leading_edge_vokey_64_t_grind_d55dea4ad9/leading_edge_vokey_64_t_grind_d55dea4ad9.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Patrick Reed eagled both par 5s on the first nine to shoot a bogey-free 31. 👀</title>
-    <link>https://www.youtube.com/shorts/lK8cuX2ABgE</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/lK8cuX2ABgE</guid>
-    <pubDate>Thu, 09 Apr 2026 16:58:16 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/lK8cuX2ABgE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/lK8cuX2ABgE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/lK8cuX2ABgE" type="text/html" medium="video"/>
-    <yt:videoId>lK8cuX2ABgE</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Xander Schauffele Hit a Tee Shot into a Patron’s Merch Bag</title>
@@ -543,20 +395,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>How I think putting at Augusta National would feel like…</title>
-    <link>https://www.youtube.com/shorts/AdgK9s-x0zI</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/AdgK9s-x0zI</guid>
-    <pubDate>Thu, 09 Apr 2026 15:11:28 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/AdgK9s-x0zI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/AdgK9s-x0zI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/AdgK9s-x0zI" type="text/html" medium="video"/>
-    <yt:videoId>AdgK9s-x0zI</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Harris English’s Guide To Augusta National</title>
     <link>https://www.youtube.com/watch?v=eqJ2j7P8O5w</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=eqJ2j7P8O5w</guid>
@@ -568,20 +406,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:videoId>eqJ2j7P8O5w</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Please don’t tell my boss. #TheMasters</title>
-    <link>https://www.youtube.com/shorts/qjfEVXym-xI</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/qjfEVXym-xI</guid>
-    <pubDate>Thu, 09 Apr 2026 13:26:12 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/qjfEVXym-xI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/qjfEVXym-xI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/qjfEVXym-xI" type="text/html" medium="video"/>
-    <yt:videoId>qjfEVXym-xI</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
     <category>video</category>
   </item>
   <item>
@@ -658,6 +482,31 @@ Check out Manors Golf, the official apparel sponsor of the Dan on G&lt;/p&gt;&lt
     <media:thumbnail url="https://img.youtube.com/vi/FyL3HjgrL3s/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/FyL3HjgrL3s" type="text/html" medium="video"/>
     <yt:videoId>FyL3HjgrL3s</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>The &#x27;Master&#x27; of Masters Memorabilia</title>
+    <link>https://skratch.golf/news/golf-culture/augusta-local-report-uptown-marketplace-masters-week-memorbilia</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/augusta-local-report-uptown-marketplace-masters-week-memorbilia</guid>
+    <pubDate>Wed, 08 Apr 2026 14:24:05 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Uptown Marketplace, a.k.a, the second best place on Washington Road to score Masters merch.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/augusta-local-report-uptown-marketplace-masters-week-memorbilia"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2269839141_b83f64ca4e/Getty_Images_2269839141_b83f64ca4e.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>What’s your favorite?</title>
+    <link>https://www.youtube.com/shorts/Ef_ULJAwcxE</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/Ef_ULJAwcxE</guid>
+    <pubDate>Tue, 07 Apr 2026 19:13:06 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Ef_ULJAwcxE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Ef_ULJAwcxE/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Ef_ULJAwcxE" type="text/html" medium="video"/>
+    <yt:videoId>Ef_ULJAwcxE</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
