@@ -9,8 +9,35 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 12 Apr 2026 14:07:26 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Apr 2026 15:02:34 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Gear essentials from Amazon to help fix up your clubs</title>
+    <link>https://www.youtube.com/shorts/ys1EnZI9sZE</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/ys1EnZI9sZE</guid>
+    <pubDate>Sun, 12 Apr 2026 14:26:40 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Fixing up your clubs doesn’t have to be difficult or expensive.
+
+Ryan Barath shares his favorite items from @amazon to help keep his gear in top shape.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ys1EnZI9sZE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/ys1EnZI9sZE/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/ys1EnZI9sZE" type="text/html" medium="video"/>
+    <yt:videoId>ys1EnZI9sZE</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Rory McIlroy and Harry Diamond Have Been Here Before</title>
+    <link>https://skratch.golf/news/news/harry-diamond-caddie-rory-mcilroy-masters-advice</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/harry-diamond-caddie-rory-mcilroy-masters-advice</guid>
+    <pubDate>Sun, 12 Apr 2026 13:55:32 +0000</pubDate>
+    <dc:creator>Will Schube</dc:creator>
+    <description>&lt;p&gt;A little bit of advice Rory&#x27;s caddie gave him heading into the 2025 playoff might influence his approach to Masters Sunday 2026.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/harry-diamond-caddie-rory-mcilroy-masters-advice"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/26_AJ_2_9807_9178b10a1a/26_AJ_2_9807_9178b10a1a.jpeg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Masters Sunday MOOD.</title>
     <link>https://www.youtube.com/shorts/ZPJRGK3SZsk</link>
@@ -506,6 +533,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
+    <title>Masters 2026: The Best Golf Shoes Spotted at Augusta So Far</title>
+    <link>https://skratch.golf/style/mens-style/best-golf-shoes-masters-footjoy</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/best-golf-shoes-masters-footjoy</guid>
+    <pubDate>Thu, 09 Apr 2026 21:24:07 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;A sea of white and green, plus one pair that actually made us look twice.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/best-golf-shoes-masters-footjoy"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Augusta_Cover_footwear_435cae3b60/Augusta_Cover_footwear_435cae3b60.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Why So Many Golfers Trust Titleist&#x27;s Vokey Wedges At The Masters</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/titleist-wedges-vokey-masters-sm11-grinds</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/titleist-wedges-vokey-masters-sm11-grinds</guid>
@@ -529,39 +567,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Xander Schauffele Hit a Tee Shot into a Patron’s Merch Bag</title>
-    <link>https://skratch.golf/news/news/masters-xander-schauffele-tee-shot-patron-merchandise-bag</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/masters-xander-schauffele-tee-shot-patron-merchandise-bag</guid>
-    <pubDate>Thu, 09 Apr 2026 16:25:08 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Well, you don&#x27;t see this every day—or ever.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-xander-schauffele-tee-shot-patron-merchandise-bag"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270585603_6da806f7fe/Getty_Images_2270585603_6da806f7fe.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Rose Zhang Relives Her Worst Moment at Augusta’s 15th Hole</title>
-    <link>https://skratch.golf/news/news/rose-zhang-anwa-15-hole-augusta-national-bad-shot-explained</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/rose-zhang-anwa-15-hole-augusta-national-bad-shot-explained</guid>
-    <pubDate>Thu, 09 Apr 2026 16:17:51 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;As the 90th Masters Tournament kicks off, the LPGA star takes a trip down memory lane to relive what she has identified as one of the worst shots of her life.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rose-zhang-anwa-15-hole-augusta-national-bad-shot-explained"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1478823387_f33349cf59/Getty_Images_1478823387_f33349cf59.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Patrick Reed Came Out the Gates Hot at Augusta National</title>
-    <link>https://skratch.golf/news/news/masters-patrick-reed-hot-start-scores-augusta-national</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/masters-patrick-reed-hot-start-scores-augusta-national</guid>
-    <pubDate>Thu, 09 Apr 2026 15:18:33 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Well, Patrick Reed didn&#x27;t waste much time finding the top of the leaderboard at the Masters.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-patrick-reed-hot-start-scores-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270576996_0387f677c3/Getty_Images_2270576996_0387f677c3.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>How I think putting at Augusta National would feel like…</title>
