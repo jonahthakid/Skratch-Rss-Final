@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 12 Apr 2026 15:02:34 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Apr 2026 15:57:48 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Gear essentials from Amazon to help fix up your clubs</title>
@@ -58,6 +58,17 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ZPJRGK3SZsk"&gt;
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>At the Masters, the Best Style Is Always Personal</title>
+    <link>https://skratch.golf/style/style/masters-2026-style-patrons-best-outfits</link>
+    <guid isPermaLink="true">https://skratch.golf/style/style/masters-2026-style-patrons-best-outfits</guid>
+    <pubDate>Sun, 12 Apr 2026 13:43:39 +0000</pubDate>
+    <dc:creator>Brittany Romano</dc:creator>
+    <description>&lt;p&gt;This year, patrons leaned into custom details, thoughtful touches, and looks that felt considered from head to toe.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/masters-2026-style-patrons-best-outfits"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/IMG_3564_79a6fdbd65/IMG_3564_79a6fdbd65.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>It’s on Sundays that legacies are made.</title>
@@ -531,17 +542,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Masters 2026: The Best Golf Shoes Spotted at Augusta So Far</title>
-    <link>https://skratch.golf/style/mens-style/best-golf-shoes-masters-footjoy</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/best-golf-shoes-masters-footjoy</guid>
-    <pubDate>Thu, 09 Apr 2026 21:24:07 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;A sea of white and green, plus one pair that actually made us look twice.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/best-golf-shoes-masters-footjoy"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Augusta_Cover_footwear_435cae3b60/Augusta_Cover_footwear_435cae3b60.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Why So Many Golfers Trust Titleist&#x27;s Vokey Wedges At The Masters</title>
