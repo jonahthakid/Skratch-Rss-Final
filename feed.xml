@@ -9,8 +9,30 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 12 Apr 2026 22:39:13 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Apr 2026 23:28:44 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Rory McIlroy Wins Second Masters and Sixth Major Championship</title>
+    <link>https://skratch.golf/news/news/masters-rory-mcilroy-wins-second-green-jacket-augusta-national</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/masters-rory-mcilroy-wins-second-green-jacket-augusta-national</guid>
+    <pubDate>Sun, 12 Apr 2026 22:31:44 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Rory McIlroy, again at Augusta.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-rory-mcilroy-wins-second-green-jacket-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2271046546_d16e0caf6d/Getty_Images_2271046546_d16e0caf6d.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>18 Parting Thoughts from the 2026 Masters Tournament</title>
+    <link>https://skratch.golf/news/pro-golf/2026-masters-tournament-recap-parting-thoughts-analysis</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/2026-masters-tournament-recap-parting-thoughts-analysis</guid>
+    <pubDate>Sun, 12 Apr 2026 21:52:22 +0000</pubDate>
+    <dc:creator>Dan Rapaport</dc:creator>
+    <description>&lt;p&gt;There’s no doubt about it anymore. With his sixth major championship and second Masters victory in a row, Rory McIlroy has reached a new echelon.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/2026-masters-tournament-recap-parting-thoughts-analysis"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2271041313_1f12bcfad8/Getty_Images_2271041313_1f12bcfad8.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>The work it takes to be in contention at the Masters at 45.</title>
     <link>https://www.youtube.com/shorts/28FZUmt_7F4</link>
@@ -449,17 +471,6 @@ Ryan Barath spoke to tour rep Aaron Dill about what he worked on with players.&l
     <category>video</category>
   </item>
   <item>
-    <title>All Roads Lead to Augusta. Some Just Fly Better.</title>
-    <link>https://skratch.golf/news/golf-culture/augusta-travel-private-jet-wheels-up</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/augusta-travel-private-jet-wheels-up</guid>
-    <pubDate>Fri, 10 Apr 2026 18:36:40 +0000</pubDate>
-    <dc:creator>Brittany Romano</dc:creator>
-    <description>&lt;p&gt;There’s more than one way to get to the Masters—and this year, more of our team experienced the journey with Wheels Up.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/augusta-travel-private-jet-wheels-up"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260410_wheels_up_2f90e110f1/20260410_wheels_up_2f90e110f1.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>The Nike Shield Returns to Augusta</title>
     <link>https://skratch.golf/style/mens-style/nike-shield-returns-to-augusta-masters-week-style</link>
     <guid isPermaLink="true">https://skratch.golf/style/mens-style/nike-shield-returns-to-augusta-masters-week-style</guid>
@@ -467,17 +478,6 @@ Ryan Barath spoke to tour rep Aaron Dill about what he worked on with players.&l
     <dc:creator>Raymond Williams</dc:creator>
     <description>&lt;p&gt;A new chapter for an old logo, written on the biggest stage&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/nike-shield-returns-to-augusta-masters-week-style"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Nike_Shield_Cover_Augusta_1b5b07416f/Nike_Shield_Cover_Augusta_1b5b07416f.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Brooks Koepka Going Driver of the Deck at Augusta is *Chef&#x27;s Kiss*</title>
-    <link>https://skratch.golf/news/news/masters-brooks-koepka-driver-of-the-deck-augusta-national</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/masters-brooks-koepka-driver-of-the-deck-augusta-national</guid>
-    <pubDate>Fri, 10 Apr 2026 15:45:09 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Didn&#x27;t expect to see DOD from Brooks Koepka at Augusta National on Friday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-brooks-koepka-driver-of-the-deck-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270733737_7b62e79b95/Getty_Images_2270733737_7b62e79b95.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
