@@ -9,8 +9,44 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 12 Apr 2026 19:57:23 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Apr 2026 20:37:06 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The work it takes to be in contention at the Masters at 45.</title>
+    <link>https://www.youtube.com/shorts/28FZUmt_7F4</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/28FZUmt_7F4</guid>
+    <pubDate>Sun, 12 Apr 2026 20:28:22 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/28FZUmt_7F4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/28FZUmt_7F4/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/28FZUmt_7F4" type="text/html" medium="video"/>
+    <yt:videoId>28FZUmt_7F4</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Jason Day’s Augusta Look Is All Texture</title>
+    <link>https://skratch.golf/style/mens-style/jason-days-masters-style-texture-at-augusta</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/jason-days-masters-style-texture-at-augusta</guid>
+    <pubDate>Sun, 12 Apr 2026 20:17:23 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;When the heat rises, texture and tone matter more than ever.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/jason-days-masters-style-texture-at-augusta"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/JD_Butter_Yellow_Cover_99aceb2a08/JD_Butter_Yellow_Cover_99aceb2a08.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Did Justin Rose Just One-Up Rory McIlroy’s Shot on No. 7?</title>
+    <link>https://skratch.golf/news/news/masters-justin-rose-escape-shot-7-augusta-national</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/masters-justin-rose-escape-shot-7-augusta-national</guid>
+    <pubDate>Sun, 12 Apr 2026 19:51:34 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;There are tap-in birdies, and then there are tap-in birdies like the one Justin Rose made at the seventh on Sunday at the Masters.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-justin-rose-escape-shot-7-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2271022546_cd4503be83/Getty_Images_2271022546_cd4503be83.jpeg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Can’t distract a locked in Cam Young.</title>
     <link>https://www.youtube.com/shorts/41wdTp0Euek</link>
@@ -388,17 +424,6 @@ Ryan Barath spoke to tour rep Aaron Dill about what he worked on with players.&l
     <category>video</category>
   </item>
   <item>
-    <title>Tyrrell Hatton Made History at the Masters on Friday</title>
-    <link>https://skratch.golf/news/news/masters-tyrrell-hatton-historic-stat-augusta-national</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/masters-tyrrell-hatton-historic-stat-augusta-national</guid>
-    <pubDate>Fri, 10 Apr 2026 19:22:11 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Tyrrell Hatton did something Friday at Augusta National that only two other players have done since 1997.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-tyrrell-hatton-historic-stat-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270752557_96a5f5f765/Getty_Images_2270752557_96a5f5f765.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>TITE Eyewear Takes on Golf’s Toughest Green-Reading Test</title>
     <link>https://skratch.golf/style/mens-style/tite-eyewear-green-reading-augusta-justin-thomas</link>
     <guid isPermaLink="true">https://skratch.golf/style/mens-style/tite-eyewear-green-reading-augusta-justin-thomas</guid>
@@ -442,17 +467,6 @@ Ryan Barath spoke to tour rep Aaron Dill about what he worked on with players.&l
     <dc:creator>Raymond Williams</dc:creator>
     <description>&lt;p&gt;A new chapter for an old logo, written on the biggest stage&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/nike-shield-returns-to-augusta-masters-week-style"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Nike_Shield_Cover_Augusta_1b5b07416f/Nike_Shield_Cover_Augusta_1b5b07416f.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Top Putters After Round Two at the Masters</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/top-putters-round-two-masters-leaders</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/top-putters-round-two-masters-leaders</guid>
-    <pubDate>Fri, 10 Apr 2026 15:53:06 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;With the leaderboard rounding into shape heading into the weekend, we take a look at the putter trends leading the charge.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/top-putters-round-two-masters-leaders"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270588753_ba1b4e2e85/Getty_Images_2270588753_ba1b4e2e85.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -645,20 +659,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://img.youtube.com/vi/x9k1g_TZYJM/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/x9k1g_TZYJM" type="text/html" medium="video"/>
     <yt:videoId>x9k1g_TZYJM</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>A very, very substantial week due to his role.</title>
-    <link>https://www.youtube.com/shorts/Wq89HPuygeE</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/Wq89HPuygeE</guid>
-    <pubDate>Thu, 09 Apr 2026 00:18:04 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Wq89HPuygeE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/Wq89HPuygeE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/Wq89HPuygeE" type="text/html" medium="video"/>
-    <yt:videoId>Wq89HPuygeE</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
