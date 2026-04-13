@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 13 Apr 2026 22:07:39 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 13 Apr 2026 23:08:39 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Every Shot from the 2026 Masters, Mapped</title>
+    <link>https://skratch.golf/news/pro-golf/every-shot-from-the-2026-masters-mapped</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/every-shot-from-the-2026-masters-mapped</guid>
+    <pubDate>Mon, 13 Apr 2026 22:11:08 +0000</pubDate>
+    <dc:creator>Brittany Romano</dc:creator>
+    <description>&lt;p&gt;A new graphic tracks every swing at Augusta and, if you look closely, tells the story of how Rory McIlroy won it again.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/every-shot-from-the-2026-masters-mapped"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260413_Masters_every_shot_2026_ibm_826eb3ed16/20260413_Masters_every_shot_2026_ibm_826eb3ed16.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Will Justin Rose eventually get his Green Jacket?</title>
     <link>https://www.youtube.com/shorts/Fi41jWZxvJ4</link>
@@ -459,17 +470,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/G9CsH5tFJ9Y"&gt;
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The Room at Augusta National You’re Not Supposed to See</title>
-    <link>https://skratch.golf/news/golf-culture/masters-technology-augusta-ibm-vault-shot-tracking</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/masters-technology-augusta-ibm-vault-shot-tracking</guid>
-    <pubDate>Sat, 11 Apr 2026 14:19:38 +0000</pubDate>
-    <dc:creator>Brittany Romano</dc:creator>
-    <description>&lt;p&gt;Beneath the most traditional event in sports, a massive tech operation is tracking every shot—and reshaping how we experience the Masters.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/masters-technology-augusta-ibm-vault-shot-tracking"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/IMG_3500_a78d51f286/IMG_3500_a78d51f286.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Rory McIlroy’s Masters Preparation Sounds Like the Dream</title>
