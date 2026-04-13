@@ -9,8 +9,41 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 13 Apr 2026 14:58:52 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 13 Apr 2026 16:17:31 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Rory McIlroy’s Best Shots from His Second Masters Win</title>
+    <link>https://skratch.golf/news/news/masters-rory-mcilroy-best-shots-second-green-jacket-augusta-national</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/masters-rory-mcilroy-best-shots-second-green-jacket-augusta-national</guid>
+    <pubDate>Mon, 13 Apr 2026 15:55:32 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;It was one hell of a ride. Here are Rory McIlroy&#x27;s best shots from his second Masters win.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-rory-mcilroy-best-shots-second-green-jacket-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270609353_aca783fa5e/Getty_Images_2270609353_aca783fa5e.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>FootJoy Just Dropped the Best Shoe From The Masters</title>
+    <link>https://skratch.golf/style/mens-style/footjoy-packard-the-masters-out-now</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/footjoy-packard-the-masters-out-now</guid>
+    <pubDate>Mon, 13 Apr 2026 15:06:12 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;The Packard gets its Augusta moment.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/footjoy-packard-the-masters-out-now"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Footjoy_445_Cover_7f123943d9/Footjoy_445_Cover_7f123943d9.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Here Come the Titleist GTS Fairway Woods</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/hilton-head-rbc-titleist-gts-fairway-woods</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/hilton-head-rbc-titleist-gts-fairway-woods</guid>
+    <pubDate>Mon, 13 Apr 2026 14:00:31 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;After the recent success of the GTS driver launch on tour, Titleist is ready to reveal brand new fairway woods.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/hilton-head-rbc-titleist-gts-fairway-woods"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/GTS_Titleist_Fairway_woods_0bffc70a87/GTS_Titleist_Fairway_woods_0bffc70a87.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Golf&#x27;s Mount Rushmore is Within Reach for Rory McIlroy</title>
     <link>https://skratch.golf/news/news/masters-rory-mcilroy-wins-at-augusta-national-mount-rushmore-within-reach</link>
@@ -306,17 +339,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ZPJRGK3SZsk"&gt;
     <category>article</category>
   </item>
   <item>
-    <title>Phil Mickelson Has Some Strong Thoughts About Augusta’s Added Length</title>
-    <link>https://skratch.golf/news/news/masters-phil-mickelson-excitement-gone-augusta-national-back-nine-par-5s</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/masters-phil-mickelson-excitement-gone-augusta-national-back-nine-par-5s</guid>
-    <pubDate>Sat, 11 Apr 2026 18:18:22 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;According to the three-time Masters champ, changes to 13 and 15 aren’t doing much for him—or the second nine.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-phil-mickelson-excitement-gone-augusta-national-back-nine-par-5s"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2148549764_12e58fd1cd/Getty_Images_2148549764_12e58fd1cd.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Masters Prize Money Hits Record $22.5 Million in 2026. Here&#x27;s the Purse Breakdown.</title>
     <link>https://skratch.golf/news/pro-golf/masters-prize-money-payout-breakdown-augusta-national-purse</link>
     <guid isPermaLink="true">https://skratch.golf/news/pro-golf/masters-prize-money-payout-breakdown-augusta-national-purse</guid>
@@ -386,17 +408,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/G9CsH5tFJ9Y"&gt;
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The Room at Augusta National You’re Not Supposed to See</title>
-    <link>https://skratch.golf/news/golf-culture/masters-technology-augusta-ibm-vault-shot-tracking</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/masters-technology-augusta-ibm-vault-shot-tracking</guid>
-    <pubDate>Sat, 11 Apr 2026 14:19:38 +0000</pubDate>
-    <dc:creator>Brittany Romano</dc:creator>
-    <description>&lt;p&gt;Beneath the most traditional event in sports, a massive tech operation is tracking every shot—and reshaping how we experience the Masters.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/masters-technology-augusta-ibm-vault-shot-tracking"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/IMG_3500_a78d51f286/IMG_3500_a78d51f286.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Rory McIlroy’s Masters Preparation Sounds Like the Dream</title>
@@ -494,17 +505,6 @@ Ryan Barath spoke to tour rep Aaron Dill about what he worked on with players.&l
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The Top Putters After Round Two at the Masters</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/top-putters-round-two-masters-leaders</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/top-putters-round-two-masters-leaders</guid>
-    <pubDate>Fri, 10 Apr 2026 15:53:06 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;With the leaderboard rounding into shape heading into the weekend, we take a look at the putter trends leading the charge.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/top-putters-round-two-masters-leaders"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270588753_ba1b4e2e85/Getty_Images_2270588753_ba1b4e2e85.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Me if I ever played Augusta National… 🤣</title>
