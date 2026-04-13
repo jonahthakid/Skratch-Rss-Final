@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 13 Apr 2026 13:13:48 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 13 Apr 2026 14:58:52 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Golf&#x27;s Mount Rushmore is Within Reach for Rory McIlroy</title>
@@ -19,6 +19,17 @@
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;The kid from Holywood has the chance at a Hollywood ending.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-rory-mcilroy-wins-at-augusta-national-mount-rushmore-within-reach"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2271051546_8e1be66625/Getty_Images_2271051546_8e1be66625.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Where The Pros Aren’t: The Hottest Masters Week Hangouts Might Just Be Off-Course</title>
+    <link>https://skratch.golf/news/golf-culture/masters-week-best-off-course-spots-hospitality-houses-augusta</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/masters-week-best-off-course-spots-hospitality-houses-augusta</guid>
+    <pubDate>Mon, 13 Apr 2026 00:40:12 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Hospitality houses are taking over Masters Week, here&#x27;s why.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/masters-week-best-off-course-spots-hospitality-houses-augusta"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/IMG_0764_5b43288e05/IMG_0764_5b43288e05.jpeg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -485,24 +496,13 @@ Ryan Barath spoke to tour rep Aaron Dill about what he worked on with players.&l
     <category>video</category>
   </item>
   <item>
-    <title>All Roads Lead to Augusta. Some Just Fly Better.</title>
-    <link>https://skratch.golf/news/golf-culture/augusta-travel-private-jet-wheels-up</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/augusta-travel-private-jet-wheels-up</guid>
-    <pubDate>Fri, 10 Apr 2026 18:36:40 +0000</pubDate>
-    <dc:creator>Brittany Romano</dc:creator>
-    <description>&lt;p&gt;There’s more than one way to get to the Masters—and this year, more of our team experienced the journey with Wheels Up.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/augusta-travel-private-jet-wheels-up"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260410_wheels_up_2f90e110f1/20260410_wheels_up_2f90e110f1.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Augusta Is a Hidden Gem for Used Clubs</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/augusta-hidden-gem-used-golf-clubs</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/augusta-hidden-gem-used-golf-clubs</guid>
-    <pubDate>Fri, 10 Apr 2026 17:46:18 +0000</pubDate>
+    <title>The Top Putters After Round Two at the Masters</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/top-putters-round-two-masters-leaders</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/top-putters-round-two-masters-leaders</guid>
+    <pubDate>Fri, 10 Apr 2026 15:53:06 +0000</pubDate>
     <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;While some golfers search for Masters merch, we went hunting for something a little different around Augusta.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/augusta-hidden-gem-used-golf-clubs"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Used_club_shopping_augusta_b81b5b1951/Used_club_shopping_augusta_b81b5b1951.jpg"/>
+    <description>&lt;p&gt;With the leaderboard rounding into shape heading into the weekend, we take a look at the putter trends leading the charge.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/top-putters-round-two-masters-leaders"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270588753_ba1b4e2e85/Getty_Images_2270588753_ba1b4e2e85.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
