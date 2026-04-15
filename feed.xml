@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 15 Apr 2026 20:12:44 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Apr 2026 21:12:02 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Would&#x27;ve thought Scottie and Ted Scott would have their celebration more dialed in. 🤣</title>
@@ -95,6 +95,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Everything We Know About LIV Golf&#x27;s Rumored Demise</title>
+    <link>https://skratch.golf/news/news/liv-golf-shutting-down-saudi-arabia-pif-pulling-funding-reports</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/liv-golf-shutting-down-saudi-arabia-pif-pulling-funding-reports</guid>
+    <pubDate>Wed, 15 Apr 2026 13:51:07 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Multiple reports are claiming the Saudi PIF&#x27;s involvement in LIV Golf may be coming to an end, as the golf world was thrown into a frenzy Tuesday night that continued Wednesday. Here&#x27;s everything we&#x27;ve learned so far.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/liv-golf-shutting-down-saudi-arabia-pif-pulling-funding-reports"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2231543969_7e7acbac0c/Getty_Images_2231543969_7e7acbac0c.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Having Big Misses Off the Tee? Try Taking This LPGA Player&#x27;s Approach</title>
@@ -584,17 +595,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Tommy Fleetwood Has Mastered Merch on Tour. Sunday’s Augusta Logo Might Be His Best Yet</title>
-    <link>https://skratch.golf/style/mens-style/tommy-fleetwood-augusta-shirt-sunday-masters</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/tommy-fleetwood-augusta-shirt-sunday-masters</guid>
-    <pubDate>Sun, 12 Apr 2026 17:27:37 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;A pre-tournament pro shop pickup is the biggest flex of the week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/tommy-fleetwood-augusta-shirt-sunday-masters"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Cover_Recovered_aef4cc3da3/Cover_Recovered_aef4cc3da3.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>The Most Underrated Style Duo on Tour Right Now</title>
