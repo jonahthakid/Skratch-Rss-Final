@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 15 Apr 2026 11:52:22 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Apr 2026 13:12:35 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>How Many Majors Does Rory Finish With?</title>
+    <link>https://www.youtube.com/watch?v=dQGd4dhofsw</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=dQGd4dhofsw</guid>
+    <pubDate>Wed, 15 Apr 2026 12:30:54 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Dan &amp; Alan Shipnuck discuss Rory McIlroy&#x27;s Masters victory, and what it means big picture. How many majors will he finish his career with?&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=dQGd4dhofsw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/dQGd4dhofsw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/dQGd4dhofsw" type="text/html" medium="video"/>
+    <yt:videoId>dQGd4dhofsw</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>The bank is open. 😭 Johnny Miller executes the bulkhead bank shot to perfection.</title>
     <link>https://www.youtube.com/shorts/oAe_9AvbYpQ</link>
@@ -649,20 +663,6 @@ Ryan Barath spoke to tour rep Aaron Dill about what he worked on with players.&l
     <yt:videoId>aZHTu_BNUvw</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>The guys were all positive, but we’re sad there won’t be a Low Amateur.</title>
-    <link>https://www.youtube.com/shorts/o7-cOMDaegE</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/o7-cOMDaegE</guid>
-    <pubDate>Sat, 11 Apr 2026 00:09:01 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/o7-cOMDaegE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/o7-cOMDaegE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/o7-cOMDaegE" type="text/html" medium="video"/>
-    <yt:videoId>o7-cOMDaegE</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
     <category>video</category>
   </item>
 </channel>
