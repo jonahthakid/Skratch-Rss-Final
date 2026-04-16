@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 16 Apr 2026 10:43:39 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 16 Apr 2026 11:55:18 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Breaking Down LIV GOLF’s Future</title>
+    <link>https://www.youtube.com/watch?v=019L_2cAsAU</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=019L_2cAsAU</guid>
+    <pubDate>Thu, 16 Apr 2026 11:30:00 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Alan Shipnuck joins Dan to discuss why LIV Golf is failing &amp; the future of the league in the professional golf landscape.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=019L_2cAsAU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/019L_2cAsAU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/019L_2cAsAU" type="text/html" medium="video"/>
+    <yt:videoId>019L_2cAsAU</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>1. Made the PGA TOUR better. 2. ?</title>
     <link>https://www.youtube.com/shorts/cz36lWbKTZQ</link>
@@ -432,20 +446,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/Fi41jWZxvJ4/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/Fi41jWZxvJ4" type="text/html" medium="video"/>
     <yt:videoId>Fi41jWZxvJ4</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>&quot;I think Rory McIlroy is kind of the perfect ambassador for Augusta National.&quot;</title>
-    <link>https://www.youtube.com/shorts/iEtORREb4ZQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/iEtORREb4ZQ</guid>
-    <pubDate>Mon, 13 Apr 2026 20:39:34 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/iEtORREb4ZQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/iEtORREb4ZQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/iEtORREb4ZQ" type="text/html" medium="video"/>
-    <yt:videoId>iEtORREb4ZQ</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
