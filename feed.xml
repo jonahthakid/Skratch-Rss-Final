@@ -9,8 +9,30 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 16 Apr 2026 19:42:56 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 16 Apr 2026 20:41:59 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Every Golfer is Prone to a Whiff—Just Ask Chris Gotterup</title>
+    <link>https://skratch.golf/news/news/rbc-heritage-chris-gotterup-whiff-missed-ball-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/rbc-heritage-chris-gotterup-whiff-missed-ball-pga-tour</guid>
+    <pubDate>Thu, 16 Apr 2026 19:57:44 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;One of us! One of us!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rbc-heritage-chris-gotterup-whiff-missed-ball-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2271072046_de6bf4f696/Getty_Images_2271072046_de6bf4f696.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Chizzy Iwai Just Went Full Video Game Mode at The JM Eagle</title>
+    <link>https://skratch.golf/news/news/chizzy-iwai-lpga-tour-jm-eagle-la-championship-7-under-front-nine</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/chizzy-iwai-lpga-tour-jm-eagle-la-championship-7-under-front-nine</guid>
+    <pubDate>Thu, 16 Apr 2026 19:02:50 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;She went 7-under through her first nine holes, carding five birdies and an eagle.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/chizzy-iwai-lpga-tour-jm-eagle-la-championship-7-under-front-nine"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Chizzy_Iwai_26_Founders_Cup_ce584e5a5a/Chizzy_Iwai_26_Founders_Cup_ce584e5a5a.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>This week&#x27;s World Dankings.</title>
     <link>https://www.youtube.com/shorts/NXzVWIhhst8</link>
@@ -635,28 +657,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;Callaway is adding two new long-game options designed to give golfers more versatility off the tee and more firepower from the fairway.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/Callaway-quantum-line-mini-ti-fairway"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Callaway_Quantum_mini_ti_f3396049eb/Callaway_Quantum_mini_ti_f3396049eb.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The LPGA Returns, but Without Two of Its Biggest Stars</title>
-    <link>https://skratch.golf/news/news/lpga-tour-jm-eagle-championship-missing-jeeno-thitikul-nelly-korda</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-tour-jm-eagle-championship-missing-jeeno-thitikul-nelly-korda</guid>
-    <pubDate>Mon, 13 Apr 2026 15:47:07 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;As Masters Week dust settles, the LPGA emerges in LA one week before its first major of the year.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-tour-jm-eagle-championship-missing-jeeno-thitikul-nelly-korda"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Nelly_Jeeno_CME_Getty_image_559054bebf/Nelly_Jeeno_CME_Getty_image_559054bebf.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Rory Did It Again. And Somehow It Meant Even More</title>
-    <link>https://skratch.golf/news/news/rory-masters-win-meaning-family</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/rory-masters-win-meaning-family</guid>
-    <pubDate>Mon, 13 Apr 2026 01:07:04 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;His second Masters win wasn’t just about history. It was about the people who got him there.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rory-masters-win-meaning-family"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/25_SB_1_1576_bdd7454615/25_SB_1_1576_bdd7454615.jpeg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
