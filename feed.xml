@@ -9,8 +9,47 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 16 Apr 2026 15:11:03 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 16 Apr 2026 16:53:05 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>&quot;Can&#x27;t be doing that at 45.&quot; Presented by @Knockaround.</title>
+    <link>https://www.youtube.com/shorts/USG6xIwrtyk</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/USG6xIwrtyk</guid>
+    <pubDate>Thu, 16 Apr 2026 16:17:48 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/USG6xIwrtyk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/USG6xIwrtyk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/USG6xIwrtyk" type="text/html" medium="video"/>
+    <yt:videoId>USG6xIwrtyk</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Celebrating #NationalHighFiveDay with some of the worst high fives in golf. 😭</title>
+    <link>https://www.youtube.com/shorts/rM_kRLvhOwc</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/rM_kRLvhOwc</guid>
+    <pubDate>Thu, 16 Apr 2026 16:05:53 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/rM_kRLvhOwc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/rM_kRLvhOwc/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/rM_kRLvhOwc" type="text/html" medium="video"/>
+    <yt:videoId>rM_kRLvhOwc</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Eastside Golf’s “More Than Just a Game” Collection Finds the Middle Ground</title>
+    <link>https://skratch.golf/style/mens-style/eastside-golf-more-than-just-a-game-collection</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/eastside-golf-more-than-just-a-game-collection</guid>
+    <pubDate>Thu, 16 Apr 2026 14:49:38 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;A collection built for the space between culture and competition&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/eastside-golf-more-than-just-a-game-collection"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/ESG_Cover_d7b140c4f2/ESG_Cover_d7b140c4f2.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Testing the Callaway Quantum Mini Driver</title>
     <link>https://www.youtube.com/shorts/o9lANDuKqcs</link>
@@ -136,6 +175,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you &lt;/p
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Hannah Green Phones Fellow Aussie Min Woo Lee for Advice</title>
+    <link>https://skratch.golf/news/news/hannah-green-min-woo-lee-chevron-championship-memorial-park-course-advice</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/hannah-green-min-woo-lee-chevron-championship-memorial-park-course-advice</guid>
+    <pubDate>Wed, 15 Apr 2026 20:53:17 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Ahead of the LPGA&#x27;s first major of the season, 7-time winner Hannah Green turned to a familiar face for some advice on the championship&#x27;s new home.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/hannah-green-min-woo-lee-chevron-championship-memorial-park-course-advice"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Hannah_Green_Aus_Womens_99c5dd10f8/Hannah_Green_Aus_Womens_99c5dd10f8.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Would&#x27;ve thought Scottie and Ted Scott would have their celebration more dialed in. 🤣</title>
@@ -495,20 +545,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>“This is the product of a flawed system ... when they don&#x27;t want to say anything.&quot;</title>
-    <link>https://www.youtube.com/shorts/D55k8CZZRIU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/D55k8CZZRIU</guid>
-    <pubDate>Mon, 13 Apr 2026 23:09:56 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/D55k8CZZRIU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/D55k8CZZRIU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/D55k8CZZRIU" type="text/html" medium="video"/>
-    <yt:videoId>D55k8CZZRIU</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Every Shot from the 2026 Masters, Mapped</title>
     <link>https://skratch.golf/news/pro-golf/every-shot-from-the-2026-masters-mapped</link>
     <guid isPermaLink="true">https://skratch.golf/news/pro-golf/every-shot-from-the-2026-masters-mapped</guid>
@@ -620,47 +656,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/25_SB_1_1576_bdd7454615/25_SB_1_1576_bdd7454615.jpeg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Where The Pros Aren’t: The Hottest Masters Week Hangouts Might Just Be Off-Course</title>
-    <link>https://skratch.golf/news/golf-culture/masters-week-best-off-course-spots-hospitality-houses-augusta</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/masters-week-best-off-course-spots-hospitality-houses-augusta</guid>
-    <pubDate>Mon, 13 Apr 2026 00:40:12 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Hospitality houses are taking over Masters Week, here&#x27;s why.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/masters-week-best-off-course-spots-hospitality-houses-augusta"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/IMG_0764_5b43288e05/IMG_0764_5b43288e05.jpeg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Can’t distract a locked in Cam Young.</title>
-    <link>https://www.youtube.com/shorts/41wdTp0Euek</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/41wdTp0Euek</guid>
-    <pubDate>Sun, 12 Apr 2026 18:33:59 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/41wdTp0Euek"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/41wdTp0Euek/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/41wdTp0Euek" type="text/html" medium="video"/>
-    <yt:videoId>41wdTp0Euek</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Gear essentials from Amazon to help fix up your clubs</title>
-    <link>https://www.youtube.com/shorts/ys1EnZI9sZE</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ys1EnZI9sZE</guid>
-    <pubDate>Sun, 12 Apr 2026 14:26:40 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Fixing up your clubs doesn’t have to be difficult or expensive.
-
-Ryan Barath shares his favorite items from @amazon to help keep his gear in top shape.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ys1EnZI9sZE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ys1EnZI9sZE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ys1EnZI9sZE" type="text/html" medium="video"/>
-    <yt:videoId>ys1EnZI9sZE</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
 </channel>
 </rss>
