@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 17 Apr 2026 14:01:36 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 17 Apr 2026 15:34:51 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Minjee Lee Has Withdrawn From the JM Eagle LA Championship</title>
+    <link>https://skratch.golf/news/news/minjee-lee-withdraws-jm-eagle-la-championship-lpga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/minjee-lee-withdraws-jm-eagle-la-championship-lpga-tour</guid>
+    <pubDate>Fri, 17 Apr 2026 14:38:48 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Despite opening with a 3-under-par 69, the three-time major champion withdrew just one week before the Chevron Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/minjee-lee-withdraws-jm-eagle-la-championship-lpga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2219804756_af0ef2a6c5/Getty_Images_2219804756_af0ef2a6c5.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Full Swing Season 4: A Year Like 2025 Is What This Show Was Built For</title>
     <link>https://skratch.golf/news/news/full-swing-four-netflix-recap-release</link>
@@ -482,17 +493,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>How You Can Watch Michelle Wie West Play Again Ahead of U.S. Women&#x27;s Open at Riv</title>
-    <link>https://skratch.golf/news/news/michelle-wie-west-2026-mizuho-americas-open-lpga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/michelle-wie-west-2026-mizuho-americas-open-lpga-tour</guid>
-    <pubDate>Tue, 14 Apr 2026 17:40:13 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;First it was WTGL, then came the USWO, and now the Mizuho tournament host will be inside the ropes even sooner. This is everything we know about Michelle&#x27;s return to competition at the Mizuho Americas Open next month.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/michelle-wie-west-2026-mizuho-americas-open-lpga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2214575661_8274f7aa09/Getty_Images_2214575661_8274f7aa09.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Why We Have Our Eye on Jacob Bridgeman and Russ Henley This Week in Hilton Head</title>
