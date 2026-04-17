@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 17 Apr 2026 18:52:17 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 17 Apr 2026 19:54:43 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>It&#x27;s a game of integrity. 🫡Brian Davis calls a penalty on himself at the 2010 RBC Heritage playoff.</title>
@@ -622,17 +622,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Sergio Garcia Has Issued an Apology for Wild Behavior at the Masters</title>
-    <link>https://skratch.golf/news/news/masters-sergio-garcia-driver-water-cooler-apology-augusta-national</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/masters-sergio-garcia-driver-water-cooler-apology-augusta-national</guid>
-    <pubDate>Tue, 14 Apr 2026 16:39:32 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;On Sunday, Sergio Garcia tore up Augusta&#x27;s second tee box with his driver before snapping it on a water cooler. On Tuesday, he addressed it in a social media post.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-sergio-garcia-driver-water-cooler-apology-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270520863_146f391d8b/Getty_Images_2270520863_146f391d8b.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>&quot;The course — it was jarring how much it changed between Thursday and Friday.&quot;</title>
     <link>https://www.youtube.com/shorts/_5lFKFwU3qQ</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/_5lFKFwU3qQ</guid>
@@ -670,6 +659,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Bench Tested: The Callaway Quantum Mini Driver</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/callaway-bench-tested-quantum-mini-driver-fitting</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/callaway-bench-tested-quantum-mini-driver-fitting</guid>
+    <pubDate>Tue, 14 Apr 2026 13:00:19 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Built with Callaway&#x27;s new Tri-Force face technology, we find out what separates the Callaway Quantum mini driver from the rest.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/callaway-bench-tested-quantum-mini-driver-fitting"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Bench_Callaway_mini_quantum_67cf964886/Bench_Callaway_mini_quantum_67cf964886.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
 </channel>
 </rss>
