@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 17 Apr 2026 10:17:03 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 17 Apr 2026 11:28:07 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Full Swing Season 4: A Year Like 2025 Is What This Show Was Built For</title>
+    <link>https://skratch.golf/news/news/full-swing-four-netflix-recap-release</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/full-swing-four-netflix-recap-release</guid>
+    <pubDate>Fri, 17 Apr 2026 03:02:48 +0000</pubDate>
+    <dc:creator>Shane Bacon</dc:creator>
+    <description>&lt;p&gt;Rory, the Ryder Cup, and a year that felt bigger than most all come into focus in the newest season of Netflix&#x27;s Full Swing.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/full-swing-four-netflix-recap-release"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Full_Swing_Key_Art_2026_Season_4_587d84a955/Full_Swing_Key_Art_2026_Season_4_587d84a955.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Who was best dressed at The Masters?</title>
     <link>https://www.youtube.com/shorts/nH4qCBN3Qxc</link>
@@ -648,17 +659,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Callaway Expands Quantum Line With Mini Driver and Ti Fairway Wood</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/Callaway-quantum-line-mini-ti-fairway</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/Callaway-quantum-line-mini-ti-fairway</guid>
-    <pubDate>Mon, 13 Apr 2026 17:19:18 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Callaway is adding two new long-game options designed to give golfers more versatility off the tee and more firepower from the fairway.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/Callaway-quantum-line-mini-ti-fairway"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Callaway_Quantum_mini_ti_f3396049eb/Callaway_Quantum_mini_ti_f3396049eb.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
