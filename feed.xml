@@ -1,5 +1,4 @@
 <!-- Warning: Error fetching Skratch: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwtGQ3sgidNlQGbIUBPP3xw -->
-<!-- Warning: Error fetching Dan On Golf Show: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -11,8 +10,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 18 Apr 2026 21:56:22 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 18 Apr 2026 22:32:09 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Did you hit on Rory last week? Here&#x27;s another chance to get in the game on Polymarket.</title>
+    <link>https://www.youtube.com/shorts/RxIqTPabz04</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/RxIqTPabz04</guid>
+    <pubDate>Fri, 17 Apr 2026 21:07:17 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/RxIqTPabz04"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/RxIqTPabz04/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/RxIqTPabz04" type="text/html" medium="video"/>
+    <yt:videoId>RxIqTPabz04</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>An Interview with LIV Golf CEO Scott O&#x27;Neil Has Been Reposted Without Its Already Viral Quote</title>
     <link>https://skratch.golf/news/news/liv-golf-ceo-scott-oneil-interview-delete-post-funding-saudi-pif</link>
@@ -91,6 +104,20 @@
     <category>article</category>
   </item>
   <item>
+    <title>Who was best dressed at The Masters?</title>
+    <link>https://www.youtube.com/shorts/nH4qCBN3Qxc</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/nH4qCBN3Qxc</guid>
+    <pubDate>Thu, 16 Apr 2026 21:50:03 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/nH4qCBN3Qxc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/nH4qCBN3Qxc/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/nH4qCBN3Qxc" type="text/html" medium="video"/>
+    <yt:videoId>nH4qCBN3Qxc</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Every Golfer is Prone to a Whiff—Just Ask Chris Gotterup</title>
     <link>https://skratch.golf/news/news/rbc-heritage-chris-gotterup-whiff-missed-ball-pga-tour</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/rbc-heritage-chris-gotterup-whiff-missed-ball-pga-tour</guid>
@@ -111,6 +138,20 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Chizzy_Iwai_26_Founders_Cup_ce584e5a5a/Chizzy_Iwai_26_Founders_Cup_ce584e5a5a.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>This week&#x27;s World Dankings.</title>
+    <link>https://www.youtube.com/shorts/NXzVWIhhst8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/NXzVWIhhst8</guid>
+    <pubDate>Thu, 16 Apr 2026 18:46:45 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/NXzVWIhhst8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/NXzVWIhhst8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/NXzVWIhhst8" type="text/html" medium="video"/>
+    <yt:videoId>NXzVWIhhst8</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
   </item>
   <item>
     <title>College Golfer Nearly Holes Bunker Shot With a Putter (And Yes, You Read That Right)</title>
@@ -135,6 +176,20 @@
     <category>article</category>
   </item>
   <item>
+    <title>&quot;Can&#x27;t be doing that at 45.&quot; Presented by @Knockaround.</title>
+    <link>https://www.youtube.com/shorts/USG6xIwrtyk</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/USG6xIwrtyk</guid>
+    <pubDate>Thu, 16 Apr 2026 16:17:48 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/USG6xIwrtyk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/USG6xIwrtyk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/USG6xIwrtyk" type="text/html" medium="video"/>
+    <yt:videoId>USG6xIwrtyk</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Eastside Golf’s “More Than Just a Game” Collection Finds the Middle Ground</title>
     <link>https://skratch.golf/style/mens-style/eastside-golf-more-than-just-a-game-collection</link>
     <guid isPermaLink="true">https://skratch.golf/style/mens-style/eastside-golf-more-than-just-a-game-collection</guid>
@@ -144,6 +199,96 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/ESG_Cover_d7b140c4f2/ESG_Cover_d7b140c4f2.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>Do you agree?</title>
+    <link>https://www.youtube.com/shorts/7cMlmWfJNAQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/7cMlmWfJNAQ</guid>
+    <pubDate>Thu, 16 Apr 2026 12:28:55 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/7cMlmWfJNAQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/7cMlmWfJNAQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/7cMlmWfJNAQ" type="text/html" medium="video"/>
+    <yt:videoId>7cMlmWfJNAQ</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Breaking Down LIV GOLF’s Future</title>
+    <link>https://www.youtube.com/watch?v=019L_2cAsAU</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=019L_2cAsAU</guid>
+    <pubDate>Thu, 16 Apr 2026 11:30:00 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Alan Shipnuck joins Dan to discuss why LIV Golf is failing &amp; the future of the league in the professional golf landscape.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=019L_2cAsAU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/019L_2cAsAU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/019L_2cAsAU" type="text/html" medium="video"/>
+    <yt:videoId>019L_2cAsAU</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>1. Made the PGA TOUR better. 2. ?</title>
+    <link>https://www.youtube.com/shorts/cz36lWbKTZQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/cz36lWbKTZQ</guid>
+    <pubDate>Thu, 16 Apr 2026 03:30:34 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/cz36lWbKTZQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/cz36lWbKTZQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/cz36lWbKTZQ" type="text/html" medium="video"/>
+    <yt:videoId>cz36lWbKTZQ</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>&quot;If it&#x27;s not dead, it&#x27;s circling the drain. It&#x27;s in the intensive care unit.&quot;</title>
+    <link>https://www.youtube.com/shorts/vjTbCg1hno8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/vjTbCg1hno8</guid>
+    <pubDate>Thu, 16 Apr 2026 02:53:18 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/vjTbCg1hno8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/vjTbCg1hno8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/vjTbCg1hno8" type="text/html" medium="video"/>
+    <yt:videoId>vjTbCg1hno8</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>This one’s a little personal for Ben. @manorsgolf</title>
+    <link>https://www.youtube.com/shorts/qMpcUV3bD5c</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/qMpcUV3bD5c</guid>
+    <pubDate>Thu, 16 Apr 2026 01:32:17 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/qMpcUV3bD5c"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/qMpcUV3bD5c/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/qMpcUV3bD5c" type="text/html" medium="video"/>
+    <yt:videoId>qMpcUV3bD5c</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>S2 E28: Is LIV Golf About To Die?</title>
+    <link>https://www.youtube.com/watch?v=LJYPN4BidjQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=LJYPN4BidjQ</guid>
+    <pubDate>Wed, 15 Apr 2026 23:45:43 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;A developing story involving a possible shut down of LIV Golf. Is this the beginning of the end? We dive into it all. Plus: Sergio Garcia apologizes for his outburst at The Masters, Dan ranks his top 10 players in the world, Alan Shipnuck joins to give his all-time top 10 golfers list &amp; much, much more.
+
+Thank You to Our Sponsors!
+
+Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
+
+Dan travels all year and never leaves his Knockarounds behind, and if you &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=LJYPN4BidjQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/LJYPN4BidjQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/LJYPN4BidjQ" type="text/html" medium="video"/>
+    <yt:videoId>LJYPN4BidjQ</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
   </item>
   <item>
     <title>Hannah Green Phones Fellow Aussie Min Woo Lee for Advice</title>
@@ -179,6 +324,34 @@
     <category>article</category>
   </item>
   <item>
+    <title>Are you Team Dan or Team Alan?</title>
+    <link>https://www.youtube.com/shorts/pZhvEDHPjh8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/pZhvEDHPjh8</guid>
+    <pubDate>Wed, 15 Apr 2026 15:35:55 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/pZhvEDHPjh8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/pZhvEDHPjh8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/pZhvEDHPjh8" type="text/html" medium="video"/>
+    <yt:videoId>pZhvEDHPjh8</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>What have you done, Neal? 😂</title>
+    <link>https://www.youtube.com/shorts/opC90YVkN2M</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/opC90YVkN2M</guid>
+    <pubDate>Wed, 15 Apr 2026 14:07:01 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/opC90YVkN2M"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/opC90YVkN2M/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/opC90YVkN2M" type="text/html" medium="video"/>
+    <yt:videoId>opC90YVkN2M</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Everything We Know About LIV Golf&#x27;s Rumored Demise</title>
     <link>https://skratch.golf/news/news/liv-golf-shutting-down-saudi-arabia-pif-pulling-funding-reports</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/liv-golf-shutting-down-saudi-arabia-pif-pulling-funding-reports</guid>
@@ -201,6 +374,20 @@
     <category>article</category>
   </item>
   <item>
+    <title>How Many Majors Does Rory Finish With?</title>
+    <link>https://www.youtube.com/watch?v=dQGd4dhofsw</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=dQGd4dhofsw</guid>
+    <pubDate>Wed, 15 Apr 2026 12:30:54 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Dan &amp; Alan Shipnuck discuss Rory McIlroy&#x27;s Masters victory, and what it means big picture. How many majors will he finish his career with?&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=dQGd4dhofsw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/dQGd4dhofsw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/dQGd4dhofsw" type="text/html" medium="video"/>
+    <yt:videoId>dQGd4dhofsw</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>TaylorMade Shadowfall Collection Kicks Off Spring</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/taylormade-shadowfall-collection-irons-qi4d</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/taylormade-shadowfall-collection-irons-qi4d</guid>
@@ -210,6 +397,34 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Shadowfall_title_collection_b114c956bc/Shadowfall_title_collection_b114c956bc.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>Has The Masters Become Coachella For Golf?</title>
+    <link>https://www.youtube.com/watch?v=UeU6o1Asenc</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=UeU6o1Asenc</guid>
+    <pubDate>Tue, 14 Apr 2026 19:06:51 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Dan and Ben discuss the internet boom and the use of influencers around The Masters this year, and if it&#x27;s good for the sport.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=UeU6o1Asenc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/UeU6o1Asenc/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/UeU6o1Asenc" type="text/html" medium="video"/>
+    <yt:videoId>UeU6o1Asenc</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Shout out to Collin Morikawa 👏</title>
+    <link>https://www.youtube.com/shorts/wFu7XuOITis</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/wFu7XuOITis</guid>
+    <pubDate>Tue, 14 Apr 2026 18:24:02 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/wFu7XuOITis"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/wFu7XuOITis/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/wFu7XuOITis" type="text/html" medium="video"/>
+    <yt:videoId>wFu7XuOITis</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
   </item>
   <item>
     <title>Sergio Garcia Has Issued an Apology for Wild Behavior at the Masters</title>
