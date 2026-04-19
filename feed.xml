@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 19 Apr 2026 17:31:10 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 19 Apr 2026 18:39:45 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Bryson DeChambeau Withdraws from LIV Golf Mexico City</title>
+    <link>https://skratch.golf/news/news/Bryson-dechambeau-liv-golf-mexico-city-withdraw-wd</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/Bryson-dechambeau-liv-golf-mexico-city-withdraw-wd</guid>
+    <pubDate>Sun, 19 Apr 2026 16:49:52 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Bryson DeChambeau withdrew from LIV Golf Mexico City on Sunday—here’s why.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Bryson-dechambeau-liv-golf-mexico-city-withdraw-wd"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2271514453_7306c9833c/Getty_Images_2271514453_7306c9833c.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Is it time for a high-lofted wedge?</title>
     <link>https://www.youtube.com/shorts/BBnpcZLLyRw</link>
@@ -648,17 +659,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Sergio Garcia Has Issued an Apology for Wild Behavior at the Masters</title>
-    <link>https://skratch.golf/news/news/masters-sergio-garcia-driver-water-cooler-apology-augusta-national</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/masters-sergio-garcia-driver-water-cooler-apology-augusta-national</guid>
-    <pubDate>Tue, 14 Apr 2026 16:39:32 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;On Sunday, Sergio Garcia tore up Augusta&#x27;s second tee box with his driver before snapping it on a water cooler. On Tuesday, he addressed it in a social media post.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-sergio-garcia-driver-water-cooler-apology-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270520863_146f391d8b/Getty_Images_2270520863_146f391d8b.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Three Players to Watch at the RBC Heritage</title>
