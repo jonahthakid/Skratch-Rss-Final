@@ -9,8 +9,36 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 20 Apr 2026 15:00:58 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 20 Apr 2026 16:38:45 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Congrats to the tan line GOAT, Stewart Cink, on his first PGA TOUR Champions major! 👏</title>
+    <link>https://www.youtube.com/shorts/MfpuGc-Wk0k</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/MfpuGc-Wk0k</guid>
+    <pubDate>Mon, 20 Apr 2026 16:03:47 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/MfpuGc-Wk0k"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/MfpuGc-Wk0k/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/MfpuGc-Wk0k" type="text/html" medium="video"/>
+    <yt:videoId>MfpuGc-Wk0k</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>The Fitzy, not the Hideki.</title>
+    <link>https://www.youtube.com/shorts/YfnL-RRZ9Ms</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/YfnL-RRZ9Ms</guid>
+    <pubDate>Mon, 20 Apr 2026 15:16:14 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/YfnL-RRZ9Ms"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/YfnL-RRZ9Ms/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/YfnL-RRZ9Ms" type="text/html" medium="video"/>
+    <yt:videoId>YfnL-RRZ9Ms</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Send this to your golfing buddy who needs to hear this today.</title>
     <link>https://www.youtube.com/shorts/B5Is7KriHKU</link>
@@ -626,34 +654,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Ingrid_Lindblad_TOC_driver_swing_Getty_Images_2259163169_97bb772782/Ingrid_Lindblad_TOC_driver_swing_Getty_Images_2259163169_97bb772782.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>How Many Majors Does Rory Finish With?</title>
-    <link>https://www.youtube.com/watch?v=dQGd4dhofsw</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=dQGd4dhofsw</guid>
-    <pubDate>Wed, 15 Apr 2026 12:30:54 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Dan &amp; Alan Shipnuck discuss Rory McIlroy&#x27;s Masters victory, and what it means big picture. How many majors will he finish his career with?&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=dQGd4dhofsw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/dQGd4dhofsw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/dQGd4dhofsw" type="text/html" medium="video"/>
-    <yt:videoId>dQGd4dhofsw</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>The bank is open. 😭 Johnny Miller executes the bulkhead bank shot to perfection.</title>
-    <link>https://www.youtube.com/shorts/oAe_9AvbYpQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/oAe_9AvbYpQ</guid>
-    <pubDate>Tue, 14 Apr 2026 20:49:28 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/oAe_9AvbYpQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/oAe_9AvbYpQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/oAe_9AvbYpQ" type="text/html" medium="video"/>
-    <yt:videoId>oAe_9AvbYpQ</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>TaylorMade Shadowfall Collection Kicks Off Spring</title>
