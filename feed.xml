@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 20 Apr 2026 13:18:23 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 20 Apr 2026 15:00:58 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Send this to your golfing buddy who needs to hear this today.</title>
+    <link>https://www.youtube.com/shorts/B5Is7KriHKU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/B5Is7KriHKU</guid>
+    <pubDate>Mon, 20 Apr 2026 14:09:29 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/B5Is7KriHKU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/B5Is7KriHKU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/B5Is7KriHKU" type="text/html" medium="video"/>
+    <yt:videoId>B5Is7KriHKU</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>A rollercoaster of a 30 minutes for Matt Fitzpatrick</title>
     <link>https://www.youtube.com/shorts/PcYtergWdDI</link>
@@ -40,18 +54,18 @@
     <category>video</category>
   </item>
   <item>
-    <title>S2 E28: Is LIV Golf About To Die?</title>
+    <title>S2 E29: Fitz Joins After RBC Win, LIV Says Everything’s Alright</title>
     <link>https://www.youtube.com/watch?v=GlR4DQizL2Q</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=GlR4DQizL2Q</guid>
     <pubDate>Sun, 19 Apr 2026 20:41:46 +0000</pubDate>
     <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;A developing story involving a possible shut down of LIV Golf. Is this the beginning of the end? We dive into it all. Plus: Sergio Garcia apologizes for his outburst at The Masters, Dan ranks his top 10 players in the world, Alan Shipnuck joins to give his all-time top 10 golfers list &amp; much, much more.
+    <description>&lt;p&gt;Matt Fitzpatrick joins the show after his playoff win at the RBC Heritage. Plus: The LPGA has a surprise purse raise, and Jon Rahm wins another LIV event. Also, Dan ranks his top 10 players walking styles on TOUR &amp; much, much more.
 
 Thank You to Our Sponsors!
 
 Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
 
-Dan travels all year and never leaves his Knockarounds behind, and if you &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=GlR4DQizL2Q"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround.com/golf and use code DANONGOLF20, you can stock up wit&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=GlR4DQizL2Q"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://img.youtube.com/vi/GlR4DQizL2Q/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/GlR4DQizL2Q" type="text/html" medium="video"/>
     <yt:videoId>GlR4DQizL2Q</yt:videoId>
@@ -651,20 +665,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Shadowfall_title_collection_b114c956bc/Shadowfall_title_collection_b114c956bc.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Still thinking about this shot from waste bunker at the 1999 RBC Heritage. 😳 #TigerTuesday</title>
-    <link>https://www.youtube.com/shorts/zU9lTo7rjh4</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/zU9lTo7rjh4</guid>
-    <pubDate>Tue, 14 Apr 2026 18:20:35 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/zU9lTo7rjh4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/zU9lTo7rjh4/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/zU9lTo7rjh4" type="text/html" medium="video"/>
-    <yt:videoId>zU9lTo7rjh4</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Three Players to Watch at the RBC Heritage</title>
