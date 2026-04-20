@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 20 Apr 2026 20:53:25 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 20 Apr 2026 21:41:04 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>S2 E29: Fitz Joins After RBC Win, LIV Says Everything’s Alright</title>
@@ -242,6 +242,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The 10 Players Who Have Our Full Attention Ahead of The Chevron Championship</title>
+    <link>https://skratch.golf/news/news/2026-chevron-championship-players-to-watch-lpga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/2026-chevron-championship-players-to-watch-lpga-tour</guid>
+    <pubDate>Fri, 17 Apr 2026 17:42:57 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Some are chasing history. Others are ready to crash the party. All of them matter this week for the first LPGA major of the season.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-chevron-championship-players-to-watch-lpga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2212246319_ef237afc14/Getty_Images_2212246319_ef237afc14.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Just how he drew it up. 😭</title>
@@ -652,24 +663,13 @@ Dan travels all year and never leaves his Knockarounds behind, and if you &lt;/p
     <category>article</category>
   </item>
   <item>
-    <title>Everything We Know About LIV Golf&#x27;s Rumored Demise</title>
-    <link>https://skratch.golf/news/news/liv-golf-shutting-down-saudi-arabia-pif-pulling-funding-reports</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/liv-golf-shutting-down-saudi-arabia-pif-pulling-funding-reports</guid>
-    <pubDate>Wed, 15 Apr 2026 13:51:07 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Multiple reports are claiming the Saudi PIF&#x27;s involvement in LIV Golf may be coming to an end, as the golf world was thrown into a frenzy Tuesday night that continued Wednesday. Here&#x27;s everything we&#x27;ve learned so far.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/liv-golf-shutting-down-saudi-arabia-pif-pulling-funding-reports"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2231543969_7e7acbac0c/Getty_Images_2231543969_7e7acbac0c.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Having Big Misses Off the Tee? Try Taking This LPGA Player&#x27;s Approach</title>
-    <link>https://skratch.golf/news/news/ingrid-lindblad-jm-eagle-la-championship-lpga-tour-driver-yips</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/ingrid-lindblad-jm-eagle-la-championship-lpga-tour-driver-yips</guid>
-    <pubDate>Wed, 15 Apr 2026 13:23:20 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Ahead of the JM Eagle LA Championship, last year&#x27;s winner Ingrid Lindblad gets real about her recent driver woes.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/ingrid-lindblad-jm-eagle-la-championship-lpga-tour-driver-yips"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Ingrid_Lindblad_TOC_driver_swing_Getty_Images_2259163169_97bb772782/Ingrid_Lindblad_TOC_driver_swing_Getty_Images_2259163169_97bb772782.jpg"/>
+    <title>TaylorMade Shadowfall Collection Kicks Off Spring</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/taylormade-shadowfall-collection-irons-qi4d</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/taylormade-shadowfall-collection-irons-qi4d</guid>
+    <pubDate>Tue, 14 Apr 2026 20:36:05 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Armed with a darker finish and clean lines, the new Shadowfall collection from TaylorMade brings extra refinement to their custom offerings.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/taylormade-shadowfall-collection-irons-qi4d"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Shadowfall_title_collection_b114c956bc/Shadowfall_title_collection_b114c956bc.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
