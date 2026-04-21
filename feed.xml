@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 21 Apr 2026 14:56:40 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 21 Apr 2026 16:09:00 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Inside Sugarloaf Social Club Spring Summer 2026 Collection</title>
+    <link>https://skratch.golf/style/mens-style/sugarloaf-social-club-spring-summer-2026-golf-collection</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/sugarloaf-social-club-spring-summer-2026-golf-collection</guid>
+    <pubDate>Tue, 21 Apr 2026 15:33:43 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;Sugarloaf Social Club leans into what it has always done best&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/sugarloaf-social-club-spring-summer-2026-golf-collection"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Sugarloaf_social_club_SS_26_Cover_4a57849d79/Sugarloaf_social_club_SS_26_Cover_4a57849d79.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Gonna miss these shenanigans every January. Aloha for now, Kapalua.</title>
+    <link>https://www.youtube.com/shorts/uwcDxSN2AXg</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/uwcDxSN2AXg</guid>
+    <pubDate>Tue, 21 Apr 2026 15:30:51 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/uwcDxSN2AXg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/uwcDxSN2AXg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/uwcDxSN2AXg" type="text/html" medium="video"/>
+    <yt:videoId>uwcDxSN2AXg</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>The PGA TOUR&#x27;s Hawaii Swing Could Be Coming to an End</title>
     <link>https://skratch.golf/news/news/pga-tour-eliminates-hawaii-events-the-sentry-sony-open</link>
@@ -638,20 +663,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you &lt;/p
     <category>article</category>
   </item>
   <item>
-    <title>Would&#x27;ve thought Scottie and Ted Scott would have their celebration more dialed in. 🤣</title>
-    <link>https://www.youtube.com/shorts/HnvBSA99oTU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/HnvBSA99oTU</guid>
-    <pubDate>Wed, 15 Apr 2026 19:03:22 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/HnvBSA99oTU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/HnvBSA99oTU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/HnvBSA99oTU" type="text/html" medium="video"/>
-    <yt:videoId>HnvBSA99oTU</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>The Gear World Doesn&#x27;t Slow Down At The RBC Heritage</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/gear-collection-rbc-heritage-updates</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/gear-collection-rbc-heritage-updates</guid>
@@ -659,17 +670,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you &lt;/p
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;The first men&#x27;s major of the year might be over, but the gear world isn&#x27;t slowing down at the RBC Heritage this week&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/gear-collection-rbc-heritage-updates"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/M_Kim_3_wood_cracked_22b230e286/M_Kim_3_wood_cracked_22b230e286.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Having Big Misses Off the Tee? Try Taking This LPGA Player&#x27;s Approach</title>
-    <link>https://skratch.golf/news/news/ingrid-lindblad-jm-eagle-la-championship-lpga-tour-driver-yips</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/ingrid-lindblad-jm-eagle-la-championship-lpga-tour-driver-yips</guid>
-    <pubDate>Wed, 15 Apr 2026 13:23:20 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Ahead of the JM Eagle LA Championship, last year&#x27;s winner Ingrid Lindblad gets real about her recent driver woes.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/ingrid-lindblad-jm-eagle-la-championship-lpga-tour-driver-yips"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Ingrid_Lindblad_TOC_driver_swing_Getty_Images_2259163169_97bb772782/Ingrid_Lindblad_TOC_driver_swing_Getty_Images_2259163169_97bb772782.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
