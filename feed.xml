@@ -9,8 +9,36 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 21 Apr 2026 19:03:38 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 21 Apr 2026 20:13:32 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>How&#x27;d Dan do?</title>
+    <link>https://www.youtube.com/shorts/ySxyD5M7paU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/ySxyD5M7paU</guid>
+    <pubDate>Tue, 21 Apr 2026 19:38:22 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ySxyD5M7paU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/ySxyD5M7paU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/ySxyD5M7paU" type="text/html" medium="video"/>
+    <yt:videoId>ySxyD5M7paU</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Matt Fitzpatrick On Getting To World No. 3 &amp; Dealing With USA Chants</title>
+    <link>https://www.youtube.com/watch?v=pT7MKc10PIQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=pT7MKc10PIQ</guid>
+    <pubDate>Tue, 21 Apr 2026 19:30:19 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Matt Fitzpatrick joins the show following his victory at the RBC Heritage to discuss it all: the USA chants, his one-arm finish, getting to No. 3 in the world, &amp; much more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=pT7MKc10PIQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/pT7MKc10PIQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/pT7MKc10PIQ" type="text/html" medium="video"/>
+    <yt:videoId>pT7MKc10PIQ</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Tiger vs. Ernie. One of the greatest duels we&#x27;ve ever seen. (2000, Kapalua) | #TigerTuesday</title>
     <link>https://www.youtube.com/shorts/NEn_uAN8MQg</link>
@@ -45,6 +73,17 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/NEn_uAN8MQg"&gt;
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The Chevron Championship Prize Purse Gets a Million Dollar Boost</title>
+    <link>https://skratch.golf/news/news/lpga-chevron-championship-prize-purse-increase-million-dollars</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-chevron-championship-prize-purse-increase-million-dollars</guid>
+    <pubDate>Tue, 21 Apr 2026 18:08:46 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The season’s first major just raised the stakes!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-chevron-championship-prize-purse-increase-million-dollars"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Nelly_Chevron_2024_trophy_758e0a6352/Nelly_Chevron_2024_trophy_758e0a6352.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Inside Sugarloaf Social Club Spring Summer 2026 Collection</title>
@@ -461,17 +500,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>Chizzy Iwai Just Went Full Video Game Mode at The JM Eagle</title>
-    <link>https://skratch.golf/news/news/chizzy-iwai-lpga-tour-jm-eagle-la-championship-7-under-front-nine</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/chizzy-iwai-lpga-tour-jm-eagle-la-championship-7-under-front-nine</guid>
-    <pubDate>Thu, 16 Apr 2026 19:02:50 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;She went 7-under through her first nine holes, carding five birdies and an eagle.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/chizzy-iwai-lpga-tour-jm-eagle-la-championship-7-under-front-nine"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Chizzy_Iwai_26_Founders_Cup_ce584e5a5a/Chizzy_Iwai_26_Founders_Cup_ce584e5a5a.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>This week&#x27;s World Dankings.</title>
     <link>https://www.youtube.com/shorts/NXzVWIhhst8</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/NXzVWIhhst8</guid>
@@ -616,34 +644,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/cz36lWbKTZQ/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/cz36lWbKTZQ" type="text/html" medium="video"/>
     <yt:videoId>cz36lWbKTZQ</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>&quot;If it&#x27;s not dead, it&#x27;s circling the drain. It&#x27;s in the intensive care unit.&quot;</title>
-    <link>https://www.youtube.com/shorts/vjTbCg1hno8</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/vjTbCg1hno8</guid>
-    <pubDate>Thu, 16 Apr 2026 02:53:18 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/vjTbCg1hno8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/vjTbCg1hno8/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/vjTbCg1hno8" type="text/html" medium="video"/>
-    <yt:videoId>vjTbCg1hno8</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>This one’s a little personal for Ben. @manorsgolf</title>
-    <link>https://www.youtube.com/shorts/qMpcUV3bD5c</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/qMpcUV3bD5c</guid>
-    <pubDate>Thu, 16 Apr 2026 01:32:17 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/qMpcUV3bD5c"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/qMpcUV3bD5c/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/qMpcUV3bD5c" type="text/html" medium="video"/>
-    <yt:videoId>qMpcUV3bD5c</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
