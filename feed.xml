@@ -1,5 +1,5 @@
 <!-- Warning: Error fetching Skratch: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwtGQ3sgidNlQGbIUBPP3xw -->
-<!-- Warning: Error fetching Dan On Golf Show: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
+<!-- Warning: Error fetching Dan On Golf Show: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -11,8 +11,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 21 Apr 2026 22:05:52 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 21 Apr 2026 23:04:19 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Golf’s Rising Talent Looks Different When the Cameras Stay On</title>
+    <link>https://skratch.golf/news/news/Full-swing-season-four-episode-two-spaun-griffin-mcnealy</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/Full-swing-season-four-episode-two-spaun-griffin-mcnealy</guid>
+    <pubDate>Tue, 21 Apr 2026 20:38:05 +0000</pubDate>
+    <dc:creator>Shane Bacon</dc:creator>
+    <description>&lt;p&gt;Full Swing Season Four follows J.J. Spaun, Maverick McNealy, and Ben Griffin to remind us that breakout seasons are built long before Sunday afternoons.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Full-swing-season-four-episode-two-spaun-griffin-mcnealy"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Maverick_Macnealy_Full_Swing_Season4_e2_plane2_225463a753/Maverick_Macnealy_Full_Swing_Season4_e2_plane2_225463a753.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>The Chevron Championship Prize Purse Gets a Million Dollar Boost</title>
     <link>https://skratch.golf/news/news/lpga-chevron-championship-prize-purse-increase-million-dollars</link>
@@ -179,6 +190,17 @@
     <category>article</category>
   </item>
   <item>
+    <title>Chizzy Iwai Just Went Full Video Game Mode at The JM Eagle</title>
+    <link>https://skratch.golf/news/news/chizzy-iwai-lpga-tour-jm-eagle-la-championship-7-under-front-nine</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/chizzy-iwai-lpga-tour-jm-eagle-la-championship-7-under-front-nine</guid>
+    <pubDate>Thu, 16 Apr 2026 19:02:50 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;She went 7-under through her first nine holes, carding five birdies and an eagle.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/chizzy-iwai-lpga-tour-jm-eagle-la-championship-7-under-front-nine"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Chizzy_Iwai_26_Founders_Cup_ce584e5a5a/Chizzy_Iwai_26_Founders_Cup_ce584e5a5a.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>College Golfer Nearly Holes Bunker Shot With a Putter (And Yes, You Read That Right)</title>
     <link>https://skratch.golf/news/news/college-golf-trevor-lewis-unlv-putt-from-bunker-viral-video</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/college-golf-trevor-lewis-unlv-putt-from-bunker-viral-video</guid>
@@ -186,17 +208,6 @@
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;With no wedge in hand and zero hesitation, Trevor Lewis of UNLV hits an absurd putter-from-the-sand shot that’s equal parts chaos and genius—and instantly viral.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/college-golf-trevor-lewis-unlv-putt-from-bunker-viral-video"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_04_16_at_1_35_33_PM_38f220e11a/Screenshot_2026_04_16_at_1_35_33_PM_38f220e11a.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Brooks Koepka&#x27;s Wait for a Spot in the RBC Heritage Could Be a Sign of Things to Come</title>
-    <link>https://skratch.golf/news/news/rbc-heritage-brooks-koepka-first-alternate-waiting-pga-tour-liv-golf</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/rbc-heritage-brooks-koepka-first-alternate-waiting-pga-tour-liv-golf</guid>
-    <pubDate>Thu, 16 Apr 2026 17:27:29 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Brooks Koepka&#x27;s anxious wait for a spot in the RBC Heritage field feels noteworthy given what&#x27;s happening with LIV Golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rbc-heritage-brooks-koepka-first-alternate-waiting-pga-tour-liv-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270981158_50fc5eadc8/Getty_Images_2270981158_50fc5eadc8.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -241,17 +252,6 @@
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;Armed with a darker finish and clean lines, the new Shadowfall collection from TaylorMade brings extra refinement to their custom offerings.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/taylormade-shadowfall-collection-irons-qi4d"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Shadowfall_title_collection_b114c956bc/Shadowfall_title_collection_b114c956bc.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Bench Tested: The Callaway Quantum Mini Driver</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/callaway-bench-tested-quantum-mini-driver-fitting</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/callaway-bench-tested-quantum-mini-driver-fitting</guid>
-    <pubDate>Tue, 14 Apr 2026 13:00:19 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Built with Callaway&#x27;s new Tri-Force face technology, we find out what separates the Callaway Quantum mini driver from the rest.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/callaway-bench-tested-quantum-mini-driver-fitting"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Bench_Callaway_mini_quantum_67cf964886/Bench_Callaway_mini_quantum_67cf964886.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
