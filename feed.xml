@@ -11,8 +11,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 20 Apr 2026 23:37:33 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 21 Apr 2026 02:03:16 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The PGA TOUR&#x27;s Hawaii Swing Could Be Coming to an End</title>
+    <link>https://skratch.golf/news/news/pga-tour-eliminates-hawaii-events-the-sentry-sony-open</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-eliminates-hawaii-events-the-sentry-sony-open</guid>
+    <pubDate>Mon, 20 Apr 2026 23:06:08 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The Sentry is reportedly out for 2027, and the Sony Open may be next, per SBJ.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-eliminates-hawaii-events-the-sentry-sony-open"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2193327563_db46ea8694/Getty_Images_2193327563_db46ea8694.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>5 Tech Golf Pants Worth Wearing (Plus the Viral Pair)</title>
     <link>https://skratch.golf/style/mens-style/5-tech-golf-pants-worth-wearing-plus-the-viral-pair</link>
@@ -212,13 +223,13 @@
     <category>article</category>
   </item>
   <item>
-    <title>Asterisk Talley Returns to LPGA Action, Looks to Rebound From ANWA</title>
-    <link>https://skratch.golf/news/news/asterisk-talley-jm-eagle-la-championship-lpga-tour-anwa-rebound</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/asterisk-talley-jm-eagle-la-championship-lpga-tour-anwa-rebound</guid>
-    <pubDate>Wed, 15 Apr 2026 16:34:39 +0000</pubDate>
+    <title>Having Big Misses Off the Tee? Try Taking This LPGA Player&#x27;s Approach</title>
+    <link>https://skratch.golf/news/news/ingrid-lindblad-jm-eagle-la-championship-lpga-tour-driver-yips</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/ingrid-lindblad-jm-eagle-la-championship-lpga-tour-driver-yips</guid>
+    <pubDate>Wed, 15 Apr 2026 13:23:20 +0000</pubDate>
     <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Talley&#x27;s next move, post-Augusta, starts with the JM Eagle LA Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/asterisk-talley-jm-eagle-la-championship-lpga-tour-anwa-rebound"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Asterisk_Talley_2026_ANWA_Final_Round_11180c2d26/Asterisk_Talley_2026_ANWA_Final_Round_11180c2d26.jpg"/>
+    <description>&lt;p&gt;Ahead of the JM Eagle LA Championship, last year&#x27;s winner Ingrid Lindblad gets real about her recent driver woes.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/ingrid-lindblad-jm-eagle-la-championship-lpga-tour-driver-yips"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Ingrid_Lindblad_TOC_driver_swing_Getty_Images_2259163169_97bb772782/Ingrid_Lindblad_TOC_driver_swing_Getty_Images_2259163169_97bb772782.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -274,17 +285,6 @@
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;Callaway is adding two new long-game options designed to give golfers more versatility off the tee and more firepower from the fairway.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/Callaway-quantum-line-mini-ti-fairway"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Callaway_Quantum_mini_ti_f3396049eb/Callaway_Quantum_mini_ti_f3396049eb.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Titleist GTS Drivers: What We Know Now (And Who’s Already Playing Them)</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/new-titleist-gts-drivers-first-look-release-date-details</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/new-titleist-gts-drivers-first-look-release-date-details</guid>
-    <pubDate>Mon, 23 Mar 2026 02:53:27 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Titleist’s GTS drivers are starting to show up on tour. Here’s what we know so far, including new details, player usage and what to expect at retail.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/new-titleist-gts-drivers-first-look-release-date-details"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Titleist_Tour_GTS_Launch_1dc109710b/Titleist_Tour_GTS_Launch_1dc109710b.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
