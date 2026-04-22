@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 22 Apr 2026 20:28:41 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 22 Apr 2026 21:26:38 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>With all the time he spends in nature, wishing Jordan a happy #EarthDay. 😭</title>
@@ -58,6 +58,17 @@
     <dc:creator>Shane Bacon</dc:creator>
     <description>&lt;p&gt;Full Swing Season 4, Episode 3 dives into Ryder Cup captain’s picks, where one phone call can change everything for players like Ben Griffin.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Full-swing-season-four-episode-three-ryder-cup-picks-phone-call-bradley-griffin"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Full_Swing_S4_E3_Keegan_Bradley_Phone_9c347e317f/Full_Swing_S4_E3_Keegan_Bradley_Phone_9c347e317f.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>First and Second Round Tee Times for the 2026 Chevron Championship</title>
+    <link>https://skratch.golf/news/news/2026-chevron-championship-first-second-round-tee-times-pairings</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/2026-chevron-championship-first-second-round-tee-times-pairings</guid>
+    <pubDate>Wed, 22 Apr 2026 15:56:17 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The featured group of former champions: Nelly, Mao, and Lilia is elite.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-chevron-championship-first-second-round-tee-times-pairings"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Lexi_Thompson_Tee_shot_Chevron_2025_51971dd397/Lexi_Thompson_Tee_shot_Chevron_2025_51971dd397.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -649,20 +660,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://img.youtube.com/vi/7cMlmWfJNAQ/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/7cMlmWfJNAQ" type="text/html" medium="video"/>
     <yt:videoId>7cMlmWfJNAQ</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Breaking Down LIV GOLF’s Future</title>
-    <link>https://www.youtube.com/watch?v=019L_2cAsAU</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=019L_2cAsAU</guid>
-    <pubDate>Thu, 16 Apr 2026 11:30:00 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Alan Shipnuck joins Dan to discuss why LIV Golf is failing &amp; the future of the league in the professional golf landscape.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=019L_2cAsAU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/019L_2cAsAU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/019L_2cAsAU" type="text/html" medium="video"/>
-    <yt:videoId>019L_2cAsAU</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
