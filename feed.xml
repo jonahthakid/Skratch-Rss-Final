@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 22 Apr 2026 17:31:10 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 22 Apr 2026 19:05:34 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Matt and Alex Fitzpatrick Are the Team to Beat at the Zurich Classic</title>
@@ -595,17 +595,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>College Golfer Nearly Holes Bunker Shot With a Putter (And Yes, You Read That Right)</title>
-    <link>https://skratch.golf/news/news/college-golf-trevor-lewis-unlv-putt-from-bunker-viral-video</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/college-golf-trevor-lewis-unlv-putt-from-bunker-viral-video</guid>
-    <pubDate>Thu, 16 Apr 2026 17:36:50 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;With no wedge in hand and zero hesitation, Trevor Lewis of UNLV hits an absurd putter-from-the-sand shot that’s equal parts chaos and genius—and instantly viral.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/college-golf-trevor-lewis-unlv-putt-from-bunker-viral-video"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_04_16_at_1_35_33_PM_38f220e11a/Screenshot_2026_04_16_at_1_35_33_PM_38f220e11a.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Brooks Koepka&#x27;s Wait for a Spot in the RBC Heritage Could Be a Sign of Things to Come</title>
     <link>https://skratch.golf/news/news/rbc-heritage-brooks-koepka-first-alternate-waiting-pga-tour-liv-golf</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/rbc-heritage-brooks-koepka-first-alternate-waiting-pga-tour-liv-golf</guid>
@@ -665,6 +654,20 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://img.youtube.com/vi/019L_2cAsAU/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/019L_2cAsAU" type="text/html" medium="video"/>
     <yt:videoId>019L_2cAsAU</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>1. Made the PGA TOUR better. 2. ?</title>
+    <link>https://www.youtube.com/shorts/cz36lWbKTZQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/cz36lWbKTZQ</guid>
+    <pubDate>Thu, 16 Apr 2026 03:30:34 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/cz36lWbKTZQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/cz36lWbKTZQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/cz36lWbKTZQ" type="text/html" medium="video"/>
+    <yt:videoId>cz36lWbKTZQ</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
