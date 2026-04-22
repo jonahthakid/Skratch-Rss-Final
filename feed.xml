@@ -9,8 +9,44 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 22 Apr 2026 16:06:19 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 22 Apr 2026 17:31:10 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Matt and Alex Fitzpatrick Are the Team to Beat at the Zurich Classic</title>
+    <link>https://skratch.golf/news/pro-golf/zurich-classic-2026-best-bets-picks-to-win</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/zurich-classic-2026-best-bets-picks-to-win</guid>
+    <pubDate>Wed, 22 Apr 2026 16:41:22 +0000</pubDate>
+    <dc:creator>Rick Gehman</dc:creator>
+    <description>&lt;p&gt;The PGA TOUR’s only team event brings plenty of chaos, but our resident winner picker likes the Fitzpatrick brothers to handle alternate shot and pile up enough birdies in New Orleans.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/zurich-classic-2026-best-bets-picks-to-win"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/matt_alex_fitzpatrick_zurich_2023_Getty_Images_1484030669_3f3790e191/matt_alex_fitzpatrick_zurich_2023_Getty_Images_1484030669_3f3790e191.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Success started at a young age for Charley Hull 🤣</title>
+    <link>https://www.youtube.com/shorts/YIvRzCM8NqY</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/YIvRzCM8NqY</guid>
+    <pubDate>Wed, 22 Apr 2026 16:13:07 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Charley Hull joined the latest episode of the Vanity Index Podcast to talk about her journey into the game, taking down boys at a young age, hitting stingers at her caddie on the range, biggest pet peeves and ranks pro golfers smoking on the course. Listen now at the link in bio!&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/YIvRzCM8NqY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/YIvRzCM8NqY/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/YIvRzCM8NqY" type="text/html" medium="video"/>
+    <yt:videoId>YIvRzCM8NqY</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Full Swing Captures the Most Emotional Phone Call in Golf</title>
+    <link>https://skratch.golf/news/news/Full-swing-season-four-episode-three-ryder-cup-picks-phone-call-bradley-griffin</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/Full-swing-season-four-episode-three-ryder-cup-picks-phone-call-bradley-griffin</guid>
+    <pubDate>Wed, 22 Apr 2026 16:00:27 +0000</pubDate>
+    <dc:creator>Shane Bacon</dc:creator>
+    <description>&lt;p&gt;Full Swing Season 4, Episode 3 dives into Ryder Cup captain’s picks, where one phone call can change everything for players like Ben Griffin.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Full-swing-season-four-episode-three-ryder-cup-picks-phone-call-bradley-griffin"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Full_Swing_S4_E3_Keegan_Bradley_Phone_9c347e317f/Full_Swing_S4_E3_Keegan_Bradley_Phone_9c347e317f.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>A new golf season mean&#x27;s it&#x27;s time for a new golf fit</title>
     <link>https://www.youtube.com/shorts/wnVSKculd5c</link>
@@ -545,28 +581,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>Every Golfer is Prone to a Whiff—Just Ask Chris Gotterup</title>
-    <link>https://skratch.golf/news/news/rbc-heritage-chris-gotterup-whiff-missed-ball-pga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/rbc-heritage-chris-gotterup-whiff-missed-ball-pga-tour</guid>
-    <pubDate>Thu, 16 Apr 2026 19:57:44 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;One of us! One of us!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rbc-heritage-chris-gotterup-whiff-missed-ball-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2271072046_de6bf4f696/Getty_Images_2271072046_de6bf4f696.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Chizzy Iwai Just Went Full Video Game Mode at The JM Eagle</title>
-    <link>https://skratch.golf/news/news/chizzy-iwai-lpga-tour-jm-eagle-la-championship-7-under-front-nine</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/chizzy-iwai-lpga-tour-jm-eagle-la-championship-7-under-front-nine</guid>
-    <pubDate>Thu, 16 Apr 2026 19:02:50 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;She went 7-under through her first nine holes, carding five birdies and an eagle.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/chizzy-iwai-lpga-tour-jm-eagle-la-championship-7-under-front-nine"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Chizzy_Iwai_26_Founders_Cup_ce584e5a5a/Chizzy_Iwai_26_Founders_Cup_ce584e5a5a.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>This week&#x27;s World Dankings.</title>
     <link>https://www.youtube.com/shorts/NXzVWIhhst8</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/NXzVWIhhst8</guid>
@@ -581,20 +595,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>Yeah, I’ll just take a drop. 😭(2017, RBC Heritage)</title>
-    <link>https://www.youtube.com/shorts/ACoqy9HhP_Q</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ACoqy9HhP_Q</guid>
-    <pubDate>Thu, 16 Apr 2026 17:49:04 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ACoqy9HhP_Q"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ACoqy9HhP_Q/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ACoqy9HhP_Q" type="text/html" medium="video"/>
-    <yt:videoId>ACoqy9HhP_Q</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>College Golfer Nearly Holes Bunker Shot With a Putter (And Yes, You Read That Right)</title>
     <link>https://skratch.golf/news/news/college-golf-trevor-lewis-unlv-putt-from-bunker-viral-video</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/college-golf-trevor-lewis-unlv-putt-from-bunker-viral-video</guid>
@@ -602,6 +602,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;With no wedge in hand and zero hesitation, Trevor Lewis of UNLV hits an absurd putter-from-the-sand shot that’s equal parts chaos and genius—and instantly viral.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/college-golf-trevor-lewis-unlv-putt-from-bunker-viral-video"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_04_16_at_1_35_33_PM_38f220e11a/Screenshot_2026_04_16_at_1_35_33_PM_38f220e11a.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Brooks Koepka&#x27;s Wait for a Spot in the RBC Heritage Could Be a Sign of Things to Come</title>
+    <link>https://skratch.golf/news/news/rbc-heritage-brooks-koepka-first-alternate-waiting-pga-tour-liv-golf</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/rbc-heritage-brooks-koepka-first-alternate-waiting-pga-tour-liv-golf</guid>
+    <pubDate>Thu, 16 Apr 2026 17:27:29 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Brooks Koepka&#x27;s anxious wait for a spot in the RBC Heritage field feels noteworthy given what&#x27;s happening with LIV Golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rbc-heritage-brooks-koepka-first-alternate-waiting-pga-tour-liv-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270981158_50fc5eadc8/Getty_Images_2270981158_50fc5eadc8.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -654,20 +665,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://img.youtube.com/vi/019L_2cAsAU/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/019L_2cAsAU" type="text/html" medium="video"/>
     <yt:videoId>019L_2cAsAU</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>1. Made the PGA TOUR better. 2. ?</title>
-    <link>https://www.youtube.com/shorts/cz36lWbKTZQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/cz36lWbKTZQ</guid>
-    <pubDate>Thu, 16 Apr 2026 03:30:34 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/cz36lWbKTZQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/cz36lWbKTZQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/cz36lWbKTZQ" type="text/html" medium="video"/>
-    <yt:videoId>cz36lWbKTZQ</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
