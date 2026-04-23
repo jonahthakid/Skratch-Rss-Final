@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 23 Apr 2026 20:45:12 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 23 Apr 2026 21:39:57 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Hannah Green has been on a heater this season 🔥</title>
@@ -28,6 +28,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Once Again, Linn Grant is Killing The (On-Course Style) Game</title>
+    <link>https://skratch.golf/style/womens-style/linn-grant-2026-chevron-championship-best-dressed-lpga-tour-adidas</link>
+    <guid isPermaLink="true">https://skratch.golf/style/womens-style/linn-grant-2026-chevron-championship-best-dressed-lpga-tour-adidas</guid>
+    <pubDate>Thu, 23 Apr 2026 20:29:25 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The Swedish golfer is the early favorite for best-dressed at the LPGA&#x27;s first major of the year.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/womens-style/linn-grant-2026-chevron-championship-best-dressed-lpga-tour-adidas"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Linn_Grant_Chevron_Championship_2026_Rd_1_e33f07e17c/Linn_Grant_Chevron_Championship_2026_Rd_1_e33f07e17c.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Every week is a major week in the fashion streets.</title>
@@ -670,17 +681,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;“The reality is you’re funded through the season and then you work like crazy to create a business plan to keep us going,” O’Neil told TNT. Later, the clip was reposted without the snippet.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/liv-golf-ceo-scott-oneil-interview-delete-post-funding-saudi-pif"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2271682862_61a808e75e/Getty_Images_2271682862_61a808e75e.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The 10 Players Who Have Our Full Attention Ahead of The Chevron Championship</title>
-    <link>https://skratch.golf/news/news/2026-chevron-championship-players-to-watch-lpga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/2026-chevron-championship-players-to-watch-lpga-tour</guid>
-    <pubDate>Fri, 17 Apr 2026 17:42:57 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Some are chasing history. Others are ready to crash the party. All of them matter this week for the first LPGA major of the season.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-chevron-championship-players-to-watch-lpga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2212246319_ef237afc14/Getty_Images_2212246319_ef237afc14.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
