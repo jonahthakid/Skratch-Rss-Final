@@ -9,8 +9,58 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 23 Apr 2026 13:14:04 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 23 Apr 2026 15:24:34 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Greg Norman On LIV Golf</title>
+    <link>https://www.youtube.com/watch?v=FSq-3jFWubs</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=FSq-3jFWubs</guid>
+    <pubDate>Thu, 23 Apr 2026 14:30:42 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Greg Norman calls into the show to discuss his time at LIV Golf, the new regime, the future of the league and golf landscape, &amp; much more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=FSq-3jFWubs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/FSq-3jFWubs/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/FSq-3jFWubs" type="text/html" medium="video"/>
+    <yt:videoId>FSq-3jFWubs</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>“I choked my guts out”. 😭</title>
+    <link>https://www.youtube.com/shorts/LKaRfa_kRls</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/LKaRfa_kRls</guid>
+    <pubDate>Thu, 23 Apr 2026 14:27:10 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Woody Austin has never been afraid to tell it like it is. No better example is after this happened at the 2008 Zurich Classic.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/LKaRfa_kRls"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/LKaRfa_kRls/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/LKaRfa_kRls" type="text/html" medium="video"/>
+    <yt:videoId>LKaRfa_kRls</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Exclusive: A Sit Down with Greg Norman</title>
+    <link>https://skratch.golf/news/news/greg-norman-interview-liv-golf-future-scott-oneil-saudi-arabia-pif</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/greg-norman-interview-liv-golf-future-scott-oneil-saudi-arabia-pif</guid>
+    <pubDate>Thu, 23 Apr 2026 14:02:30 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;As LIV Golf&#x27;s future hangs in the balance, we spoke with Greg Norman to get a clearer picture of how we got here and what the next steps Scott O&#x27;Neil should take.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/greg-norman-interview-liv-golf-future-scott-oneil-saudi-arabia-pif"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2173809560_1b0c20c743/Getty_Images_2173809560_1b0c20c743.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The Chevron Championship is Making a Splash...Literally</title>
+    <link>https://skratch.golf/news/news/poppies-pond-chevron-championship-explained</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/poppies-pond-chevron-championship-explained</guid>
+    <pubDate>Thu, 23 Apr 2026 13:59:40 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Why everyone can&#x27;t stop talking about &quot;the pond&quot;.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/poppies-pond-chevron-championship-explained"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_283139_6bdd89e1a4/Getty_Images_283139_6bdd89e1a4.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>LIV’s first CEO on the challenges facing LIV’s current CEO.</title>
     <link>https://www.youtube.com/shorts/N5PvdiunvwI</link>
@@ -580,20 +630,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>Just how he drew it up. 😭</title>
-    <link>https://www.youtube.com/shorts/iNHtHn0WxfA</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/iNHtHn0WxfA</guid>
-    <pubDate>Fri, 17 Apr 2026 17:18:25 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Solo leader, Matt Fitzpatrick, capitalizes off the member&#x27;s bounce at the difficult 14th to extend his lead.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/iNHtHn0WxfA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/iNHtHn0WxfA/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/iNHtHn0WxfA" type="text/html" medium="video"/>
-    <yt:videoId>iNHtHn0WxfA</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>The PGA TOUR Shorts Debate Isn’t New. But It’s Heating Up Again</title>
     <link>https://skratch.golf/style/mens-style/pga-tour-style-best-shorts-versus-golf-pants-debate</link>
     <guid isPermaLink="true">https://skratch.golf/style/mens-style/pga-tour-style-best-shorts-versus-golf-pants-debate</guid>
@@ -636,42 +672,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Lexi_Thompson_Chevron_Champ_2025_857f3e6c9c/Lexi_Thompson_Chevron_Champ_2025_857f3e6c9c.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Full Swing&#x27;s Season 4 Premiere Gets Right Into Keegan Bradley&#x27;s Inner Turmoil</title>
-    <link>https://skratch.golf/news/news/Full-swing-season-four-episode-one-rory-keegan-ryder-cup-unfinished-business</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/Full-swing-season-four-episode-one-rory-keegan-ryder-cup-unfinished-business</guid>
-    <pubDate>Fri, 17 Apr 2026 11:29:48 +0000</pubDate>
-    <dc:creator>Shane Bacon</dc:creator>
-    <description>&lt;p&gt;Episode One, “Unfinished Business,” revisits Bradley’s Ryder Cup reality, setting the tone for the entire season.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Full-swing-season-four-episode-one-rory-keegan-ryder-cup-unfinished-business"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/keegan_bradley_2025_ryder_cup_Getty_Images_2237607819_80ffca5244/keegan_bradley_2025_ryder_cup_Getty_Images_2237607819_80ffca5244.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Full Swing Season 4: A Year Like 2025 Is What This Show Was Built For</title>
-    <link>https://skratch.golf/news/news/full-swing-four-netflix-recap-release</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/full-swing-four-netflix-recap-release</guid>
-    <pubDate>Fri, 17 Apr 2026 03:02:48 +0000</pubDate>
-    <dc:creator>Shane Bacon</dc:creator>
-    <description>&lt;p&gt;Rory, the Ryder Cup, and a year that felt bigger than most all come into focus in the newest season of Netflix&#x27;s Full Swing.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/full-swing-four-netflix-recap-release"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Full_Swing_Key_Art_2026_Season_4_587d84a955/Full_Swing_Key_Art_2026_Season_4_587d84a955.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Who was best dressed at The Masters?</title>
-    <link>https://www.youtube.com/shorts/nH4qCBN3Qxc</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/nH4qCBN3Qxc</guid>
-    <pubDate>Thu, 16 Apr 2026 21:50:03 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/nH4qCBN3Qxc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/nH4qCBN3Qxc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/nH4qCBN3Qxc" type="text/html" medium="video"/>
-    <yt:videoId>nH4qCBN3Qxc</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
 </channel>
 </rss>
