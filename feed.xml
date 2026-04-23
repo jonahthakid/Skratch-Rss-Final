@@ -1,4 +1,5 @@
 <!-- Warning: Error fetching Skratch: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwtGQ3sgidNlQGbIUBPP3xw -->
+<!-- Warning: Error fetching Dan On Golf Show: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -10,56 +11,8 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 23 Apr 2026 00:07:39 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 23 Apr 2026 03:51:44 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
-  <item>
-    <title>This was coming. It still hurts.</title>
-    <link>https://www.youtube.com/shorts/jZUIW_yFH4U</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/jZUIW_yFH4U</guid>
-    <pubDate>Wed, 22 Apr 2026 23:45:02 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/jZUIW_yFH4U"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/jZUIW_yFH4U/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/jZUIW_yFH4U" type="text/html" medium="video"/>
-    <yt:videoId>jZUIW_yFH4U</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>S2 E30: Greg Norman on LIV’s Future, PGA TOUR Leaves Hawaii, Sudarshan Yellamaraju Interview</title>
-    <link>https://www.youtube.com/watch?v=TalL60j9v88</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=TalL60j9v88</guid>
-    <pubDate>Wed, 22 Apr 2026 23:37:19 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;A packed Wednesday show. We discuss the TOUR leaving Hawaii, Brian Rolapp&#x27;s comments about LIV Golf, Bryson DeChambeau&#x27;s possible moves behind the scenes &amp; much more. Greg Norman calls into the show to discuss it all &amp; Dan interviews rising rookie Sudarshan Yellamaraju.
-
-Thank You to Our Sponsors!
-
-Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
-
-Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround.com/golf and use&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=TalL60j9v88"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/TalL60j9v88/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/TalL60j9v88" type="text/html" medium="video"/>
-    <yt:videoId>TalL60j9v88</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>&quot;I went, Hallelujah, Hallelujah. Finally.&quot;</title>
-    <link>https://www.youtube.com/shorts/KnPF7_uaLP8</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/KnPF7_uaLP8</guid>
-    <pubDate>Wed, 22 Apr 2026 23:01:31 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/KnPF7_uaLP8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/KnPF7_uaLP8/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/KnPF7_uaLP8" type="text/html" medium="video"/>
-    <yt:videoId>KnPF7_uaLP8</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
   <item>
     <title>Everything&#x27;s Bigger in Texas—Including Rising Star Farah O’Keefe&#x27;s Personality</title>
     <link>https://skratch.golf/news/news/farah-o-keefe-chevron-championship-debut-lpga-tour-amateur-golf-texas</link>
@@ -138,48 +91,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>How&#x27;d Dan do?</title>
-    <link>https://www.youtube.com/shorts/ySxyD5M7paU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ySxyD5M7paU</guid>
-    <pubDate>Tue, 21 Apr 2026 19:38:22 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ySxyD5M7paU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ySxyD5M7paU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ySxyD5M7paU" type="text/html" medium="video"/>
-    <yt:videoId>ySxyD5M7paU</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Matt Fitzpatrick On Getting To World No. 3 &amp; Dealing With USA Chants</title>
-    <link>https://www.youtube.com/watch?v=pT7MKc10PIQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=pT7MKc10PIQ</guid>
-    <pubDate>Tue, 21 Apr 2026 19:30:19 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Matt Fitzpatrick joins the show following his victory at the RBC Heritage to discuss it all: the USA chants, his one-arm finish, getting to No. 3 in the world, &amp; much more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=pT7MKc10PIQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/pT7MKc10PIQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/pT7MKc10PIQ" type="text/html" medium="video"/>
-    <yt:videoId>pT7MKc10PIQ</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>“Max Homa blew up a Whoopie Cushion, put it on a chair &amp; then he sat on it himself” @manorsgolf</title>
-    <link>https://www.youtube.com/shorts/EyU4nSS_1Gs</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/EyU4nSS_1Gs</guid>
-    <pubDate>Tue, 21 Apr 2026 18:27:19 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/EyU4nSS_1Gs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/EyU4nSS_1Gs/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/EyU4nSS_1Gs" type="text/html" medium="video"/>
-    <yt:videoId>EyU4nSS_1Gs</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>The Chevron Championship Prize Purse Gets a Million Dollar Boost</title>
     <link>https://skratch.golf/news/news/lpga-chevron-championship-prize-purse-increase-million-dollars</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/lpga-chevron-championship-prize-purse-increase-million-dollars</guid>
@@ -213,26 +124,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>S2 E29: Fitz Joins After RBC Win, LIV Says Everything’s Alright</title>
-    <link>https://www.youtube.com/watch?v=GlR4DQizL2Q</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=GlR4DQizL2Q</guid>
-    <pubDate>Mon, 20 Apr 2026 20:46:41 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Matt Fitzpatrick joins the show after his playoff win at the RBC Heritage. Plus: The LPGA has a surprise purse raise, and Jon Rahm wins another LIV event. Also, Dan ranks his top 10 players walking styles on TOUR &amp; much, much more.
-
-Thank You to Our Sponsors!
-
-Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
-
-Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround.com/golf and use code DANONGOLF20, you can stock up wit&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=GlR4DQizL2Q"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/GlR4DQizL2Q/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/GlR4DQizL2Q" type="text/html" medium="video"/>
-    <yt:videoId>GlR4DQizL2Q</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>5 Tech Golf Pants Worth Wearing (Plus the Viral Pair)</title>
     <link>https://skratch.golf/style/mens-style/5-tech-golf-pants-worth-wearing-plus-the-viral-pair</link>
     <guid isPermaLink="true">https://skratch.golf/style/mens-style/5-tech-golf-pants-worth-wearing-plus-the-viral-pair</guid>
@@ -242,34 +133,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Pants_5_Cover_c8d4f9f83e/Pants_5_Cover_c8d4f9f83e.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Matt Fitzpatrick loves the banter.</title>
-    <link>https://www.youtube.com/shorts/NojNf9ZWufI</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/NojNf9ZWufI</guid>
-    <pubDate>Mon, 20 Apr 2026 19:30:03 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/NojNf9ZWufI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/NojNf9ZWufI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/NojNf9ZWufI" type="text/html" medium="video"/>
-    <yt:videoId>NojNf9ZWufI</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>&quot;If you&#x27;re serious, you want to win golf tournaments on the greatest tour in the world.&quot;</title>
-    <link>https://www.youtube.com/shorts/n3nvF5wuwT0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/n3nvF5wuwT0</guid>
-    <pubDate>Mon, 20 Apr 2026 18:05:53 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/n3nvF5wuwT0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/n3nvF5wuwT0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/n3nvF5wuwT0" type="text/html" medium="video"/>
-    <yt:videoId>n3nvF5wuwT0</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>Report: Bryson DeChambeau Mulling Future, Looking at Options Outside of LIV Golf</title>
@@ -283,34 +146,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>The Fitzy, not the Hideki.</title>
-    <link>https://www.youtube.com/shorts/YfnL-RRZ9Ms</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/YfnL-RRZ9Ms</guid>
-    <pubDate>Mon, 20 Apr 2026 15:16:14 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/YfnL-RRZ9Ms"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/YfnL-RRZ9Ms/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/YfnL-RRZ9Ms" type="text/html" medium="video"/>
-    <yt:videoId>YfnL-RRZ9Ms</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Scottie &amp; Fitz In PLAYOFF at Harbour Town! | RBC Heritage Final Round Watch Along</title>
-    <link>https://www.youtube.com/watch?v=fr97B4g22Go</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=fr97B4g22Go</guid>
-    <pubDate>Sun, 19 Apr 2026 22:27:50 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Watch the final-round action unfold at the RBC Heritage alongside Dan Rapaport&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=fr97B4g22Go"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/fr97B4g22Go/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/fr97B4g22Go" type="text/html" medium="video"/>
-    <yt:videoId>fr97B4g22Go</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Bryson DeChambeau Withdraws from LIV Golf Mexico City</title>
     <link>https://skratch.golf/news/news/Bryson-dechambeau-liv-golf-mexico-city-withdraw-wd</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/Bryson-dechambeau-liv-golf-mexico-city-withdraw-wd</guid>
@@ -320,20 +155,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2271514453_7306c9833c/Getty_Images_2271514453_7306c9833c.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Did you hit on Rory last week? Here&#x27;s another chance to get in the game on Polymarket.</title>
-    <link>https://www.youtube.com/shorts/RxIqTPabz04</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/RxIqTPabz04</guid>
-    <pubDate>Fri, 17 Apr 2026 21:07:17 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/RxIqTPabz04"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/RxIqTPabz04/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/RxIqTPabz04" type="text/html" medium="video"/>
-    <yt:videoId>RxIqTPabz04</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>An Interview with LIV Golf CEO Scott O&#x27;Neil Has Been Reposted Without Its Already Viral Quote</title>
@@ -424,34 +245,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>Who was best dressed at The Masters?</title>
-    <link>https://www.youtube.com/shorts/nH4qCBN3Qxc</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/nH4qCBN3Qxc</guid>
-    <pubDate>Thu, 16 Apr 2026 21:50:03 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/nH4qCBN3Qxc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/nH4qCBN3Qxc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/nH4qCBN3Qxc" type="text/html" medium="video"/>
-    <yt:videoId>nH4qCBN3Qxc</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>This week&#x27;s World Dankings.</title>
-    <link>https://www.youtube.com/shorts/NXzVWIhhst8</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/NXzVWIhhst8</guid>
-    <pubDate>Thu, 16 Apr 2026 18:46:45 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/NXzVWIhhst8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/NXzVWIhhst8/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/NXzVWIhhst8" type="text/html" medium="video"/>
-    <yt:videoId>NXzVWIhhst8</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Brooks Koepka&#x27;s Wait for a Spot in the RBC Heritage Could Be a Sign of Things to Come</title>
     <link>https://skratch.golf/news/news/rbc-heritage-brooks-koepka-first-alternate-waiting-pga-tour-liv-golf</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/rbc-heritage-brooks-koepka-first-alternate-waiting-pga-tour-liv-golf</guid>
@@ -461,20 +254,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270981158_50fc5eadc8/Getty_Images_2270981158_50fc5eadc8.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>&quot;Can&#x27;t be doing that at 45.&quot; Presented by @Knockaround.</title>
-    <link>https://www.youtube.com/shorts/USG6xIwrtyk</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/USG6xIwrtyk</guid>
-    <pubDate>Thu, 16 Apr 2026 16:17:48 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/USG6xIwrtyk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/USG6xIwrtyk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/USG6xIwrtyk" type="text/html" medium="video"/>
-    <yt:videoId>USG6xIwrtyk</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>Eastside Golf’s “More Than Just a Game” Collection Finds the Middle Ground</title>
