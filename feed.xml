@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 23 Apr 2026 16:57:57 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 23 Apr 2026 18:06:52 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>TaylorMade Apparel Gets a Fresh Start with 1985-Inspired Drop</title>
+    <link>https://skratch.golf/style/mens-style/taylor-made-apparel-gets-a-fresh-start-with-1985-inspired-drop</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/taylor-made-apparel-gets-a-fresh-start-with-1985-inspired-drop</guid>
+    <pubDate>Thu, 23 Apr 2026 16:56:55 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;A long-overdue reset for one of golf’s biggest names&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/taylor-made-apparel-gets-a-fresh-start-with-1985-inspired-drop"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/TM_Apparel_Cover_7d78ccddcf/TM_Apparel_Cover_7d78ccddcf.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Greg Norman On LIV Golf</title>
     <link>https://www.youtube.com/watch?v=FSq-3jFWubs</link>
@@ -161,6 +172,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>I Played My First Top 100 Golf Course—I Get It Now</title>
+    <link>https://skratch.golf/news/golf-culture/winged-foot-playing-my-first-top-100-golf-course</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/winged-foot-playing-my-first-top-100-golf-course</guid>
+    <pubDate>Wed, 22 Apr 2026 17:18:22 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;A day at Winged Foot reminded me why great courses feel different, and previewing the USGA’s new GHIN app made one of golf’s best tests even more memorable.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/winged-foot-playing-my-first-top-100-golf-course"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Untitled_design_4_ac026dc43d/Untitled_design_4_ac026dc43d.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Matt and Alex Fitzpatrick Are the Team to Beat at the Zurich Classic</title>
@@ -637,28 +659,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Raymond Williams</dc:creator>
     <description>&lt;p&gt;Practice rounds evolved. Competition rounds have not.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/pga-tour-style-best-shorts-versus-golf-pants-debate"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Shorts_vs_pants_conver_a319a326a7/Shorts_vs_pants_conver_a319a326a7.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Bryson DeChambeau Complains About Course Conditions at LIV Golf Mexico City</title>
-    <link>https://skratch.golf/news/news/liv-golf-bryson-dechambeau-complain-course-conditions-mexico</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/liv-golf-bryson-dechambeau-complain-course-conditions-mexico</guid>
-    <pubDate>Fri, 17 Apr 2026 16:26:48 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Rumors of pulled funding, Bryson complaining about course conditions—things are going well for LIV Golf!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/liv-golf-bryson-dechambeau-complain-course-conditions-mexico"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2271687050_5c71ac9739/Getty_Images_2271687050_5c71ac9739.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Minjee Lee Has Withdrawn From the JM Eagle LA Championship</title>
-    <link>https://skratch.golf/news/news/minjee-lee-withdraws-jm-eagle-la-championship-lpga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/minjee-lee-withdraws-jm-eagle-la-championship-lpga-tour</guid>
-    <pubDate>Fri, 17 Apr 2026 14:38:48 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Despite opening with a 3-under-par 69, the three-time major champion withdrew just one week before the Chevron Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/minjee-lee-withdraws-jm-eagle-la-championship-lpga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2219804756_af0ef2a6c5/Getty_Images_2219804756_af0ef2a6c5.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
