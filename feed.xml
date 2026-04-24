@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 24 Apr 2026 17:27:46 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 24 Apr 2026 18:05:16 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>The SEXIEST shot in golf 🐝 | PGA TOUR Stingers</title>
@@ -48,6 +48,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Jim Furyk and the Overcorrection to the Overcorrection</title>
+    <link>https://skratch.golf/news/news/Jim-furyk-ryder-cup-captain-team-usa-analysis-overcorrection</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/Jim-furyk-ryder-cup-captain-team-usa-analysis-overcorrection</guid>
+    <pubDate>Fri, 24 Apr 2026 15:43:40 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;After taking a risk at Bethpage Black, Team USA is once again relying on a familiar face.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Jim-furyk-ryder-cup-captain-team-usa-analysis-overcorrection"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1235451859_55cfcbdb7c/Getty_Images_1235451859_55cfcbdb7c.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Imagine telling this kid he&#x27;s going to be a two-time Ryder Cup captain.</title>
@@ -123,6 +134,17 @@ Associate Tour Consultant for Ball Performance, Patrick Dewar, joined this week�
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;The World No. 2 shines with an opening round of 65.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/nelly-korda-takes-early-chevron-championship-round-one-lead-lpga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2272830811_d4ff377ead/Getty_Images_2272830811_d4ff377ead.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>I Might Not Take Off This Oxford from Sugarloaf Social Club</title>
+    <link>https://skratch.golf/style/mens-style/i-might-not-take-off-this-oxford-from-sugarloaf-social-club</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/i-might-not-take-off-this-oxford-from-sugarloaf-social-club</guid>
+    <pubDate>Thu, 23 Apr 2026 22:24:01 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;An easy-wearing take on a menswear staple that usually feels too proper.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/i-might-not-take-off-this-oxford-from-sugarloaf-social-club"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Oxford_Cover_SSC_9ded23c83c/Oxford_Cover_SSC_9ded23c83c.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -616,17 +638,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>5 Tech Golf Pants Worth Wearing (Plus the Viral Pair)</title>
-    <link>https://skratch.golf/style/mens-style/5-tech-golf-pants-worth-wearing-plus-the-viral-pair</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/5-tech-golf-pants-worth-wearing-plus-the-viral-pair</guid>
-    <pubDate>Mon, 20 Apr 2026 19:51:41 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Tech, tailored, and one viral pair that’s changing everything&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/5-tech-golf-pants-worth-wearing-plus-the-viral-pair"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Pants_5_Cover_c8d4f9f83e/Pants_5_Cover_c8d4f9f83e.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Matt Fitzpatrick loves the banter.</title>
     <link>https://www.youtube.com/shorts/NojNf9ZWufI</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/NojNf9ZWufI</guid>
@@ -675,20 +686,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://img.youtube.com/vi/YfnL-RRZ9Ms/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/YfnL-RRZ9Ms" type="text/html" medium="video"/>
     <yt:videoId>YfnL-RRZ9Ms</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Scottie &amp; Fitz In PLAYOFF at Harbour Town! | RBC Heritage Final Round Watch Along</title>
-    <link>https://www.youtube.com/watch?v=fr97B4g22Go</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=fr97B4g22Go</guid>
-    <pubDate>Sun, 19 Apr 2026 22:27:50 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Watch the final-round action unfold at the RBC Heritage alongside Dan Rapaport&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=fr97B4g22Go"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/fr97B4g22Go/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/fr97B4g22Go" type="text/html" medium="video"/>
-    <yt:videoId>fr97B4g22Go</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
