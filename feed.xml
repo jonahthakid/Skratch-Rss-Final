@@ -1,4 +1,4 @@
-<!-- Warning: Error fetching Dan On Golf Show: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
+<!-- Warning: Error fetching Dan On Golf Show: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -10,7 +10,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 24 Apr 2026 02:05:59 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 24 Apr 2026 05:19:52 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>The greatest #NFLDraft steal showing off his tools at Pebble Beach.</title>
@@ -41,6 +41,17 @@ Associate Tour Consultant for Ball Performance, Patrick Dewar, joined this week�
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Nelly Korda in Control Early at Chevron Championship</title>
+    <link>https://skratch.golf/news/news/nelly-korda-takes-early-chevron-championship-round-one-lead-lpga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/nelly-korda-takes-early-chevron-championship-round-one-lead-lpga-tour</guid>
+    <pubDate>Thu, 23 Apr 2026 22:45:28 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The World No. 2 shines with an opening round of 65.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/nelly-korda-takes-early-chevron-championship-round-one-lead-lpga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2272830811_d4ff377ead/Getty_Images_2272830811_d4ff377ead.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Hannah Green has been on a heater this season 🔥</title>
@@ -473,17 +484,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/NEn_uAN8MQg"&gt;
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;Some are chasing history. Others are ready to crash the party. All of them matter this week for the first LPGA major of the season.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-chevron-championship-players-to-watch-lpga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2212246319_ef237afc14/Getty_Images_2212246319_ef237afc14.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The PGA TOUR Shorts Debate Isn’t New. But It’s Heating Up Again</title>
-    <link>https://skratch.golf/style/mens-style/pga-tour-style-best-shorts-versus-golf-pants-debate</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/pga-tour-style-best-shorts-versus-golf-pants-debate</guid>
-    <pubDate>Fri, 17 Apr 2026 16:45:57 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Practice rounds evolved. Competition rounds have not.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/pga-tour-style-best-shorts-versus-golf-pants-debate"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Shorts_vs_pants_conver_a319a326a7/Shorts_vs_pants_conver_a319a326a7.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
