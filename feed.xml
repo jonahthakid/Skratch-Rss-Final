@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 24 Apr 2026 21:10:52 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 24 Apr 2026 22:06:17 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Testing out the latest PUTTER grips from Golf Pride</title>
@@ -37,6 +37,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Raymond Williams</dc:creator>
     <description>&lt;p&gt;A full lifestyle swing from tee box to living room.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/zara-home-dropped-the-most-unexpected-golf-collection"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Zara_Home_Golf_acebd52aab/Zara_Home_Golf_acebd52aab.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Bethpage’s Ending Was Never the Whole Story, Full Swing Finale Shows the Rest</title>
+    <link>https://skratch.golf/news/news/Full-swing-season-four-episode-four-ryder-cup-finale-bethpage</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/Full-swing-season-four-episode-four-ryder-cup-finale-bethpage</guid>
+    <pubDate>Fri, 24 Apr 2026 18:38:36 +0000</pubDate>
+    <dc:creator>Shane Bacon</dc:creator>
+    <description>&lt;p&gt;Episode 4, “The Last Stand,” takes us inside Bethpage Black, where the Ryder Cup became the defining golf event of the year. Here&#x27;s what we&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Full-swing-season-four-episode-four-ryder-cup-finale-bethpage"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2237962585_169b03fc66/Getty_Images_2237962585_169b03fc66.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -613,17 +624,6 @@ Subscribe to Skratch on&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/sh
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The Chevron Championship Prize Purse Gets a Million Dollar Boost</title>
-    <link>https://skratch.golf/news/news/lpga-chevron-championship-prize-purse-increase-million-dollars</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-chevron-championship-prize-purse-increase-million-dollars</guid>
-    <pubDate>Tue, 21 Apr 2026 18:08:46 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The season’s first major just raised the stakes!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-chevron-championship-prize-purse-increase-million-dollars"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Nelly_Chevron_2024_trophy_758e0a6352/Nelly_Chevron_2024_trophy_758e0a6352.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Inside Sugarloaf Social Club Spring Summer 2026 Collection</title>
