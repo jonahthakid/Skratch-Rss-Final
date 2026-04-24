@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 24 Apr 2026 18:05:16 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 24 Apr 2026 19:26:46 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>The SEXIEST shot in golf 🐝 | PGA TOUR Stingers</title>
@@ -48,6 +48,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Straight from Chevron, Farah O’Keefe Faces Another Major Qualifier</title>
+    <link>https://skratch.golf/news/news/farah-o-keefe-chevron-championship-us-womens-open-qualifier</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/farah-o-keefe-chevron-championship-us-womens-open-qualifier</guid>
+    <pubDate>Fri, 24 Apr 2026 16:32:53 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The life of being a top amateur is a busy one...O&#x27;Keefe is scheduled to head to Florida for a USWO qualifier immediately after the Chevron Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/farah-o-keefe-chevron-championship-us-womens-open-qualifier"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Farah_O_Keefe_2026_Chevron_Champ_Rd_2_aafeaea22d/Farah_O_Keefe_2026_Chevron_Champ_Rd_2_aafeaea22d.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Jim Furyk and the Overcorrection to the Overcorrection</title>
@@ -242,6 +253,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Raymond Williams</dc:creator>
     <description>&lt;p&gt;A long-overdue reset for one of golf’s biggest names&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/taylor-made-apparel-gets-a-fresh-start-with-1985-inspired-drop"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/TM_Apparel_Cover_7d78ccddcf/TM_Apparel_Cover_7d78ccddcf.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The New USGA GHIN App Is Coming for Every Other Golf App on Your Phone</title>
+    <link>https://skratch.golf/news/news/usga-new-ghin-app-inside-look-gps-green-reading-heat-maps-handicap</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/usga-new-ghin-app-inside-look-gps-green-reading-heat-maps-handicap</guid>
+    <pubDate>Thu, 23 Apr 2026 16:02:33 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;A first look at the redesigned GHIN experience, with new GPS tools, green maps, and deeper stat tracking coming later this year.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/usga-new-ghin-app-inside-look-gps-green-reading-heat-maps-handicap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Untitled_design_5_a919509517/Untitled_design_5_a919509517.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -607,17 +629,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/NEn_uAN8MQg"&gt;
     <category>article</category>
   </item>
   <item>
-    <title>The PGA TOUR&#x27;s Hawaii Swing Could Be Coming to an End</title>
-    <link>https://skratch.golf/news/news/pga-tour-eliminates-hawaii-events-the-sentry-sony-open</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-eliminates-hawaii-events-the-sentry-sony-open</guid>
-    <pubDate>Mon, 20 Apr 2026 23:06:08 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The Sentry is reportedly out for 2027, and the Sony Open may be next, per SBJ.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-eliminates-hawaii-events-the-sentry-sony-open"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2193327563_db46ea8694/Getty_Images_2193327563_db46ea8694.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>S2 E29: Fitz Joins After RBC Win, LIV Says Everything’s Alright</title>
     <link>https://www.youtube.com/watch?v=GlR4DQizL2Q</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=GlR4DQizL2Q</guid>
@@ -664,17 +675,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Report: Bryson DeChambeau Mulling Future, Looking at Options Outside of LIV Golf</title>
-    <link>https://skratch.golf/news/news/bryson-dechambeau-liv-golf-future-report-talked-options-masters-week</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/bryson-dechambeau-liv-golf-future-report-talked-options-masters-week</guid>
-    <pubDate>Mon, 20 Apr 2026 16:53:49 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;According to a report, Bryson DeChambeau spoke with multiple organizations during Masters week, seeking options about his future outside of LIV Golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/bryson-dechambeau-liv-golf-future-report-talked-options-masters-week"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270228942_c0296642e7/Getty_Images_2270228942_c0296642e7.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>The Fitzy, not the Hideki.</title>
