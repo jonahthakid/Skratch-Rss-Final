@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 24 Apr 2026 23:04:54 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 25 Apr 2026 00:01:51 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Houston, We Have No Problems: Nelly Korda Is In Command at Chevron</title>
+    <link>https://skratch.golf/news/news/nelly-korda-2026-chevron-championship-round-two-leader-recap</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/nelly-korda-2026-chevron-championship-round-two-leader-recap</guid>
+    <pubDate>Fri, 24 Apr 2026 20:54:26 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;&quot;What&#x27;s challenging about playing with the lead is you have a target on your back in a sense, but also...I just like enjoy it,&quot; the World No. 2 said after carding back-to-back 65s.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/nelly-korda-2026-chevron-championship-round-two-leader-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Nelly_Korda_Chevron_2026_Day_2_da3fb12062/Nelly_Korda_Chevron_2026_Day_2_da3fb12062.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Testing out the latest PUTTER grips from Golf Pride</title>
     <link>https://www.youtube.com/shorts/zzDN1o2kwdE</link>
@@ -624,17 +635,6 @@ Subscribe to Skratch on&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/sh
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Inside Sugarloaf Social Club Spring Summer 2026 Collection</title>
-    <link>https://skratch.golf/style/mens-style/sugarloaf-social-club-spring-summer-2026-golf-collection</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/sugarloaf-social-club-spring-summer-2026-golf-collection</guid>
-    <pubDate>Tue, 21 Apr 2026 15:33:43 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Sugarloaf Social Club leans into what it has always done best&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/sugarloaf-social-club-spring-summer-2026-golf-collection"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Sugarloaf_social_club_SS_26_Cover_4a57849d79/Sugarloaf_social_club_SS_26_Cover_4a57849d79.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>S2 E29: Fitz Joins After RBC Win, LIV Says Everything’s Alright</title>
