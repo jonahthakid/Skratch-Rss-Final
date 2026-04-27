@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 26 Apr 2026 23:04:18 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 27 Apr 2026 00:02:00 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>They did it.</title>
@@ -24,6 +24,17 @@
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Never a Doubt. Nelly Gets It Done At Chevron.</title>
+    <link>https://skratch.golf/news/news/nelly-korda-2026-chevron-championship-winner-recap</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/nelly-korda-2026-chevron-championship-winner-recap</guid>
+    <pubDate>Sun, 26 Apr 2026 21:40:56 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;From the opening tee shot to the final putt, Nelly Korda controlled every step of the Chevron Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/nelly-korda-2026-chevron-championship-winner-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2273276151_bd497fafaa/Getty_Images_2273276151_bd497fafaa.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Will Nelly Go Wire-to-Wire? Korda Holds Chevron Lead By Five</title>
@@ -553,17 +564,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>Matt and Alex Fitzpatrick Are the Team to Beat at the Zurich Classic</title>
-    <link>https://skratch.golf/news/pro-golf/zurich-classic-2026-best-bets-picks-to-win</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/zurich-classic-2026-best-bets-picks-to-win</guid>
-    <pubDate>Wed, 22 Apr 2026 16:41:22 +0000</pubDate>
-    <dc:creator>Rick Gehman</dc:creator>
-    <description>&lt;p&gt;The PGA TOUR’s only team event brings plenty of chaos, but our resident winner picker likes the Fitzpatrick brothers to handle alternate shot and pile up enough birdies in New Orleans.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/zurich-classic-2026-best-bets-picks-to-win"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/matt_alex_fitzpatrick_zurich_2023_Getty_Images_1484030669_3f3790e191/matt_alex_fitzpatrick_zurich_2023_Getty_Images_1484030669_3f3790e191.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Success started at a young age for Charley Hull 🤣</title>
     <link>https://www.youtube.com/shorts/YIvRzCM8NqY</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/YIvRzCM8NqY</guid>
@@ -576,6 +576,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Full Swing Captures the Most Emotional Phone Call in Golf</title>
+    <link>https://skratch.golf/news/news/Full-swing-season-four-episode-three-ryder-cup-picks-phone-call-bradley-griffin</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/Full-swing-season-four-episode-three-ryder-cup-picks-phone-call-bradley-griffin</guid>
+    <pubDate>Wed, 22 Apr 2026 16:00:27 +0000</pubDate>
+    <dc:creator>Shane Bacon</dc:creator>
+    <description>&lt;p&gt;Full Swing Season 4, Episode 3 dives into Ryder Cup captain’s picks, where one phone call can change everything for players like Ben Griffin.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Full-swing-season-four-episode-three-ryder-cup-picks-phone-call-bradley-griffin"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Full_Swing_S4_E3_Keegan_Bradley_Phone_9c347e317f/Full_Swing_S4_E3_Keegan_Bradley_Phone_9c347e317f.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>PUMA Golf and Gumtree Golf and Nature Club Slow the Game Down</title>
@@ -607,17 +618,6 @@ Subscribe to Skratch on&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/sh
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>On Tap: Zurich Classic of New Orleans</title>
-    <link>https://skratch.golf/news/news/zurich-classic-how-to-watch-pga-tour-tee-times-new-orleans</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/zurich-classic-how-to-watch-pga-tour-tee-times-new-orleans</guid>
-    <pubDate>Wed, 22 Apr 2026 13:59:42 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;It&#x27;s almost time for some team golf in the Bayou. Here&#x27;s everything you need to know to watch the Zurich Classic this week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/zurich-classic-how-to-watch-pga-tour-tee-times-new-orleans"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2212309565_e21a07160a/Getty_Images_2212309565_e21a07160a.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>How&#x27;d Dan do?</title>
