@@ -1,3 +1,4 @@
+<!-- Warning: Error fetching Dan On Golf Show: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -9,21 +10,18 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 27 Apr 2026 00:02:00 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 27 Apr 2026 04:04:56 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
-    <title>They did it.</title>
-    <link>https://www.youtube.com/shorts/77g-4XL7R3w</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/77g-4XL7R3w</guid>
-    <pubDate>Sun, 26 Apr 2026 22:28:14 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/77g-4XL7R3w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/77g-4XL7R3w/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/77g-4XL7R3w" type="text/html" medium="video"/>
-    <yt:videoId>77g-4XL7R3w</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
+    <title>How Nelly Korda&#x27;s Irons Tell the Story of Her Dominance at Chevron</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/nelly-korda-chevron-win-witb-irons-fitting</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/nelly-korda-chevron-win-witb-irons-fitting</guid>
+    <pubDate>Mon, 27 Apr 2026 00:48:00 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;What makes Nelly Korda one of the best iron players in the world is also what you should be watching for in your next fitting.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/nelly-korda-chevron-win-witb-irons-fitting"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Golf_WRX_Nelly_Bag_49731da0b7/Golf_WRX_Nelly_Bag_49731da0b7.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Never a Doubt. Nelly Gets It Done At Chevron.</title>
@@ -323,20 +321,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>Every week is a major week in the fashion streets.</title>
-    <link>https://www.youtube.com/shorts/MCOiJz-Luhk</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/MCOiJz-Luhk</guid>
-    <pubDate>Thu, 23 Apr 2026 20:27:08 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/MCOiJz-Luhk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/MCOiJz-Luhk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/MCOiJz-Luhk" type="text/html" medium="video"/>
-    <yt:videoId>MCOiJz-Luhk</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>This Tee Shot Just Bewildered Broadcasters at The Chevron Championship</title>
     <link>https://skratch.golf/news/news/2026-chevron-championship-ina-yoon-errant-tee-shot-lpga-tour</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/2026-chevron-championship-ina-yoon-errant-tee-shot-lpga-tour</guid>
@@ -402,20 +386,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>Greg Norman On LIV Golf</title>
-    <link>https://www.youtube.com/watch?v=FSq-3jFWubs</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=FSq-3jFWubs</guid>
-    <pubDate>Thu, 23 Apr 2026 14:30:42 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Greg Norman calls into the show to discuss his time at LIV Golf, the new regime, the future of the league and golf landscape, &amp; much more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=FSq-3jFWubs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/FSq-3jFWubs/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/FSq-3jFWubs" type="text/html" medium="video"/>
-    <yt:videoId>FSq-3jFWubs</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>“I choked my guts out”. 😭</title>
     <link>https://www.youtube.com/shorts/LKaRfa_kRls</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/LKaRfa_kRls</guid>
@@ -463,68 +433,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>LIV’s first CEO on the challenges facing LIV’s current CEO.</title>
-    <link>https://www.youtube.com/shorts/N5PvdiunvwI</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/N5PvdiunvwI</guid>
-    <pubDate>Thu, 23 Apr 2026 00:30:16 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/N5PvdiunvwI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/N5PvdiunvwI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/N5PvdiunvwI" type="text/html" medium="video"/>
-    <yt:videoId>N5PvdiunvwI</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>This was coming. It still hurts.</title>
-    <link>https://www.youtube.com/shorts/jZUIW_yFH4U</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/jZUIW_yFH4U</guid>
-    <pubDate>Wed, 22 Apr 2026 23:45:02 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/jZUIW_yFH4U"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/jZUIW_yFH4U/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/jZUIW_yFH4U" type="text/html" medium="video"/>
-    <yt:videoId>jZUIW_yFH4U</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>S2 E30: Greg Norman on LIV’s Future, PGA TOUR Leaves Hawaii, Sudarshan Yellamaraju Interview</title>
-    <link>https://www.youtube.com/watch?v=TalL60j9v88</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=TalL60j9v88</guid>
-    <pubDate>Wed, 22 Apr 2026 23:37:19 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;A packed Wednesday show. We discuss the TOUR leaving Hawaii, Brian Rolapp&#x27;s comments about LIV Golf, Bryson DeChambeau&#x27;s possible moves behind the scenes &amp; much more. Greg Norman calls into the show to discuss it all &amp; Dan interviews rising rookie Sudarshan Yellamaraju.
-
-Thank You to Our Sponsors!
-
-Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
-
-Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround.com/golf and use&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=TalL60j9v88"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/TalL60j9v88/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/TalL60j9v88" type="text/html" medium="video"/>
-    <yt:videoId>TalL60j9v88</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>&quot;I went, Hallelujah, Hallelujah. Finally.&quot;</title>
-    <link>https://www.youtube.com/shorts/KnPF7_uaLP8</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/KnPF7_uaLP8</guid>
-    <pubDate>Wed, 22 Apr 2026 23:01:31 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/KnPF7_uaLP8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/KnPF7_uaLP8/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/KnPF7_uaLP8" type="text/html" medium="video"/>
-    <yt:videoId>KnPF7_uaLP8</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>You better not be disrespectful around Charley Hull’s dad 😳</title>
     <link>https://www.youtube.com/shorts/cF35US0fi2I</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/cF35US0fi2I</guid>
@@ -537,17 +445,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Everything&#x27;s Bigger in Texas—Including Rising Star Farah O’Keefe&#x27;s Personality</title>
-    <link>https://skratch.golf/news/news/farah-o-keefe-chevron-championship-debut-lpga-tour-amateur-golf-texas</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/farah-o-keefe-chevron-championship-debut-lpga-tour-amateur-golf-texas</guid>
-    <pubDate>Wed, 22 Apr 2026 20:16:38 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Don&#x27;t sleep on the college golf star who is making her Chevron Championship debut in her home state.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/farah-o-keefe-chevron-championship-debut-lpga-tour-amateur-golf-texas"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Farah_Okeefe_2025_ANWA_c1aa6ec802/Farah_Okeefe_2025_ANWA_c1aa6ec802.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>With all the time he spends in nature, wishing Jordan a happy #EarthDay. 😭</title>
@@ -564,6 +461,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
+    <title>I Played My First Top 100 Golf Course—I Get It Now</title>
+    <link>https://skratch.golf/news/golf-culture/winged-foot-playing-my-first-top-100-golf-course</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/winged-foot-playing-my-first-top-100-golf-course</guid>
+    <pubDate>Wed, 22 Apr 2026 17:18:22 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;A day at Winged Foot reminded me why great courses feel different, and previewing the USGA’s new GHIN app made one of golf’s best tests even more memorable.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/winged-foot-playing-my-first-top-100-golf-course"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Untitled_design_4_ac026dc43d/Untitled_design_4_ac026dc43d.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Success started at a young age for Charley Hull 🤣</title>
     <link>https://www.youtube.com/shorts/YIvRzCM8NqY</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/YIvRzCM8NqY</guid>
@@ -578,24 +486,13 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>Full Swing Captures the Most Emotional Phone Call in Golf</title>
-    <link>https://skratch.golf/news/news/Full-swing-season-four-episode-three-ryder-cup-picks-phone-call-bradley-griffin</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/Full-swing-season-four-episode-three-ryder-cup-picks-phone-call-bradley-griffin</guid>
-    <pubDate>Wed, 22 Apr 2026 16:00:27 +0000</pubDate>
-    <dc:creator>Shane Bacon</dc:creator>
-    <description>&lt;p&gt;Full Swing Season 4, Episode 3 dives into Ryder Cup captain’s picks, where one phone call can change everything for players like Ben Griffin.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Full-swing-season-four-episode-three-ryder-cup-picks-phone-call-bradley-griffin"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Full_Swing_S4_E3_Keegan_Bradley_Phone_9c347e317f/Full_Swing_S4_E3_Keegan_Bradley_Phone_9c347e317f.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>PUMA Golf and Gumtree Golf and Nature Club Slow the Game Down</title>
-    <link>https://skratch.golf/style/mens-style/puma-golf-and-gumtree-golf-and-nature-club-collab-collection</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/puma-golf-and-gumtree-golf-and-nature-club-collab-collection</guid>
-    <pubDate>Wed, 22 Apr 2026 15:51:30 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;A collection built on observation, not urgency&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/puma-golf-and-gumtree-golf-and-nature-club-collab-collection"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/GGNC_x_Puma_Golf_08eaa1afa8/GGNC_x_Puma_Golf_08eaa1afa8.png"/>
+    <title>First and Second Round Tee Times for the 2026 Chevron Championship</title>
+    <link>https://skratch.golf/news/news/2026-chevron-championship-first-second-round-tee-times-pairings</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/2026-chevron-championship-first-second-round-tee-times-pairings</guid>
+    <pubDate>Wed, 22 Apr 2026 15:56:17 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The featured group of former champions: Nelly, Mao, and Lilia is elite.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-chevron-championship-first-second-round-tee-times-pairings"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Lexi_Thompson_Tee_shot_Chevron_2025_51971dd397/Lexi_Thompson_Tee_shot_Chevron_2025_51971dd397.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -620,66 +517,15 @@ Subscribe to Skratch on&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/sh
     <category>video</category>
   </item>
   <item>
-    <title>How&#x27;d Dan do?</title>
-    <link>https://www.youtube.com/shorts/ySxyD5M7paU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ySxyD5M7paU</guid>
-    <pubDate>Tue, 21 Apr 2026 19:38:22 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ySxyD5M7paU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ySxyD5M7paU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ySxyD5M7paU" type="text/html" medium="video"/>
-    <yt:videoId>ySxyD5M7paU</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Matt Fitzpatrick On Getting To World No. 3 &amp; Dealing With USA Chants</title>
-    <link>https://www.youtube.com/watch?v=pT7MKc10PIQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=pT7MKc10PIQ</guid>
-    <pubDate>Tue, 21 Apr 2026 19:30:19 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Matt Fitzpatrick joins the show following his victory at the RBC Heritage to discuss it all: the USA chants, his one-arm finish, getting to No. 3 in the world, &amp; much more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=pT7MKc10PIQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/pT7MKc10PIQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/pT7MKc10PIQ" type="text/html" medium="video"/>
-    <yt:videoId>pT7MKc10PIQ</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>“Max Homa blew up a Whoopie Cushion, put it on a chair &amp; then he sat on it himself” @manorsgolf</title>
-    <link>https://www.youtube.com/shorts/EyU4nSS_1Gs</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/EyU4nSS_1Gs</guid>
-    <pubDate>Tue, 21 Apr 2026 18:27:19 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/EyU4nSS_1Gs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/EyU4nSS_1Gs/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/EyU4nSS_1Gs" type="text/html" medium="video"/>
-    <yt:videoId>EyU4nSS_1Gs</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>S2 E29: Fitz Joins After RBC Win, LIV Says Everything’s Alright</title>
-    <link>https://www.youtube.com/watch?v=GlR4DQizL2Q</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=GlR4DQizL2Q</guid>
-    <pubDate>Mon, 20 Apr 2026 20:46:41 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Matt Fitzpatrick joins the show after his playoff win at the RBC Heritage. Plus: The LPGA has a surprise purse raise, and Jon Rahm wins another LIV event. Also, Dan ranks his top 10 players walking styles on TOUR &amp; much, much more.
-
-Thank You to Our Sponsors!
-
-Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
-
-Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround.com/golf and use code DANONGOLF20, you can stock up wit&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=GlR4DQizL2Q"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/GlR4DQizL2Q/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/GlR4DQizL2Q" type="text/html" medium="video"/>
-    <yt:videoId>GlR4DQizL2Q</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
+    <title>The 10 Most Iconic Style Moments in Chevron Championship History</title>
+    <link>https://skratch.golf/style/womens-style/throwback-best-chevron-championship-looks</link>
+    <guid isPermaLink="true">https://skratch.golf/style/womens-style/throwback-best-chevron-championship-looks</guid>
+    <pubDate>Thu, 24 Apr 2025 17:26:01 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;A look back at our favorite style moments from the LPGA&#x27;s major season kickoff—and the energy we hope to see going into the final round in Texas.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/womens-style/throwback-best-chevron-championship-looks"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_457720412_031ba87a63/Getty_Images_457720412_031ba87a63.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
 </channel>
 </rss>
