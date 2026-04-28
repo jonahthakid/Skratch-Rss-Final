@@ -1,3 +1,4 @@
+<!-- Warning: Error fetching Dan On Golf Show: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -9,50 +10,8 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 28 Apr 2026 02:27:07 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 28 Apr 2026 05:43:17 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
-  <item>
-    <title>Team Dan or Team Shane?</title>
-    <link>https://www.youtube.com/shorts/5aZi4d38I7o</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/5aZi4d38I7o</guid>
-    <pubDate>Tue, 28 Apr 2026 00:15:00 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/5aZi4d38I7o"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/5aZi4d38I7o/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/5aZi4d38I7o" type="text/html" medium="video"/>
-    <yt:videoId>5aZi4d38I7o</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>&quot;It&#x27;s fairytale stuff, it really is.&quot;</title>
-    <link>https://www.youtube.com/shorts/7iaTH6eAA9w</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/7iaTH6eAA9w</guid>
-    <pubDate>Mon, 27 Apr 2026 23:30:05 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/7iaTH6eAA9w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/7iaTH6eAA9w/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/7iaTH6eAA9w" type="text/html" medium="video"/>
-    <yt:videoId>7iaTH6eAA9w</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>“This is not a shot at Jim Furyk, but I cannot believe that he’s the captain again”</title>
-    <link>https://www.youtube.com/shorts/mDrMpcwov6U</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/mDrMpcwov6U</guid>
-    <pubDate>Mon, 27 Apr 2026 22:24:47 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/mDrMpcwov6U"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/mDrMpcwov6U/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/mDrMpcwov6U" type="text/html" medium="video"/>
-    <yt:videoId>mDrMpcwov6U</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
   <item>
     <title>It’s official: Justin Rose has signed with McLaren Golf</title>
     <link>https://www.youtube.com/shorts/ioRXW3mcf_U</link>
@@ -88,40 +47,6 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2161125871_7479b4bf9b/Getty_Images_2161125871_7479b4bf9b.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>S2 E31: Fitzpatrick Brothers Join After Win, Furyk Named Ryder Cup Captain, Nelly Wins 3rd Major</title>
-    <link>https://www.youtube.com/watch?v=yub5VqdtE3U</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=yub5VqdtE3U</guid>
-    <pubDate>Mon, 27 Apr 2026 18:45:58 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;A big show after the Fitzpatrick brothers win at Zurich &amp; Alex gets his PGA TOUR exemption. Matt &amp; Alex join the show after their big day in New Orleans. We discuss Jim Furyk being named U.S.Ryder Cup captain. Nelly Korda is back, as she wins her 3rd major championship. And as always, much, much more.
-
-Thank You to Our Sponsors!
-
-Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
-
-Dan travels all year and never leaves his Knockarounds behind, and if you go&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=yub5VqdtE3U"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/yub5VqdtE3U/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/yub5VqdtE3U" type="text/html" medium="video"/>
-    <yt:videoId>yub5VqdtE3U</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>“It was the dirtiest bunker shot I’ve ever seen”</title>
-    <link>https://www.youtube.com/shorts/hTlTqdvEr78</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/hTlTqdvEr78</guid>
-    <pubDate>Mon, 27 Apr 2026 17:12:16 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/hTlTqdvEr78"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/hTlTqdvEr78/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/hTlTqdvEr78" type="text/html" medium="video"/>
-    <yt:videoId>hTlTqdvEr78</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>FootJoy’s New Marquis Is Here. A Classic Shape, Rewritten</title>
@@ -180,20 +105,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go&lt;
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Golf_WRX_Nelly_Bag_49731da0b7/Golf_WRX_Nelly_Bag_49731da0b7.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>They did it.</title>
-    <link>https://www.youtube.com/shorts/77g-4XL7R3w</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/77g-4XL7R3w</guid>
-    <pubDate>Sun, 26 Apr 2026 22:28:14 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/77g-4XL7R3w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/77g-4XL7R3w/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/77g-4XL7R3w" type="text/html" medium="video"/>
-    <yt:videoId>77g-4XL7R3w</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>Never a Doubt. Nelly Gets It Done At Chevron.</title>
@@ -493,20 +404,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>Every week is a major week in the fashion streets.</title>
-    <link>https://www.youtube.com/shorts/MCOiJz-Luhk</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/MCOiJz-Luhk</guid>
-    <pubDate>Thu, 23 Apr 2026 20:27:08 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/MCOiJz-Luhk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/MCOiJz-Luhk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/MCOiJz-Luhk" type="text/html" medium="video"/>
-    <yt:videoId>MCOiJz-Luhk</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Going HEAD-TO-HEAD across three courses in THAILAND! | Working Holiday with Mac Boucher</title>
     <link>https://www.youtube.com/watch?v=OI-zjyLCWhE</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=OI-zjyLCWhE</guid>
@@ -550,20 +447,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>Greg Norman On LIV Golf</title>
-    <link>https://www.youtube.com/watch?v=FSq-3jFWubs</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=FSq-3jFWubs</guid>
-    <pubDate>Thu, 23 Apr 2026 14:30:42 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Greg Norman calls into the show to discuss his time at LIV Golf, the new regime, the future of the league and golf landscape, &amp; much more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=FSq-3jFWubs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/FSq-3jFWubs/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/FSq-3jFWubs" type="text/html" medium="video"/>
-    <yt:videoId>FSq-3jFWubs</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>“I choked my guts out”. 😭</title>
     <link>https://www.youtube.com/shorts/LKaRfa_kRls</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/LKaRfa_kRls</guid>
@@ -600,68 +483,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>LIV’s first CEO on the challenges facing LIV’s current CEO.</title>
-    <link>https://www.youtube.com/shorts/N5PvdiunvwI</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/N5PvdiunvwI</guid>
-    <pubDate>Thu, 23 Apr 2026 00:30:16 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/N5PvdiunvwI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/N5PvdiunvwI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/N5PvdiunvwI" type="text/html" medium="video"/>
-    <yt:videoId>N5PvdiunvwI</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>This was coming. It still hurts.</title>
-    <link>https://www.youtube.com/shorts/jZUIW_yFH4U</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/jZUIW_yFH4U</guid>
-    <pubDate>Wed, 22 Apr 2026 23:45:02 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/jZUIW_yFH4U"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/jZUIW_yFH4U/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/jZUIW_yFH4U" type="text/html" medium="video"/>
-    <yt:videoId>jZUIW_yFH4U</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>S2 E30: Greg Norman on LIV’s Future, PGA TOUR Leaves Hawaii, Sudarshan Yellamaraju Interview</title>
-    <link>https://www.youtube.com/watch?v=TalL60j9v88</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=TalL60j9v88</guid>
-    <pubDate>Wed, 22 Apr 2026 23:37:19 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;A packed Wednesday show. We discuss the TOUR leaving Hawaii, Brian Rolapp&#x27;s comments about LIV Golf, Bryson DeChambeau&#x27;s possible moves behind the scenes &amp; much more. Greg Norman calls into the show to discuss it all &amp; Dan interviews rising rookie Sudarshan Yellamaraju.
-
-Thank You to Our Sponsors!
-
-Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
-
-Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround.com/golf and use&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=TalL60j9v88"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/TalL60j9v88/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/TalL60j9v88" type="text/html" medium="video"/>
-    <yt:videoId>TalL60j9v88</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>&quot;I went, Hallelujah, Hallelujah. Finally.&quot;</title>
-    <link>https://www.youtube.com/shorts/KnPF7_uaLP8</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/KnPF7_uaLP8</guid>
-    <pubDate>Wed, 22 Apr 2026 23:01:31 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/KnPF7_uaLP8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/KnPF7_uaLP8/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/KnPF7_uaLP8" type="text/html" medium="video"/>
-    <yt:videoId>KnPF7_uaLP8</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>You better not be disrespectful around Charley Hull’s dad 😳</title>
     <link>https://www.youtube.com/shorts/cF35US0fi2I</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/cF35US0fi2I</guid>
@@ -674,6 +495,31 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>With all the time he spends in nature, wishing Jordan a happy #EarthDay. 😭</title>
+    <link>https://www.youtube.com/shorts/otEuRIqz7wQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/otEuRIqz7wQ</guid>
+    <pubDate>Wed, 22 Apr 2026 19:27:56 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/otEuRIqz7wQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/otEuRIqz7wQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/otEuRIqz7wQ" type="text/html" medium="video"/>
+    <yt:videoId>otEuRIqz7wQ</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>The 10 Most Iconic Style Moments in Chevron Championship History</title>
+    <link>https://skratch.golf/style/womens-style/throwback-best-chevron-championship-looks</link>
+    <guid isPermaLink="true">https://skratch.golf/style/womens-style/throwback-best-chevron-championship-looks</guid>
+    <pubDate>Thu, 24 Apr 2025 17:26:01 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;A look back at our favorite style moments from the LPGA&#x27;s major season kickoff—and the energy we hope to see going into the final round in Texas.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/womens-style/throwback-best-chevron-championship-looks"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_457720412_031ba87a63/Getty_Images_457720412_031ba87a63.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
 </channel>
 </rss>
