@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 28 Apr 2026 21:52:26 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 28 Apr 2026 22:51:24 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Chirps were flying towards Dan today at Doral</title>
+    <link>https://www.youtube.com/shorts/q9go-yRcymQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/q9go-yRcymQ</guid>
+    <pubDate>Tue, 28 Apr 2026 22:48:32 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/q9go-yRcymQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/q9go-yRcymQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/q9go-yRcymQ" type="text/html" medium="video"/>
+    <yt:videoId>q9go-yRcymQ</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>&quot;How &#x27;bout that one, huh?!!&quot; #TigerTuesdays</title>
     <link>https://www.youtube.com/shorts/jKlzqVBdU4Y</link>
@@ -624,24 +638,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:videoId>MCOiJz-Luhk</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Going HEAD-TO-HEAD across three courses in THAILAND! | Working Holiday with Mac Boucher</title>
-    <link>https://www.youtube.com/watch?v=OI-zjyLCWhE</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=OI-zjyLCWhE</guid>
-    <pubDate>Thu, 23 Apr 2026 18:51:55 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The Working Holiday crew goes head-to-head in a 9-hole match across three EPIC courses in Thailand: the super-exclusive Robinswood Golf Club, Asian Tour host Black Mountain Golf Club and city night golf at Panya Indra Golf Club.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have ne&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=OI-zjyLCWhE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/OI-zjyLCWhE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/OI-zjyLCWhE" type="text/html" medium="video"/>
-    <yt:videoId>OI-zjyLCWhE</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
     <category>video</category>
   </item>
   <item>
