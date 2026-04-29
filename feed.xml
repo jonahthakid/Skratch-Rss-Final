@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 29 Apr 2026 21:54:40 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 29 Apr 2026 22:52:10 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>LIV Golf is Set to Notify Players that its Funding is Almost Over</title>
@@ -251,6 +251,17 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/7QiPlU9gbZg"&gt;
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Inside McLaren Golf’s First Real Equipment Drop</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/mclaren-golf-irons-launch-series-1-3</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/mclaren-golf-irons-launch-series-1-3</guid>
+    <pubDate>Tue, 28 Apr 2026 02:37:42 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;After being spotted in Justin Rose’s bag, we’ve got all the details on the new McLaren Series 1 and Series 3 irons.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/mclaren-golf-irons-launch-series-1-3"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Mclaren_series_irons_b992e6a2b9/Mclaren_series_irons_b992e6a2b9.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Team Dan or Team Shane?</title>
@@ -539,17 +550,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go&lt;
     <category>article</category>
   </item>
   <item>
-    <title>The Golf World Reacts to Stacy Lewis&#x27; Last Dance</title>
-    <link>https://skratch.golf/news/news/stacy-lewis-lpga-tour-retirement-chevron-championship-social-media-reactions</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/stacy-lewis-lpga-tour-retirement-chevron-championship-social-media-reactions</guid>
-    <pubDate>Fri, 24 Apr 2026 20:20:28 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The 13-time LPGA winner ends her formidable career, that includes two majors, at the Chevron Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/stacy-lewis-lpga-tour-retirement-chevron-championship-social-media-reactions"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Stacy_Lewis_Jump_Chevron_2011_a1d97a4801/Stacy_Lewis_Jump_Chevron_2011_a1d97a4801.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Testing out the latest PUTTER grips from Golf Pride</title>
     <link>https://www.youtube.com/shorts/zzDN1o2kwdE</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/zzDN1o2kwdE</guid>
@@ -566,17 +566,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Zara Home Dropped the Most Unexpected Golf Collection</title>
-    <link>https://skratch.golf/style/mens-style/zara-home-dropped-the-most-unexpected-golf-collection</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/zara-home-dropped-the-most-unexpected-golf-collection</guid>
-    <pubDate>Fri, 24 Apr 2026 19:36:38 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;A full lifestyle swing from tee box to living room.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/zara-home-dropped-the-most-unexpected-golf-collection"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Zara_Home_Golf_acebd52aab/Zara_Home_Golf_acebd52aab.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>The SEXIEST shot in golf 🐝 | PGA TOUR Stingers</title>
@@ -679,6 +668,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The New USGA GHIN App Is Coming for Every Other Golf App on Your Phone</title>
+    <link>https://skratch.golf/news/news/usga-new-ghin-app-inside-look-gps-green-reading-heat-maps-handicap</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/usga-new-ghin-app-inside-look-gps-green-reading-heat-maps-handicap</guid>
+    <pubDate>Thu, 23 Apr 2026 16:02:33 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;A first look at the redesigned GHIN experience, with new GPS tools, green maps, and deeper stat tracking coming later this year.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/usga-new-ghin-app-inside-look-gps-green-reading-heat-maps-handicap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Untitled_design_5_a919509517/Untitled_design_5_a919509517.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
 </channel>
 </rss>
