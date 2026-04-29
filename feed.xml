@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 29 Apr 2026 14:01:00 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 29 Apr 2026 16:10:23 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The more mic’d up Justin Thomas, the better. 😭 Happy birthday, JT.</title>
+    <link>https://www.youtube.com/shorts/uTRxKCItDHo</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/uTRxKCItDHo</guid>
+    <pubDate>Wed, 29 Apr 2026 14:14:54 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/uTRxKCItDHo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/uTRxKCItDHo/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/uTRxKCItDHo" type="text/html" medium="video"/>
+    <yt:videoId>uTRxKCItDHo</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Chirps were flying towards Dan today at Doral</title>
     <link>https://www.youtube.com/shorts/q9go-yRcymQ</link>
@@ -607,24 +621,6 @@ Associate Tour Consultant for Ball Performance, Patrick Dewar, joined this week�
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Oxford_Cover_SSC_9ded23c83c/Oxford_Cover_SSC_9ded23c83c.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Hannah Green has been on a heater this season 🔥</title>
-    <link>https://www.youtube.com/shorts/lJPAkxExtb4</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/lJPAkxExtb4</guid>
-    <pubDate>Thu, 23 Apr 2026 20:30:57 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Four (!!!!) wins in 2026 and it’s only APRIL. Addie Parker chats with Hannah Green to find out the three keys to her success this year, and how her @SrixonGolfUS setup is helping her achieve it.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/lJPAkxExtb4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/lJPAkxExtb4/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/lJPAkxExtb4" type="text/html" medium="video"/>
-    <yt:videoId>lJPAkxExtb4</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Every week is a major week in the fashion streets.</title>
