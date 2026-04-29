@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 29 Apr 2026 16:10:23 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 29 Apr 2026 17:54:38 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>The more mic’d up Justin Thomas, the better. 😭 Happy birthday, JT.</title>
@@ -91,6 +91,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Three Players to Watch at the Cadillac Championship</title>
+    <link>https://skratch.golf/news/news/cadillac-championship-three-players-to-watch-golf-picks-pga-tour-doral</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/cadillac-championship-three-players-to-watch-golf-picks-pga-tour-doral</guid>
+    <pubDate>Tue, 28 Apr 2026 16:09:15 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;There&#x27;s plenty to like about Cameron Young&#x27;s chances at Doral, but he&#x27;s not the only player we&#x27;re keeping an eye on at the Cadillac Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/cadillac-championship-three-players-to-watch-golf-picks-pga-tour-doral"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2271842674_32684ccb45/Getty_Images_2271842674_32684ccb45.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>DEBATE: Was Jim Furyk The Right Choice For Ryder Cup Captain?</title>
@@ -446,6 +457,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go&lt;
     <category>article</category>
   </item>
   <item>
+    <title>Houston, We Have No Problems: Nelly Korda Is In Command at Chevron</title>
+    <link>https://skratch.golf/news/news/nelly-korda-2026-chevron-championship-round-two-leader-recap</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/nelly-korda-2026-chevron-championship-round-two-leader-recap</guid>
+    <pubDate>Fri, 24 Apr 2026 20:54:26 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;&quot;What&#x27;s challenging about playing with the lead is you have a target on your back in a sense, but also...I just like enjoy it,&quot; the World No. 2 said after carding back-to-back 65s.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/nelly-korda-2026-chevron-championship-round-two-leader-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Nelly_Korda_Chevron_2026_Day_2_da3fb12062/Nelly_Korda_Chevron_2026_Day_2_da3fb12062.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Testing out the latest PUTTER grips from Golf Pride</title>
     <link>https://www.youtube.com/shorts/zzDN1o2kwdE</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/zzDN1o2kwdE</guid>
@@ -464,13 +486,13 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Bethpage’s Ending Was Never the Whole Story, Full Swing Finale Shows the Rest</title>
-    <link>https://skratch.golf/news/news/Full-swing-season-four-episode-four-ryder-cup-finale-bethpage</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/Full-swing-season-four-episode-four-ryder-cup-finale-bethpage</guid>
-    <pubDate>Fri, 24 Apr 2026 18:38:36 +0000</pubDate>
-    <dc:creator>Shane Bacon</dc:creator>
-    <description>&lt;p&gt;Episode 4, “The Last Stand,” takes us inside Bethpage Black, where the Ryder Cup became the defining golf event of the year. Here&#x27;s what we&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Full-swing-season-four-episode-four-ryder-cup-finale-bethpage"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2237962585_169b03fc66/Getty_Images_2237962585_169b03fc66.jpg"/>
+    <title>Zara Home Dropped the Most Unexpected Golf Collection</title>
+    <link>https://skratch.golf/style/mens-style/zara-home-dropped-the-most-unexpected-golf-collection</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/zara-home-dropped-the-most-unexpected-golf-collection</guid>
+    <pubDate>Fri, 24 Apr 2026 19:36:38 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;A full lifestyle swing from tee box to living room.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/zara-home-dropped-the-most-unexpected-golf-collection"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Zara_Home_Golf_acebd52aab/Zara_Home_Golf_acebd52aab.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -511,28 +533,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Straight from Chevron, Farah O’Keefe Faces Another Major Qualifier</title>
-    <link>https://skratch.golf/news/news/farah-o-keefe-chevron-championship-us-womens-open-qualifier</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/farah-o-keefe-chevron-championship-us-womens-open-qualifier</guid>
-    <pubDate>Fri, 24 Apr 2026 16:32:53 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The life of being a top amateur is a busy one...O&#x27;Keefe is scheduled to head to Florida for a USWO qualifier immediately after the Chevron Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/farah-o-keefe-chevron-championship-us-womens-open-qualifier"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Farah_O_Keefe_2026_Chevron_Champ_Rd_2_aafeaea22d/Farah_O_Keefe_2026_Chevron_Champ_Rd_2_aafeaea22d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Jim Furyk and the Overcorrection to the Overcorrection</title>
-    <link>https://skratch.golf/news/news/Jim-furyk-ryder-cup-captain-team-usa-analysis-overcorrection</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/Jim-furyk-ryder-cup-captain-team-usa-analysis-overcorrection</guid>
-    <pubDate>Fri, 24 Apr 2026 15:43:40 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;After taking a risk at Bethpage Black, Team USA is once again relying on a familiar face.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Jim-furyk-ryder-cup-captain-team-usa-analysis-overcorrection"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1235451859_55cfcbdb7c/Getty_Images_1235451859_55cfcbdb7c.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Imagine telling this kid he&#x27;s going to be a two-time Ryder Cup captain.</title>
