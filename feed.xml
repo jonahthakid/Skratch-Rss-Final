@@ -9,8 +9,36 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 30 Apr 2026 17:13:41 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 30 Apr 2026 18:50:36 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>#1 player in the world btw.</title>
+    <link>https://www.youtube.com/shorts/QpGttvUAVM4</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/QpGttvUAVM4</guid>
+    <pubDate>Thu, 30 Apr 2026 18:01:36 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/QpGttvUAVM4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/QpGttvUAVM4/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/QpGttvUAVM4" type="text/html" medium="video"/>
+    <yt:videoId>QpGttvUAVM4</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>How are YOU hitting this shot? 😭</title>
+    <link>https://www.youtube.com/shorts/iNmK5oRhkcA</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/iNmK5oRhkcA</guid>
+    <pubDate>Thu, 30 Apr 2026 17:24:57 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/iNmK5oRhkcA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/iNmK5oRhkcA/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/iNmK5oRhkcA" type="text/html" medium="video"/>
+    <yt:videoId>iNmK5oRhkcA</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Brooks Koepka’s Augusta Mock Neck Is Finally Here</title>
     <link>https://skratch.golf/style/mens-style/brooks-koepka-nike-mock-neck-masters-golf-shirt</link>
@@ -23,6 +51,17 @@
     <category>article</category>
   </item>
   <item>
+    <title>Malbon Taps Korea’s Design Language With Studio Seoul</title>
+    <link>https://skratch.golf/style/mens-style/malbon-studio-seoul-golf-style-korea-design-language</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/malbon-studio-seoul-golf-style-korea-design-language</guid>
+    <pubDate>Thu, 30 Apr 2026 15:42:49 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;A tech-driven remix of familiar Malbon staples&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/malbon-studio-seoul-golf-style-korea-design-language"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Studio_Soul_Cover_641dddb50c/Studio_Soul_Cover_641dddb50c.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Silent Ace: Rookie Melanie Green Didn’t Even Know She Dunked It</title>
     <link>https://skratch.golf/news/news/melanie-green-lpga-rookie-makes-ace-riviera-maya-open-mayakoba</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/melanie-green-lpga-rookie-makes-ace-riviera-maya-open-mayakoba</guid>
@@ -30,6 +69,17 @@
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;A perfect shot, zero reaction, and one very delayed celebration.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/melanie-green-lpga-rookie-makes-ace-riviera-maya-open-mayakoba"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Melanie_Green_Chevron_2026_db151d791e/Melanie_Green_Chevron_2026_db151d791e.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>For the First Time in Its History, All LPGA Major Purses Reach $9 Million or More</title>
+    <link>https://skratch.golf/news/news/lpga-major-prize-purse-record-breaking-amundi-evian-million-dollar-increase</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-major-prize-purse-record-breaking-amundi-evian-million-dollar-increase</guid>
+    <pubDate>Thu, 30 Apr 2026 15:22:56 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Alexa, play &quot;A Milli&quot; by Lil Wayne.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-major-prize-purse-record-breaking-amundi-evian-million-dollar-increase"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2224904360_bedd81980e/Getty_Images_2224904360_bedd81980e.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -566,17 +616,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go&lt;
     <category>article</category>
   </item>
   <item>
-    <title>Will Nelly Go Wire-to-Wire? Korda Holds Chevron Lead By Five</title>
-    <link>https://skratch.golf/news/news/nelly-korda-2026-chevron-championship-third-round-recap</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/nelly-korda-2026-chevron-championship-third-round-recap</guid>
-    <pubDate>Sat, 25 Apr 2026 22:17:06 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Moving day Memorial Park shakes up the top-10, but the World No. 2 is still in cruise control in search of her second Chevron Title.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/nelly-korda-2026-chevron-championship-third-round-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2273134503_24b6cd032e/Getty_Images_2273134503_24b6cd032e.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Could The Chevron Golden Boots Be The LPGA’s Next Big Tradition?</title>
     <link>https://skratch.golf/news/pro-golf/lpga-tour-chevron-championship-winner-golden-boots-new-tradition</link>
     <guid isPermaLink="true">https://skratch.golf/news/pro-golf/lpga-tour-chevron-championship-winner-golden-boots-new-tradition</guid>
@@ -613,17 +652,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go&lt;
     <category>article</category>
   </item>
   <item>
-    <title>Houston, We Have No Problems: Nelly Korda Is In Command at Chevron</title>
-    <link>https://skratch.golf/news/news/nelly-korda-2026-chevron-championship-round-two-leader-recap</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/nelly-korda-2026-chevron-championship-round-two-leader-recap</guid>
-    <pubDate>Fri, 24 Apr 2026 20:54:26 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;&quot;What&#x27;s challenging about playing with the lead is you have a target on your back in a sense, but also...I just like enjoy it,&quot; the World No. 2 said after carding back-to-back 65s.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/nelly-korda-2026-chevron-championship-round-two-leader-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Nelly_Korda_Chevron_2026_Day_2_da3fb12062/Nelly_Korda_Chevron_2026_Day_2_da3fb12062.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Testing out the latest PUTTER grips from Golf Pride</title>
     <link>https://www.youtube.com/shorts/zzDN1o2kwdE</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/zzDN1o2kwdE</guid>
@@ -637,44 +665,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/zzDN1o2kwdE/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/zzDN1o2kwdE" type="text/html" medium="video"/>
     <yt:videoId>zzDN1o2kwdE</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>The SEXIEST shot in golf 🐝 | PGA TOUR Stingers</title>
-    <link>https://www.youtube.com/watch?v=ZhpV1UIqpcE</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=ZhpV1UIqpcE</guid>
-    <pubDate>Fri, 24 Apr 2026 17:00:00 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;There’s nothing like a pure stinger.
-
-From piercing tee shots to clutch knockdowns in brutal conditions, the best players in the world show complete control—keeping it low, fast, and deadly accurate.
-
-Featuring iconic shots inspired by legends like Tiger Woods and today’s best ball-strikers, this is a masterclass in controlling trajectory.
-
-Which one is your favorite?
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex e&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ZhpV1UIqpcE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ZhpV1UIqpcE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ZhpV1UIqpcE" type="text/html" medium="video"/>
-    <yt:videoId>ZhpV1UIqpcE</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Tee it up on a major championship course for $30? Sign us up.</title>
-    <link>https://www.youtube.com/shorts/WrlMGd8m88c</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/WrlMGd8m88c</guid>
-    <pubDate>Fri, 24 Apr 2026 16:51:24 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Addie Parker shares why the green fee at this week’s Chevron Championship is such a steal.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/WrlMGd8m88c"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/WrlMGd8m88c/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/WrlMGd8m88c" type="text/html" medium="video"/>
-    <yt:videoId>WrlMGd8m88c</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
