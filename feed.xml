@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 30 Apr 2026 13:51:51 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 30 Apr 2026 15:44:17 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Throwback to when Rory threw his 3-iron in the water, and a scuba diver went out to retrieve it. 😭</title>
+    <link>https://www.youtube.com/shorts/3W57X8xFKBE</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/3W57X8xFKBE</guid>
+    <pubDate>Thu, 30 Apr 2026 14:39:53 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/3W57X8xFKBE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/3W57X8xFKBE/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/3W57X8xFKBE" type="text/html" medium="video"/>
+    <yt:videoId>3W57X8xFKBE</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Brooks Koepka Is A Gear Free Agent Once Again</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/brooks-koepka-gear-free-agent-srixon-split</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/brooks-koepka-gear-free-agent-srixon-split</guid>
+    <pubDate>Thu, 30 Apr 2026 14:30:01 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;In a surprise announcement before the start of the Cadillac Championship, Brooks Koepka and Srixon Golf have officially parted ways.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/brooks-koepka-gear-free-agent-srixon-split"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/brooks_koepka_alfred_dunhill_links_2024_Getty_Images_2176890153_fd568a9340/brooks_koepka_alfred_dunhill_links_2024_Getty_Images_2176890153_fd568a9340.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>With reports of PIF out &amp; Yasir off the board, LIV sure looks to be in big trouble.</title>
     <link>https://www.youtube.com/shorts/yMlaK1NTtrg</link>
@@ -606,17 +631,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Zara Home Dropped the Most Unexpected Golf Collection</title>
-    <link>https://skratch.golf/style/mens-style/zara-home-dropped-the-most-unexpected-golf-collection</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/zara-home-dropped-the-most-unexpected-golf-collection</guid>
-    <pubDate>Fri, 24 Apr 2026 19:36:38 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;A full lifestyle swing from tee box to living room.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/zara-home-dropped-the-most-unexpected-golf-collection"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Zara_Home_Golf_acebd52aab/Zara_Home_Golf_acebd52aab.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>The SEXIEST shot in golf 🐝 | PGA TOUR Stingers</title>
     <link>https://www.youtube.com/watch?v=ZhpV1UIqpcE</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=ZhpV1UIqpcE</guid>
@@ -664,20 +678,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1235451859_55cfcbdb7c/Getty_Images_1235451859_55cfcbdb7c.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Imagine telling this kid he&#x27;s going to be a two-time Ryder Cup captain.</title>
-    <link>https://www.youtube.com/shorts/JbBSU5KhVLI</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/JbBSU5KhVLI</guid>
-    <pubDate>Fri, 24 Apr 2026 15:29:43 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/JbBSU5KhVLI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/JbBSU5KhVLI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/JbBSU5KhVLI" type="text/html" medium="video"/>
-    <yt:videoId>JbBSU5KhVLI</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
 </channel>
 </rss>
