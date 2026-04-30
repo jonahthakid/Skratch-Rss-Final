@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 30 Apr 2026 22:47:30 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 30 Apr 2026 23:46:26 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Gratitude is a beautiful thing.</title>
@@ -52,6 +52,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>What Oakley Sunglasses Is Rickie Fowler Wearing?</title>
+    <link>https://skratch.golf/style/mens-style/rickie-fowler-oakley-sunglasses-rainbow-golf-style</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/rickie-fowler-oakley-sunglasses-rainbow-golf-style</guid>
+    <pubDate>Thu, 30 Apr 2026 21:46:30 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;The oversized, rainbow-lens frames Rickie Fowler keeps reaching for aren’t just a vibe&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/rickie-fowler-oakley-sunglasses-rainbow-golf-style"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Rickie_Shades_Cover_d7419efe22/Rickie_Shades_Cover_d7419efe22.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>How Spieth was seeing the hole today. 👀</title>
@@ -602,17 +613,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go&lt;
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;By using a unique steel processing method, Odyssey is bringing one-of-a-kind inserts to familiar putter shapes to offer premium feel and looks.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/odyssey-limited-damascus-milled-putters"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Odyssey_Damascus_putters_title_73ab1c7b9d/Odyssey_Damascus_putters_title_73ab1c7b9d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>FootJoy’s New Marquis Is Here. A Classic Shape, Rewritten</title>
-    <link>https://skratch.golf/style/mens-style/footjoy-golf-shoe-marquis-release-ald-classic-shape</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/footjoy-golf-shoe-marquis-release-ald-classic-shape</guid>
-    <pubDate>Mon, 27 Apr 2026 16:05:14 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Debuted with Aimé Leon Dore, now stepping out as a full-time player.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/footjoy-golf-shoe-marquis-release-ald-classic-shape"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/FJ_Marquis_Cover_eecfab2a59/FJ_Marquis_Cover_eecfab2a59.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
