@@ -9,8 +9,30 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 30 Apr 2026 15:44:17 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 30 Apr 2026 17:13:41 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Brooks Koepka’s Augusta Mock Neck Is Finally Here</title>
+    <link>https://skratch.golf/style/mens-style/brooks-koepka-nike-mock-neck-masters-golf-shirt</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/brooks-koepka-nike-mock-neck-masters-golf-shirt</guid>
+    <pubDate>Thu, 30 Apr 2026 16:10:34 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;The piece that split opinions now gets a closer look&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/brooks-koepka-nike-mock-neck-masters-golf-shirt"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Brooks_Mock_Neck_Cover_1d90f4c9df/Brooks_Mock_Neck_Cover_1d90f4c9df.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Silent Ace: Rookie Melanie Green Didn’t Even Know She Dunked It</title>
+    <link>https://skratch.golf/news/news/melanie-green-lpga-rookie-makes-ace-riviera-maya-open-mayakoba</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/melanie-green-lpga-rookie-makes-ace-riviera-maya-open-mayakoba</guid>
+    <pubDate>Thu, 30 Apr 2026 15:34:33 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;A perfect shot, zero reaction, and one very delayed celebration.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/melanie-green-lpga-rookie-makes-ace-riviera-maya-open-mayakoba"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Melanie_Green_Chevron_2026_db151d791e/Melanie_Green_Chevron_2026_db151d791e.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Throwback to when Rory threw his 3-iron in the water, and a scuba diver went out to retrieve it. 😭</title>
     <link>https://www.youtube.com/shorts/3W57X8xFKBE</link>
@@ -602,17 +624,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go&lt;
     <category>article</category>
   </item>
   <item>
-    <title>The Golf World Reacts to Stacy Lewis&#x27; Last Dance</title>
-    <link>https://skratch.golf/news/news/stacy-lewis-lpga-tour-retirement-chevron-championship-social-media-reactions</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/stacy-lewis-lpga-tour-retirement-chevron-championship-social-media-reactions</guid>
-    <pubDate>Fri, 24 Apr 2026 20:20:28 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The 13-time LPGA winner ends her formidable career, that includes two majors, at the Chevron Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/stacy-lewis-lpga-tour-retirement-chevron-championship-social-media-reactions"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Stacy_Lewis_Jump_Chevron_2011_a1d97a4801/Stacy_Lewis_Jump_Chevron_2011_a1d97a4801.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Testing out the latest PUTTER grips from Golf Pride</title>
     <link>https://www.youtube.com/shorts/zzDN1o2kwdE</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/zzDN1o2kwdE</guid>
@@ -667,17 +678,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Jim Furyk and the Overcorrection to the Overcorrection</title>
-    <link>https://skratch.golf/news/news/Jim-furyk-ryder-cup-captain-team-usa-analysis-overcorrection</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/Jim-furyk-ryder-cup-captain-team-usa-analysis-overcorrection</guid>
-    <pubDate>Fri, 24 Apr 2026 15:43:40 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;After taking a risk at Bethpage Black, Team USA is once again relying on a familiar face.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Jim-furyk-ryder-cup-captain-team-usa-analysis-overcorrection"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1235451859_55cfcbdb7c/Getty_Images_1235451859_55cfcbdb7c.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
