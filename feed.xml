@@ -9,8 +9,61 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 30 Apr 2026 20:06:19 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 30 Apr 2026 21:31:16 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>How Spieth was seeing the hole today. 👀</title>
+    <link>https://www.youtube.com/shorts/Zs0gniW9L64</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/Zs0gniW9L64</guid>
+    <pubDate>Thu, 30 Apr 2026 21:07:41 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Zs0gniW9L64"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Zs0gniW9L64/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Zs0gniW9L64" type="text/html" medium="video"/>
+    <yt:videoId>Zs0gniW9L64</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Both sides could have been better here. @manorsgolf</title>
+    <link>https://www.youtube.com/shorts/FcWruVDx5I8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/FcWruVDx5I8</guid>
+    <pubDate>Thu, 30 Apr 2026 21:07:00 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/FcWruVDx5I8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/FcWruVDx5I8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/FcWruVDx5I8" type="text/html" medium="video"/>
+    <yt:videoId>FcWruVDx5I8</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>PIF Reportedly Out On LIV — We Break It All Down</title>
+    <link>https://www.youtube.com/watch?v=Z2jUEvgGcCg</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=Z2jUEvgGcCg</guid>
+    <pubDate>Thu, 30 Apr 2026 20:49:25 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;The PIF is reportedly pulling funding from LIV Golf. We break down the newest news on LIV Golf and what it looks like for the future of the league.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Z2jUEvgGcCg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Z2jUEvgGcCg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Z2jUEvgGcCg" type="text/html" medium="video"/>
+    <yt:videoId>Z2jUEvgGcCg</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>ANWA Champion Maria Jose Marin Tees It up at the LPGA&#x27;s Lone Latin America Stop</title>
+    <link>https://skratch.golf/news/news/anwa-winner-maria-jose-marin-lpga-riviera-maya-open-mayakoba</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/anwa-winner-maria-jose-marin-lpga-riviera-maya-open-mayakoba</guid>
+    <pubDate>Thu, 30 Apr 2026 20:08:06 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Less than a month after her Augusta National Women’s Amateur win, Marin makes her next stop on the pro stage in Mexico.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/anwa-winner-maria-jose-marin-lpga-riviera-maya-open-mayakoba"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2269825618_8b7a950563/Getty_Images_2269825618_8b7a950563.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>#1 player in the world btw.</title>
     <link>https://www.youtube.com/shorts/QpGttvUAVM4</link>
@@ -594,17 +647,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go&lt;
     <category>video</category>
   </item>
   <item>
-    <title>Never a Doubt. Nelly Gets It Done At Chevron.</title>
-    <link>https://skratch.golf/news/news/nelly-korda-2026-chevron-championship-winner-recap</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/nelly-korda-2026-chevron-championship-winner-recap</guid>
-    <pubDate>Sun, 26 Apr 2026 21:40:56 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;From the opening tee shot to the final putt, Nelly Korda controlled every step of the Chevron Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/nelly-korda-2026-chevron-championship-winner-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2273276151_bd497fafaa/Getty_Images_2273276151_bd497fafaa.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Did You Miss These April Gear Releases?</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/april-gear-releases-you-missed-callaway-cobra</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/april-gear-releases-you-missed-callaway-cobra</guid>
@@ -612,17 +654,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go&lt;
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;April was a busy month for new gear, and if you blinked, you might have missed some of these cool releases.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/april-gear-releases-you-missed-callaway-cobra"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/New_gear_april_title_701cec46e2/New_gear_april_title_701cec46e2.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Could The Chevron Golden Boots Be The LPGA’s Next Big Tradition?</title>
-    <link>https://skratch.golf/news/pro-golf/lpga-tour-chevron-championship-winner-golden-boots-new-tradition</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/lpga-tour-chevron-championship-winner-golden-boots-new-tradition</guid>
-    <pubDate>Sat, 25 Apr 2026 20:26:49 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;With a golden pair of boots made special for the champion, the LPGA Tour is leaning into a fresh, made-for-the-moment celebration.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/lpga-tour-chevron-championship-winner-golden-boots-new-tradition"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Chevron_Golden_Boots_b401061fcc/Chevron_Golden_Boots_b401061fcc.jpeg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -636,48 +667,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go&lt;
     <media:thumbnail url="https://img.youtube.com/vi/W8_-u_1XWio/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/W8_-u_1XWio" type="text/html" medium="video"/>
     <yt:videoId>W8_-u_1XWio</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Testing out the latest PUTTER grips from Golf Pride</title>
-    <link>https://www.youtube.com/shorts/zzDN1o2kwdE</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/zzDN1o2kwdE</guid>
-    <pubDate>Fri, 24 Apr 2026 19:42:33 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The grip you choose for your putter might have a bigger impact than you realize. Ryan Barath breaks down what different @golfpridegrips can do for you on the greens.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/zzDN1o2kwdE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/zzDN1o2kwdE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/zzDN1o2kwdE" type="text/html" medium="video"/>
-    <yt:videoId>zzDN1o2kwdE</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>The SEXIEST shot in golf 🐝 | PGA TOUR Stingers</title>
-    <link>https://www.youtube.com/watch?v=ZhpV1UIqpcE</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=ZhpV1UIqpcE</guid>
-    <pubDate>Fri, 24 Apr 2026 17:00:00 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;There’s nothing like a pure stinger.
-
-From piercing tee shots to clutch knockdowns in brutal conditions, the best players in the world show complete control—keeping it low, fast, and deadly accurate.
-
-Featuring iconic shots inspired by legends like Tiger Woods and today’s best ball-strikers, this is a masterclass in controlling trajectory.
-
-Which one is your favorite?
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex e&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ZhpV1UIqpcE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ZhpV1UIqpcE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ZhpV1UIqpcE" type="text/html" medium="video"/>
-    <yt:videoId>ZhpV1UIqpcE</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
