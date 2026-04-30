@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 30 Apr 2026 18:50:36 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 30 Apr 2026 20:06:19 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>#1 player in the world btw.</title>
@@ -641,17 +641,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go&lt;
     <category>video</category>
   </item>
   <item>
-    <title>World No. 1 Jeeno Thitikul Among Notable Names to Miss Cut at Chevron Championship</title>
-    <link>https://skratch.golf/news/news/2026-chevron-championship-round-two-recap-notable-names-missed-cut-jeeno-thitikul</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/2026-chevron-championship-round-two-recap-notable-names-missed-cut-jeeno-thitikul</guid>
-    <pubDate>Fri, 24 Apr 2026 21:00:19 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Big names, early exits: a look at those who fell short of the weekend at Chevron.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-chevron-championship-round-two-recap-notable-names-missed-cut-jeeno-thitikul"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Jeeno_Thitikul_Chevron_2026_d03e2d3408/Jeeno_Thitikul_Chevron_2026_d03e2d3408.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Testing out the latest PUTTER grips from Golf Pride</title>
     <link>https://www.youtube.com/shorts/zzDN1o2kwdE</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/zzDN1o2kwdE</guid>
@@ -665,6 +654,30 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/zzDN1o2kwdE/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/zzDN1o2kwdE" type="text/html" medium="video"/>
     <yt:videoId>zzDN1o2kwdE</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>The SEXIEST shot in golf 🐝 | PGA TOUR Stingers</title>
+    <link>https://www.youtube.com/watch?v=ZhpV1UIqpcE</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=ZhpV1UIqpcE</guid>
+    <pubDate>Fri, 24 Apr 2026 17:00:00 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;There’s nothing like a pure stinger.
+
+From piercing tee shots to clutch knockdowns in brutal conditions, the best players in the world show complete control—keeping it low, fast, and deadly accurate.
+
+Featuring iconic shots inspired by legends like Tiger Woods and today’s best ball-strikers, this is a masterclass in controlling trajectory.
+
+Which one is your favorite?
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex e&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ZhpV1UIqpcE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/ZhpV1UIqpcE/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/ZhpV1UIqpcE" type="text/html" medium="video"/>
+    <yt:videoId>ZhpV1UIqpcE</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
