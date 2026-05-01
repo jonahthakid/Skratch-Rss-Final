@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 01 May 2026 14:34:59 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 01 May 2026 15:51:45 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>PSA: if you find a golf ball at a golf tournament it is NOT a souvenir.</title>
+    <link>https://www.youtube.com/shorts/OglY4XCog04</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/OglY4XCog04</guid>
+    <pubDate>Fri, 01 May 2026 14:43:21 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/OglY4XCog04"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/OglY4XCog04/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/OglY4XCog04" type="text/html" medium="video"/>
+    <yt:videoId>OglY4XCog04</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Sassy Scottie is so back. 😭</title>
     <link>https://www.youtube.com/shorts/4tAgVAdqXlU</link>
@@ -558,20 +572,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/7QiPlU9gbZg"&gt;
     <yt:videoId>mDrMpcwov6U</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>It’s official: Justin Rose has signed with McLaren Golf</title>
-    <link>https://www.youtube.com/shorts/ioRXW3mcf_U</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ioRXW3mcf_U</guid>
-    <pubDate>Mon, 27 Apr 2026 21:56:35 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Ryan Barath breaks down everything we know so far and what we can expect this week in Justin Rose’s bag.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ioRXW3mcf_U"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ioRXW3mcf_U/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ioRXW3mcf_U" type="text/html" medium="video"/>
-    <yt:videoId>ioRXW3mcf_U</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
     <category>video</category>
   </item>
   <item>
