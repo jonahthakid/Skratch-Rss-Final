@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 01 May 2026 16:50:43 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 01 May 2026 17:54:19 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Play A Hole Inside The Ropes With Sahith Theegala</title>
+    <link>https://www.youtube.com/watch?v=EYqswHIobOo</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=EYqswHIobOo</guid>
+    <pubDate>Fri, 01 May 2026 17:30:04 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Dan Rapaport chats with Sahith Theegala inside the ropes while he plays the 6th hole at Doral during his Wednesday Pro Am at the Cadillac Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=EYqswHIobOo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/EYqswHIobOo/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/EYqswHIobOo" type="text/html" medium="video"/>
+    <yt:videoId>EYqswHIobOo</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>PSA: if you find a golf ball at a golf tournament it is NOT a souvenir.</title>
     <link>https://www.youtube.com/shorts/OglY4XCog04</link>
@@ -660,17 +674,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go&lt;
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;A lot has changed since the PGA TOUR last went to Trump National Doral—all the proof you need are the names who finished inside the top 10.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/trump-national-doral-lookback-2016-leaderboard-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_514333640_306e926121/Getty_Images_514333640_306e926121.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>McLaren Golf Just Got Its First Tour Player: Justin Rose</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/mclaren-golf-pga-tour-player-justin-rose</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/mclaren-golf-pga-tour-player-justin-rose</guid>
-    <pubDate>Mon, 27 Apr 2026 12:57:50 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;In a surprise move, the 5th-ranked player in the world is changing up gear as the Tour season hits full stride.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/mclaren-golf-pga-tour-player-justin-rose"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Justin_Rose_Mclaren_golf_016e14f0cc/Justin_Rose_Mclaren_golf_016e14f0cc.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
