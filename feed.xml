@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 01 May 2026 17:54:19 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 01 May 2026 19:03:21 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Tiger’s drive gets stuck in a tree and a fan earns himself an all-time souvenir. 🤣(2013, Doral)</title>
+    <link>https://www.youtube.com/shorts/o5_7w0JD7ws</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/o5_7w0JD7ws</guid>
+    <pubDate>Fri, 01 May 2026 18:51:49 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/o5_7w0JD7ws"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/o5_7w0JD7ws/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/o5_7w0JD7ws" type="text/html" medium="video"/>
+    <yt:videoId>o5_7w0JD7ws</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Nelly Korda Keeps the Heater Going, in Early Contention in Mexico</title>
+    <link>https://skratch.golf/news/news/lpga-tour-riviera-maya-open-nelly-korda-mayakoba-round-two</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-tour-riviera-maya-open-nelly-korda-mayakoba-round-two</guid>
+    <pubDate>Fri, 01 May 2026 17:48:32 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Through five starts this season, the World No. 1 hasn’t finished outside the top two—and she’s in the mix again in Mexico.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-tour-riviera-maya-open-nelly-korda-mayakoba-round-two"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Nelly_Korda_Mayakoba_2026_441fd99d7b/Nelly_Korda_Mayakoba_2026_441fd99d7b.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Play A Hole Inside The Ropes With Sahith Theegala</title>
     <link>https://www.youtube.com/watch?v=EYqswHIobOo</link>
@@ -26,6 +51,17 @@
     <category>video</category>
   </item>
   <item>
+    <title>The New Gear Drops That Didn’t Feel Like Noise</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/golf-gear-drops-may-missed-wilson-bushnell-clubs</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/golf-gear-drops-may-missed-wilson-bushnell-clubs</guid>
+    <pubDate>Fri, 01 May 2026 14:45:12 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;From rangefinders to covers, here are a few recent releases that stand out for the right reasons.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/golf-gear-drops-may-missed-wilson-bushnell-clubs"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Wilson_cover_title_188d31ba3e/Wilson_cover_title_188d31ba3e.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>PSA: if you find a golf ball at a golf tournament it is NOT a souvenir.</title>
     <link>https://www.youtube.com/shorts/OglY4XCog04</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/OglY4XCog04</guid>
@@ -38,6 +74,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The End of LIV as We Know It: How We Got Here, and What Now?</title>
+    <link>https://skratch.golf/news/news/liv-golf-future-how-we-got-here</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/liv-golf-future-how-we-got-here</guid>
+    <pubDate>Fri, 01 May 2026 13:45:38 +0000</pubDate>
+    <dc:creator>Alan Shipnuck</dc:creator>
+    <description>&lt;p&gt;After years of disruption, big money, and bigger egos, LIV Golf faces its most uncertain moment yet.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/liv-golf-future-how-we-got-here"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/liv_golf_mexico_city_2026_Getty_Images_2272075428_8752cd1b9a/liv_golf_mexico_city_2026_Getty_Images_2272075428_8752cd1b9a.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Sassy Scottie is so back. 😭</title>
@@ -515,27 +562,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/osPvwmktV0E"&gt;
     <category>article</category>
   </item>
   <item>
-    <title>Tiger. Doral. 2005. #TigerTuesdays</title>
-    <link>https://www.youtube.com/shorts/7QiPlU9gbZg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/7QiPlU9gbZg</guid>
-    <pubDate>Tue, 28 Apr 2026 13:27:26 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
-
-Check out our website: https://skratch.golf/
-Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/7QiPlU9gbZg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/7QiPlU9gbZg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/7QiPlU9gbZg" type="text/html" medium="video"/>
-    <yt:videoId>7QiPlU9gbZg</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Inside McLaren Golf’s First Real Equipment Drop</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/mclaren-golf-irons-launch-series-1-3</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/mclaren-golf-irons-launch-series-1-3</guid>
@@ -643,39 +669,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go&lt;
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Exotic Metals Mean Exotic Prices With Odyssey&#x27;s New Damascus Milled Putters</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/odyssey-limited-damascus-milled-putters</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/odyssey-limited-damascus-milled-putters</guid>
-    <pubDate>Mon, 27 Apr 2026 16:49:50 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;By using a unique steel processing method, Odyssey is bringing one-of-a-kind inserts to familiar putter shapes to offer premium feel and looks.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/odyssey-limited-damascus-milled-putters"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Odyssey_Damascus_putters_title_73ab1c7b9d/Odyssey_Damascus_putters_title_73ab1c7b9d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>On Tap: Cadillac Championship at Trump National Doral</title>
-    <link>https://skratch.golf/news/news/cadillac-championship-how-to-watch-pga-tour-tee-times-trump-national-doral</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/cadillac-championship-how-to-watch-pga-tour-tee-times-trump-national-doral</guid>
-    <pubDate>Mon, 27 Apr 2026 15:28:29 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;After a decade, the PGA TOUR is back at Doral. Here’s all the information you need to watch the revived Cadillac Championship this week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/cadillac-championship-how-to-watch-pga-tour-tee-times-trump-national-doral"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_536861346_03fe0ee6b3/Getty_Images_536861346_03fe0ee6b3.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Looking Back a Decade to Doral’s Last Appearance on the PGA TOUR</title>
-    <link>https://skratch.golf/news/news/trump-national-doral-lookback-2016-leaderboard-pga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/trump-national-doral-lookback-2016-leaderboard-pga-tour</guid>
-    <pubDate>Mon, 27 Apr 2026 15:06:35 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;A lot has changed since the PGA TOUR last went to Trump National Doral—all the proof you need are the names who finished inside the top 10.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/trump-national-doral-lookback-2016-leaderboard-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_514333640_306e926121/Getty_Images_514333640_306e926121.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
