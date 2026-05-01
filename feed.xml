@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 01 May 2026 13:06:58 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 01 May 2026 14:34:59 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Sassy Scottie is so back. 😭</title>
+    <link>https://www.youtube.com/shorts/4tAgVAdqXlU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/4tAgVAdqXlU</guid>
+    <pubDate>Fri, 01 May 2026 13:37:49 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/4tAgVAdqXlU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/4tAgVAdqXlU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/4tAgVAdqXlU" type="text/html" medium="video"/>
+    <yt:videoId>4tAgVAdqXlU</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Fire Up the Grills, the Block Party will Return to the PGA Championship</title>
+    <link>https://skratch.golf/news/news/Michael-block-pga-championship-field-aronimink</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/Michael-block-pga-championship-field-aronimink</guid>
+    <pubDate>Fri, 01 May 2026 13:00:38 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;With a top-10 finish at the PGA Professional Championship at Bandon Dunes, Michael Block earned his spot at Aronimink later this month.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Michael-block-pga-championship-field-aronimink"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2273063103_d93c9bc726/Getty_Images_2273063103_d93c9bc726.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Gratitude is a beautiful thing.</title>
     <link>https://www.youtube.com/shorts/rGAxEXpxaOs</link>
@@ -639,20 +664,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go&lt;
     <category>article</category>
   </item>
   <item>
-    <title>Doesn’t get any more CLUTCH than a walk-off eagle. 🔥🔥🔥</title>
-    <link>https://www.youtube.com/shorts/tjeHyRwXFKQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/tjeHyRwXFKQ</guid>
-    <pubDate>Mon, 27 Apr 2026 14:03:27 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Celebrating the TOUR returning to Doral for the first time in 10 years with Craig Parry’s perfect 6-iron from 176 yards to win the 2004 Ford Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/tjeHyRwXFKQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/tjeHyRwXFKQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/tjeHyRwXFKQ" type="text/html" medium="video"/>
-    <yt:videoId>tjeHyRwXFKQ</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>McLaren Golf Just Got Its First Tour Player: Justin Rose</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/mclaren-golf-pga-tour-player-justin-rose</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/mclaren-golf-pga-tour-player-justin-rose</guid>
@@ -660,17 +671,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go&lt;
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;In a surprise move, the 5th-ranked player in the world is changing up gear as the Tour season hits full stride.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/mclaren-golf-pga-tour-player-justin-rose"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Justin_Rose_Mclaren_golf_016e14f0cc/Justin_Rose_Mclaren_golf_016e14f0cc.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>How Nelly Korda&#x27;s Irons Tell the Story of Her Dominance at Chevron</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/nelly-korda-chevron-win-witb-irons-fitting</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/nelly-korda-chevron-win-witb-irons-fitting</guid>
-    <pubDate>Mon, 27 Apr 2026 00:48:00 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;What makes Nelly Korda one of the best iron players in the world is also what you should be watching for in your next fitting.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/nelly-korda-chevron-win-witb-irons-fitting"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Golf_WRX_Nelly_Bag_49731da0b7/Golf_WRX_Nelly_Bag_49731da0b7.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
