@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 02 May 2026 20:35:39 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 02 May 2026 21:34:39 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Shoutout to the palm tree for the assist. 🫡</title>
+    <link>https://www.youtube.com/shorts/-ADkagJCDD8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/-ADkagJCDD8</guid>
+    <pubDate>Sat, 02 May 2026 20:48:25 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/-ADkagJCDD8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/-ADkagJCDD8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/-ADkagJCDD8" type="text/html" medium="video"/>
+    <yt:videoId>-ADkagJCDD8</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Play A Hole With HARRY HALL At DORAL</title>
     <link>https://www.youtube.com/watch?v=wRTbYFthZBY</link>
@@ -478,20 +492,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://img.youtube.com/vi/uTRxKCItDHo/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/uTRxKCItDHo" type="text/html" medium="video"/>
     <yt:videoId>uTRxKCItDHo</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Chirps were flying towards Dan today at Doral</title>
-    <link>https://www.youtube.com/shorts/q9go-yRcymQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/q9go-yRcymQ</guid>
-    <pubDate>Tue, 28 Apr 2026 22:48:32 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/q9go-yRcymQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/q9go-yRcymQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/q9go-yRcymQ" type="text/html" medium="video"/>
-    <yt:videoId>q9go-yRcymQ</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
