@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 04 May 2026 20:00:08 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 04 May 2026 21:14:20 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Wishing Rory a very f***ing satisfying 37th birthday. 🤣</title>
@@ -55,6 +55,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Nelly Korda Makes Special Appearance on The Pat McAfee Show</title>
+    <link>https://skratch.golf/news/news/nelly-korda-pat-mcafee-show-lpga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/nelly-korda-pat-mcafee-show-lpga-tour</guid>
+    <pubDate>Mon, 04 May 2026 18:36:01 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;A crossover moment that could introduce women&#x27;s golf to an entirely new wave of fans.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/nelly-korda-pat-mcafee-show-lpga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Winner_Nelly_Korda_Credit_Getty_LPGA_2707ec633f/Winner_Nelly_Korda_Credit_Getty_LPGA_2707ec633f.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>“I was ready to retire.&quot;</title>
@@ -640,17 +651,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Why the AIG Women’s Open’s Record $10 Million Purse Increase Matters</title>
-    <link>https://skratch.golf/news/news/aig-womens-open-prize-purse-increase-10-million-50-year-anniversary</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/aig-womens-open-prize-purse-increase-10-million-50-year-anniversary</guid>
-    <pubDate>Tue, 28 Apr 2026 13:37:31 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;With the bump, AIG becomes the third LPGA major to reach the $10 million mark.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/aig-womens-open-prize-purse-increase-10-million-50-year-anniversary"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/AIG_Womens_Open_2026_1d64fbec5d/AIG_Womens_Open_2026_1d64fbec5d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Inside McLaren Golf’s First Real Equipment Drop</title>
