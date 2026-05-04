@@ -9,8 +9,36 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 04 May 2026 21:14:20 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 04 May 2026 22:31:43 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Scottie’s getting very good at this. Presented by @Knockaround.</title>
+    <link>https://www.youtube.com/shorts/21dYx6zKCzI</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/21dYx6zKCzI</guid>
+    <pubDate>Mon, 04 May 2026 22:15:37 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/21dYx6zKCzI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/21dYx6zKCzI/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/21dYx6zKCzI" type="text/html" medium="video"/>
+    <yt:videoId>21dYx6zKCzI</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Wild analogy from Dan.</title>
+    <link>https://www.youtube.com/shorts/fFnTnCBLkcY</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/fFnTnCBLkcY</guid>
+    <pubDate>Mon, 04 May 2026 21:15:46 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/fFnTnCBLkcY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/fFnTnCBLkcY/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/fFnTnCBLkcY" type="text/html" medium="video"/>
+    <yt:videoId>fFnTnCBLkcY</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Wishing Rory a very f***ing satisfying 37th birthday. 🤣</title>
     <link>https://www.youtube.com/shorts/tZUNML0Qrhg</link>
@@ -614,20 +642,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>Ride the wave. Viktor Hovland is our @polymarketLiveTrade pick this week at Doral.</title>
-    <link>https://www.youtube.com/shorts/8orpsRMd9Fg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/8orpsRMd9Fg</guid>
-    <pubDate>Tue, 28 Apr 2026 18:03:21 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8orpsRMd9Fg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/8orpsRMd9Fg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/8orpsRMd9Fg" type="text/html" medium="video"/>
-    <yt:videoId>8orpsRMd9Fg</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Three Players to Watch at the Cadillac Championship</title>
     <link>https://skratch.golf/news/news/cadillac-championship-three-players-to-watch-golf-picks-pga-tour-doral</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/cadillac-championship-three-players-to-watch-golf-picks-pga-tour-doral</guid>
@@ -637,20 +651,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2271842674_32684ccb45/Getty_Images_2271842674_32684ccb45.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>DEBATE: Was Jim Furyk The Right Choice For Ryder Cup Captain?</title>
-    <link>https://www.youtube.com/watch?v=caJj6u0kZnw</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=caJj6u0kZnw</guid>
-    <pubDate>Tue, 28 Apr 2026 15:40:14 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Shane Ryan joins the show &amp; debates with Dan on the U.S. Team&#x27;s decision to name Jim Furyk as Ryder Cup captain. Was it the right move? Would someone else have brought the juice the Americans need?&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=caJj6u0kZnw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/caJj6u0kZnw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/caJj6u0kZnw" type="text/html" medium="video"/>
-    <yt:videoId>caJj6u0kZnw</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>Inside McLaren Golf’s First Real Equipment Drop</title>
