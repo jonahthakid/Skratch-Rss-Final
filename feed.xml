@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 04 May 2026 12:18:26 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 04 May 2026 14:36:51 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Cameron Young IN FULL FLIGHT as Scheffler CHASES! | Cadillac Championship Watch Along</title>
@@ -80,6 +80,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Rory McIlroy Returns to Action This Week at Quail Hollow</title>
+    <link>https://skratch.golf/news/news/truist-championship-field-rory-mcilroy-returns-pga-tour-quail-hollow</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/truist-championship-field-rory-mcilroy-returns-pga-tour-quail-hollow</guid>
+    <pubDate>Fri, 01 May 2026 21:26:41 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;As the second major of the year approaches, Rory tees it back up at the Truist Championship while Scottie takes the week off.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/truist-championship-field-rory-mcilroy-returns-pga-tour-quail-hollow"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2152654104_b251e44fea/Getty_Images_2152654104_b251e44fea.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Scottie is too good for his own good. 😭</title>
@@ -636,24 +647,13 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>LeBron James Has Dipped His Toe in the Golf Vlog Content Game</title>
-    <link>https://skratch.golf/news/news/lebron-james-posting-golf-vlog-content</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/lebron-james-posting-golf-vlog-content</guid>
-    <pubDate>Mon, 27 Apr 2026 19:51:25 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;LeBron James has officially entered the golf-content-creation game.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lebron-james-posting-golf-vlog-content"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Untitled_design_2a1dfecb73/Untitled_design_2a1dfecb73.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Tony Romo is Among a Group of Pro Athletes Vying for a Spot in the U.S. Open</title>
-    <link>https://skratch.golf/news/news/us-open-2026-qualifying-pro-athletes-tony-romo-shinnecock-hills</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/us-open-2026-qualifying-pro-athletes-tony-romo-shinnecock-hills</guid>
-    <pubDate>Mon, 27 Apr 2026 19:21:20 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Several current and former pro athletes will attempt to earn entry into the field at Shinnecock Hills through local U.S. Open qualifying events. Here&#x27;s who we&#x27;re looking out for.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-open-2026-qualifying-pro-athletes-tony-romo-shinnecock-hills"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2161125871_7479b4bf9b/Getty_Images_2161125871_7479b4bf9b.jpg"/>
+    <title>Exotic Metals Mean Exotic Prices With Odyssey&#x27;s New Damascus Milled Putters</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/odyssey-limited-damascus-milled-putters</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/odyssey-limited-damascus-milled-putters</guid>
+    <pubDate>Mon, 27 Apr 2026 16:49:50 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;By using a unique steel processing method, Odyssey is bringing one-of-a-kind inserts to familiar putter shapes to offer premium feel and looks.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/odyssey-limited-damascus-milled-putters"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Odyssey_Damascus_putters_title_73ab1c7b9d/Odyssey_Damascus_putters_title_73ab1c7b9d.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
