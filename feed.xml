@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 06 May 2026 21:37:47 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 06 May 2026 22:43:04 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>S2 E34: Bryson and Rahm Address LIV Crisis, Rory&#x27;s Back, Handicap Police</title>
@@ -73,6 +73,17 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;McIlroy says Augusta validated the work he’s put in over the last few years. Now he’s chasing what comes next.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/truist-championship-rory-mcilroy-more-motivated-than-ever-pga-tour-masters"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2274801771_7c1c865f98/Getty_Images_2274801771_7c1c865f98.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Three Players to Watch at the Truist Championship</title>
+    <link>https://skratch.golf/news/news/truist-championship-pga-tour-golf-picks-players-to-watch-quail-hollow</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/truist-championship-pga-tour-golf-picks-players-to-watch-quail-hollow</guid>
+    <pubDate>Wed, 06 May 2026 16:49:12 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Xander Schauffele has been the silver medalist at his last two trips to Quail Hollow—is it finally his turn to raise the hardware?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/truist-championship-pga-tour-golf-picks-players-to-watch-quail-hollow"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2271225477_a8a0ca1334/Getty_Images_2271225477_a8a0ca1334.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -644,17 +655,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Raymond Williams</dc:creator>
     <description>&lt;p&gt;The oversized, rainbow-lens frames Rickie Fowler keeps reaching for aren’t just a vibe&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/rickie-fowler-oakley-sunglasses-rainbow-golf-style"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Rickie_Shades_Cover_d7419efe22/Rickie_Shades_Cover_d7419efe22.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Silent Ace: Rookie Melanie Green Didn’t Even Know She Dunked It</title>
-    <link>https://skratch.golf/news/news/melanie-green-lpga-rookie-makes-ace-riviera-maya-open-mayakoba</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/melanie-green-lpga-rookie-makes-ace-riviera-maya-open-mayakoba</guid>
-    <pubDate>Thu, 30 Apr 2026 15:34:33 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;A perfect shot, zero reaction, and one very delayed celebration.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/melanie-green-lpga-rookie-makes-ace-riviera-maya-open-mayakoba"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Melanie_Green_Chevron_2026_db151d791e/Melanie_Green_Chevron_2026_db151d791e.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
