@@ -9,8 +9,47 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 06 May 2026 12:24:42 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 06 May 2026 15:08:36 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>When Nick Watney went fan HUNTING (x2) at Quail Hollow. 😳</title>
+    <link>https://www.youtube.com/shorts/spq_PGoewec</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/spq_PGoewec</guid>
+    <pubDate>Wed, 06 May 2026 14:23:29 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/spq_PGoewec"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/spq_PGoewec/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/spq_PGoewec" type="text/html" medium="video"/>
+    <yt:videoId>spq_PGoewec</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>LIV Golf’s Thomas Pieters on League’s Chaos &amp; What Comes Next</title>
+    <link>https://www.youtube.com/watch?v=NvIndcotccY</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=NvIndcotccY</guid>
+    <pubDate>Wed, 06 May 2026 12:30:36 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;LIV Golfer Thomas Pieters joins the show to discuss the ongoing news surrounding LIV Golf, the future of the tour &amp; much more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=NvIndcotccY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/NvIndcotccY/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/NvIndcotccY" type="text/html" medium="video"/>
+    <yt:videoId>NvIndcotccY</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Bryson DeChambeau Isn’t Talking About Saving LIV. He’s Talking About Saving Golf</title>
+    <link>https://skratch.golf/news/news/bryson-dechambeau-liv-virginia-dc-comments-pga-tour-issues-youtube-future</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/bryson-dechambeau-liv-virginia-dc-comments-pga-tour-issues-youtube-future</guid>
+    <pubDate>Wed, 06 May 2026 11:10:50 +0000</pubDate>
+    <dc:creator>Garrett Johnston</dc:creator>
+    <description>&lt;p&gt;“Egos would need to get dropped,” DeChambeau said Tuesday while discussing LIV’s uncertain future and golf’s fractured landscape.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/bryson-dechambeau-liv-virginia-dc-comments-pga-tour-issues-youtube-future"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2224822445_f44413b38d/Getty_Images_2224822445_f44413b38d.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>One of us… WAIT nevermind. 😭 Tiger’s shank leads to an unlikely birdie at Quail Hollow, 2007.</title>
     <link>https://www.youtube.com/shorts/GypsoAKPJq8</link>
@@ -550,20 +589,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>How Spieth was seeing the hole today. 👀</title>
-    <link>https://www.youtube.com/shorts/Zs0gniW9L64</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/Zs0gniW9L64</guid>
-    <pubDate>Thu, 30 Apr 2026 21:07:41 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Zs0gniW9L64"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/Zs0gniW9L64/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/Zs0gniW9L64" type="text/html" medium="video"/>
-    <yt:videoId>Zs0gniW9L64</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Both sides could have been better here. @manorsgolf</title>
     <link>https://www.youtube.com/shorts/FcWruVDx5I8</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/FcWruVDx5I8</guid>
@@ -578,20 +603,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>PIF Reportedly Out On LIV — We Break It All Down</title>
-    <link>https://www.youtube.com/watch?v=Z2jUEvgGcCg</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=Z2jUEvgGcCg</guid>
-    <pubDate>Thu, 30 Apr 2026 20:49:25 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;The PIF is reportedly pulling funding from LIV Golf. We break down the newest news on LIV Golf and what it looks like for the future of the league.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Z2jUEvgGcCg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/Z2jUEvgGcCg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/Z2jUEvgGcCg" type="text/html" medium="video"/>
-    <yt:videoId>Z2jUEvgGcCg</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>ANWA Champion Maria Jose Marin Tees It up at the LPGA&#x27;s Lone Latin America Stop</title>
     <link>https://skratch.golf/news/news/anwa-winner-maria-jose-marin-lpga-riviera-maya-open-mayakoba</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/anwa-winner-maria-jose-marin-lpga-riviera-maya-open-mayakoba</guid>
@@ -599,17 +610,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;Less than a month after her Augusta National Women’s Amateur win, Marin makes her next stop on the pro stage in Mexico.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/anwa-winner-maria-jose-marin-lpga-riviera-maya-open-mayakoba"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2269825618_8b7a950563/Getty_Images_2269825618_8b7a950563.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Brooks Koepka’s Augusta Mock Neck Is Finally Here</title>
-    <link>https://skratch.golf/style/mens-style/brooks-koepka-nike-mock-neck-masters-golf-shirt</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/brooks-koepka-nike-mock-neck-masters-golf-shirt</guid>
-    <pubDate>Thu, 30 Apr 2026 16:10:34 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;The piece that split opinions now gets a closer look&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/brooks-koepka-nike-mock-neck-masters-golf-shirt"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Brooks_Mock_Neck_Cover_1d90f4c9df/Brooks_Mock_Neck_Cover_1d90f4c9df.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
