@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 06 May 2026 16:58:25 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 06 May 2026 18:18:54 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>When Nick Watney went fan HUNTING (x2) at Quail Hollow. 😳</title>
@@ -614,17 +614,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>Malbon Taps Korea’s Design Language With Studio Seoul</title>
-    <link>https://skratch.golf/style/mens-style/malbon-studio-seoul-golf-style-korea-design-language</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/malbon-studio-seoul-golf-style-korea-design-language</guid>
-    <pubDate>Thu, 30 Apr 2026 15:42:49 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;A tech-driven remix of familiar Malbon staples&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/malbon-studio-seoul-golf-style-korea-design-language"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Studio_Soul_Cover_641dddb50c/Studio_Soul_Cover_641dddb50c.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Silent Ace: Rookie Melanie Green Didn’t Even Know She Dunked It</title>
     <link>https://skratch.golf/news/news/melanie-green-lpga-rookie-makes-ace-riviera-maya-open-mayakoba</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/melanie-green-lpga-rookie-makes-ace-riviera-maya-open-mayakoba</guid>
@@ -654,6 +643,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;In a surprise announcement before the start of the Cadillac Championship, Brooks Koepka and Srixon Golf have officially parted ways.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/brooks-koepka-gear-free-agent-srixon-split"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/brooks_koepka_alfred_dunhill_links_2024_Getty_Images_2176890153_fd568a9340/brooks_koepka_alfred_dunhill_links_2024_Getty_Images_2176890153_fd568a9340.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Every Winning Driver From The 2026 PGA TOUR Season (So Far)</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/pga-tour-every-winning-driver-2026-season</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/pga-tour-every-winning-driver-2026-season</guid>
+    <pubDate>Thu, 12 Feb 2026 18:57:22 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Every winner and every driver used to win on the PGA Tour in 2026, and how you can find them.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/pga-tour-every-winning-driver-2026-season"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/4_C_Young_drive_e45948f3c0/4_C_Young_drive_e45948f3c0.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
