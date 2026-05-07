@@ -9,8 +9,36 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 07 May 2026 19:12:09 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 07 May 2026 20:45:54 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Don&#x27;t think Rosie liked this one. 😭</title>
+    <link>https://www.youtube.com/shorts/0KeCEf1DbTY</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/0KeCEf1DbTY</guid>
+    <pubDate>Thu, 07 May 2026 20:22:46 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/0KeCEf1DbTY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/0KeCEf1DbTY/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/0KeCEf1DbTY" type="text/html" medium="video"/>
+    <yt:videoId>0KeCEf1DbTY</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>One of the most UNLIKELY birdies you’ll ever see. 😭</title>
+    <link>https://www.youtube.com/shorts/8vz31wK6CG0</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/8vz31wK6CG0</guid>
+    <pubDate>Thu, 07 May 2026 19:39:21 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8vz31wK6CG0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/8vz31wK6CG0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/8vz31wK6CG0" type="text/html" medium="video"/>
+    <yt:videoId>8vz31wK6CG0</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Expect plenty of MUDBALLS at the Truist Champ after a wet morning in Charlotte. 😭</title>
     <link>https://www.youtube.com/shorts/Cs79K1GrNxc</link>
@@ -585,34 +613,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2152654104_b251e44fea/Getty_Images_2152654104_b251e44fea.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Scottie is too good for his own good. 😭</title>
-    <link>https://www.youtube.com/shorts/ajqyhkung30</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ajqyhkung30</guid>
-    <pubDate>Fri, 01 May 2026 19:20:12 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ajqyhkung30"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ajqyhkung30/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ajqyhkung30" type="text/html" medium="video"/>
-    <yt:videoId>ajqyhkung30</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Tiger’s drive gets stuck in a tree and a fan earns himself an all-time souvenir. 🤣(2013, Doral)</title>
-    <link>https://www.youtube.com/shorts/o5_7w0JD7ws</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/o5_7w0JD7ws</guid>
-    <pubDate>Fri, 01 May 2026 18:51:49 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/o5_7w0JD7ws"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/o5_7w0JD7ws/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/o5_7w0JD7ws" type="text/html" medium="video"/>
-    <yt:videoId>o5_7w0JD7ws</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Nelly Korda Keeps the Heater Going, in Early Contention in Mexico</title>
