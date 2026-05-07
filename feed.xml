@@ -9,8 +9,50 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 07 May 2026 12:26:10 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 07 May 2026 15:10:29 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Wishing Cam all of the lucky bounces on his 29th birthday. 🤣</title>
+    <link>https://www.youtube.com/shorts/5zV7u_LZj_w</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/5zV7u_LZj_w</guid>
+    <pubDate>Thu, 07 May 2026 14:26:46 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/5zV7u_LZj_w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/5zV7u_LZj_w/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/5zV7u_LZj_w" type="text/html" medium="video"/>
+    <yt:videoId>5zV7u_LZj_w</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Yip Stricker CALLS OUT U.S. Open Qualifiers</title>
+    <link>https://www.youtube.com/watch?v=-ltQ4oL_Urg</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=-ltQ4oL_Urg</guid>
+    <pubDate>Thu, 07 May 2026 14:00:03 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Yip Strickler joins the show and dives into some shady folks in U.S. Open Local Qualifying.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=-ltQ4oL_Urg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/-ltQ4oL_Urg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/-ltQ4oL_Urg" type="text/html" medium="video"/>
+    <yt:videoId>-ltQ4oL_Urg</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>&quot;You got a lot of people teeing it up with just no chance.&quot; @manorsgolf</title>
+    <link>https://www.youtube.com/shorts/Wuub9REe2fk</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/Wuub9REe2fk</guid>
+    <pubDate>Thu, 07 May 2026 13:15:05 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Wuub9REe2fk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Wuub9REe2fk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Wuub9REe2fk" type="text/html" medium="video"/>
+    <yt:videoId>Wuub9REe2fk</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Bryson can thrive without the PGA TOUR and the PGA TOUR can thrive without Bryson.</title>
     <link>https://www.youtube.com/shorts/iARwCPKzk90</link>
@@ -434,20 +476,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>&quot;Feel like right now I don&#x27;t necessarily need all my tools to be up there &amp; that&#x27;s a good feeling.&quot;</title>
-    <link>https://www.youtube.com/shorts/Cpu-NljiQeg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/Cpu-NljiQeg</guid>
-    <pubDate>Mon, 04 May 2026 17:10:10 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Cpu-NljiQeg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/Cpu-NljiQeg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/Cpu-NljiQeg" type="text/html" medium="video"/>
-    <yt:videoId>Cpu-NljiQeg</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Rory’s DIRTY 30 on the back-9 of Quail Hollow. 🔥</title>
     <link>https://www.youtube.com/shorts/shNJEj03N8I</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/shNJEj03N8I</guid>
@@ -496,20 +524,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Winner_Trophy_Nelly_Korda_Credit_Getty_LPGA_a1c2540e0f/Winner_Trophy_Nelly_Korda_Credit_Getty_LPGA_a1c2540e0f.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Cameron Young IN FULL FLIGHT as Scheffler CHASES! | Cadillac Championship Watch Along</title>
-    <link>https://www.youtube.com/watch?v=pdTsrbF__Vc</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=pdTsrbF__Vc</guid>
-    <pubDate>Sun, 03 May 2026 20:42:28 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Watch the final round action at the Cadillac Championship at Trump National Doral unfold with Dan Rapaport.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=pdTsrbF__Vc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/pdTsrbF__Vc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/pdTsrbF__Vc" type="text/html" medium="video"/>
-    <yt:videoId>pdTsrbF__Vc</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>Shoutout to the palm tree for the assist. 🫡</title>
@@ -638,20 +652,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/liv_golf_mexico_city_2026_Getty_Images_2272075428_8752cd1b9a/liv_golf_mexico_city_2026_Getty_Images_2272075428_8752cd1b9a.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Sassy Scottie is so back. 😭</title>
-    <link>https://www.youtube.com/shorts/4tAgVAdqXlU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/4tAgVAdqXlU</guid>
-    <pubDate>Fri, 01 May 2026 13:37:49 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/4tAgVAdqXlU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/4tAgVAdqXlU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/4tAgVAdqXlU" type="text/html" medium="video"/>
-    <yt:videoId>4tAgVAdqXlU</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Fire Up the Grills, the Block Party will Return to the PGA Championship</title>
