@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 07 May 2026 20:45:54 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 07 May 2026 21:51:37 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Don&#x27;t think Rosie liked this one. 😭</title>
@@ -24,6 +24,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Gary Player: ‘It’s an Absolute Joke’ How Much Easier Golf is Today</title>
+    <link>https://skratch.golf/shows/shows/gary-player-interview-vanity-index-podcast-joke-how-much-easier-golf-is-today</link>
+    <guid isPermaLink="true">https://skratch.golf/shows/shows/gary-player-interview-vanity-index-podcast-joke-how-much-easier-golf-is-today</guid>
+    <pubDate>Thu, 07 May 2026 20:20:12 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;&quot;I mean it’s—it’s a joke how much easier golf is now. It is absolutely a joke.”&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/shows/shows/gary-player-interview-vanity-index-podcast-joke-how-much-easier-golf-is-today"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2208863126_10029e8473/Getty_Images_2208863126_10029e8473.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>One of the most UNLIKELY birdies you’ll ever see. 😭</title>
@@ -655,17 +666,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;With a top-10 finish at the PGA Professional Championship at Bandon Dunes, Michael Block earned his spot at Aronimink later this month.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Michael-block-pga-championship-field-aronimink"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2273063103_d93c9bc726/Getty_Images_2273063103_d93c9bc726.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Brooks Koepka Is A Gear Free Agent Once Again</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/brooks-koepka-gear-free-agent-srixon-split</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/brooks-koepka-gear-free-agent-srixon-split</guid>
-    <pubDate>Thu, 30 Apr 2026 14:30:01 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;In a surprise announcement before the start of the Cadillac Championship, Brooks Koepka and Srixon Golf have officially parted ways.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/brooks-koepka-gear-free-agent-srixon-split"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/brooks_koepka_alfred_dunhill_links_2024_Getty_Images_2176890153_fd568a9340/brooks_koepka_alfred_dunhill_links_2024_Getty_Images_2176890153_fd568a9340.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
