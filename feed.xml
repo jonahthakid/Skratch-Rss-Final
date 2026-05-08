@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 08 May 2026 15:06:09 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 08 May 2026 16:49:10 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Golf Feels Harder in Spring. Allergies Might Be Why.</title>
+    <link>https://skratch.golf/news/golf-culture/spring-golf-allergies-performance-regions</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/spring-golf-allergies-performance-regions</guid>
+    <pubDate>Fri, 08 May 2026 14:00:45 +0000</pubDate>
+    <dc:creator>Brittany Romano</dc:creator>
+    <description>&lt;p&gt;Brain fog. Watery eyes. Bad sleep. Heavy legs. Allergy season can quietly wreck a golf round long before you realize what’s happening. Here are the stops on tour that get hit the hardest.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/spring-golf-allergies-performance-regions"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/golf_course_pollen_gettyimages_2165849236_1ee4c907ed/golf_course_pollen_gettyimages_2165849236_1ee4c907ed.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Watch where you&#x27;re walking, bozo. 🤣</title>
     <link>https://www.youtube.com/shorts/cqoIWSlyPDU</link>
@@ -584,17 +595,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <dc:creator>Rick Gehman</dc:creator>
     <description>&lt;p&gt;McIlroy has won nearly 30% of his starts at Quail Hollow and is gaining 2.58 strokes per round at the venue. That is, by far, the best of anyone who has played at least five times in Charlotte.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/truist-championship-2026-quail-hollow-best-bets-picks-to-win"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263035130_efb66359f1/Getty_Images_2263035130_efb66359f1.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Nelly Korda Makes Special Appearance on The Pat McAfee Show</title>
-    <link>https://skratch.golf/news/news/nelly-korda-pat-mcafee-show-lpga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/nelly-korda-pat-mcafee-show-lpga-tour</guid>
-    <pubDate>Mon, 04 May 2026 18:36:01 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;A crossover moment that could introduce women&#x27;s golf to an entirely new wave of fans.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/nelly-korda-pat-mcafee-show-lpga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Winner_Nelly_Korda_Credit_Getty_LPGA_2707ec633f/Winner_Nelly_Korda_Credit_Getty_LPGA_2707ec633f.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
