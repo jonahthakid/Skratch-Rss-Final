@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 09 May 2026 21:37:38 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 09 May 2026 22:36:30 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Vintage Spieth the week before the PGA Championship?! We’re in trouble. 👀</title>
+    <link>https://www.youtube.com/shorts/aHTNQxLPZrU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/aHTNQxLPZrU</guid>
+    <pubDate>Sat, 09 May 2026 22:23:26 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/aHTNQxLPZrU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/aHTNQxLPZrU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/aHTNQxLPZrU" type="text/html" medium="video"/>
+    <yt:videoId>aHTNQxLPZrU</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Just Tiger doing Tiger things. 😭</title>
     <link>https://www.youtube.com/shorts/Gk0YuuqbOL8</link>
@@ -679,17 +693,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <dc:creator>Rick Gehman</dc:creator>
     <description>&lt;p&gt;McIlroy has won nearly 30% of his starts at Quail Hollow and is gaining 2.58 strokes per round at the venue. That is, by far, the best of anyone who has played at least five times in Charlotte.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/truist-championship-2026-quail-hollow-best-bets-picks-to-win"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2263035130_efb66359f1/Getty_Images_2263035130_efb66359f1.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Nelly Korda Makes Special Appearance on The Pat McAfee Show</title>
-    <link>https://skratch.golf/news/news/nelly-korda-pat-mcafee-show-lpga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/nelly-korda-pat-mcafee-show-lpga-tour</guid>
-    <pubDate>Mon, 04 May 2026 18:36:01 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;A crossover moment that could introduce women&#x27;s golf to an entirely new wave of fans.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/nelly-korda-pat-mcafee-show-lpga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Winner_Nelly_Korda_Credit_Getty_LPGA_2707ec633f/Winner_Nelly_Korda_Credit_Getty_LPGA_2707ec633f.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
