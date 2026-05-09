@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 08 May 2026 23:51:50 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 09 May 2026 02:25:29 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Bad Weather Looms at Mizuho, But Jeeno Thitikul Remains Unfazed</title>
+    <link>https://skratch.golf/news/news/mizuho-americas-open-jeeno-thitikul-round-two-recap</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/mizuho-americas-open-jeeno-thitikul-round-two-recap</guid>
+    <pubDate>Fri, 08 May 2026 22:27:28 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The World No. 2 is finding her form this week as she seeks to defend her Mizuho title.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/mizuho-americas-open-jeeno-thitikul-round-two-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Jeeno_Thitikul_Mizuho_2026_Rd_1_2140a80b3a/Jeeno_Thitikul_Mizuho_2026_Rd_1_2140a80b3a.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Do holes-in-one count on a par 3 course?</title>
     <link>https://www.youtube.com/shorts/cf6cf8RRvLs</link>
@@ -672,20 +683,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <media:thumbnail url="https://img.youtube.com/vi/shNJEj03N8I/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/shNJEj03N8I" type="text/html" medium="video"/>
     <yt:videoId>shNJEj03N8I</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>This one&#x27;s been stuck in our head since the Ryder Cup. Happy birthday, Rory, Rory, Rory Ry Ry.</title>
-    <link>https://www.youtube.com/shorts/32QLugaJBHc</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/32QLugaJBHc</guid>
-    <pubDate>Mon, 04 May 2026 15:28:22 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/32QLugaJBHc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/32QLugaJBHc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/32QLugaJBHc" type="text/html" medium="video"/>
-    <yt:videoId>32QLugaJBHc</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
