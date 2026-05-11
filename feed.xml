@@ -9,8 +9,55 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 11 May 2026 13:42:41 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 11 May 2026 16:27:45 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Here&#x27;s your chance to get in on the Kevin Hart roast. 😭Let&#x27;s hear your best in the comments.</title>
+    <link>https://www.youtube.com/shorts/R5XreR1sIws</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/R5XreR1sIws</guid>
+    <pubDate>Mon, 11 May 2026 15:24:03 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/R5XreR1sIws"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/R5XreR1sIws/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/R5XreR1sIws" type="text/html" medium="video"/>
+    <yt:videoId>R5XreR1sIws</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>How to Watch the PGA Championship at Aronimink</title>
+    <link>https://skratch.golf/news/news/pga-championship-how-to-watch-tv-information-aronimink</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-how-to-watch-tv-information-aronimink</guid>
+    <pubDate>Mon, 11 May 2026 14:17:29 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;It&#x27;s officially PGA Championship week! Here&#x27;s all the information you need to avoid missing a second of the action.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-how-to-watch-tv-information-aronimink"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2230886075_8aa0972e6e/Getty_Images_2230886075_8aa0972e6e.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The LPGA&#x27;s Pendulum Swing: What Jeeno&#x27;s Mizuho Title Defense Really Means</title>
+    <link>https://skratch.golf/news/news/jeeno-thitikul-mizuho-back-to-back-wins-lpga-tour-repeat-winners</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/jeeno-thitikul-mizuho-back-to-back-wins-lpga-tour-repeat-winners</guid>
+    <pubDate>Mon, 11 May 2026 13:41:56 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Thitikul became the fourth repeat winner of the 2026 LPGA season on Sunday—a stark shift from 2025’s run of different champions each week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jeeno-thitikul-mizuho-back-to-back-wins-lpga-tour-repeat-winners"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Winner_Jeeno_Thitikul_Trophy_Credit_LPGA_Getty_fda6660572/Winner_Jeeno_Thitikul_Trophy_Credit_LPGA_Getty_fda6660572.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>These New Clubs Were Key in Kristoffer Reitan&#x27;s Truist Win</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/truist-kristoffer-reitan-clubs-win-putter-driver</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/truist-kristoffer-reitan-clubs-win-putter-driver</guid>
+    <pubDate>Mon, 11 May 2026 01:44:17 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;With smashing drives and a hot putter, Kristoffer Reitan secured his first PGA TOUR victory at the Truist Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/truist-kristoffer-reitan-clubs-win-putter-driver"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Reitan_putter_title_179dbce1db/Reitan_putter_title_179dbce1db.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>PACKED Leaderboard at Quail Hollow with Fowler, Fleetwood IN MIX | Trust Championship Watch Along</title>
     <link>https://www.youtube.com/watch?v=f6bYKI2GTPo</link>
@@ -619,17 +666,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <category>video</category>
   </item>
   <item>
-    <title>Jon Rahm, DP World Tour Reach Détente...With a Price</title>
-    <link>https://skratch.golf/news/news/jon-rahm-liv-fines-dpwt</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/jon-rahm-liv-fines-dpwt</guid>
-    <pubDate>Tue, 05 May 2026 15:20:08 +0000</pubDate>
-    <dc:creator>Brittany Romano</dc:creator>
-    <description>&lt;p&gt;Fines paid. Starts promised. One of golf’s biggest stars is threading the needle between LIV and legacy pathways.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jon-rahm-liv-fines-dpwt"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2264472707_1aa06ed052/Getty_Images_2264472707_1aa06ed052.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>BIG putt, even BIGGER reaction. Tiger makes birdie when he needed it most at Quail Hollow, 2004.</title>
     <link>https://www.youtube.com/shorts/X5a3pAeaY-o</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/X5a3pAeaY-o</guid>
@@ -656,45 +692,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Where Does LIV Golf Go From Here (Alan Shipnuck interview)</title>
-    <link>https://www.youtube.com/watch?v=HMuKZKkfLfE</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=HMuKZKkfLfE</guid>
-    <pubDate>Tue, 05 May 2026 12:30:31 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Alan Shipnuck joins the show to discuss the big question mark around LIV Golf — where does the league go from here?&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=HMuKZKkfLfE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/HMuKZKkfLfE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/HMuKZKkfLfE" type="text/html" medium="video"/>
-    <yt:videoId>HMuKZKkfLfE</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Wishing Rory a very f***ing satisfying 37th birthday. 🤣</title>
-    <link>https://www.youtube.com/shorts/tZUNML0Qrhg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/tZUNML0Qrhg</guid>
-    <pubDate>Mon, 04 May 2026 19:43:54 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/tZUNML0Qrhg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/tZUNML0Qrhg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/tZUNML0Qrhg" type="text/html" medium="video"/>
-    <yt:videoId>tZUNML0Qrhg</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Cleveland Pays Tribute To 588 Wedges With Limited Box Set</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/new-cleveland-588-wedges-limited-roger</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/new-cleveland-588-wedges-limited-roger</guid>
-    <pubDate>Mon, 04 May 2026 19:40:22 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;To celebrate the original 588 wedges, Cleveland Golf is bringing back a classic with a modern twist.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/new-cleveland-588-wedges-limited-roger"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/588_wedges_title_aacc2f9e50/588_wedges_title_aacc2f9e50.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
