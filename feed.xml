@@ -1,5 +1,3 @@
-<!-- Warning: Error fetching Skratch: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwtGQ3sgidNlQGbIUBPP3xw -->
-<!-- Warning: Error fetching Dan On Golf Show: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -11,8 +9,36 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 12 May 2026 06:09:10 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 12 May 2026 09:16:45 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>What was the root of Reitan&#x27;s nerves before the final round? Arsenal.</title>
+    <link>https://www.youtube.com/shorts/hEFg39XIBCM</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/hEFg39XIBCM</guid>
+    <pubDate>Mon, 11 May 2026 23:37:58 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/hEFg39XIBCM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/hEFg39XIBCM/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/hEFg39XIBCM" type="text/html" medium="video"/>
+    <yt:videoId>hEFg39XIBCM</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Calling it now: Team Fitzpatrick at Adare Manor in 2027</title>
+    <link>https://www.youtube.com/shorts/FIL4pmqyXAg</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/FIL4pmqyXAg</guid>
+    <pubDate>Mon, 11 May 2026 22:57:23 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/FIL4pmqyXAg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/FIL4pmqyXAg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/FIL4pmqyXAg" type="text/html" medium="video"/>
+    <yt:videoId>FIL4pmqyXAg</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Michael Block Got Sick of Michael Block, Too. Then He Stopped Giving a Sh*t.</title>
     <link>https://skratch.golf/news/pro-golf/michael-block-interview-2026-pga-championship-preview</link>
@@ -25,6 +51,34 @@
     <category>article</category>
   </item>
   <item>
+    <title>&quot;I personally got sick of Michael Block&quot; - Michael Block</title>
+    <link>https://www.youtube.com/shorts/CvcL3LkoS-E</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/CvcL3LkoS-E</guid>
+    <pubDate>Mon, 11 May 2026 21:28:13 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/CvcL3LkoS-E"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/CvcL3LkoS-E/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/CvcL3LkoS-E" type="text/html" medium="video"/>
+    <yt:videoId>CvcL3LkoS-E</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>This is one of the most shocking results… it sounds crazy to say… in golf history. 🤯</title>
+    <link>https://www.youtube.com/shorts/zHSjqQMfJ4k</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/zHSjqQMfJ4k</guid>
+    <pubDate>Mon, 11 May 2026 21:25:46 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/zHSjqQMfJ4k"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/zHSjqQMfJ4k/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/zHSjqQMfJ4k" type="text/html" medium="video"/>
+    <yt:videoId>zHSjqQMfJ4k</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Aronimink Gave Keegan Bradley Hope Again. Now He’s Back Vying for a Second Wanamaker</title>
     <link>https://skratch.golf/news/news/pga-championship-2026-keegan-bradley-returns-aronimink-ryder-cup</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-2026-keegan-bradley-returns-aronimink-ryder-cup</guid>
@@ -34,6 +88,46 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2275136584_05d9ae2a57/Getty_Images_2275136584_05d9ae2a57.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>S2 E35: Reitan UPSET Win, PGA Championship Preview with Michael Block</title>
+    <link>https://www.youtube.com/watch?v=dAhFF92BTvk</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=dAhFF92BTvk</guid>
+    <pubDate>Mon, 11 May 2026 19:32:50 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Kristoffer Reitan joins the show after outlasting a packed leaderboard at Truist. Brandt Snedeker wins for the first time in almost 8 years. Michael Block joins the show to chat about this week&#x27;s PGA Championship, the reaction to his viral moments at Oak Hill in 2023 &amp; more.
+
+Thank You to Our Sponsors!
+
+Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
+
+Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround.com/golf an&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=dAhFF92BTvk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/dAhFF92BTvk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/dAhFF92BTvk" type="text/html" medium="video"/>
+    <yt:videoId>dAhFF92BTvk</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>S2 E35: Reitan UPSET Win, PGA Championship Preview With Michael Block</title>
+    <link>https://www.youtube.com/watch?v=7B8ZYe7kEZI</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=7B8ZYe7kEZI</guid>
+    <pubDate>Mon, 11 May 2026 18:35:34 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Kristoffer Reitan joins the show after outlasting a packed leaderboard at Truist. Brandt Snedeker wins for the first time in almost 8 years. Michael Block joins the show to chat about this week&#x27;s PGA Championship, the reaction to his viral moments at Oak Hill in 2023 &amp; more.
+
+Thank You to Our Sponsors!
+
+Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
+
+Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround.com/golf an&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=7B8ZYe7kEZI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/7B8ZYe7kEZI/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/7B8ZYe7kEZI" type="text/html" medium="video"/>
+    <yt:videoId>7B8ZYe7kEZI</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
   </item>
   <item>
     <title>TaylorMade Brings Retro Heat With PGA Championship Drop</title>
@@ -56,6 +150,20 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/NOT_FOR_GOLF_Roundup_Cover_6206bc9e15/NOT_FOR_GOLF_Roundup_Cover_6206bc9e15.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>Here&#x27;s your chance to get in on the Kevin Hart roast. 😭Let&#x27;s hear your best in the comments.</title>
+    <link>https://www.youtube.com/shorts/R5XreR1sIws</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/R5XreR1sIws</guid>
+    <pubDate>Mon, 11 May 2026 15:24:03 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/R5XreR1sIws"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/R5XreR1sIws/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/R5XreR1sIws" type="text/html" medium="video"/>
+    <yt:videoId>R5XreR1sIws</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>ICYMI: Adidas Named Official Footwear Sponsor for Team Europe at the 2026 Solheim Cup</title>
@@ -102,6 +210,54 @@
     <category>article</category>
   </item>
   <item>
+    <title>PACKED Leaderboard at Quail Hollow with Fowler, Fleetwood IN MIX | Trust Championship Watch Along</title>
+    <link>https://www.youtube.com/watch?v=f6bYKI2GTPo</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=f6bYKI2GTPo</guid>
+    <pubDate>Sun, 10 May 2026 22:07:35 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Watch the final-round action of the Truist Championship unfold alongside Dan Rapaport.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=f6bYKI2GTPo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/f6bYKI2GTPo/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/f6bYKI2GTPo" type="text/html" medium="video"/>
+    <yt:videoId>f6bYKI2GTPo</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Vintage Spieth the week before the PGA Championship?! We’re in trouble. 👀</title>
+    <link>https://www.youtube.com/shorts/aHTNQxLPZrU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/aHTNQxLPZrU</guid>
+    <pubDate>Sat, 09 May 2026 22:23:26 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/aHTNQxLPZrU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/aHTNQxLPZrU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/aHTNQxLPZrU" type="text/html" medium="video"/>
+    <yt:videoId>aHTNQxLPZrU</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Just Tiger doing Tiger things. 😭</title>
+    <link>https://www.youtube.com/shorts/Gk0YuuqbOL8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/Gk0YuuqbOL8</guid>
+    <pubDate>Sat, 09 May 2026 17:00:09 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;This absurd 57-foot eagle gave Tiger the lead on his way to victory at Quail Hollow in 2007.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss out &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Gk0YuuqbOL8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Gk0YuuqbOL8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Gk0YuuqbOL8" type="text/html" medium="video"/>
+    <yt:videoId>Gk0YuuqbOL8</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Bad Weather Looms at Mizuho, But Jeeno Thitikul Remains Unfazed</title>
     <link>https://skratch.golf/news/news/mizuho-americas-open-jeeno-thitikul-round-two-recap</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/mizuho-americas-open-jeeno-thitikul-round-two-recap</guid>
@@ -111,6 +267,22 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Jeeno_Thitikul_Mizuho_2026_Rd_1_2140a80b3a/Jeeno_Thitikul_Mizuho_2026_Rd_1_2140a80b3a.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>Do holes-in-one count on a par 3 course?</title>
+    <link>https://www.youtube.com/shorts/cf6cf8RRvLs</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/cf6cf8RRvLs</guid>
+    <pubDate>Fri, 08 May 2026 21:51:27 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Roger Steele takes on our Rapid Fire Questions ahead of the Travelers Championship 15 1/2 Challenge.
+
+#TravelersChampionshipPartner&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/cf6cf8RRvLs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/cf6cf8RRvLs/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/cf6cf8RRvLs" type="text/html" medium="video"/>
+    <yt:videoId>cf6cf8RRvLs</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
   </item>
   <item>
     <title>Catriona Matthew’s Major Win Ended With a Late-Night Bottle (Not That Kind)</title>
@@ -124,6 +296,46 @@
     <category>article</category>
   </item>
   <item>
+    <title>Gotta play it as it lies. 😬</title>
+    <link>https://www.youtube.com/shorts/s9o3qZ3ayC0</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/s9o3qZ3ayC0</guid>
+    <pubDate>Fri, 08 May 2026 17:45:15 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Watch more of the best wildlife moments on TOUR on our page.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf co&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/s9o3qZ3ayC0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/s9o3qZ3ayC0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/s9o3qZ3ayC0" type="text/html" medium="video"/>
+    <yt:videoId>s9o3qZ3ayC0</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>When the course turns into a ZOO 😭 | PGA TOUR Wildlife Moments</title>
+    <link>https://www.youtube.com/watch?v=EioNiJqxQ38</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=EioNiJqxQ38</guid>
+    <pubDate>Fri, 08 May 2026 17:00:13 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;The PGA TOUR is unpredictable enough… then the animals showed up.
+
+From alligators strolling across fairways to birds stealing golf balls and unexpected wildlife delays, here are some of the funniest, wildest, and most unforgettable animal encounters caught on TOUR cameras.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=EioNiJqxQ38"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/EioNiJqxQ38/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/EioNiJqxQ38" type="text/html" medium="video"/>
+    <yt:videoId>EioNiJqxQ38</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Golf Feels Harder in Spring. Allergies Might Be Why.</title>
     <link>https://skratch.golf/news/golf-culture/spring-golf-allergies-performance-regions</link>
     <guid isPermaLink="true">https://skratch.golf/news/golf-culture/spring-golf-allergies-performance-regions</guid>
@@ -133,6 +345,27 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/golf_course_pollen_gettyimages_2165849236_1ee4c907ed/golf_course_pollen_gettyimages_2165849236_1ee4c907ed.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>Watch where you&#x27;re walking, bozo. 🤣</title>
+    <link>https://www.youtube.com/shorts/cqoIWSlyPDU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/cqoIWSlyPDU</guid>
+    <pubDate>Fri, 08 May 2026 14:00:22 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
+
+Check out our website: https://skratch.golf/
+Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/cqoIWSlyPDU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/cqoIWSlyPDU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/cqoIWSlyPDU" type="text/html" medium="video"/>
+    <yt:videoId>cqoIWSlyPDU</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>The PGA TOUR&#x27;s New Player Social Media Policy is Bait for Bryson DeChambeau</title>
@@ -157,6 +390,20 @@
     <category>article</category>
   </item>
   <item>
+    <title>Don&#x27;t think Rosie liked this one. 😭</title>
+    <link>https://www.youtube.com/shorts/0KeCEf1DbTY</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/0KeCEf1DbTY</guid>
+    <pubDate>Thu, 07 May 2026 20:22:46 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/0KeCEf1DbTY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/0KeCEf1DbTY/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/0KeCEf1DbTY" type="text/html" medium="video"/>
+    <yt:videoId>0KeCEf1DbTY</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Gary Player: ‘It’s an Absolute Joke’ How Much Easier Golf is Today</title>
     <link>https://skratch.golf/shows/shows/gary-player-interview-vanity-index-podcast-joke-how-much-easier-golf-is-today</link>
     <guid isPermaLink="true">https://skratch.golf/shows/shows/gary-player-interview-vanity-index-podcast-joke-how-much-easier-golf-is-today</guid>
@@ -166,6 +413,20 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2208863126_10029e8473/Getty_Images_2208863126_10029e8473.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>One of the most UNLIKELY birdies you’ll ever see. 😭</title>
+    <link>https://www.youtube.com/shorts/8vz31wK6CG0</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/8vz31wK6CG0</guid>
+    <pubDate>Thu, 07 May 2026 19:39:21 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8vz31wK6CG0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/8vz31wK6CG0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/8vz31wK6CG0" type="text/html" medium="video"/>
+    <yt:videoId>8vz31wK6CG0</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>Early Forecast for the PGA Championship at Aronimink</title>
@@ -179,6 +440,138 @@
     <category>article</category>
   </item>
   <item>
+    <title>Expect plenty of MUDBALLS at the Truist Champ after a wet morning in Charlotte. 😭</title>
+    <link>https://www.youtube.com/shorts/Cs79K1GrNxc</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/Cs79K1GrNxc</guid>
+    <pubDate>Thu, 07 May 2026 16:56:18 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Cs79K1GrNxc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Cs79K1GrNxc/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Cs79K1GrNxc" type="text/html" medium="video"/>
+    <yt:videoId>Cs79K1GrNxc</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Never change, @YipStrickler 😂</title>
+    <link>https://www.youtube.com/shorts/u4QZL0_2Zms</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/u4QZL0_2Zms</guid>
+    <pubDate>Thu, 07 May 2026 16:00:00 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/u4QZL0_2Zms"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/u4QZL0_2Zms/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/u4QZL0_2Zms" type="text/html" medium="video"/>
+    <yt:videoId>u4QZL0_2Zms</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>A Yasir sighting on this week&#x27;s Golfers Wearing Clothes.</title>
+    <link>https://www.youtube.com/shorts/kadaiEIuCO4</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/kadaiEIuCO4</guid>
+    <pubDate>Thu, 07 May 2026 15:01:27 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/kadaiEIuCO4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/kadaiEIuCO4/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/kadaiEIuCO4" type="text/html" medium="video"/>
+    <yt:videoId>kadaiEIuCO4</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Wishing Cam all of the lucky bounces on his 29th birthday. 🤣</title>
+    <link>https://www.youtube.com/shorts/5zV7u_LZj_w</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/5zV7u_LZj_w</guid>
+    <pubDate>Thu, 07 May 2026 14:26:46 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/5zV7u_LZj_w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/5zV7u_LZj_w/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/5zV7u_LZj_w" type="text/html" medium="video"/>
+    <yt:videoId>5zV7u_LZj_w</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Yip Stricker CALLS OUT U.S. Open Qualifiers</title>
+    <link>https://www.youtube.com/watch?v=-ltQ4oL_Urg</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=-ltQ4oL_Urg</guid>
+    <pubDate>Thu, 07 May 2026 14:00:03 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Yip Strickler joins the show and dives into some shady folks in U.S. Open Local Qualifying.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=-ltQ4oL_Urg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/-ltQ4oL_Urg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/-ltQ4oL_Urg" type="text/html" medium="video"/>
+    <yt:videoId>-ltQ4oL_Urg</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>&quot;You got a lot of people teeing it up with just no chance.&quot; @manorsgolf</title>
+    <link>https://www.youtube.com/shorts/Wuub9REe2fk</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/Wuub9REe2fk</guid>
+    <pubDate>Thu, 07 May 2026 13:15:05 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Wuub9REe2fk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Wuub9REe2fk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Wuub9REe2fk" type="text/html" medium="video"/>
+    <yt:videoId>Wuub9REe2fk</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Bryson can thrive without the PGA TOUR and the PGA TOUR can thrive without Bryson.</title>
+    <link>https://www.youtube.com/shorts/iARwCPKzk90</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/iARwCPKzk90</guid>
+    <pubDate>Thu, 07 May 2026 01:16:28 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/iARwCPKzk90"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/iARwCPKzk90/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/iARwCPKzk90" type="text/html" medium="video"/>
+    <yt:videoId>iARwCPKzk90</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Caddying at the club to playing on TOUR. What an opportunity for Nicholas Marchese in Myrtle.</title>
+    <link>https://www.youtube.com/shorts/QsupyXrzf8c</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/QsupyXrzf8c</guid>
+    <pubDate>Wed, 06 May 2026 23:26:55 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/QsupyXrzf8c"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/QsupyXrzf8c/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/QsupyXrzf8c" type="text/html" medium="video"/>
+    <yt:videoId>QsupyXrzf8c</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>S2 E34: Bryson and Rahm Address LIV Crisis, Rory&#x27;s Back, Handicap Police</title>
+    <link>https://www.youtube.com/watch?v=wSFj-w2SvHQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=wSFj-w2SvHQ</guid>
+    <pubDate>Wed, 06 May 2026 23:17:40 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;A packed Wednesday show. Bryson DeChambeau and Rahm address LIV&#x27;s ongoing financial situation. Rory is back this week at the Truist. Yip Strickler joins the show and comes with handicap receipts. Josh Carpenter comes on to discuss golf business—primarily LIV Golf. And as always, much more.
+
+Thank You to Our Sponsors!
+
+Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
+
+Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaro&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=wSFj-w2SvHQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/wSFj-w2SvHQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/wSFj-w2SvHQ" type="text/html" medium="video"/>
+    <yt:videoId>wSFj-w2SvHQ</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>The Matt Fitzpatrick Bettinardi Putter Has Arrived Grooves and All</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/matt-fitzpatrick-bettinardi-putter-full-release</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/matt-fitzpatrick-bettinardi-putter-full-release</guid>
@@ -188,6 +581,26 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Bettinardi_Fits_Face_3757d97ae0/Bettinardi_Fits_Face_3757d97ae0.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>JT and Jordan are seeing HUGE benefits after switching to the @titleist GTS driver 📈</title>
+    <link>https://www.youtube.com/shorts/0SgXfOpDty8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/0SgXfOpDty8</guid>
+    <pubDate>Wed, 06 May 2026 19:49:34 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Ryan Barath dives into the notable driving numbers at Doral.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf co&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/0SgXfOpDty8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/0SgXfOpDty8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/0SgXfOpDty8" type="text/html" medium="video"/>
+    <yt:videoId>0SgXfOpDty8</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>Mountain Ridge Delivers a True LPGA Test During Mizuho’s Liberty National Hiatus</title>
@@ -201,6 +614,20 @@
     <category>article</category>
   </item>
   <item>
+    <title>So Sahith could probably beat me lefty? Cool. 😭</title>
+    <link>https://www.youtube.com/shorts/XlJ1B9X-KbY</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/XlJ1B9X-KbY</guid>
+    <pubDate>Wed, 06 May 2026 18:24:03 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/XlJ1B9X-KbY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/XlJ1B9X-KbY/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/XlJ1B9X-KbY" type="text/html" medium="video"/>
+    <yt:videoId>XlJ1B9X-KbY</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Rory McIlroy Sounds Like a Golfer With Nothing Left to Prove and Everything Left to Win</title>
     <link>https://skratch.golf/news/news/truist-championship-rory-mcilroy-more-motivated-than-ever-pga-tour-masters</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/truist-championship-rory-mcilroy-more-motivated-than-ever-pga-tour-masters</guid>
@@ -212,6 +639,20 @@
     <category>article</category>
   </item>
   <item>
+    <title>When Nick Watney went fan HUNTING (x2) at Quail Hollow. 😳</title>
+    <link>https://www.youtube.com/shorts/spq_PGoewec</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/spq_PGoewec</guid>
+    <pubDate>Wed, 06 May 2026 14:23:29 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/spq_PGoewec"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/spq_PGoewec/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/spq_PGoewec" type="text/html" medium="video"/>
+    <yt:videoId>spq_PGoewec</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>The Bigger WTGL Story Isn’t About Who’s Missing</title>
     <link>https://skratch.golf/news/news/wtgl-six-more-lpga-players-inaugural-season-essay</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/wtgl-six-more-lpga-players-inaugural-season-essay</guid>
@@ -221,6 +662,20 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Minjee_Lee_Chevron_2026_Rd_1_1f18325698/Minjee_Lee_Chevron_2026_Rd_1_1f18325698.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>One of us… WAIT nevermind. 😭 Tiger’s shank leads to an unlikely birdie at Quail Hollow, 2007.</title>
+    <link>https://www.youtube.com/shorts/GypsoAKPJq8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/GypsoAKPJq8</guid>
+    <pubDate>Tue, 05 May 2026 20:05:48 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/GypsoAKPJq8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/GypsoAKPJq8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/GypsoAKPJq8" type="text/html" medium="video"/>
+    <yt:videoId>GypsoAKPJq8</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>The Numbers Behind Titleist’s Growing GTS Driver Adoption on Tour</title>
@@ -241,50 +696,6 @@
     <dc:creator>Brittany Romano</dc:creator>
     <description>&lt;p&gt;The 2026 PGA Championship field is set, stacked with major winners, multi-tour depth, club pros, and a couple of spots still up for grabs. The mix is the point.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-field"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260505_pga_championship_field_mcilroy_block_rahm_v2_524a28f94c/20260505_pga_championship_field_mcilroy_block_rahm_v2_524a28f94c.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Cleveland Pays Tribute To 588 Wedges With Limited Box Set</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/new-cleveland-588-wedges-limited-roger</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/new-cleveland-588-wedges-limited-roger</guid>
-    <pubDate>Mon, 04 May 2026 19:40:22 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;To celebrate the original 588 wedges, Cleveland Golf is bringing back a classic with a modern twist.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/new-cleveland-588-wedges-limited-roger"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/588_wedges_title_aacc2f9e50/588_wedges_title_aacc2f9e50.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Big Guide To Mini Drivers: Every 2026 Model Compared</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/mini-driver-101-comparison-testing-reviews</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/mini-driver-101-comparison-testing-reviews</guid>
-    <pubDate>Tue, 17 Feb 2026 20:20:00 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Here’s how the latest mini drivers compare in shape, specs, adjustability, and who they’re actually made for.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/mini-driver-101-comparison-testing-reviews"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Mini_driver_101_title_cb2cf693a7/Mini_driver_101_title_cb2cf693a7.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Did The LPGA&#x27;s Pace of Play Actually Improve Last Season?</title>
-    <link>https://skratch.golf/news/news/lpga-tour-pace-of-play-improved</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-tour-pace-of-play-improved</guid>
-    <pubDate>Tue, 25 Nov 2025 14:57:18 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The data says yes.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-tour-pace-of-play-improved"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2158080824_dc47ccd678/Getty_Images_2158080824_dc47ccd678.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Every Winning Putter From the Last 10 PGA Championships</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/winning-putter-pga-championship-lookback</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/winning-putter-pga-championship-lookback</guid>
-    <pubDate>Fri, 09 May 2025 17:07:58 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;With the PGA Championship taking place at Aronimink Golf Club in Philadelphia, here&#x27;s a look back at the last ten winners and the putters they used.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/winning-putter-pga-championship-lookback"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2230660823_5c4ac46c7c/Getty_Images_2230660823_5c4ac46c7c.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
