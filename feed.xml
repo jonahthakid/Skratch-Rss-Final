@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 12 May 2026 20:13:02 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 12 May 2026 21:46:58 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Tiger with a KILLER right hook at Aronimink in 2010. 😳#TigerTuesday</title>
+    <link>https://www.youtube.com/shorts/aVmm7AiRre8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/aVmm7AiRre8</guid>
+    <pubDate>Tue, 12 May 2026 20:51:05 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/aVmm7AiRre8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/aVmm7AiRre8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/aVmm7AiRre8" type="text/html" medium="video"/>
+    <yt:videoId>aVmm7AiRre8</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Rory McIlroy&#x27;s Lingering Foot Blister Has Entered the PGA Championship Chat</title>
     <link>https://skratch.golf/news/news/rory-mcilroy-injury-pga-championship-2026-foot-blister</link>
@@ -132,6 +146,17 @@
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Storylines from U.S. Open Local Qualifying, as &#x27;Golf&#x27;s Longest Day&#x27; Approaches</title>
+    <link>https://skratch.golf/news/news/us-open-2026-local-qualifying-storylines-final-qualifying-schedule</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/us-open-2026-local-qualifying-storylines-final-qualifying-schedule</guid>
+    <pubDate>Tue, 12 May 2026 00:22:48 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Our friend Shane Bacon isn&#x27;t the only great story to come from U.S. Open Local Qualifying.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-open-2026-local-qualifying-storylines-final-qualifying-schedule"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2220140152_fa681eb814/Getty_Images_2220140152_fa681eb814.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>What was the root of Reitan&#x27;s nerves before the final round? Arsenal.</title>
@@ -380,17 +405,6 @@ Subscribe to Skratch on YouTube and don’t miss out &lt;/p&gt;&lt;p&gt;&lt;a hr
     <category>video</category>
   </item>
   <item>
-    <title>Bad Weather Looms at Mizuho, But Jeeno Thitikul Remains Unfazed</title>
-    <link>https://skratch.golf/news/news/mizuho-americas-open-jeeno-thitikul-round-two-recap</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/mizuho-americas-open-jeeno-thitikul-round-two-recap</guid>
-    <pubDate>Fri, 08 May 2026 22:27:28 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The World No. 2 is finding her form this week as she seeks to defend her Mizuho title.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/mizuho-americas-open-jeeno-thitikul-round-two-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Jeeno_Thitikul_Mizuho_2026_Rd_1_2140a80b3a/Jeeno_Thitikul_Mizuho_2026_Rd_1_2140a80b3a.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Do holes-in-one count on a par 3 course?</title>
     <link>https://www.youtube.com/shorts/cf6cf8RRvLs</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/cf6cf8RRvLs</guid>
@@ -488,17 +502,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/cqoIWSlyPDU"&gt;
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The PGA TOUR&#x27;s New Player Social Media Policy is Bait for Bryson DeChambeau</title>
-    <link>https://skratch.golf/news/news/pga-tour-content-creation-policy-bryson-dechambeau-return-liv-golf</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-content-creation-policy-bryson-dechambeau-return-liv-golf</guid>
-    <pubDate>Fri, 08 May 2026 13:56:44 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;With LIV Golf in a tailspin, the PGA TOUR just eliminated Bryson DeChambeau&#x27;s main concern about a potential comeback.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-content-creation-policy-bryson-dechambeau-return-liv-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2271514421_69421330a3/Getty_Images_2271514421_69421330a3.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Don&#x27;t think Rosie liked this one. 😭</title>
@@ -658,6 +661,17 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <category>video</category>
   </item>
   <item>
+    <title>Mountain Ridge Delivers a True LPGA Test During Mizuho’s Liberty National Hiatus</title>
+    <link>https://skratch.golf/news/news/mizuho-americas-open-mountain-ridge-new-golf-course-explained</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/mizuho-americas-open-mountain-ridge-new-golf-course-explained</guid>
+    <pubDate>Wed, 06 May 2026 18:51:15 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Mountain Ridge’s demanding setup is quickly establishing itself as a worthy challenge.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/mizuho-americas-open-mountain-ridge-new-golf-course-explained"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Michelle_Wie_Mizuho_2026_Rd_1_c21694cb1e/Michelle_Wie_Mizuho_2026_Rd_1_c21694cb1e.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>So Sahith could probably beat me lefty? Cool. 😭</title>
     <link>https://www.youtube.com/shorts/XlJ1B9X-KbY</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/XlJ1B9X-KbY</guid>
@@ -672,27 +686,13 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <category>video</category>
   </item>
   <item>
-    <title>When Nick Watney went fan HUNTING (x2) at Quail Hollow. 😳</title>
-    <link>https://www.youtube.com/shorts/spq_PGoewec</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/spq_PGoewec</guid>
-    <pubDate>Wed, 06 May 2026 14:23:29 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/spq_PGoewec"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/spq_PGoewec/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/spq_PGoewec" type="text/html" medium="video"/>
-    <yt:videoId>spq_PGoewec</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>The Bigger WTGL Story Isn’t About Who’s Missing</title>
-    <link>https://skratch.golf/news/news/wtgl-six-more-lpga-players-inaugural-season-essay</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/wtgl-six-more-lpga-players-inaugural-season-essay</guid>
-    <pubDate>Tue, 05 May 2026 22:04:38 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;It&#x27;s about who signed on and why. The league&#x27;s plan to make LPGA unsung players into must-know stars isn&#x27;t misguided by any means.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/wtgl-six-more-lpga-players-inaugural-season-essay"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Minjee_Lee_Chevron_2026_Rd_1_1f18325698/Minjee_Lee_Chevron_2026_Rd_1_1f18325698.jpg"/>
+    <title>The PGA Championship Field That Brings (Almost) Everyone Together</title>
+    <link>https://skratch.golf/news/news/pga-championship-field</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-field</guid>
+    <pubDate>Tue, 05 May 2026 16:32:44 +0000</pubDate>
+    <dc:creator>Brittany Romano</dc:creator>
+    <description>&lt;p&gt;The 2026 PGA Championship field is set, stacked with major winners, multi-tour depth, club pros, and a couple of spots still up for grabs. The mix is the point.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-field"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260505_pga_championship_field_mcilroy_block_rahm_v2_524a28f94c/20260505_pga_championship_field_mcilroy_block_rahm_v2_524a28f94c.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
