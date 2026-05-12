@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 12 May 2026 21:46:58 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 12 May 2026 22:54:31 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>How many golf balls do you think Rory McIlroy has hit in his life?</title>
+    <link>https://www.youtube.com/shorts/K8caGh89_qE</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/K8caGh89_qE</guid>
+    <pubDate>Tue, 12 May 2026 22:10:15 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/K8caGh89_qE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/K8caGh89_qE/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/K8caGh89_qE" type="text/html" medium="video"/>
+    <yt:videoId>K8caGh89_qE</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Tiger with a KILLER right hook at Aronimink in 2010. 😳#TigerTuesday</title>
     <link>https://www.youtube.com/shorts/aVmm7AiRre8</link>
@@ -670,20 +684,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Michelle_Wie_Mizuho_2026_Rd_1_c21694cb1e/Michelle_Wie_Mizuho_2026_Rd_1_c21694cb1e.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>So Sahith could probably beat me lefty? Cool. 😭</title>
-    <link>https://www.youtube.com/shorts/XlJ1B9X-KbY</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/XlJ1B9X-KbY</guid>
-    <pubDate>Wed, 06 May 2026 18:24:03 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/XlJ1B9X-KbY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/XlJ1B9X-KbY/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/XlJ1B9X-KbY" type="text/html" medium="video"/>
-    <yt:videoId>XlJ1B9X-KbY</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>The PGA Championship Field That Brings (Almost) Everyone Together</title>
