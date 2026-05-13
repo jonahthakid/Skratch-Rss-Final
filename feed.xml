@@ -9,8 +9,41 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 13 May 2026 16:38:22 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 13 May 2026 18:53:26 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Shop The Best Looks From PGA Championship Preview Day</title>
+    <link>https://skratch.golf/style/mens-style/shop-the-best-looks-from-pga-championship-preview-day</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/shop-the-best-looks-from-pga-championship-preview-day</guid>
+    <pubDate>Wed, 13 May 2026 18:33:50 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;Four players. Four completely different moods. All of them worked.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/shop-the-best-looks-from-pga-championship-preview-day"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/PGA_Championship_Looks_ab750d7a1d/PGA_Championship_Looks_ab750d7a1d.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Three Players to Watch at the PGA Championship</title>
+    <link>https://skratch.golf/news/news/pga-championship-2026-picks-players-to-watch-aronimink</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-2026-picks-players-to-watch-aronimink</guid>
+    <pubDate>Wed, 13 May 2026 16:56:20 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;All three of our players to watch at Aronimink have yet to win a major, but that could change this weekend at the PGA Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-2026-picks-players-to-watch-aronimink"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2275211524_6ee087b165/Getty_Images_2275211524_6ee087b165.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>PGA Championship Picks: Why Our Resident Winner Picker Likes Xander &amp; Scottie</title>
+    <link>https://skratch.golf/news/pro-golf/pga-championship-2026-aronimink-best-bets-picks-to-win</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/pga-championship-2026-aronimink-best-bets-picks-to-win</guid>
+    <pubDate>Wed, 13 May 2026 16:52:52 +0000</pubDate>
+    <dc:creator>Rick Gehman</dc:creator>
+    <description>&lt;p&gt;Plus: Where you should take Alex Fitzpatrick in the mix.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/pga-championship-2026-aronimink-best-bets-picks-to-win"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2271225477_a8a0ca1334/Getty_Images_2271225477_a8a0ca1334.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>This guy won the PGA Championship 35 years ago as a ninth alternate. Anything can happen this week.</title>
     <link>https://www.youtube.com/shorts/MZE8Ll0O6Wc</link>
@@ -290,18 +323,18 @@
     <category>article</category>
   </item>
   <item>
-    <title>S2 E35: Reitan UPSET Win, PGA Championship Preview with Michael Block</title>
+    <title>S2 E36: LIVE at PGA Championship—Rory’s Toe &amp; The Great Tree Debate  (edited)</title>
     <link>https://www.youtube.com/watch?v=dAhFF92BTvk</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=dAhFF92BTvk</guid>
     <pubDate>Mon, 11 May 2026 19:32:50 +0000</pubDate>
     <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Kristoffer Reitan joins the show after outlasting a packed leaderboard at Truist. Brandt Snedeker wins for the first time in almost 8 years. Michael Block joins the show to chat about this week&#x27;s PGA Championship, the reaction to his viral moments at Oak Hill in 2023 &amp; more.
+    <description>&lt;p&gt;We&#x27;re LIVE on site at Aronimink previewing the PGA Championship! We&#x27;re breaking down Rory&#x27;s toe blister, diving into the great tree debate after Gil Hanse&#x27;s renovations, and Michael Bamberger joins.
 
 Thank You to Our Sponsors!
 
 Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
 
-Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround.com/golf an&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=dAhFF92BTvk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround.com/golf and use code DANONGOLF20, you can stock up with 20% off, which brings many pair&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=dAhFF92BTvk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://img.youtube.com/vi/dAhFF92BTvk/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/dAhFF92BTvk" type="text/html" medium="video"/>
     <yt:videoId>dAhFF92BTvk</yt:videoId>
@@ -366,17 +399,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>ICYMI: Adidas Named Official Footwear Sponsor for Team Europe at the 2026 Solheim Cup</title>
-    <link>https://skratch.golf/style/style/adidas-2026-solheim-cup-team-europe-footwear-partner</link>
-    <guid isPermaLink="true">https://skratch.golf/style/style/adidas-2026-solheim-cup-team-europe-footwear-partner</guid>
-    <pubDate>Mon, 11 May 2026 15:17:19 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The brand with the three stripes will supply footwear to captains, players, caddies, helpers, and event staff for the biggest stage in women&#x27;s golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/adidas-2026-solheim-cup-team-europe-footwear-partner"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/adidas_solheim_cup_shoe_5ec05f4e62/adidas_solheim_cup_shoe_5ec05f4e62.jpeg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>How to Watch the PGA Championship at Aronimink</title>
     <link>https://skratch.golf/news/news/pga-championship-how-to-watch-tv-information-aronimink</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-how-to-watch-tv-information-aronimink</guid>
@@ -384,17 +406,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;It&#x27;s officially PGA Championship week! Here&#x27;s all the information you need to avoid missing a second of the action.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-how-to-watch-tv-information-aronimink"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2230886075_8aa0972e6e/Getty_Images_2230886075_8aa0972e6e.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The LPGA&#x27;s Pendulum Swing: What Jeeno&#x27;s Mizuho Title Defense Really Means</title>
-    <link>https://skratch.golf/news/news/jeeno-thitikul-mizuho-back-to-back-wins-lpga-tour-repeat-winners</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/jeeno-thitikul-mizuho-back-to-back-wins-lpga-tour-repeat-winners</guid>
-    <pubDate>Mon, 11 May 2026 13:41:56 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Thitikul became the fourth repeat winner of the 2026 LPGA season on Sunday—a stark shift from 2025’s run of different champions each week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jeeno-thitikul-mizuho-back-to-back-wins-lpga-tour-repeat-winners"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Winner_Jeeno_Thitikul_Trophy_Credit_LPGA_Getty_fda6660572/Winner_Jeeno_Thitikul_Trophy_Credit_LPGA_Getty_fda6660572.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -483,17 +494,6 @@ Subscribe to Skratch on YouTube and don’t miss out &lt;/p&gt;&lt;p&gt;&lt;a hr
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Catriona Matthew’s Major Win Ended With a Late-Night Bottle (Not That Kind)</title>
-    <link>https://skratch.golf/news/golf-culture/catriona-matthew-2009-womens-british-open-aig-motherhood-golf-tour-moms</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/catriona-matthew-2009-womens-british-open-aig-motherhood-golf-tour-moms</guid>
-    <pubDate>Fri, 08 May 2026 18:56:48 +0000</pubDate>
-    <dc:creator>Brittany Romano</dc:creator>
-    <description>&lt;p&gt;Her 2009 Women’s Open victory became an international “super mom” story. Sixteen years later, it also reveals how much women’s golf has changed and how much of motherhood in sports elite athletes still quietly normalize.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/catriona-matthew-2009-womens-british-open-aig-motherhood-golf-tour-moms"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/catriona_mathew_2009_open_daughter_Getty_Images_89594254_cb65033a83/catriona_mathew_2009_open_daughter_Getty_Images_89594254_cb65033a83.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Gotta play it as it lies. 😬</title>
