@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 13 May 2026 11:38:34 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 13 May 2026 14:16:50 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Brandel Chamblee Says Rory McIlroy Can&#x27;t Beat Scottie Scheffler at His Best</title>
+    <link>https://skratch.golf/news/news/pga-championship-2026-rory-mcilroy-cant-beat-scottie-scheffler-brandel-chamblee</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-2026-rory-mcilroy-cant-beat-scottie-scheffler-brandel-chamblee</guid>
+    <pubDate>Wed, 13 May 2026 12:41:07 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;We&#x27;ve yet to see a true Scottie Scheffler vs. Rory McIlroy at a major championship. If it happens at Aronimink, it&#x27;ll be a lot more competitive than Brandel Chamblee made it sound.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-2026-rory-mcilroy-cant-beat-scottie-scheffler-brandel-chamblee"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2271065223_d82b87c756/Getty_Images_2271065223_d82b87c756.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>WORLD DANKINGS: Ranking The TOP 25 For The PGA Championship</title>
+    <link>https://www.youtube.com/watch?v=MnxvNynONy8</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=MnxvNynONy8</guid>
+    <pubDate>Wed, 13 May 2026 12:30:34 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;World Dankings: A FULL ranking of the top 25 for the PGA Championship, according to Dan.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=MnxvNynONy8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/MnxvNynONy8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/MnxvNynONy8" type="text/html" medium="video"/>
+    <yt:videoId>MnxvNynONy8</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>How many golf balls do you think Rory McIlroy has hit in his life?</title>
     <link>https://www.youtube.com/shorts/K8caGh89_qE</link>
@@ -360,6 +385,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
+    <title>What You Should Know: Titleist GTS Fairway Woods</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/titleist-gts-fairway-retail-launch-details-woods</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/titleist-gts-fairway-retail-launch-details-woods</guid>
+    <pubDate>Mon, 11 May 2026 13:01:34 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Built with new fitting tools &amp; face to get you dialed in from off the tee or off the deck, here&#x27;s what you need to know about the Titleist GTS fairway woods.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/titleist-gts-fairway-retail-launch-details-woods"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/GTS_fairway_woods_title_f6786e20ff/GTS_fairway_woods_title_f6786e20ff.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>These New Clubs Were Key in Kristoffer Reitan&#x27;s Truist Win</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/truist-kristoffer-reitan-clubs-win-putter-driver</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/truist-kristoffer-reitan-clubs-win-putter-driver</guid>
@@ -486,17 +522,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Golf Feels Harder in Spring. Allergies Might Be Why.</title>
-    <link>https://skratch.golf/news/golf-culture/spring-golf-allergies-performance-regions</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/spring-golf-allergies-performance-regions</guid>
-    <pubDate>Fri, 08 May 2026 14:00:45 +0000</pubDate>
-    <dc:creator>Brittany Romano</dc:creator>
-    <description>&lt;p&gt;Brain fog. Watery eyes. Bad sleep. Heavy legs. Allergy season can quietly wreck a golf round long before you realize what’s happening. Here are the stops on tour that get hit the hardest.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/spring-golf-allergies-performance-regions"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/golf_course_pollen_gettyimages_2165849236_1ee4c907ed/golf_course_pollen_gettyimages_2165849236_1ee4c907ed.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Watch where you&#x27;re walking, bozo. 🤣</title>
     <link>https://www.youtube.com/shorts/cqoIWSlyPDU</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/cqoIWSlyPDU</guid>
@@ -546,17 +571,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/cqoIWSlyPDU"&gt;
     <category>video</category>
   </item>
   <item>
-    <title>Early Forecast for the PGA Championship at Aronimink</title>
-    <link>https://skratch.golf/news/news/pga-championship-weather-forecast-aronimink-major-pga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-weather-forecast-aronimink-major-pga-tour</guid>
-    <pubDate>Thu, 07 May 2026 17:30:01 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Aronimink should get some rain early in the week, but the weekend at next week&#x27;s PGA Championship looks beautiful.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-weather-forecast-aronimink-major-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/top_holiday_gifts_1_1075f505f1/top_holiday_gifts_1_1075f505f1.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Expect plenty of MUDBALLS at the Truist Champ after a wet morning in Charlotte. 😭</title>
     <link>https://www.youtube.com/shorts/Cs79K1GrNxc</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/Cs79K1GrNxc</guid>
@@ -583,6 +597,17 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/cqoIWSlyPDU"&gt;
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>What You Should Know: Titleist GTS Drivers</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/titleist-gts-driver-retail-launch-details-gts2</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/titleist-gts-driver-retail-launch-details-gts2</guid>
+    <pubDate>Thu, 07 May 2026 15:42:42 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Armed with new fitting tools and designed to help you get more from your driver and long game, here&#x27;s what you need to know about the Titleist GTS drivers.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/titleist-gts-driver-retail-launch-details-gts2"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Titleist_GTS_Drivers_top_0f5a4eb6e1/Titleist_GTS_Drivers_top_0f5a4eb6e1.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>A Yasir sighting on this week&#x27;s Golfers Wearing Clothes.</title>
@@ -641,20 +666,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/cqoIWSlyPDU"&gt;
     <category>video</category>
   </item>
   <item>
-    <title>Bryson can thrive without the PGA TOUR and the PGA TOUR can thrive without Bryson.</title>
-    <link>https://www.youtube.com/shorts/iARwCPKzk90</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/iARwCPKzk90</guid>
-    <pubDate>Thu, 07 May 2026 01:16:28 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/iARwCPKzk90"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/iARwCPKzk90/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/iARwCPKzk90" type="text/html" medium="video"/>
-    <yt:videoId>iARwCPKzk90</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>JT and Jordan are seeing HUGE benefits after switching to the @titleist GTS driver 📈</title>
     <link>https://www.youtube.com/shorts/0SgXfOpDty8</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/0SgXfOpDty8</guid>
@@ -673,17 +684,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Mountain Ridge Delivers a True LPGA Test During Mizuho’s Liberty National Hiatus</title>
-    <link>https://skratch.golf/news/news/mizuho-americas-open-mountain-ridge-new-golf-course-explained</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/mizuho-americas-open-mountain-ridge-new-golf-course-explained</guid>
-    <pubDate>Wed, 06 May 2026 18:51:15 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Mountain Ridge’s demanding setup is quickly establishing itself as a worthy challenge.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/mizuho-americas-open-mountain-ridge-new-golf-course-explained"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Michelle_Wie_Mizuho_2026_Rd_1_c21694cb1e/Michelle_Wie_Mizuho_2026_Rd_1_c21694cb1e.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>The PGA Championship Field That Brings (Almost) Everyone Together</title>
