@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 14 May 2026 12:22:28 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 14 May 2026 15:03:56 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>May 14, 2026</title>
+    <link>https://www.youtube.com/shorts/6uK7HJgVgL0</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/6uK7HJgVgL0</guid>
+    <pubDate>Thu, 14 May 2026 14:45:30 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/6uK7HJgVgL0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/6uK7HJgVgL0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/6uK7HJgVgL0" type="text/html" medium="video"/>
+    <yt:videoId>6uK7HJgVgL0</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Garrick Higgo was Penalized for Being Late for His Tee Time at the PGA Championship</title>
+    <link>https://skratch.golf/news/news/pga-championship-2026-garrick-higgo-penalized-late-for-tee-time</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-2026-garrick-higgo-penalized-late-for-tee-time</guid>
+    <pubDate>Thu, 14 May 2026 13:43:06 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;According to the PGA of America, Higgo was on the putting green but not “within the area defined as the starting point at his starting time.”&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-2026-garrick-higgo-penalized-late-for-tee-time"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2276198892_4aa416b74e/Getty_Images_2276198892_4aa416b74e.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>#ToeGate</title>
     <link>https://www.youtube.com/shorts/GBDha-e2Les</link>
@@ -360,6 +385,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
+    <title>Rollback Balls and Fresh Gear: PGA Championship Notes</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/gear-notes-pga-championship-aronimink-changes</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/gear-notes-pga-championship-aronimink-changes</guid>
+    <pubDate>Tue, 12 May 2026 01:51:51 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;With a full field taking on Aronimink Golf Club, we dive into the biggest equipment storylines from PGA Championship week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/gear-notes-pga-championship-aronimink-changes"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Bryson_PGA_Bag_c4381b85dc/Bryson_PGA_Bag_c4381b85dc.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Storylines from U.S. Open Local Qualifying, as &#x27;Golf&#x27;s Longest Day&#x27; Approaches</title>
     <link>https://skratch.golf/news/news/us-open-2026-local-qualifying-storylines-final-qualifying-schedule</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/us-open-2026-local-qualifying-storylines-final-qualifying-schedule</guid>
@@ -438,6 +474,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
+    <title>Aronimink Gave Keegan Bradley Hope Again. Now He’s Back Vying for a Second Wanamaker</title>
+    <link>https://skratch.golf/news/news/pga-championship-2026-keegan-bradley-returns-aronimink-ryder-cup</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-2026-keegan-bradley-returns-aronimink-ryder-cup</guid>
+    <pubDate>Mon, 11 May 2026 20:47:33 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Keegan Bradley was the last man to conquer Aronimink, and his game is in a place to do it again.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-2026-keegan-bradley-returns-aronimink-ryder-cup"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2275136584_05d9ae2a57/Getty_Images_2275136584_05d9ae2a57.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>S2 E35: Reitan UPSET Win, PGA Championship Preview With Michael Block</title>
     <link>https://www.youtube.com/watch?v=7B8ZYe7kEZI</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=7B8ZYe7kEZI</guid>
@@ -458,13 +505,13 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>TaylorMade Brings Retro Heat With PGA Championship Drop</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/taylormade-retro-pga-philly-major-golf-collection</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/taylormade-retro-pga-philly-major-golf-collection</guid>
-    <pubDate>Mon, 11 May 2026 16:00:38 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;With retro vibes and not-so-subtle nods to the city of Philadelphia, TaylorMade delivers what could be their best PGA gear drop ever.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/taylormade-retro-pga-philly-major-golf-collection"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Taylormade_PGA_Gear_title_c2352f55d6/Taylormade_PGA_Gear_title_c2352f55d6.jpg"/>
+    <title>The Best “Not For Golf” Golf Shoes Right Now</title>
+    <link>https://skratch.golf/style/mens-style/best-not-for-golf-golf-shoes-sneakers-hike-athletic-lifestyle</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/best-not-for-golf-golf-shoes-sneakers-hike-athletic-lifestyle</guid>
+    <pubDate>Mon, 11 May 2026 15:36:36 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;A mix of trail runners, hikers, and lifestyle sneakers that work surprisingly well for casual rounds, tournament days, and everyday wear.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/best-not-for-golf-golf-shoes-sneakers-hike-athletic-lifestyle"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/NOT_FOR_GOLF_Roundup_Cover_6206bc9e15/NOT_FOR_GOLF_Roundup_Cover_6206bc9e15.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -483,17 +530,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>ICYMI: Adidas Named Official Footwear Sponsor for Team Europe at the 2026 Solheim Cup</title>
-    <link>https://skratch.golf/style/style/adidas-2026-solheim-cup-team-europe-footwear-partner</link>
-    <guid isPermaLink="true">https://skratch.golf/style/style/adidas-2026-solheim-cup-team-europe-footwear-partner</guid>
-    <pubDate>Mon, 11 May 2026 15:17:19 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The brand with the three stripes will supply footwear to captains, players, caddies, helpers, and event staff for the biggest stage in women&#x27;s golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/adidas-2026-solheim-cup-team-europe-footwear-partner"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/adidas_solheim_cup_shoe_5ec05f4e62/adidas_solheim_cup_shoe_5ec05f4e62.jpeg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>How to Watch the PGA Championship at Aronimink</title>
     <link>https://skratch.golf/news/news/pga-championship-how-to-watch-tv-information-aronimink</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-how-to-watch-tv-information-aronimink</guid>
@@ -505,17 +541,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>The LPGA&#x27;s Pendulum Swing: What Jeeno&#x27;s Mizuho Title Defense Really Means</title>
-    <link>https://skratch.golf/news/news/jeeno-thitikul-mizuho-back-to-back-wins-lpga-tour-repeat-winners</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/jeeno-thitikul-mizuho-back-to-back-wins-lpga-tour-repeat-winners</guid>
-    <pubDate>Mon, 11 May 2026 13:41:56 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Thitikul became the fourth repeat winner of the 2026 LPGA season on Sunday—a stark shift from 2025’s run of different champions each week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jeeno-thitikul-mizuho-back-to-back-wins-lpga-tour-repeat-winners"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Winner_Jeeno_Thitikul_Trophy_Credit_LPGA_Getty_fda6660572/Winner_Jeeno_Thitikul_Trophy_Credit_LPGA_Getty_fda6660572.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>What You Should Know: Titleist GTS Fairway Woods</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/titleist-gts-fairway-retail-launch-details-woods</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/titleist-gts-fairway-retail-launch-details-woods</guid>
@@ -523,17 +548,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;Built with new fitting tools &amp; face to get you dialed in from off the tee or off the deck, here&#x27;s what you need to know about the Titleist GTS fairway woods.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/titleist-gts-fairway-retail-launch-details-woods"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/GTS_fairway_woods_title_f6786e20ff/GTS_fairway_woods_title_f6786e20ff.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>These New Clubs Were Key in Kristoffer Reitan&#x27;s Truist Win</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/truist-kristoffer-reitan-clubs-win-putter-driver</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/truist-kristoffer-reitan-clubs-win-putter-driver</guid>
-    <pubDate>Mon, 11 May 2026 01:44:17 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;With smashing drives and a hot putter, Kristoffer Reitan secured his first PGA TOUR victory at the Truist Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/truist-kristoffer-reitan-clubs-win-putter-driver"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Reitan_putter_title_179dbce1db/Reitan_putter_title_179dbce1db.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -672,20 +686,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/cqoIWSlyPDU"&gt;
     <media:thumbnail url="https://img.youtube.com/vi/0KeCEf1DbTY/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/0KeCEf1DbTY" type="text/html" medium="video"/>
     <yt:videoId>0KeCEf1DbTY</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>One of the most UNLIKELY birdies you’ll ever see. 😭</title>
-    <link>https://www.youtube.com/shorts/8vz31wK6CG0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/8vz31wK6CG0</guid>
-    <pubDate>Thu, 07 May 2026 19:39:21 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8vz31wK6CG0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/8vz31wK6CG0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/8vz31wK6CG0" type="text/html" medium="video"/>
-    <yt:videoId>8vz31wK6CG0</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
