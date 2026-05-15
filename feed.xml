@@ -9,8 +9,37 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 15 May 2026 19:02:12 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 15 May 2026 20:38:58 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>10 Golf Drops Worth Your Time Right Now</title>
+    <link>https://skratch.golf/style/mens-style/10-golf-drops-worth-your-time-right-now</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/10-golf-drops-worth-your-time-right-now</guid>
+    <pubDate>Fri, 15 May 2026 20:04:58 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;The latest week in golf style delivered retro sneakers, pleated pants, technical outerwear, and a few instant classics.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/10-golf-drops-worth-your-time-right-now"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/The_Drop_Cover_EP_5_9e6c572468/The_Drop_Cover_EP_5_9e6c572468.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Inside Gil Hanse&#x27;s Aronimink Restoration BACK to Donald Ross&#x27; 1928 Design</title>
+    <link>https://www.youtube.com/watch?v=swHFWypmPF8</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=swHFWypmPF8</guid>
+    <pubDate>Fri, 15 May 2026 19:54:13 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Ahead of the PGA Championship at Aronimink Golf Club, Gil Hanse oversaw a massive restoration to return the course to its original 1928 Donald Ross design. We toured the course alongside the Rolex testimonee and visited his studio to find out more about the process and what it took to bring Ross&#x27; vision back to life.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=swHFWypmPF8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/swHFWypmPF8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/swHFWypmPF8" type="text/html" medium="video"/>
+    <yt:videoId>swHFWypmPF8</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Aronimink is Proving All of Us Wrong</title>
     <link>https://skratch.golf/news/news/pga-championship-2026-aronimink-proving-us-wrong-conditions-wind</link>
@@ -456,13 +485,13 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>Rory McIlroy&#x27;s Lingering Foot Blister Has Entered the PGA Championship Chat</title>
-    <link>https://skratch.golf/news/news/rory-mcilroy-injury-pga-championship-2026-foot-blister</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/rory-mcilroy-injury-pga-championship-2026-foot-blister</guid>
-    <pubDate>Tue, 12 May 2026 19:48:44 +0000</pubDate>
+    <title>Must-Watch Groupings for the First Two Rounds of the PGA Championship</title>
+    <link>https://skratch.golf/news/news/pga-championship-2026-must-watch-groupings-tee-times-aronimink</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-2026-must-watch-groupings-tee-times-aronimink</guid>
+    <pubDate>Tue, 12 May 2026 18:14:48 +0000</pubDate>
     <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;He was seen taking off his shoe a few times, which makes sense—after the final round of last week’s Truist Championship, McIlroy said he was dealing with a blister.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rory-mcilroy-injury-pga-championship-2026-foot-blister"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_05_12_at_3_58_30_PM_81efe7f3a2/Screenshot_2026_05_12_at_3_58_30_PM_81efe7f3a2.png"/>
+    <description>&lt;p&gt;Rory, Jordan, and Rahm? Yes, please.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-2026-must-watch-groupings-tee-times-aronimink"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2237962585_169b03fc66/Getty_Images_2237962585_169b03fc66.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -506,28 +535,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>Tiger Woods’ Prescription Drug Record Will Be Accessible to Prosecutors</title>
-    <link>https://skratch.golf/news/news/tiger-woods-prescription-drug-record-available-to-prosecutors</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/tiger-woods-prescription-drug-record-available-to-prosecutors</guid>
-    <pubDate>Tue, 12 May 2026 16:43:03 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Only prosecutors, law enforcement, expert witnesses, and Woods’ defense team will have access to the records. They will not be made available to the public.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-prescription-drug-record-available-to-prosecutors"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2268215808_4ed2e17488/Getty_Images_2268215808_4ed2e17488.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Tee Times and Groupings for the PGA Championship</title>
-    <link>https://skratch.golf/news/news/pga-championship-2026-tee-times-groupings-aronimink</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-2026-tee-times-groupings-aronimink</guid>
-    <pubDate>Tue, 12 May 2026 16:23:12 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;There are some star-studded pairings for the first two rounds of the PGA Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-2026-tee-times-groupings-aronimink"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2275839681_30b087a51d/Getty_Images_2275839681_30b087a51d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>EVERY SHOT from Tiger’s 29 @ Aronimink’s back-9 on his way to a 1st round 62 at the 2018 BMW Champ.</title>
     <link>https://www.youtube.com/shorts/zLuwE_IQhhI</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/zLuwE_IQhhI</guid>
@@ -540,6 +547,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Off-the-Tee Strategy at Aronimink Will be &quot;Non-Existent&quot; at the PGA Championship</title>
+    <link>https://skratch.golf/news/news/rory-mcilroy-pga-championship-2026-aronimink-no-strategy-off-the-tee</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/rory-mcilroy-pga-championship-2026-aronimink-no-strategy-off-the-tee</guid>
+    <pubDate>Tue, 12 May 2026 14:21:19 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;A major championship venue should test every part of your game. According to Rory McIlroy, Aronimink won&#x27;t exactly fit the bill. Here&#x27;s why.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rory-mcilroy-pga-championship-2026-aronimink-no-strategy-off-the-tee"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2275794331_a1f2db915a/Getty_Images_2275794331_a1f2db915a.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Michael Block Responds To Haters, Controversy &amp; Looks Ahead To PGA Championship</title>
@@ -649,26 +667,6 @@ Subscribe to Skratch on YouTube and don’t miss out &lt;/p&gt;&lt;p&gt;&lt;a hr
     <media:thumbnail url="https://img.youtube.com/vi/Gk0YuuqbOL8/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/Gk0YuuqbOL8" type="text/html" medium="video"/>
     <yt:videoId>Gk0YuuqbOL8</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Gotta play it as it lies. 😬</title>
-    <link>https://www.youtube.com/shorts/s9o3qZ3ayC0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/s9o3qZ3ayC0</guid>
-    <pubDate>Fri, 08 May 2026 17:45:15 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Watch more of the best wildlife moments on TOUR on our page.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf co&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/s9o3qZ3ayC0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/s9o3qZ3ayC0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/s9o3qZ3ayC0" type="text/html" medium="video"/>
-    <yt:videoId>s9o3qZ3ayC0</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
