@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 15 May 2026 17:06:56 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 15 May 2026 19:02:12 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Aronimink is Proving All of Us Wrong</title>
+    <link>https://skratch.golf/news/news/pga-championship-2026-aronimink-proving-us-wrong-conditions-wind</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-2026-aronimink-proving-us-wrong-conditions-wind</guid>
+    <pubDate>Fri, 15 May 2026 18:05:36 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Most of us thought Aronimink would get picked apart by the world&#x27;s best. We couldn&#x27;t be happier to be wrong.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-2026-aronimink-proving-us-wrong-conditions-wind"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2275819679_9eb7fafc3e/Getty_Images_2275819679_9eb7fafc3e.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>The Conditions at Aronimink are Here to Stay</title>
     <link>https://skratch.golf/news/news/pga-championship-2026-weather-forecast-wind-weekend-aronimink</link>
@@ -204,6 +215,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;After his round, Higgo said, &quot;I was there on time, but the rule is, if you&#x27;re one second late, you&#x27;re late. So if you think about it, I was there on time, if you know what I mean.&quot;&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-2026-garrick-higgo-penalized-late-for-tee-time"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2276198892_4aa416b74e/Getty_Images_2276198892_4aa416b74e.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>How to Choose Between Titleist’s New GTS2 and GTS3 Fairway Woods</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/titleist-gts-fairway-fitting-gts3-gts2</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/titleist-gts-fairway-fitting-gts3-gts2</guid>
+    <pubDate>Thu, 14 May 2026 03:37:08 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;We put the Titleist GTS2 and GTS3 fairway woods head-to-head to find out what separates them and which golfers each model fits best.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/titleist-gts-fairway-fitting-gts3-gts2"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/gts_titleist_fw_compare_d786a33b34/gts_titleist_fw_compare_d786a33b34.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -434,6 +456,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
+    <title>Rory McIlroy&#x27;s Lingering Foot Blister Has Entered the PGA Championship Chat</title>
+    <link>https://skratch.golf/news/news/rory-mcilroy-injury-pga-championship-2026-foot-blister</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/rory-mcilroy-injury-pga-championship-2026-foot-blister</guid>
+    <pubDate>Tue, 12 May 2026 19:48:44 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;He was seen taking off his shoe a few times, which makes sense—after the final round of last week’s Truist Championship, McIlroy said he was dealing with a blister.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rory-mcilroy-injury-pga-championship-2026-foot-blister"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_05_12_at_3_58_30_PM_81efe7f3a2/Screenshot_2026_05_12_at_3_58_30_PM_81efe7f3a2.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Who takes it this week?</title>
     <link>https://www.youtube.com/shorts/fpul4rGLbho</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/fpul4rGLbho</guid>
@@ -446,17 +479,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>10-Year-Old Competes in U.S. Women’s Open Qualifier—And Not Everyone Is Applauding</title>
-    <link>https://skratch.golf/news/news/us-womens-open-qualifier-usga-10-year-old-cheetah-baez-social-media-reacts</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/us-womens-open-qualifier-usga-10-year-old-cheetah-baez-social-media-reacts</guid>
-    <pubDate>Tue, 12 May 2026 17:42:26 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Cheetah Beaz of Florida shot 91-95 in her U.S. Women’s Open qualifier, and it has the internet begging the question: was the story inspiring or a premature decision by those around her?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-womens-open-qualifier-usga-10-year-old-cheetah-baez-social-media-reacts"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Cheetah_Baez_35d3d40edf/Cheetah_Baez_35d3d40edf.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Cam Homa showing dad how it&#x27;s done. 😭</title>
@@ -541,17 +563,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;With a full field taking on Aronimink Golf Club, we dive into the biggest equipment storylines from PGA Championship week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/gear-notes-pga-championship-aronimink-changes"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Bryson_PGA_Bag_c4381b85dc/Bryson_PGA_Bag_c4381b85dc.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Storylines from U.S. Open Local Qualifying, as &#x27;Golf&#x27;s Longest Day&#x27; Approaches</title>
-    <link>https://skratch.golf/news/news/us-open-2026-local-qualifying-storylines-final-qualifying-schedule</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/us-open-2026-local-qualifying-storylines-final-qualifying-schedule</guid>
-    <pubDate>Tue, 12 May 2026 00:22:48 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Our friend Shane Bacon isn&#x27;t the only great story to come from U.S. Open Local Qualifying.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-open-2026-local-qualifying-storylines-final-qualifying-schedule"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2220140152_fa681eb814/Getty_Images_2220140152_fa681eb814.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -658,26 +669,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <media:thumbnail url="https://img.youtube.com/vi/s9o3qZ3ayC0/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/s9o3qZ3ayC0" type="text/html" medium="video"/>
     <yt:videoId>s9o3qZ3ayC0</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>When the course turns into a ZOO 😭 | PGA TOUR Wildlife Moments</title>
-    <link>https://www.youtube.com/watch?v=EioNiJqxQ38</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=EioNiJqxQ38</guid>
-    <pubDate>Fri, 08 May 2026 17:00:13 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The PGA TOUR is unpredictable enough… then the animals showed up.
-
-From alligators strolling across fairways to birds stealing golf balls and unexpected wildlife delays, here are some of the funniest, wildest, and most unforgettable animal encounters caught on TOUR cameras.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=EioNiJqxQ38"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/EioNiJqxQ38/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/EioNiJqxQ38" type="text/html" medium="video"/>
-    <yt:videoId>EioNiJqxQ38</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
