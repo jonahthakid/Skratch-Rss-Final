@@ -9,8 +9,37 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 15 May 2026 12:27:59 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 15 May 2026 15:00:37 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The Conditions at Aronimink are Here to Stay</title>
+    <link>https://skratch.golf/news/news/pga-championship-2026-weather-forecast-wind-weekend-aronimink</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-2026-weather-forecast-wind-weekend-aronimink</guid>
+    <pubDate>Fri, 15 May 2026 14:27:22 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The wind has been relentless at Aronimink, and it looks like that won&#x27;t change much over the weekend.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-2026-weather-forecast-wind-weekend-aronimink"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2276384018_1449d8f1c9/Getty_Images_2276384018_1449d8f1c9.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Optimizing your fairway wood just got even easier. 👀</title>
+    <link>https://www.youtube.com/shorts/oAM2OLiy2Fs</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/oAM2OLiy2Fs</guid>
+    <pubDate>Fri, 15 May 2026 13:52:50 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Ryan Barath puts the new @titleist GTS fairway woods to a head-to-head test to find out how they impacted his ball flight and which was the best for his game
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explo&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/oAM2OLiy2Fs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/oAM2OLiy2Fs/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/oAM2OLiy2Fs" type="text/html" medium="video"/>
+    <yt:videoId>oAM2OLiy2Fs</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>He&#x27;s a unicorn because he does both.</title>
     <link>https://www.youtube.com/shorts/UR0R1tIJaV8</link>
@@ -247,6 +276,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
+    <title>End of an Era: What You Need to Know About TaylorMade&#x27;s New Release Cycle</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/taylormade-golf-driver-woods-extend-product-cycle</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/taylormade-golf-driver-woods-extend-product-cycle</guid>
+    <pubDate>Wed, 13 May 2026 18:55:08 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;TaylorMade is ready to change course on its traditional woods product cycle and move to a whole new product cadence.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/taylormade-golf-driver-woods-extend-product-cycle"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Taylormade_Qi4d_title_ce315d90ac/Taylormade_Qi4d_title_ce315d90ac.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>The numbers don&#x27;t lie. 👀</title>
     <link>https://www.youtube.com/shorts/K2r5glRPAGA</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/K2r5glRPAGA</guid>
@@ -383,17 +423,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>Must-Watch Groupings for the First Two Rounds of the PGA Championship</title>
-    <link>https://skratch.golf/news/news/pga-championship-2026-must-watch-groupings-tee-times-aronimink</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-2026-must-watch-groupings-tee-times-aronimink</guid>
-    <pubDate>Tue, 12 May 2026 18:14:48 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Rory, Jordan, and Rahm? Yes, please.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-2026-must-watch-groupings-tee-times-aronimink"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2237962585_169b03fc66/Getty_Images_2237962585_169b03fc66.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Who takes it this week?</title>
     <link>https://www.youtube.com/shorts/fpul4rGLbho</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/fpul4rGLbho</guid>
@@ -480,17 +509,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>Off-the-Tee Strategy at Aronimink Will be &quot;Non-Existent&quot; at the PGA Championship</title>
-    <link>https://skratch.golf/news/news/rory-mcilroy-pga-championship-2026-aronimink-no-strategy-off-the-tee</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/rory-mcilroy-pga-championship-2026-aronimink-no-strategy-off-the-tee</guid>
-    <pubDate>Tue, 12 May 2026 14:21:19 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;A major championship venue should test every part of your game. According to Rory McIlroy, Aronimink won&#x27;t exactly fit the bill. Here&#x27;s why.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rory-mcilroy-pga-championship-2026-aronimink-no-strategy-off-the-tee"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2275794331_a1f2db915a/Getty_Images_2275794331_a1f2db915a.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Michael Block Responds To Haters, Controversy &amp; Looks Ahead To PGA Championship</title>
     <link>https://www.youtube.com/watch?v=JNYIt9c65QY</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=JNYIt9c65QY</guid>
@@ -553,6 +571,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Michael Block Got Sick of Michael Block, Too. Then He Stopped Giving a Sh*t.</title>
+    <link>https://skratch.golf/news/pro-golf/michael-block-interview-2026-pga-championship-preview</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/michael-block-interview-2026-pga-championship-preview</guid>
+    <pubDate>Mon, 11 May 2026 22:51:13 +0000</pubDate>
+    <dc:creator>Alan Shipnuck</dc:creator>
+    <description>&lt;p&gt;&quot;I think I was trying to be someone I’m not. I was actually concerned with not finishing the week dead last in driving distance. Now I could care less. My goal is to hit the most fairways and have the fewest putts and if I do that I can compete, doing it my way.&quot;&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/michael-block-interview-2026-pga-championship-preview"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2212076179_6d47453e79/Getty_Images_2212076179_6d47453e79.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Here&#x27;s your chance to get in on the Kevin Hart roast. 😭Let&#x27;s hear your best in the comments.</title>
@@ -649,41 +678,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/EioNiJqxQ38/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/EioNiJqxQ38" type="text/html" medium="video"/>
     <yt:videoId>EioNiJqxQ38</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Watch where you&#x27;re walking, bozo. 🤣</title>
-    <link>https://www.youtube.com/shorts/cqoIWSlyPDU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/cqoIWSlyPDU</guid>
-    <pubDate>Fri, 08 May 2026 14:00:22 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
-
-Check out our website: https://skratch.golf/
-Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/cqoIWSlyPDU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/cqoIWSlyPDU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/cqoIWSlyPDU" type="text/html" medium="video"/>
-    <yt:videoId>cqoIWSlyPDU</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Don&#x27;t think Rosie liked this one. 😭</title>
-    <link>https://www.youtube.com/shorts/0KeCEf1DbTY</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/0KeCEf1DbTY</guid>
-    <pubDate>Thu, 07 May 2026 20:22:46 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/0KeCEf1DbTY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/0KeCEf1DbTY/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/0KeCEf1DbTY" type="text/html" medium="video"/>
-    <yt:videoId>0KeCEf1DbTY</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
