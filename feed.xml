@@ -9,13 +9,41 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 15 May 2026 23:51:16 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 16 May 2026 02:28:07 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
-    <title>PGA Championship Round 2 Recap + Chat: PACKED Leaderboard at Aronomink</title>
+    <title>Savage from ESPN in the best way.</title>
+    <link>https://www.youtube.com/shorts/0BPeX3MNOkw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/0BPeX3MNOkw</guid>
+    <pubDate>Sat, 16 May 2026 02:00:00 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/0BPeX3MNOkw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/0BPeX3MNOkw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/0BPeX3MNOkw" type="text/html" medium="video"/>
+    <yt:videoId>0BPeX3MNOkw</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>The pins just haven’t allowed anyone to separate so far.</title>
+    <link>https://www.youtube.com/shorts/0cKOOmJUoNw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/0cKOOmJUoNw</guid>
+    <pubDate>Sat, 16 May 2026 01:12:47 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/0cKOOmJUoNw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/0cKOOmJUoNw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/0cKOOmJUoNw" type="text/html" medium="video"/>
+    <yt:videoId>0cKOOmJUoNw</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>PGA Championship Round 2 Recap: Why Can No One Separate At Aronomink?</title>
     <link>https://www.youtube.com/watch?v=J9r6Z5iOwtQ</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=J9r6Z5iOwtQ</guid>
-    <pubDate>Fri, 15 May 2026 23:31:48 +0000</pubDate>
+    <pubDate>Sat, 16 May 2026 00:07:18 +0000</pubDate>
     <dc:creator>Dan on Golf</dc:creator>
     <description>&lt;p&gt;There are 50+ guys within 6 shots of the lead at the halfway point of the PGA Championship. Dan Rapaport breaks it all down.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=J9r6Z5iOwtQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://img.youtube.com/vi/J9r6Z5iOwtQ/hqdefault.jpg"/>
@@ -42,7 +70,7 @@
     <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-2026-miss-cut-big-names-aronimink-bryson-dechambeau</guid>
     <pubDate>Fri, 15 May 2026 22:51:33 +0000</pubDate>
     <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Sungjae Im, Tyrell Hatton and Akshay Bhatia are also among the names who won&#x27;t be playing the weekend in Philly.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-2026-miss-cut-big-names-aronimink-bryson-dechambeau"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;Sungjae Im, Tyrrell Hatton and Akshay Bhatia are also among the names who won&#x27;t be playing the weekend in Philly.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-2026-miss-cut-big-names-aronimink-bryson-dechambeau"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2276443731_58aa5baa15/Getty_Images_2276443731_58aa5baa15.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
@@ -54,7 +82,7 @@
     <pubDate>Fri, 15 May 2026 21:41:13 +0000</pubDate>
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;The pins on Friday caused quite the stir at Aronimink. Will they be un-tucked for Moving Day? And are we in store for a Scottie-centric Saturday?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-2026-set-up-changes-aronmink-thoughts-going-into-weekend"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2276464083_ff1b092abb/Getty_Images_2276464083_ff1b092abb.jpg"/>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_05_15_at_7_52_04_PM_eafce50152/Screenshot_2026_05_15_at_7_52_04_PM_eafce50152.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -599,20 +627,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>Michael Block Responds To Haters, Controversy &amp; Looks Ahead To PGA Championship</title>
-    <link>https://www.youtube.com/watch?v=JNYIt9c65QY</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=JNYIt9c65QY</guid>
-    <pubDate>Tue, 12 May 2026 12:30:32 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Michael Block joins the show to dive into it all prior to this week&#x27;s PGA Championship: his viral moments at Oak Hill in 2023, dealing with online haters, competing at Aronimink &amp; more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=JNYIt9c65QY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/JNYIt9c65QY/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/JNYIt9c65QY" type="text/html" medium="video"/>
-    <yt:videoId>JNYIt9c65QY</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Rollback Balls and Fresh Gear: PGA Championship Notes</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/gear-notes-pga-championship-aronimink-changes</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/gear-notes-pga-championship-aronimink-changes</guid>
@@ -622,20 +636,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Bryson_PGA_Bag_c4381b85dc/Bryson_PGA_Bag_c4381b85dc.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>What was the root of Reitan&#x27;s nerves before the final round? Arsenal.</title>
-    <link>https://www.youtube.com/shorts/hEFg39XIBCM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/hEFg39XIBCM</guid>
-    <pubDate>Mon, 11 May 2026 23:37:58 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/hEFg39XIBCM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/hEFg39XIBCM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/hEFg39XIBCM" type="text/html" medium="video"/>
-    <yt:videoId>hEFg39XIBCM</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>Here&#x27;s your chance to get in on the Kevin Hart roast. 😭Let&#x27;s hear your best in the comments.</title>
