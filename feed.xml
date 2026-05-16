@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 16 May 2026 13:09:30 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 16 May 2026 14:37:59 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Philly fans are built different 🤣(2018 BMW Championship)</title>
+    <link>https://www.youtube.com/shorts/zGkl0V8E-Oo</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/zGkl0V8E-Oo</guid>
+    <pubDate>Sat, 16 May 2026 13:46:46 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/zGkl0V8E-Oo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/zGkl0V8E-Oo/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/zGkl0V8E-Oo" type="text/html" medium="video"/>
+    <yt:videoId>zGkl0V8E-Oo</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Savage from ESPN in the best way.</title>
     <link>https://www.youtube.com/shorts/0BPeX3MNOkw</link>
@@ -650,17 +664,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>What You Should Know: Titleist GTS Fairway Woods</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/titleist-gts-fairway-retail-launch-details-woods</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/titleist-gts-fairway-retail-launch-details-woods</guid>
-    <pubDate>Mon, 11 May 2026 13:01:34 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Built with new fitting tools &amp; face to get you dialed in from off the tee or off the deck, here&#x27;s what you need to know about the Titleist GTS fairway woods.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/titleist-gts-fairway-retail-launch-details-woods"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/GTS_fairway_woods_title_f6786e20ff/GTS_fairway_woods_title_f6786e20ff.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
