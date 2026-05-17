@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 17 May 2026 13:06:44 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 17 May 2026 14:42:23 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>What&#x27;s The Playoff Format At The 2026 PGA Championship</title>
+    <link>https://skratch.golf/news/news/pga-championship-golf-tie-aronimink-playoff</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-golf-tie-aronimink-playoff</guid>
+    <pubDate>Sun, 17 May 2026 11:24:33 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;With so many players close to the lead, this is how the PGA Championship at Aronimink would be decided in a playoff.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-golf-tie-aronimink-playoff"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2230886075_8aa0972e6e/Getty_Images_2230886075_8aa0972e6e.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>PGA Championship Round 3 Recap: It&#x27;s ANYONE&#x27;S Ballgame! Rory, Scottie Still IN THE MIX!</title>
     <link>https://www.youtube.com/watch?v=ziME0AtgFoE</link>
@@ -541,6 +552,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
+    <title>Shop The Best Looks From PGA Championship Preview Day</title>
+    <link>https://skratch.golf/style/mens-style/shop-the-best-looks-from-pga-championship-preview-day</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/shop-the-best-looks-from-pga-championship-preview-day</guid>
+    <pubDate>Wed, 13 May 2026 18:33:50 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;Four players. Four completely different moods. All of them worked.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/shop-the-best-looks-from-pga-championship-preview-day"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/PGA_Championship_Looks_ab750d7a1d/PGA_Championship_Looks_ab750d7a1d.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Three Players to Watch at the PGA Championship</title>
     <link>https://skratch.golf/news/news/pga-championship-2026-picks-players-to-watch-aronimink</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-2026-picks-players-to-watch-aronimink</guid>
@@ -548,17 +570,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;All three of our players to watch at Aronimink have yet to win a major, but that could change this weekend at the PGA Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-2026-picks-players-to-watch-aronimink"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2275211524_6ee087b165/Getty_Images_2275211524_6ee087b165.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>PGA Championship Picks: Why Our Resident Winner Picker Likes Xander &amp; Scottie</title>
-    <link>https://skratch.golf/news/pro-golf/pga-championship-2026-aronimink-best-bets-picks-to-win</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/pga-championship-2026-aronimink-best-bets-picks-to-win</guid>
-    <pubDate>Wed, 13 May 2026 16:52:52 +0000</pubDate>
-    <dc:creator>Rick Gehman</dc:creator>
-    <description>&lt;p&gt;Plus: Where you should take Alex Fitzpatrick in the mix.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/pga-championship-2026-aronimink-best-bets-picks-to-win"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2271225477_a8a0ca1334/Getty_Images_2271225477_a8a0ca1334.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -639,17 +650,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>GT vs. GTS: How Much Better Is Titleist’s New Driver?</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/titleist-gt-vs-gts-driver-testing-distance-speed</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/titleist-gt-vs-gts-driver-testing-distance-speed</guid>
-    <pubDate>Tue, 12 May 2026 16:47:26 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;After going through a driver fitting at Titleist&#x27;s TPI, we put the GTS4 up against the previous GT4 to find out how much can really be gained off the tee.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/titleist-gt-vs-gts-driver-testing-distance-speed"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/GTS_vs_gt4_309c7c6326/GTS_vs_gt4_309c7c6326.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>EVERY SHOT from Tiger’s 29 @ Aronimink’s back-9 on his way to a 1st round 62 at the 2018 BMW Champ.</title>
