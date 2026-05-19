@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 19 May 2026 19:46:24 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 19 May 2026 21:14:16 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Split mass tech inside @titleist&#x27;s new GTS drivers is going to be HUGE for a ton of golfers. 👀</title>
+    <link>https://www.youtube.com/shorts/36pDMuofk8w</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/36pDMuofk8w</guid>
+    <pubDate>Tue, 19 May 2026 20:34:42 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Watch the full video of Ryan Barath hitting through the 2026 lineup on our main page.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/36pDMuofk8w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/36pDMuofk8w/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/36pDMuofk8w" type="text/html" medium="video"/>
+    <yt:videoId>36pDMuofk8w</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>How Running Late for a Flight May Have Cost this Former LIV Member a Spot in the U.S. Open</title>
     <link>https://skratch.golf/news/news/us-open-final-qualifying-eugenio-chacarra-late-for-flight-dp-world-tour</link>
@@ -48,6 +62,24 @@
     <yt:videoId>TcM7ge63zRY</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Testing the NEW Titleist GTS Drivers | Bench Tested with Ryan Barath</title>
+    <link>https://www.youtube.com/watch?v=PtD0RDOuG9Q</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=PtD0RDOuG9Q</guid>
+    <pubDate>Tue, 19 May 2026 17:00:12 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Skratch Gear Expert Ryan Barath heads to the Titleist Performance Institute in Oceanside, California to get fit for the new GTS driver and find out which model suits his game the best.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=PtD0RDOuG9Q"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/PtD0RDOuG9Q/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/PtD0RDOuG9Q" type="text/html" medium="video"/>
+    <yt:videoId>PtD0RDOuG9Q</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
     <category>video</category>
   </item>
   <item>
@@ -236,6 +268,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;With a 6-major-wins streak going strong, this fairway wood is proving it has staying power at the highest level.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/aaron-rai-3-wood-qi10-major-wins"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Aaron_rai_3_wood_qi10_title_bb692f92ed/Aaron_rai_3_wood_qi10_title_bb692f92ed.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Bench Tested: Titleist&#x27;s New GTS Drivers</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/titleist-bench-tested-gts-drivers-fitting-tpi</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/titleist-bench-tested-gts-drivers-fitting-tpi</guid>
+    <pubDate>Mon, 18 May 2026 00:07:43 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;With a new driver body technology, adjustable weights, and 3 models to choose from, we put the Titleist GTS drivers to the test to find more speed and control.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/titleist-bench-tested-gts-drivers-fitting-tpi"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Titleist_Drivers_Tour_truck_G_Ts_2026_cbbbbb422d/Titleist_Drivers_Tour_truck_G_Ts_2026_cbbbbb422d.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -432,17 +475,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>Potential Set-Up Changes? That and Two More Stories to Watch This Weekend at Aronimink</title>
-    <link>https://skratch.golf/news/news/pga-championship-2026-set-up-changes-aronmink-thoughts-going-into-weekend</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-2026-set-up-changes-aronmink-thoughts-going-into-weekend</guid>
-    <pubDate>Fri, 15 May 2026 21:41:13 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The pins on Friday caused quite the stir at Aronimink. Will they be un-tucked for Moving Day? And are we in store for a Scottie-centric Saturday?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-2026-set-up-changes-aronmink-thoughts-going-into-weekend"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_05_15_at_7_52_04_PM_eafce50152/Screenshot_2026_05_15_at_7_52_04_PM_eafce50152.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>The pin placements at Aronimink are no joke. 😳</title>
     <link>https://www.youtube.com/shorts/Ntun8Lkckaw</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/Ntun8Lkckaw</guid>
@@ -624,34 +656,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/MZE8Ll0O6Wc/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/MZE8Ll0O6Wc" type="text/html" medium="video"/>
     <yt:videoId>MZE8Ll0O6Wc</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>How many golf balls do you think Rory McIlroy has hit in his life?</title>
-    <link>https://www.youtube.com/shorts/K8caGh89_qE</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/K8caGh89_qE</guid>
-    <pubDate>Tue, 12 May 2026 22:10:15 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/K8caGh89_qE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/K8caGh89_qE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/K8caGh89_qE" type="text/html" medium="video"/>
-    <yt:videoId>K8caGh89_qE</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Tiger with a KILLER right hook at Aronimink in 2010. 😳#TigerTuesday</title>
-    <link>https://www.youtube.com/shorts/aVmm7AiRre8</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/aVmm7AiRre8</guid>
-    <pubDate>Tue, 12 May 2026 20:51:05 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/aVmm7AiRre8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/aVmm7AiRre8/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/aVmm7AiRre8" type="text/html" medium="video"/>
-    <yt:videoId>aVmm7AiRre8</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
