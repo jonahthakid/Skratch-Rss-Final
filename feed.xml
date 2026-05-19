@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 19 May 2026 11:37:11 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 19 May 2026 14:47:13 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Tom Kim and Graeme McDowell are Among the First Batch of U.S. Open Qualifiers</title>
+    <link>https://skratch.golf/news/news/us-open-2026-final-qualifying-tom-kim-graeme-mcdowell-shinnecock</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/us-open-2026-final-qualifying-tom-kim-graeme-mcdowell-shinnecock</guid>
+    <pubDate>Tue, 19 May 2026 13:33:21 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Several big names are now headed to Shinnecock after making it through U.S. Open Final Qualifying on Monday, including Tom Kim.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-open-2026-final-qualifying-tom-kim-graeme-mcdowell-shinnecock"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2275218186_48d8231c2f/Getty_Images_2275218186_48d8231c2f.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Average differential is a better marker of a golfer than your best 8 of 20.</title>
     <link>https://www.youtube.com/shorts/kzWJyONO_2E</link>
@@ -510,17 +521,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>Rory McIlroy Perfectly Summed Up His Opening Round with One Word</title>
-    <link>https://skratch.golf/news/news/pga-championship-2026-rory-mcilroy-opening-round-shit-aronimink</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-2026-rory-mcilroy-opening-round-shit-aronimink</guid>
-    <pubDate>Thu, 14 May 2026 18:42:01 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The Northern Irishman opened with a 74 on Thursday at Aronimink. When asked to describe his round, he used a simple but descriptive word: “Shit.”&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-2026-rory-mcilroy-opening-round-shit-aronimink"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2276252701_5a15f8abd4/Getty_Images_2276252701_5a15f8abd4.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Why Is Women’s Golf Tournament Merch Still So Afraid of Looking Cool?</title>
     <link>https://skratch.golf/style/style/womens-golf-merchandise-pro-events-fan-shops-essay</link>
     <guid isPermaLink="true">https://skratch.golf/style/style/womens-golf-merchandise-pro-events-fan-shops-essay</guid>
@@ -528,6 +528,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;The offering at this year&#x27;s PGA Championship outperformed my expectations—but we&#x27;re still missing the macro mark at golf&#x27;s bigger events.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/womens-golf-merchandise-pro-events-fan-shops-essay"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/IMG_4617_2abb31b7ca/IMG_4617_2abb31b7ca.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>This Week’s LPGA Venue Has One of Pro Golf’s Rarest Finishes</title>
+    <link>https://skratch.golf/news/news/lpga-tour-kroger-queen-city-championship-maketewah-country-club-closing-par-3-holes</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-tour-kroger-queen-city-championship-maketewah-country-club-closing-par-3-holes</guid>
+    <pubDate>Thu, 14 May 2026 17:31:14 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;This week’s Kroger Queen City Championship introduces a new LPGA venue with a daring design choice at the finish: both closing holes as par 3s.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-tour-kroger-queen-city-championship-maketewah-country-club-closing-par-3-holes"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Charley_Hull_Kroger_Queen_City_2026_aa89e2e8eb/Charley_Hull_Kroger_Queen_City_2026_aa89e2e8eb.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -544,28 +555,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>What Does the Winner of the PGA Championship Receive?</title>
-    <link>https://skratch.golf/news/news/pga-championship-winner-everything-they-receive-trophy-prize-money</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-winner-everything-they-receive-trophy-prize-money</guid>
-    <pubDate>Thu, 14 May 2026 14:21:27 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Aaron Rai is headed home from Aronimink with a lot more than the Wanamaker.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-winner-everything-they-receive-trophy-prize-money"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2276267298_b86be4effb/Getty_Images_2276267298_b86be4effb.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Garrick Higgo was Penalized for Being Late for His Tee Time at the PGA Championship</title>
-    <link>https://skratch.golf/news/news/pga-championship-2026-garrick-higgo-penalized-late-for-tee-time</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-2026-garrick-higgo-penalized-late-for-tee-time</guid>
-    <pubDate>Thu, 14 May 2026 13:43:06 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;After his round, Higgo said, &quot;I was there on time, but the rule is, if you&#x27;re one second late, you&#x27;re late. So if you think about it, I was there on time, if you know what I mean.&quot;&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-2026-garrick-higgo-penalized-late-for-tee-time"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2276198892_4aa416b74e/Getty_Images_2276198892_4aa416b74e.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>How to Choose Between Titleist’s New GTS2 and GTS3 Fairway Woods</title>
@@ -655,6 +644,20 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://img.youtube.com/vi/aVmm7AiRre8/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/aVmm7AiRre8" type="text/html" medium="video"/>
     <yt:videoId>aVmm7AiRre8</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Cam Homa showing dad how it&#x27;s done. 😭</title>
+    <link>https://www.youtube.com/shorts/9SutrcJySUk</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/9SutrcJySUk</guid>
+    <pubDate>Tue, 12 May 2026 17:16:04 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/9SutrcJySUk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/9SutrcJySUk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/9SutrcJySUk" type="text/html" medium="video"/>
+    <yt:videoId>9SutrcJySUk</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
