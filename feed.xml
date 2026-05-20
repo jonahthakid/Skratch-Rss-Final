@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 20 May 2026 13:34:17 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 20 May 2026 16:52:01 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Bryson DeChambeau Says the Moon Landing Footage Isn’t Real</title>
+    <link>https://skratch.golf/news/news/bryson-dechambeau-moon-landing-footage-liv-golf</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/bryson-dechambeau-moon-landing-footage-liv-golf</guid>
+    <pubDate>Wed, 20 May 2026 14:10:02 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;If you thought Bryson DeChambeau was the kind of guy who found the moon landing fishy...you&#x27;re absolutely right.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/bryson-dechambeau-moon-landing-footage-liv-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270228942_c0296642e7/Getty_Images_2270228942_c0296642e7.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Imagine someone on TOUR winning 11 STRAIGHT tournaments. 🤯</title>
     <link>https://www.youtube.com/shorts/1OrV39eSXJc</link>
@@ -489,13 +500,13 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>Bryson, Tommy, Blockie: Here Are the Notable Names Who Missed the Cut at the PGA Championship</title>
-    <link>https://skratch.golf/news/news/pga-championship-2026-miss-cut-big-names-aronimink-bryson-dechambeau</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-2026-miss-cut-big-names-aronimink-bryson-dechambeau</guid>
-    <pubDate>Fri, 15 May 2026 22:51:33 +0000</pubDate>
+    <title>Potential Set-Up Changes? That and Two More Stories to Watch This Weekend at Aronimink</title>
+    <link>https://skratch.golf/news/news/pga-championship-2026-set-up-changes-aronmink-thoughts-going-into-weekend</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-2026-set-up-changes-aronmink-thoughts-going-into-weekend</guid>
+    <pubDate>Fri, 15 May 2026 21:41:13 +0000</pubDate>
     <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Sungjae Im, Tyrrell Hatton and Akshay Bhatia are also among the names who won&#x27;t be playing the weekend in Philly.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-2026-miss-cut-big-names-aronimink-bryson-dechambeau"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2276443731_58aa5baa15/Getty_Images_2276443731_58aa5baa15.jpg"/>
+    <description>&lt;p&gt;The pins on Friday caused quite the stir at Aronimink. Will they be un-tucked for Moving Day? And are we in store for a Scottie-centric Saturday?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-2026-set-up-changes-aronmink-thoughts-going-into-weekend"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_05_15_at_7_52_04_PM_eafce50152/Screenshot_2026_05_15_at_7_52_04_PM_eafce50152.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -512,6 +523,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>10 Golf Drops Worth Your Time Right Now</title>
+    <link>https://skratch.golf/style/mens-style/10-golf-drops-worth-your-time-right-now</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/10-golf-drops-worth-your-time-right-now</guid>
+    <pubDate>Fri, 15 May 2026 20:04:58 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;The latest week in golf style delivered retro sneakers, pleated pants, technical outerwear, and a few instant classics.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/10-golf-drops-worth-your-time-right-now"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/The_Drop_Cover_EP_5_9e6c572468/The_Drop_Cover_EP_5_9e6c572468.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Inside Gil Hanse&#x27;s Aronimink Restoration BACK to Donald Ross&#x27; 1928 Design</title>
@@ -586,17 +608,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Sugarloaf Social Club Just Saved Your PGA Championship Feed</title>
-    <link>https://skratch.golf/style/mens-style/sugarloaf-social-club-hats-saved-pga-championship-feed</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/sugarloaf-social-club-hats-saved-pga-championship-feed</guid>
-    <pubDate>Thu, 14 May 2026 21:18:26 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;While the PGA Championship merch discourse spirals, Sugarloaf Social Club dropped a lineup of tasteful headwear worth your attention.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/sugarloaf-social-club-hats-saved-pga-championship-feed"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/SSC_Headwear_26a61db710/SSC_Headwear_26a61db710.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Golf is actually pretty simple when you break it down like this… 😭😭</title>
     <link>https://www.youtube.com/shorts/6uK7HJgVgL0</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/6uK7HJgVgL0</guid>
@@ -609,17 +620,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>How to Choose Between Titleist’s New GTS2 and GTS3 Fairway Woods</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/titleist-gts-fairway-fitting-gts3-gts2</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/titleist-gts-fairway-fitting-gts3-gts2</guid>
-    <pubDate>Thu, 14 May 2026 03:37:08 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;We put the Titleist GTS2 and GTS3 fairway woods head-to-head to find out what separates them and which golfers each model fits best.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/titleist-gts-fairway-fitting-gts3-gts2"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/gts_titleist_fw_compare_d786a33b34/gts_titleist_fw_compare_d786a33b34.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Range Report from Wednesday at the PGA Championship</title>
@@ -636,17 +636,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>End of an Era: What You Need to Know About TaylorMade&#x27;s New Release Cycle</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/taylormade-golf-driver-woods-extend-product-cycle</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/taylormade-golf-driver-woods-extend-product-cycle</guid>
-    <pubDate>Wed, 13 May 2026 18:55:08 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;TaylorMade is ready to change course on its traditional woods product cycle and move to a whole new product cadence.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/taylormade-golf-driver-woods-extend-product-cycle"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Taylormade_Qi4d_title_ce315d90ac/Taylormade_Qi4d_title_ce315d90ac.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>The numbers don&#x27;t lie. 👀</title>
     <link>https://www.youtube.com/shorts/K2r5glRPAGA</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/K2r5glRPAGA</guid>
@@ -656,6 +645,20 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/K2r5glRPAGA/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/K2r5glRPAGA" type="text/html" medium="video"/>
     <yt:videoId>K2r5glRPAGA</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>This guy won the PGA Championship 35 years ago as a ninth alternate. Anything can happen this week.</title>
+    <link>https://www.youtube.com/shorts/MZE8Ll0O6Wc</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/MZE8Ll0O6Wc</guid>
+    <pubDate>Wed, 13 May 2026 16:29:02 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/MZE8Ll0O6Wc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/MZE8Ll0O6Wc/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/MZE8Ll0O6Wc" type="text/html" medium="video"/>
+    <yt:videoId>MZE8Ll0O6Wc</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
