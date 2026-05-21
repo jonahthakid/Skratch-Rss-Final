@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 21 May 2026 11:46:49 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 14:52:06 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>A timeless lesson to stop your slice from the great Byron Nelson.</title>
+    <link>https://www.youtube.com/shorts/yHvCLT_qTtQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/yHvCLT_qTtQ</guid>
+    <pubDate>Thu, 21 May 2026 14:12:49 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/yHvCLT_qTtQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/yHvCLT_qTtQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/yHvCLT_qTtQ" type="text/html" medium="video"/>
+    <yt:videoId>yHvCLT_qTtQ</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>&quot;It&#x27;s a complete scramble. No one knows what this means.&quot;</title>
     <link>https://www.youtube.com/shorts/obNo7RmHHbE</link>
@@ -590,6 +604,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
+    <title>The Conditions at Aronimink are Here to Stay</title>
+    <link>https://skratch.golf/news/news/pga-championship-2026-weather-forecast-wind-weekend-aronimink</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-2026-weather-forecast-wind-weekend-aronimink</guid>
+    <pubDate>Fri, 15 May 2026 14:27:22 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The wind has been relentless at Aronimink, and it looks like that won&#x27;t change much over the weekend.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-2026-weather-forecast-wind-weekend-aronimink"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2276384018_1449d8f1c9/Getty_Images_2276384018_1449d8f1c9.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Optimizing your fairway wood just got even easier. 👀</title>
     <link>https://www.youtube.com/shorts/oAM2OLiy2Fs</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/oAM2OLiy2Fs</guid>
@@ -636,17 +661,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>End of an Era: What You Need to Know About TaylorMade&#x27;s New Release Cycle</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/taylormade-golf-driver-woods-extend-product-cycle</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/taylormade-golf-driver-woods-extend-product-cycle</guid>
-    <pubDate>Wed, 13 May 2026 18:55:08 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;TaylorMade is ready to change course on its traditional woods product cycle and move to a whole new product cadence.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/taylormade-golf-driver-woods-extend-product-cycle"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Taylormade_Qi4d_title_ce315d90ac/Taylormade_Qi4d_title_ce315d90ac.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>The numbers don&#x27;t lie. 👀</title>
     <link>https://www.youtube.com/shorts/K2r5glRPAGA</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/K2r5glRPAGA</guid>
@@ -656,20 +670,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/K2r5glRPAGA/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/K2r5glRPAGA" type="text/html" medium="video"/>
     <yt:videoId>K2r5glRPAGA</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>This guy won the PGA Championship 35 years ago as a ninth alternate. Anything can happen this week.</title>
-    <link>https://www.youtube.com/shorts/MZE8Ll0O6Wc</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/MZE8Ll0O6Wc</guid>
-    <pubDate>Wed, 13 May 2026 16:29:02 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/MZE8Ll0O6Wc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/MZE8Ll0O6Wc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/MZE8Ll0O6Wc" type="text/html" medium="video"/>
-    <yt:videoId>MZE8Ll0O6Wc</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
