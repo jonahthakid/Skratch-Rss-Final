@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 21 May 2026 19:25:56 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 21:10:02 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Watch: Bronny James’ Golf Swing is as Pure as it Gets</title>
+    <link>https://skratch.golf/news/news/bronny-james-golf-swing-pure-lebron-james</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/bronny-james-golf-swing-pure-lebron-james</guid>
+    <pubDate>Thu, 21 May 2026 18:04:40 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Bronny James has a tour-level golf swing. Don&#x27;t believe us? Just watch.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/bronny-james-golf-swing-pure-lebron-james"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Untitled_design_1_27f9856dc5/Untitled_design_1_27f9856dc5.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>&quot;Just shows how much he trusts his equipment down the stretch to pull that driver.&quot;</title>
     <link>https://www.youtube.com/shorts/nWiKRQlVdIU</link>
@@ -540,17 +551,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;With so many players close to the lead, this is how the PGA Championship at Aronimink would be decided in a playoff.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-golf-tie-aronimink-playoff"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2230886075_8aa0972e6e/Getty_Images_2230886075_8aa0972e6e.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Sunday’s Final-Round Tee Times for the PGA Championship</title>
-    <link>https://skratch.golf/news/news/pga-championship-2026-sunday-tee-times-final-round-aronimink</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-2026-sunday-tee-times-final-round-aronimink</guid>
-    <pubDate>Sat, 16 May 2026 23:20:42 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;We&#x27;re not planning on leaving the couch tomorrow. Here are the tee times and pin locations for the final round of the PGA Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-2026-sunday-tee-times-final-round-aronimink"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2276617743_5927d161b7/Getty_Images_2276617743_5927d161b7.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
