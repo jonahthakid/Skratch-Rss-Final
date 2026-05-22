@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 22 May 2026 10:44:37 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 22 May 2026 13:26:42 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Watch: Bronny James’ Golf Swing is as Pure as it Gets</title>
@@ -19,6 +19,17 @@
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Bronny James has a tour-level golf swing. Don&#x27;t believe us? Just watch.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/bronny-james-golf-swing-pure-lebron-james"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Untitled_design_1_27f9856dc5/Untitled_design_1_27f9856dc5.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>New Gear Paying Off For Brooks Koepka &amp; Keith Mitchell In Texas</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/cj-cup-pga-tour-texas-brooks-putter</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/cj-cup-pga-tour-texas-brooks-putter</guid>
+    <pubDate>Thu, 21 May 2026 17:47:07 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;After making notable putter changes, both players are already seeing early returns at the CJ Cup Byron Nelson.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/cj-cup-pga-tour-texas-brooks-putter"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Brooks_fastback_scotty_b06de8bfd9/Brooks_fastback_scotty_b06de8bfd9.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -468,17 +479,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Dan Rapaport</dc:creator>
     <description>&lt;p&gt;Aronimink&#x27;s PGA Championship was certainly a talker—from Rory on the Range to pin placements and course setup to an unlikely winner and new questions on the LIV front.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/20206-pga-championship-aronimink-recap-reaction-analysis"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2276267311_3f8b844514/Getty_Images_2276267311_3f8b844514.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>&#x27;We All Admire Him&#x27;: Aaron Rai Is a PGA Champion For Our Times</title>
-    <link>https://skratch.golf/news/pro-golf/aaron-rai-pga-championship-2026-winner-interview-recap</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/aaron-rai-pga-championship-2026-winner-interview-recap</guid>
-    <pubDate>Mon, 18 May 2026 02:54:02 +0000</pubDate>
-    <dc:creator>Alan Shipnuck</dc:creator>
-    <description>&lt;p&gt;Sunday evening, Rai lifted golf’s biggest trophy while elevating an entire sport. In these contentious times, we are lucky to have such a humble, likable champion.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/aaron-rai-pga-championship-2026-winner-interview-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2276267208_3817671351/Getty_Images_2276267208_3817671351.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
