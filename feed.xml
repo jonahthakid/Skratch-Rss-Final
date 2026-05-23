@@ -1,4 +1,3 @@
-<!-- Warning: Error fetching Skratch: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwtGQ3sgidNlQGbIUBPP3xw -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -10,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 23 May 2026 04:13:20 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 23 May 2026 07:12:26 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Vintage Jordan Spieth Has Entered the Chat at THE CJ CUP Byron Nelson</title>
@@ -24,6 +23,20 @@
     <category>article</category>
   </item>
   <item>
+    <title>Mic’d up and unfiltered. 🤣</title>
+    <link>https://www.youtube.com/shorts/2V4lJVcrHyw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/2V4lJVcrHyw</guid>
+    <pubDate>Fri, 22 May 2026 17:50:34 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/2V4lJVcrHyw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/2V4lJVcrHyw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/2V4lJVcrHyw" type="text/html" medium="video"/>
+    <yt:videoId>2V4lJVcrHyw</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Golf Clothes I’d Actually Buy This Memorial Day Weekend</title>
     <link>https://skratch.golf/style/mens-style/golf-clothes-to-actually-buy-sale-deal-memorial-day-weekend</link>
     <guid isPermaLink="true">https://skratch.golf/style/mens-style/golf-clothes-to-actually-buy-sale-deal-memorial-day-weekend</guid>
@@ -33,6 +46,40 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Memorial_Cover_577c9ddf35/Memorial_Cover_577c9ddf35.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>Tiger&#x27;s &quot;grate&quot; escape at the ‘97 Byron Nelson.</title>
+    <link>https://www.youtube.com/shorts/N9--T3jhKjw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/N9--T3jhKjw</guid>
+    <pubDate>Fri, 22 May 2026 17:04:28 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/N9--T3jhKjw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/N9--T3jhKjw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/N9--T3jhKjw" type="text/html" medium="video"/>
+    <yt:videoId>N9--T3jhKjw</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Best MIC&#x27;D UP Moments on the PGA TOUR 😂🎤</title>
+    <link>https://www.youtube.com/watch?v=MV0jiSetDig</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=MV0jiSetDig</guid>
+    <pubDate>Fri, 22 May 2026 17:00:05 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Unfiltered and mic&#x27;d up PGA TOUR pros have provided some of the best content over the years.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss out &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=MV0jiSetDig"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/MV0jiSetDig/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/MV0jiSetDig" type="text/html" medium="video"/>
+    <yt:videoId>MV0jiSetDig</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>How Slow Do the Pros Play? Well, the Korn Ferry Tour Just Published the Data</title>
@@ -151,6 +198,20 @@
     <category>article</category>
   </item>
   <item>
+    <title>A timeless lesson to stop your slice from the great Byron Nelson.</title>
+    <link>https://www.youtube.com/shorts/yHvCLT_qTtQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/yHvCLT_qTtQ</guid>
+    <pubDate>Thu, 21 May 2026 14:12:49 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/yHvCLT_qTtQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/yHvCLT_qTtQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/yHvCLT_qTtQ" type="text/html" medium="video"/>
+    <yt:videoId>yHvCLT_qTtQ</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Gear Smart Podcast: How Old Drivers Survive On Tour</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/gear-smart-podcast-drivers-aaron-rai-taylormade</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/gear-smart-podcast-drivers-aaron-rai-taylormade</guid>
@@ -224,6 +285,36 @@ Dan travels all year and never leaves his Knockarounds behind, and i&lt;/p&gt;&l
     <category>video</category>
   </item>
   <item>
+    <title>The origin of the Jordan Spieth Experience. 👀</title>
+    <link>https://www.youtube.com/shorts/kDI25TWqhCU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/kDI25TWqhCU</guid>
+    <pubDate>Wed, 20 May 2026 20:53:00 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Throwback to when 16-year-old Jordan Spieth made his PGA TOUR debut at the 2010 Byron Nelson and made the most of it, finishing T16.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/kDI25TWqhCU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/kDI25TWqhCU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/kDI25TWqhCU" type="text/html" medium="video"/>
+    <yt:videoId>kDI25TWqhCU</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>The new Mizuno JPX line has something for everyone. 👀</title>
+    <link>https://www.youtube.com/shorts/QuMKnAm7t94</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/QuMKnAm7t94</guid>
+    <pubDate>Wed, 20 May 2026 19:23:10 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Whether you&#x27;re looking for higher ball flight or lower spin, the new Mizuno JPX line has something for everyone.
+
+Ryan Barath tests out the different models of drivers, fairway woods and hybrids to find the right fit for his game.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/QuMKnAm7t94"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/QuMKnAm7t94/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/QuMKnAm7t94" type="text/html" medium="video"/>
+    <yt:videoId>QuMKnAm7t94</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Rose Zhang’s U.S. Women’s Open Fate Comes Down to One Number</title>
     <link>https://skratch.golf/news/news/rose-zhang-us-womens-open-chances-riviera-rolex-world-rankings</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/rose-zhang-us-womens-open-chances-riviera-rolex-world-rankings</guid>
@@ -279,6 +370,34 @@ Dan travels all year and never leaves his Knockarounds behind, and i&lt;/p&gt;&l
     <category>article</category>
   </item>
   <item>
+    <title>Imagine someone on TOUR winning 11 STRAIGHT tournaments. 🤯</title>
+    <link>https://www.youtube.com/shorts/1OrV39eSXJc</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/1OrV39eSXJc</guid>
+    <pubDate>Tue, 19 May 2026 21:45:41 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Throwback to when Tiger spoke on Byron Nelson’s basically unbreakable win streak when he won 11 straight tournaments in 1945.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/1OrV39eSXJc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/1OrV39eSXJc/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/1OrV39eSXJc" type="text/html" medium="video"/>
+    <yt:videoId>1OrV39eSXJc</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Split mass tech inside @titleist&#x27;s new GTS drivers is going to be HUGE for a ton of golfers. 👀</title>
+    <link>https://www.youtube.com/shorts/36pDMuofk8w</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/36pDMuofk8w</guid>
+    <pubDate>Tue, 19 May 2026 20:34:42 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Watch the full video of Ryan Barath hitting through the 2026 lineup on our main page.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/36pDMuofk8w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/36pDMuofk8w/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/36pDMuofk8w" type="text/html" medium="video"/>
+    <yt:videoId>36pDMuofk8w</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>&quot;It&#x27;s a hell of an accomplishment.&quot;</title>
     <link>https://www.youtube.com/shorts/2I9GCaye97w</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/2I9GCaye97w</guid>
@@ -304,6 +423,24 @@ Dan travels all year and never leaves his Knockarounds behind, and i&lt;/p&gt;&l
     <yt:videoId>TcM7ge63zRY</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Testing the NEW Titleist GTS Drivers | Bench Tested with Ryan Barath</title>
+    <link>https://www.youtube.com/watch?v=PtD0RDOuG9Q</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=PtD0RDOuG9Q</guid>
+    <pubDate>Tue, 19 May 2026 17:00:12 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Skratch Gear Expert Ryan Barath heads to the Titleist Performance Institute in Oceanside, California to get fit for the new GTS driver and find out which model suits his game the best.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=PtD0RDOuG9Q"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/PtD0RDOuG9Q/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/PtD0RDOuG9Q" type="text/html" medium="video"/>
+    <yt:videoId>PtD0RDOuG9Q</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
     <category>video</category>
   </item>
   <item>
@@ -444,6 +581,98 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
+    <title>Rory was T105 after his opening-round. After a 66 today, he&#x27;s just a couple shots off the lead.</title>
+    <link>https://www.youtube.com/shorts/neCMfzAEEjM</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/neCMfzAEEjM</guid>
+    <pubDate>Sat, 16 May 2026 20:25:22 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/neCMfzAEEjM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/neCMfzAEEjM/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/neCMfzAEEjM" type="text/html" medium="video"/>
+    <yt:videoId>neCMfzAEEjM</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Philly fans are built different 🤣(2018 BMW Championship)</title>
+    <link>https://www.youtube.com/shorts/zGkl0V8E-Oo</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/zGkl0V8E-Oo</guid>
+    <pubDate>Sat, 16 May 2026 13:46:46 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/zGkl0V8E-Oo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/zGkl0V8E-Oo/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/zGkl0V8E-Oo" type="text/html" medium="video"/>
+    <yt:videoId>zGkl0V8E-Oo</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>The pin placements at Aronimink are no joke. 😳</title>
+    <link>https://www.youtube.com/shorts/Ntun8Lkckaw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/Ntun8Lkckaw</guid>
+    <pubDate>Fri, 15 May 2026 21:08:07 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Ntun8Lkckaw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Ntun8Lkckaw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Ntun8Lkckaw" type="text/html" medium="video"/>
+    <yt:videoId>Ntun8Lkckaw</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Inside Gil Hanse&#x27;s Aronimink Restoration BACK to Donald Ross&#x27; 1928 Design</title>
+    <link>https://www.youtube.com/watch?v=swHFWypmPF8</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=swHFWypmPF8</guid>
+    <pubDate>Fri, 15 May 2026 19:54:13 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Ahead of the PGA Championship at Aronimink Golf Club, Gil Hanse oversaw a massive restoration to return the course to its original 1928 Donald Ross design. We toured the course alongside the Rolex testimonee and visited his studio to find out more about the process and what it took to bring Ross&#x27; vision back to life.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=swHFWypmPF8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/swHFWypmPF8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/swHFWypmPF8" type="text/html" medium="video"/>
+    <yt:videoId>swHFWypmPF8</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Optimizing your fairway wood just got even easier. 👀</title>
+    <link>https://www.youtube.com/shorts/oAM2OLiy2Fs</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/oAM2OLiy2Fs</guid>
+    <pubDate>Fri, 15 May 2026 13:52:50 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Ryan Barath puts the new @titleist GTS fairway woods to a head-to-head test to find out how they impacted his ball flight and which was the best for his game
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explo&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/oAM2OLiy2Fs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/oAM2OLiy2Fs/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/oAM2OLiy2Fs" type="text/html" medium="video"/>
+    <yt:videoId>oAM2OLiy2Fs</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Golf is actually pretty simple when you break it down like this… 😭😭</title>
+    <link>https://www.youtube.com/shorts/6uK7HJgVgL0</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/6uK7HJgVgL0</guid>
+    <pubDate>Thu, 14 May 2026 14:45:30 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/6uK7HJgVgL0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/6uK7HJgVgL0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/6uK7HJgVgL0" type="text/html" medium="video"/>
+    <yt:videoId>6uK7HJgVgL0</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Asterisk Talley, Kiara Romero to Headline U.S. Curtis Cup Lineup</title>
     <link>https://skratch.golf/news/news/usga-curtis-cup-lineup-future-of-american-womens-golf</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/usga-curtis-cup-lineup-future-of-american-womens-golf</guid>
@@ -451,61 +680,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;The next generation of women&#x27;s golf has arrived, and will be on full display next month in Los Angeles for the 44th Curtis Cup Match.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/usga-curtis-cup-lineup-future-of-american-womens-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Asterisk_Talley_ANWA_2026_202872a701/Asterisk_Talley_ANWA_2026_202872a701.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>It&#x27;s Lottie Woad&#x27;s World, And We&#x27;re All Just Living in It</title>
-    <link>https://skratch.golf/news/pro-golf/lpga-lottie-woad-get-to-know-womens-golf-anwa-pro</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/lpga-lottie-woad-get-to-know-womens-golf-anwa-pro</guid>
-    <pubDate>Mon, 26 Jan 2026 16:34:35 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Fresh off her second LPGA title, get to know one of golf&#x27;s rising young stars.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/lpga-lottie-woad-get-to-know-womens-golf-anwa-pro"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Winner_Lottie_Woad_Credt_LPGA_and_Getty_90f0df401b/Winner_Lottie_Woad_Credt_LPGA_and_Getty_90f0df401b.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Once Upon a Time, Izod Ruled Golf Fashion</title>
-    <link>https://skratch.golf/style/style/izod-golf-apparel-throwback-appreciation</link>
-    <guid isPermaLink="true">https://skratch.golf/style/style/izod-golf-apparel-throwback-appreciation</guid>
-    <pubDate>Fri, 05 Dec 2025 17:31:03 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;We all had at least one of those argyle sweaters.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/izod-golf-apparel-throwback-appreciation"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/kevin_na_izod_6df0539b9b/kevin_na_izod_6df0539b9b.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The 10 Sunglasses We Love Right Now For Golf</title>
-    <link>https://skratch.golf/style/mens-style/the-10-sunglasses-we-love-right-now-for-golf</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/the-10-sunglasses-we-love-right-now-for-golf</guid>
-    <pubDate>Mon, 10 Mar 2025 20:00:48 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;From classic sport frames to AI powered eyewear, these are the sunglasses reshaping how golf looks on and off the course.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/the-10-sunglasses-we-love-right-now-for-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Wish_List_10_Sunglasses_We_Want_Right_Now_Cover_8b9265c99f/Wish_List_10_Sunglasses_We_Want_Right_Now_Cover_8b9265c99f.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Silver Screens and Putting Greens: Kathryn Newton&#x27;s Love for Acting and Golf Have Never Been Mutually Exclusive</title>
-    <link>https://skratch.golf/news/golf-culture/new-actress-golfer-kathryn-newton-q-and-a</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/new-actress-golfer-kathryn-newton-q-and-a</guid>
-    <pubDate>Sat, 01 Feb 2025 20:01:39 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;&quot;There&#x27;s no actress who can swing like me, but a golfer can act like me.&quot;&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/new-actress-golfer-kathryn-newton-q-and-a"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/banner_images_5_8ba2e8cc89/banner_images_5_8ba2e8cc89.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Best Memorial Day Weekend Golf Sales and Deals</title>
-    <link>https://skratch.golf/style/style/best-holiday-golf-sales</link>
-    <guid isPermaLink="true">https://skratch.golf/style/style/best-holiday-golf-sales</guid>
-    <pubDate>Fri, 27 Dec 2024 17:42:21 +0000</pubDate>
-    <dc:creator>Brittany Romano</dc:creator>
-    <description>&lt;p&gt;With the golf season in full swing, we scoured the internet for our picks of the best golf and golf-adjacent stuff marked down for Memorial Day weekend.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/best-holiday-golf-sales"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260522_Sugarloaf_social_club_f9d8c7423e/20260522_Sugarloaf_social_club_f9d8c7423e.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
