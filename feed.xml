@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 26 May 2026 08:28:06 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 26 May 2026 14:54:18 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Want To Buy Brooks Koepka&#x27;s Putter? Here&#x27;s Your Chance.</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/brooks-koepka-gear-putter-nike-auction</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/brooks-koepka-gear-putter-nike-auction</guid>
+    <pubDate>Tue, 26 May 2026 02:31:32 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;A rare Nike prototype putter built for Brooks Koepka just went to auction, but if you want to snag it, you&#x27;d better bring the bag.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/brooks-koepka-gear-putter-nike-auction"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Brooks_nike_proto_putter_bb430580c3/Brooks_nike_proto_putter_bb430580c3.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>We love golf in this country 🇺🇸🇺🇸🇺🇸</title>
     <link>https://www.youtube.com/shorts/YF3LvIdnrLY</link>
@@ -504,17 +515,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Tom Kim and Graeme McDowell are Among the First Batch of U.S. Open Qualifiers</title>
-    <link>https://skratch.golf/news/news/us-open-2026-final-qualifying-tom-kim-graeme-mcdowell-shinnecock</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/us-open-2026-final-qualifying-tom-kim-graeme-mcdowell-shinnecock</guid>
-    <pubDate>Tue, 19 May 2026 13:33:21 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Several big names are now headed to Shinnecock after making it through U.S. Open Final Qualifying on Monday, including Tom Kim.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-open-2026-final-qualifying-tom-kim-graeme-mcdowell-shinnecock"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2275218186_48d8231c2f/Getty_Images_2275218186_48d8231c2f.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Average differential is a better marker of a golfer than your best 8 of 20.</title>
