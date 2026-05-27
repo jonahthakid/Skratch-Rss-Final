@@ -1,3 +1,4 @@
+<!-- Warning: Error fetching Skratch: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwtGQ3sgidNlQGbIUBPP3xw -->
 <!-- Warning: Error fetching Dan On Golf Show: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
@@ -10,7 +11,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 27 May 2026 02:50:45 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 06:59:07 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Charley Hoffman Has A Mysterious Titleist GTS 3-Wood In Texas</title>
@@ -33,40 +34,6 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1920489643_e285794aa9/Getty_Images_1920489643_e285794aa9.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Didn&#x27;t miss a green at Colonial after 36 holes. This putt was the exclamation point. #TigerTuesday</title>
-    <link>https://www.youtube.com/shorts/oO3bWWhsx-U</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/oO3bWWhsx-U</guid>
-    <pubDate>Tue, 26 May 2026 17:38:56 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/oO3bWWhsx-U"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/oO3bWWhsx-U/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/oO3bWWhsx-U" type="text/html" medium="video"/>
-    <yt:videoId>oO3bWWhsx-U</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Grip it and RIB it! Checking out Golf Pride&#x27;s Align Max series</title>
-    <link>https://www.youtube.com/shorts/7eSU4cLVrqI</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/7eSU4cLVrqI</guid>
-    <pubDate>Tue, 26 May 2026 16:19:13 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Ryan Barath showcases the @golfpride Align Max series and why these should be on your clubs right now.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/7eSU4cLVrqI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/7eSU4cLVrqI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/7eSU4cLVrqI" type="text/html" medium="video"/>
-    <yt:videoId>7eSU4cLVrqI</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>On Tap: Charles Schwab Challenge at Colonial</title>
@@ -113,20 +80,6 @@ Subscribe to Skratch on YouTube and don’t&lt;/p&gt;&lt;p&gt;&lt;a href="https:
     <category>article</category>
   </item>
   <item>
-    <title>Mic’d up and unfiltered. 🤣</title>
-    <link>https://www.youtube.com/shorts/2V4lJVcrHyw</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/2V4lJVcrHyw</guid>
-    <pubDate>Fri, 22 May 2026 17:50:34 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/2V4lJVcrHyw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/2V4lJVcrHyw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/2V4lJVcrHyw" type="text/html" medium="video"/>
-    <yt:videoId>2V4lJVcrHyw</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Golf Clothes I’d Actually Buy This Memorial Day Weekend</title>
     <link>https://skratch.golf/style/mens-style/golf-clothes-to-actually-buy-sale-deal-memorial-day-weekend</link>
     <guid isPermaLink="true">https://skratch.golf/style/mens-style/golf-clothes-to-actually-buy-sale-deal-memorial-day-weekend</guid>
@@ -136,40 +89,6 @@ Subscribe to Skratch on YouTube and don’t&lt;/p&gt;&lt;p&gt;&lt;a href="https:
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Memorial_Cover_577c9ddf35/Memorial_Cover_577c9ddf35.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Tiger&#x27;s &quot;grate&quot; escape at the ‘97 Byron Nelson.</title>
-    <link>https://www.youtube.com/shorts/N9--T3jhKjw</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/N9--T3jhKjw</guid>
-    <pubDate>Fri, 22 May 2026 17:04:28 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/N9--T3jhKjw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/N9--T3jhKjw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/N9--T3jhKjw" type="text/html" medium="video"/>
-    <yt:videoId>N9--T3jhKjw</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Best MIC&#x27;D UP Moments on the PGA TOUR 😂🎤</title>
-    <link>https://www.youtube.com/watch?v=MV0jiSetDig</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=MV0jiSetDig</guid>
-    <pubDate>Fri, 22 May 2026 17:00:05 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Unfiltered and mic&#x27;d up PGA TOUR pros have provided some of the best content over the years.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=MV0jiSetDig"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/MV0jiSetDig/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/MV0jiSetDig" type="text/html" medium="video"/>
-    <yt:videoId>MV0jiSetDig</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>How Slow Do the Pros Play? Well, the Korn Ferry Tour Just Published the Data</title>
@@ -260,20 +179,6 @@ Subscribe to Skratch on YouTube and don’t miss out &lt;/p&gt;&lt;p&gt;&lt;a hr
     <category>article</category>
   </item>
   <item>
-    <title>A timeless lesson to stop your slice from the great Byron Nelson.</title>
-    <link>https://www.youtube.com/shorts/yHvCLT_qTtQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/yHvCLT_qTtQ</guid>
-    <pubDate>Thu, 21 May 2026 14:12:49 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/yHvCLT_qTtQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/yHvCLT_qTtQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/yHvCLT_qTtQ" type="text/html" medium="video"/>
-    <yt:videoId>yHvCLT_qTtQ</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Gear Smart Podcast: How Old Drivers Survive On Tour</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/gear-smart-podcast-drivers-aaron-rai-taylormade</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/gear-smart-podcast-drivers-aaron-rai-taylormade</guid>
@@ -283,36 +188,6 @@ Subscribe to Skratch on YouTube and don’t miss out &lt;/p&gt;&lt;p&gt;&lt;a hr
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Taylormade_M6_driver_wrx_4b6e4aa06f/Taylormade_M6_driver_wrx_4b6e4aa06f.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>The origin of the Jordan Spieth Experience. 👀</title>
-    <link>https://www.youtube.com/shorts/kDI25TWqhCU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/kDI25TWqhCU</guid>
-    <pubDate>Wed, 20 May 2026 20:53:00 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Throwback to when 16-year-old Jordan Spieth made his PGA TOUR debut at the 2010 Byron Nelson and made the most of it, finishing T16.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/kDI25TWqhCU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/kDI25TWqhCU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/kDI25TWqhCU" type="text/html" medium="video"/>
-    <yt:videoId>kDI25TWqhCU</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>The new Mizuno JPX line has something for everyone. 👀</title>
-    <link>https://www.youtube.com/shorts/QuMKnAm7t94</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/QuMKnAm7t94</guid>
-    <pubDate>Wed, 20 May 2026 19:23:10 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Whether you&#x27;re looking for higher ball flight or lower spin, the new Mizuno JPX line has something for everyone.
-
-Ryan Barath tests out the different models of drivers, fairway woods and hybrids to find the right fit for his game.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/QuMKnAm7t94"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/QuMKnAm7t94/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/QuMKnAm7t94" type="text/html" medium="video"/>
-    <yt:videoId>QuMKnAm7t94</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>It&#x27;s Official: Rose Zhang is Headed to Riviera</title>
@@ -359,66 +234,6 @@ Ryan Barath tests out the different models of drivers, fairway woods and hybrids
     <category>article</category>
   </item>
   <item>
-    <title>Imagine someone on TOUR winning 11 STRAIGHT tournaments. 🤯</title>
-    <link>https://www.youtube.com/shorts/1OrV39eSXJc</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/1OrV39eSXJc</guid>
-    <pubDate>Tue, 19 May 2026 21:45:41 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Throwback to when Tiger spoke on Byron Nelson’s basically unbreakable win streak when he won 11 straight tournaments in 1945.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/1OrV39eSXJc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/1OrV39eSXJc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/1OrV39eSXJc" type="text/html" medium="video"/>
-    <yt:videoId>1OrV39eSXJc</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Split mass tech inside @titleist&#x27;s new GTS drivers is going to be HUGE for a ton of golfers. 👀</title>
-    <link>https://www.youtube.com/shorts/36pDMuofk8w</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/36pDMuofk8w</guid>
-    <pubDate>Tue, 19 May 2026 20:34:42 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Watch the full video of Ryan Barath hitting through the 2026 lineup on our main page.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/36pDMuofk8w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/36pDMuofk8w/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/36pDMuofk8w" type="text/html" medium="video"/>
-    <yt:videoId>36pDMuofk8w</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Testing the NEW Titleist GTS Drivers | Bench Tested with Ryan Barath</title>
-    <link>https://www.youtube.com/watch?v=PtD0RDOuG9Q</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=PtD0RDOuG9Q</guid>
-    <pubDate>Tue, 19 May 2026 17:00:12 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Skratch Gear Expert Ryan Barath heads to the Titleist Performance Institute in Oceanside, California to get fit for the new GTS driver and find out which model suits his game the best.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=PtD0RDOuG9Q"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/PtD0RDOuG9Q/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/PtD0RDOuG9Q" type="text/html" medium="video"/>
-    <yt:videoId>PtD0RDOuG9Q</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Which shot was better, Tiger&#x27;s or the blimp&#x27;s? 😮 (1997, Byron Nelson) #TigerTuesday</title>
-    <link>https://www.youtube.com/shorts/jag2vdgWC6s</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/jag2vdgWC6s</guid>
-    <pubDate>Tue, 19 May 2026 15:01:14 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/jag2vdgWC6s"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/jag2vdgWC6s/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/jag2vdgWC6s" type="text/html" medium="video"/>
-    <yt:videoId>jag2vdgWC6s</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>What&#x27;s The Playoff Format At The 2026 PGA Championship</title>
     <link>https://skratch.golf/news/news/pga-championship-golf-tie-aronimink-playoff</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-golf-tie-aronimink-playoff</guid>
@@ -428,48 +243,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2230886075_8aa0972e6e/Getty_Images_2230886075_8aa0972e6e.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Rory was T105 after his opening-round. After a 66 today, he&#x27;s just a couple shots off the lead.</title>
-    <link>https://www.youtube.com/shorts/neCMfzAEEjM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/neCMfzAEEjM</guid>
-    <pubDate>Sat, 16 May 2026 20:25:22 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/neCMfzAEEjM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/neCMfzAEEjM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/neCMfzAEEjM" type="text/html" medium="video"/>
-    <yt:videoId>neCMfzAEEjM</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Philly fans are built different 🤣(2018 BMW Championship)</title>
-    <link>https://www.youtube.com/shorts/zGkl0V8E-Oo</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/zGkl0V8E-Oo</guid>
-    <pubDate>Sat, 16 May 2026 13:46:46 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/zGkl0V8E-Oo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/zGkl0V8E-Oo/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/zGkl0V8E-Oo" type="text/html" medium="video"/>
-    <yt:videoId>zGkl0V8E-Oo</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>The pin placements at Aronimink are no joke. 😳</title>
-    <link>https://www.youtube.com/shorts/Ntun8Lkckaw</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/Ntun8Lkckaw</guid>
-    <pubDate>Fri, 15 May 2026 21:08:07 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Ntun8Lkckaw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/Ntun8Lkckaw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/Ntun8Lkckaw" type="text/html" medium="video"/>
-    <yt:videoId>Ntun8Lkckaw</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Asterisk Talley, Kiara Romero to Headline U.S. Curtis Cup Lineup</title>
