@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 27 May 2026 17:40:15 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 20:06:28 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>When Scottie escaped from JAIL at the 2025 Charles Schwab Challenge. 😅</title>
@@ -37,6 +37,17 @@
     <category>article</category>
   </item>
   <item>
+    <title>Why The ShopRite LPGA is Sneakily Important This Week</title>
+    <link>https://skratch.golf/news/news/shoprite-lpga-things-to-know-how-to-watch-tv-streaming</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/shoprite-lpga-things-to-know-how-to-watch-tv-streaming</guid>
+    <pubDate>Wed, 27 May 2026 14:23:08 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The LPGA heads to Atlantic City for one final tune-up before Riviera. Here are the players, storylines and pressure points to watch this week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/shoprite-lpga-things-to-know-how-to-watch-tv-streaming"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Megan_Khang_Shop_Rite_2024_6ca8f913d6/Megan_Khang_Shop_Rite_2024_6ca8f913d6.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Charley Hoffman Has A Mysterious Titleist GTS 3-Wood In Texas</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/Charley-Hoffman-Secret-Titleist-3-Wood-gts</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/Charley-Hoffman-Secret-Titleist-3-Wood-gts</guid>
@@ -44,6 +55,17 @@
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;A new unmarked Titleist GTS fairway wood is out on tour and in the bag of Charley Hoffman this week in Texas&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/Charley-Hoffman-Secret-Titleist-3-Wood-gts"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/GTS_4_fairway_wood_9e76f771c5/GTS_4_fairway_wood_9e76f771c5.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>This $200 Launch Monitor Is Worth Every Penny</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/launch-monitor-shotscope-lm1-value-accuracy</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/launch-monitor-shotscope-lm1-value-accuracy</guid>
+    <pubDate>Tue, 26 May 2026 20:54:58 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;We put the $200 ShotScope LM1 to the test, and the results are shocking.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/launch-monitor-shotscope-lm1-value-accuracy"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Shotscope_LM_1_c9328ebdfd/Shotscope_LM_1_c9328ebdfd.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -566,17 +588,6 @@ Ryan Barath tests out the different models of drivers, fairway woods and hybrids
     <category>article</category>
   </item>
   <item>
-    <title>Bryson DeChambeau Says the Moon Landing Footage Isn’t Real</title>
-    <link>https://skratch.golf/news/news/bryson-dechambeau-moon-landing-footage-liv-golf</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/bryson-dechambeau-moon-landing-footage-liv-golf</guid>
-    <pubDate>Wed, 20 May 2026 14:10:02 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;If you thought Bryson DeChambeau was the kind of guy who found the moon landing fishy...you&#x27;re absolutely right.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/bryson-dechambeau-moon-landing-footage-liv-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2270228942_c0296642e7/Getty_Images_2270228942_c0296642e7.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Imagine someone on TOUR winning 11 STRAIGHT tournaments. 🤯</title>
     <link>https://www.youtube.com/shorts/1OrV39eSXJc</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/1OrV39eSXJc</guid>
@@ -663,17 +674,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>What&#x27;s The Playoff Format At The 2026 PGA Championship</title>
-    <link>https://skratch.golf/news/news/pga-championship-golf-tie-aronimink-playoff</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/pga-championship-golf-tie-aronimink-playoff</guid>
-    <pubDate>Sun, 17 May 2026 11:24:33 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;With so many players close to the lead, this is how the PGA Championship at Aronimink would be decided in a playoff.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-championship-golf-tie-aronimink-playoff"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2230886075_8aa0972e6e/Getty_Images_2230886075_8aa0972e6e.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
