@@ -9,8 +9,50 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 28 May 2026 10:50:28 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 28 May 2026 14:33:30 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>When in Texas… 🤠 Tom Purtzer goes Texas wedge from the bunker on his way to win at Colonial (1991).</title>
+    <link>https://www.youtube.com/shorts/WGjqrTK_8Fg</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/WGjqrTK_8Fg</guid>
+    <pubDate>Thu, 28 May 2026 13:37:28 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/WGjqrTK_8Fg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/WGjqrTK_8Fg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/WGjqrTK_8Fg" type="text/html" medium="video"/>
+    <yt:videoId>WGjqrTK_8Fg</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>His heart rate got up to 181?! Alex Fitzpatrick on his putt to win the Zurich.</title>
+    <link>https://www.youtube.com/shorts/EHaLvd6fLDU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/EHaLvd6fLDU</guid>
+    <pubDate>Thu, 28 May 2026 13:30:01 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/EHaLvd6fLDU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/EHaLvd6fLDU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/EHaLvd6fLDU" type="text/html" medium="video"/>
+    <yt:videoId>EHaLvd6fLDU</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>A proposed tax on 6 L.A. country clubs would change golf in the city forever. @manorsgolf</title>
+    <link>https://www.youtube.com/shorts/5GNe8-gl3Zk</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/5GNe8-gl3Zk</guid>
+    <pubDate>Thu, 28 May 2026 12:15:31 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/5GNe8-gl3Zk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/5GNe8-gl3Zk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/5GNe8-gl3Zk" type="text/html" medium="video"/>
+    <yt:videoId>5GNe8-gl3Zk</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>S2 E41: Alex Fitzpatrick, Season Takeaways (So Far), A Golf Course Tax?!</title>
     <link>https://www.youtube.com/watch?v=eD9PahEXAHE</link>
@@ -352,6 +394,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if yo&lt;/p&g
     <category>video</category>
   </item>
   <item>
+    <title>The Best Golf Shops In America Right Now</title>
+    <link>https://skratch.golf/style/mens-style/best-golf-shops-in-america-where-to-buy-golf-clothes</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/best-golf-shops-in-america-where-to-buy-golf-clothes</guid>
+    <pubDate>Fri, 22 May 2026 20:47:42 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;A running list of the best golf shops in America from modern boutiques and hidden gems to golf adjacent spaces reshaping how the game is shopped.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/best-golf-shops-in-america-where-to-buy-golf-clothes"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/skratch_golfshops_header_16x9_57c3122927/skratch_golfshops_header_16x9_57c3122927.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Vintage Jordan Spieth Has Entered the Chat at THE CJ CUP Byron Nelson</title>
     <link>https://skratch.golf/news/news/jordan-spieth-the-cj-cup-byron-nelson-second-round-score-six-straight-birdies</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/jordan-spieth-the-cj-cup-byron-nelson-second-round-score-six-straight-birdies</guid>
@@ -530,17 +583,6 @@ Subscribe to Skratch on YouTube and don’t miss out &lt;/p&gt;&lt;p&gt;&lt;a hr
     <category>video</category>
   </item>
   <item>
-    <title>Gear Smart Podcast: How Old Drivers Survive On Tour</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/gear-smart-podcast-drivers-aaron-rai-taylormade</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/gear-smart-podcast-drivers-aaron-rai-taylormade</guid>
-    <pubDate>Thu, 21 May 2026 13:32:16 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;With recent Tour and Major wins secured with older drivers on, we help explain how they have staying power.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/gear-smart-podcast-drivers-aaron-rai-taylormade"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Taylormade_M6_driver_wrx_4b6e4aa06f/Taylormade_M6_driver_wrx_4b6e4aa06f.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>&quot;It&#x27;s a complete scramble. No one knows what this means.&quot;</title>
     <link>https://www.youtube.com/shorts/obNo7RmHHbE</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/obNo7RmHHbE</guid>
@@ -564,40 +606,6 @@ Subscribe to Skratch on YouTube and don’t miss out &lt;/p&gt;&lt;p&gt;&lt;a hr
     <media:thumbnail url="https://img.youtube.com/vi/RJHDieciJbg/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/RJHDieciJbg" type="text/html" medium="video"/>
     <yt:videoId>RJHDieciJbg</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>S2 E39: Aaron Rai’s Coaches, Higgo Fires Caddie, Bryson Asking Questions</title>
-    <link>https://www.youtube.com/watch?v=q5vAHe4Uitg</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=q5vAHe4Uitg</guid>
-    <pubDate>Wed, 20 May 2026 23:19:03 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;The folks over at Me And My Golf join the show after their guy Aaron Rai&#x27;s major championship triumph. Garrick Higgo fires his caddie &amp; his caddie addresses being late for Thursday&#x27;s tee time at the PGA. Bryson goes viral again, this time for thinking the moon landing footage isn&#x27;t real? As always, much more.
-
-Thank You to Our Sponsors!
-
-Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
-
-Dan travels all year and never leaves his Knockarounds behind, and i&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=q5vAHe4Uitg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/q5vAHe4Uitg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/q5vAHe4Uitg" type="text/html" medium="video"/>
-    <yt:videoId>q5vAHe4Uitg</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>A man committed to his process.</title>
-    <link>https://www.youtube.com/shorts/I1X8gmeaAcg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/I1X8gmeaAcg</guid>
-    <pubDate>Wed, 20 May 2026 23:16:30 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/I1X8gmeaAcg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/I1X8gmeaAcg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/I1X8gmeaAcg" type="text/html" medium="video"/>
-    <yt:videoId>I1X8gmeaAcg</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
@@ -667,24 +675,6 @@ Ryan Barath tests out the different models of drivers, fairway woods and hybrids
     <media:thumbnail url="https://img.youtube.com/vi/36pDMuofk8w/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/36pDMuofk8w" type="text/html" medium="video"/>
     <yt:videoId>36pDMuofk8w</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Testing the NEW Titleist GTS Drivers | Bench Tested with Ryan Barath</title>
-    <link>https://www.youtube.com/watch?v=PtD0RDOuG9Q</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=PtD0RDOuG9Q</guid>
-    <pubDate>Tue, 19 May 2026 17:00:12 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Skratch Gear Expert Ryan Barath heads to the Titleist Performance Institute in Oceanside, California to get fit for the new GTS driver and find out which model suits his game the best.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=PtD0RDOuG9Q"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/PtD0RDOuG9Q/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/PtD0RDOuG9Q" type="text/html" medium="video"/>
-    <yt:videoId>PtD0RDOuG9Q</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
