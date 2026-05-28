@@ -9,8 +9,47 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 28 May 2026 14:33:30 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 28 May 2026 18:01:23 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Dan’s not sold on this one, but it’s certainly bold.</title>
+    <link>https://www.youtube.com/shorts/j812JqXtOTE</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/j812JqXtOTE</guid>
+    <pubDate>Thu, 28 May 2026 16:17:54 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/j812JqXtOTE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/j812JqXtOTE/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/j812JqXtOTE" type="text/html" medium="video"/>
+    <yt:videoId>j812JqXtOTE</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Our Thoughts On A Proposed Tax On L.A. Country Clubs</title>
+    <link>https://www.youtube.com/watch?v=veZYXA6hiVk</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=veZYXA6hiVk</guid>
+    <pubDate>Thu, 28 May 2026 15:51:27 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;A proposed tax on 6 Los Angeles country clubs would certainly change golf in the city forever.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=veZYXA6hiVk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/veZYXA6hiVk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/veZYXA6hiVk" type="text/html" medium="video"/>
+    <yt:videoId>veZYXA6hiVk</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Stanford Women’s Golf is Starting to Feel Like Nick Saban’s Alabama</title>
+    <link>https://skratch.golf/news/news/stanford-womens-golf-2026-ncaa-national-champions</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/stanford-womens-golf-2026-ncaa-national-champions</guid>
+    <pubDate>Thu, 28 May 2026 13:41:27 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;With a fourth national title secured over USC, Stanford Women’s Golf is starting to look like college sports’ next dynasty.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/stanford-womens-golf-2026-ncaa-national-champions"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Stanford_Women_s_Golf_NCA_As_2026_winners_93faaebd75/Stanford_Women_s_Golf_NCA_As_2026_winners_93faaebd75.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>When in Texas… 🤠 Tom Purtzer goes Texas wedge from the bunker on his way to win at Colonial (1991).</title>
     <link>https://www.youtube.com/shorts/WGjqrTK_8Fg</link>
@@ -497,17 +536,6 @@ Subscribe to Skratch on YouTube and don’t miss out &lt;/p&gt;&lt;p&gt;&lt;a hr
     <category>article</category>
   </item>
   <item>
-    <title>Scottie Scheffler Spotted in Mystery White Golf Shoes at Byron Nelson</title>
-    <link>https://skratch.golf/style/mens-style/scottie-scheffler-spotted-in-mystery-white-golf-shoes-at-byron-nelson</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/scottie-scheffler-spotted-in-mystery-white-golf-shoes-at-byron-nelson</guid>
-    <pubDate>Fri, 22 May 2026 14:15:51 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Between the silhouette, the tooling, and the Jordan Brand socks, there’s reason to believe Scottie Scheffler may already be testing something new.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/scottie-scheffler-spotted-in-mystery-white-golf-shoes-at-byron-nelson"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/SS_Shoe_a50e8ae29f/SS_Shoe_a50e8ae29f.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>One of Golf’s Best Launch Monitor Deals Just Got Better</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/2026-flightscope-mevo-gen-2-sale-price-pro-package</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/2026-flightscope-mevo-gen-2-sale-price-pro-package</guid>
@@ -580,34 +608,6 @@ Subscribe to Skratch on YouTube and don’t miss out &lt;/p&gt;&lt;p&gt;&lt;a hr
     <yt:videoId>yHvCLT_qTtQ</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>&quot;It&#x27;s a complete scramble. No one knows what this means.&quot;</title>
-    <link>https://www.youtube.com/shorts/obNo7RmHHbE</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/obNo7RmHHbE</guid>
-    <pubDate>Thu, 21 May 2026 02:04:13 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/obNo7RmHHbE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/obNo7RmHHbE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/obNo7RmHHbE" type="text/html" medium="video"/>
-    <yt:videoId>obNo7RmHHbE</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Ride or die. That’s the name of the game. @manorsgolf</title>
-    <link>https://www.youtube.com/shorts/RJHDieciJbg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/RJHDieciJbg</guid>
-    <pubDate>Thu, 21 May 2026 01:24:24 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/RJHDieciJbg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/RJHDieciJbg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/RJHDieciJbg" type="text/html" medium="video"/>
-    <yt:videoId>RJHDieciJbg</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
     <category>video</category>
   </item>
   <item>
