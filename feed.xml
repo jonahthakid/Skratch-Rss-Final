@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 30 May 2026 14:25:19 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 30 May 2026 15:44:24 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Tiger birdie ➡️ Tiger shimmy</title>
+    <link>https://www.youtube.com/shorts/70HLeZIzdbE</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/70HLeZIzdbE</guid>
+    <pubDate>Sat, 30 May 2026 15:01:55 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/70HLeZIzdbE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/70HLeZIzdbE/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/70HLeZIzdbE" type="text/html" medium="video"/>
+    <yt:videoId>70HLeZIzdbE</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>This May Be The Greatest Par Save of All Time</title>
     <link>https://skratch.golf/news/news/hailee-cooper-shoprite-lpga-par-save-great-shot</link>
@@ -659,20 +673,6 @@ Subscribe to Skratch on YouTube and don’t miss out &lt;/p&gt;&lt;p&gt;&lt;a hr
     <yt:videoId>xdNVuLVOtlI</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>A timeless lesson to stop your slice from the great Byron Nelson.</title>
-    <link>https://www.youtube.com/shorts/yHvCLT_qTtQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/yHvCLT_qTtQ</guid>
-    <pubDate>Thu, 21 May 2026 14:12:49 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/yHvCLT_qTtQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/yHvCLT_qTtQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/yHvCLT_qTtQ" type="text/html" medium="video"/>
-    <yt:videoId>yHvCLT_qTtQ</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
     <category>video</category>
   </item>
 </channel>
