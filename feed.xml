@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 31 May 2026 19:07:35 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 31 May 2026 20:35:43 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Charles Schwab Challenge LIVE Watch Along | PACKED Leaderboard at Colonial!</title>
+    <link>https://www.youtube.com/watch?v=rhmQMukcQSM</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=rhmQMukcQSM</guid>
+    <pubDate>Sun, 31 May 2026 20:10:51 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Watch the final-round action at the Charles Schwab Challenge at Colonial unfold alongside Dan Rapaport.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=rhmQMukcQSM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/rhmQMukcQSM/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/rhmQMukcQSM" type="text/html" medium="video"/>
+    <yt:videoId>rhmQMukcQSM</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Tiger birdie ➡️ Tiger shimmy</title>
     <link>https://www.youtube.com/shorts/70HLeZIzdbE</link>
@@ -657,20 +671,6 @@ Subscribe to Skratch on YouTube and don’t miss out &lt;/p&gt;&lt;p&gt;&lt;a hr
     <media:thumbnail url="https://img.youtube.com/vi/nWiKRQlVdIU/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/nWiKRQlVdIU" type="text/html" medium="video"/>
     <yt:videoId>nWiKRQlVdIU</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>This Fitting For New Woods Changed My Life!</title>
-    <link>https://www.youtube.com/watch?v=xdNVuLVOtlI</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=xdNVuLVOtlI</guid>
-    <pubDate>Thu, 21 May 2026 16:01:15 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Dan Rapaport gets a fitting and breakdown at Titleist Performance Institute in California.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=xdNVuLVOtlI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/xdNVuLVOtlI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/xdNVuLVOtlI" type="text/html" medium="video"/>
-    <yt:videoId>xdNVuLVOtlI</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
