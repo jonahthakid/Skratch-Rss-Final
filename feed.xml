@@ -9,15 +9,85 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 01 Jun 2026 16:33:35 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 01 Jun 2026 20:51:34 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
-    <title>Lights, Camera, Action For TaylorMade&#x27;s Women&#x27;s U.S. Open Bag</title>
+    <title>The most relatable moment of the 2025 season belongs to Jordan Spieth at Memorial. 😭</title>
+    <link>https://www.youtube.com/shorts/W4IScCLWPhs</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/W4IScCLWPhs</guid>
+    <pubDate>Mon, 01 Jun 2026 20:21:54 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/W4IScCLWPhs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/W4IScCLWPhs/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/W4IScCLWPhs" type="text/html" medium="video"/>
+    <yt:videoId>W4IScCLWPhs</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>The PGA TOUR Confirms “The Sentry” Will Be Held at Torrey Pines</title>
+    <link>https://skratch.golf/news/news/pga-tour-the-sentry-torrey-pines-2027-schedule</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-the-sentry-torrey-pines-2027-schedule</guid>
+    <pubDate>Mon, 01 Jun 2026 17:42:04 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The PGA TOUR&#x27;s event at Torrey Pines will be called &quot;The Sentry&quot; in 2027.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-the-sentry-torrey-pines-2027-schedule"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2258727733_7d1e50e108/Getty_Images_2258727733_7d1e50e108.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>&quot;I hit every single different shot you could hit this week.&quot;</title>
+    <link>https://www.youtube.com/shorts/rySQMG8lBFI</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/rySQMG8lBFI</guid>
+    <pubDate>Mon, 01 Jun 2026 17:15:53 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/rySQMG8lBFI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/rySQMG8lBFI/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/rySQMG8lBFI" type="text/html" medium="video"/>
+    <yt:videoId>rySQMG8lBFI</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>S2 E42: LIVE FROM RIVIERA - Henley Interview, LIV Returnees, U.S. Women’s Open Preview</title>
+    <link>https://www.youtube.com/watch?v=Sle7vSr6dk4</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=Sle7vSr6dk4</guid>
+    <pubDate>Mon, 01 Jun 2026 16:49:37 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;We&#x27;re live from Riviera ahead of the U.S. Women&#x27;s Open. Russell Henley joins the show after his comeback win at Colonial. Which LIV players would you want to return to the PGA TOUR? We discuss. Also, we have guests join the show live to preview this week&#x27;s major championship in the women&#x27;s game.
+
+Thank You to Our Sponsors!
+
+Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
+
+Dan travels all year and never leaves his Knockarounds behind, and if you go to Kn&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Sle7vSr6dk4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Sle7vSr6dk4/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Sle7vSr6dk4" type="text/html" medium="video"/>
+    <yt:videoId>Sle7vSr6dk4</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Inside Nike&#x27;s Next Generation of Golf</title>
+    <link>https://skratch.golf/style/mens-style/inside-nike-s-next-generation-of-golf</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/inside-nike-s-next-generation-of-golf</guid>
+    <pubDate>Mon, 01 Jun 2026 15:44:43 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;College golf may house some of the best amateur players in the world, but it is also becoming one of the clearest windows into golf&#x27;s future.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/inside-nike-s-next-generation-of-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Next_Gen_Nike_Cover_a1c96abe58/Next_Gen_Nike_Cover_a1c96abe58.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>TaylorMade Went Full Beverly Hills for the U.S. Women’s Open</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/us-womens-open-golf-la-taylormade-staff-bag</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/us-womens-open-golf-la-taylormade-staff-bag</guid>
     <pubDate>Mon, 01 Jun 2026 14:47:22 +0000</pubDate>
     <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;With the U.S. Women&#x27;s Open at Riviera Country Club, TaylorMade has gone full Beverly Hills to celebrate the event.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/us-womens-open-golf-la-taylormade-staff-bag"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;For the U.S. Women’s Open at Riviera Country Club, TaylorMade’s “Palms &amp; Pastels” collection leans all the way into Beverly Hills style.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/us-womens-open-golf-la-taylormade-staff-bag"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Taylormade_us_womens_open_bag_19b13dedfa/Taylormade_us_womens_open_bag_19b13dedfa.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
@@ -80,6 +150,17 @@
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Viktor Hovland, the 2023 Memorial Tournament winner, has withdrawn from next week&#x27;s event at Muirfield Village.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/viktor-hovland-withdraws-memorial-tournament-2026-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2276053081_6baeb7e990/Getty_Images_2276053081_6baeb7e990.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>I Played Riviera Before the U.S. Women’s Open; Here’s What Stood Out</title>
+    <link>https://skratch.golf/news/news/2026-us-womens-open-riviera-things-to-know-lpga-tour-womens-golf</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/2026-us-womens-open-riviera-things-to-know-lpga-tour-womens-golf</guid>
+    <pubDate>Fri, 29 May 2026 17:49:22 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;A round at Riviera Country Club before the U.S. Women&#x27;s Open offered an early look at the course conditions, toughest holes, and the challenges awaiting the best players in women’s golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-us-womens-open-riviera-things-to-know-lpga-tour-womens-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/26_USWO_00_C_Riviera_07172025_9th_hole_1_1e7346ea7f/26_USWO_00_C_Riviera_07172025_9th_hole_1_1e7346ea7f.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -399,17 +480,6 @@ All American Headcovers &amp; Headwear&lt;/p&gt;&lt;p&gt;&lt;a href="https://www
     <category>article</category>
   </item>
   <item>
-    <title>This $200 Launch Monitor Is Worth Every Penny</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/launch-monitor-shotscope-lm1-value-accuracy</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/launch-monitor-shotscope-lm1-value-accuracy</guid>
-    <pubDate>Tue, 26 May 2026 20:54:58 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;We put the $200 ShotScope LM1 to the test, and the results are shocking.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/launch-monitor-shotscope-lm1-value-accuracy"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Shotscope_LM_1_c9328ebdfd/Shotscope_LM_1_c9328ebdfd.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Breaking down some unique moves with our guy Luke Kerr-Dineen.</title>
     <link>https://www.youtube.com/shorts/z4KDp8KQKkc</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/z4KDp8KQKkc</guid>
@@ -422,17 +492,6 @@ All American Headcovers &amp; Headwear&lt;/p&gt;&lt;p&gt;&lt;a href="https://www
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Report: Early Look at the PGA TOUR’s Revamped 2027 Schedule</title>
-    <link>https://skratch.golf/news/news/pga-tour-2027-schedule-early-look-changes-to-florida-swing</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-2027-schedule-early-look-changes-to-florida-swing</guid>
-    <pubDate>Tue, 26 May 2026 18:26:03 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;According to the Sports Business Journal, the PGA TOUR’s 2027 schedule is “mostly confirmed” through the PGA Championship. Here’s what it’ll look like, including changes to the Florida Swing.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-2027-schedule-early-look-changes-to-florida-swing"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1920489643_e285794aa9/Getty_Images_1920489643_e285794aa9.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>+13.1. Hope that’s straight to the GHIN @YipStrickler.</title>
@@ -475,17 +534,6 @@ All American Headcovers &amp; Headwear&lt;/p&gt;&lt;p&gt;&lt;a href="https://www
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Three Players to Watch at the Charles Schwab Challenge</title>
-    <link>https://skratch.golf/news/news/charles-schwab-challenge-2026-players-to-watch-pga-tour-picks-to-win</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/charles-schwab-challenge-2026-players-to-watch-pga-tour-picks-to-win</guid>
-    <pubDate>Tue, 26 May 2026 16:28:18 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Justin Thomas is trending going into Colonial, and he seems poised for a W. Here are three players to watch at the Charles Schwab.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/charles-schwab-challenge-2026-players-to-watch-pga-tour-picks-to-win"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2276748575_8009fe0ebf/Getty_Images_2276748575_8009fe0ebf.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Grip it and RIB it! Checking out Golf Pride&#x27;s Align Max series</title>
@@ -578,20 +626,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if yo&lt;/p&g
     <category>video</category>
   </item>
   <item>
-    <title>Scottie Scheffler, Wyndham Clark CHASING Si Woo Kim! | CJ Cup Byron Nelson LIVE Watch Along</title>
-    <link>https://www.youtube.com/watch?v=QsrYuzKI6fc</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=QsrYuzKI6fc</guid>
-    <pubDate>Sun, 24 May 2026 21:58:55 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Watch the final round of the CJ Cup unfold alongside Dan Rapaport&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=QsrYuzKI6fc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/QsrYuzKI6fc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/QsrYuzKI6fc" type="text/html" medium="video"/>
-    <yt:videoId>QsrYuzKI6fc</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>The Best Golf Shops In America Right Now</title>
     <link>https://skratch.golf/style/mens-style/best-golf-shops-in-america-where-to-buy-golf-clothes</link>
     <guid isPermaLink="true">https://skratch.golf/style/mens-style/best-golf-shops-in-america-where-to-buy-golf-clothes</guid>
@@ -646,34 +680,6 @@ Subscribe to Skratch on YouTube and don’t miss out &lt;/p&gt;&lt;p&gt;&lt;a hr
     <media:thumbnail url="https://img.youtube.com/vi/MV0jiSetDig/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/MV0jiSetDig" type="text/html" medium="video"/>
     <yt:videoId>MV0jiSetDig</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>&quot;Just shows how much he trusts his equipment down the stretch to pull that driver.&quot;</title>
-    <link>https://www.youtube.com/shorts/nWiKRQlVdIU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/nWiKRQlVdIU</guid>
-    <pubDate>Thu, 21 May 2026 16:43:41 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/nWiKRQlVdIU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/nWiKRQlVdIU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/nWiKRQlVdIU" type="text/html" medium="video"/>
-    <yt:videoId>nWiKRQlVdIU</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>A timeless lesson to stop your slice from the great Byron Nelson.</title>
-    <link>https://www.youtube.com/shorts/yHvCLT_qTtQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/yHvCLT_qTtQ</guid>
-    <pubDate>Thu, 21 May 2026 14:12:49 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/yHvCLT_qTtQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/yHvCLT_qTtQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/yHvCLT_qTtQ" type="text/html" medium="video"/>
-    <yt:videoId>yHvCLT_qTtQ</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
