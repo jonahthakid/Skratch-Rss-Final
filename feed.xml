@@ -9,8 +9,36 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 02 Jun 2026 13:55:10 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 02 Jun 2026 18:01:29 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Malan Potgieter, take a bow.</title>
+    <link>https://www.youtube.com/shorts/e_Zda2M3TTU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/e_Zda2M3TTU</guid>
+    <pubDate>Tue, 02 Jun 2026 17:55:14 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/e_Zda2M3TTU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/e_Zda2M3TTU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/e_Zda2M3TTU" type="text/html" medium="video"/>
+    <yt:videoId>e_Zda2M3TTU</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>The field at Riv is stacked this week for the U.S. Women’s Open, but it&#x27;s anyone&#x27;s to win.</title>
+    <link>https://www.youtube.com/shorts/UEuVIvA_wTc</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/UEuVIvA_wTc</guid>
+    <pubDate>Tue, 02 Jun 2026 14:19:44 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Addie Parker checks in on players&#x27; early-week prep and tries Angel Yin&#x27;s snack from... Facebook Marketplace?&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/UEuVIvA_wTc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/UEuVIvA_wTc/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/UEuVIvA_wTc" type="text/html" medium="video"/>
+    <yt:videoId>UEuVIvA_wTc</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Which LIV Players We’d Want To See Back On The PGA TOUR</title>
     <link>https://www.youtube.com/watch?v=fu0CyvFnjBg</link>
@@ -125,6 +153,28 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>On Tap: The Memorial Tournament at Muirfield Village</title>
+    <link>https://skratch.golf/news/news/memorial-tournament-2026-how-to-watch-pga-tour-tee-times-jack-nicklaus</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/memorial-tournament-2026-how-to-watch-pga-tour-tee-times-jack-nicklaus</guid>
+    <pubDate>Mon, 01 Jun 2026 16:55:00 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;If you&#x27;re planning on watching all the action from Jack&#x27;s Place this week, here&#x27;s all the information you need to know for the Memorial Tournament.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/memorial-tournament-2026-how-to-watch-pga-tour-tee-times-jack-nicklaus"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2218152345_dadd6f392f/Getty_Images_2218152345_dadd6f392f.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Odyssey&#x27;s Exotic Damascus Line Expands With Three New Shapes</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/Odyssey-Damascus-Expands-Three-New-Shapes</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/Odyssey-Damascus-Expands-Three-New-Shapes</guid>
+    <pubDate>Mon, 01 Jun 2026 16:31:32 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Odyssey is expanding its one-of-a-kind Damascus insert line to include three new popular shapes that offer premium looks and feel.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/Odyssey-Damascus-Expands-Three-New-Shapes"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Damascus_2_face_title_4d8639cf67/Damascus_2_face_title_4d8639cf67.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Inside Nike&#x27;s Next Generation of Golf</title>
@@ -467,17 +517,6 @@ All American Headcovers &amp; Headwear&lt;/p&gt;&lt;p&gt;&lt;a href="https://www
     <category>video</category>
   </item>
   <item>
-    <title>Max Homa Will Have a New Caddie on the Bag at Colonial</title>
-    <link>https://skratch.golf/news/news/max-homa-new-caddie-charles-schwab-challenge-2026-pga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/max-homa-new-caddie-charles-schwab-challenge-2026-pga-tour</guid>
-    <pubDate>Wed, 27 May 2026 20:32:27 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;After a disappointing start to the season, Max Homa will have a new looper at the Charles Schwab Challenge.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/max-homa-new-caddie-charles-schwab-challenge-2026-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266134237_f7d98af7cc/Getty_Images_2266134237_f7d98af7cc.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>When Scottie escaped from JAIL at the 2025 Charles Schwab Challenge. 😅</title>
     <link>https://www.youtube.com/shorts/_Wx8KXc-gC0</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/_Wx8KXc-gC0</guid>
@@ -492,17 +531,6 @@ All American Headcovers &amp; Headwear&lt;/p&gt;&lt;p&gt;&lt;a href="https://www
     <category>video</category>
   </item>
   <item>
-    <title>Everything You Need to Know About The Stanford vs. USC NCAA Showdown</title>
-    <link>https://skratch.golf/news/news/ncaa-national-championship-2026-stanford-usc-womens-golf</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/ncaa-national-championship-2026-stanford-usc-womens-golf</guid>
-    <pubDate>Wed, 27 May 2026 15:17:00 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;It&#x27;s No. 1 facing No. 2, in what could be an instant classic.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/ncaa-national-championship-2026-stanford-usc-womens-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2275560761_027e227497/Getty_Images_2275560761_027e227497.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Why The ShopRite LPGA is Sneakily Important This Week</title>
     <link>https://skratch.golf/news/news/shoprite-lpga-things-to-know-how-to-watch-tv-streaming</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/shoprite-lpga-things-to-know-how-to-watch-tv-streaming</guid>
@@ -514,24 +542,13 @@ All American Headcovers &amp; Headwear&lt;/p&gt;&lt;p&gt;&lt;a href="https://www
     <category>article</category>
   </item>
   <item>
-    <title>Charley Hoffman Has A Mysterious Titleist GTS 3-Wood In Texas</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/Charley-Hoffman-Secret-Titleist-3-Wood-gts</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/Charley-Hoffman-Secret-Titleist-3-Wood-gts</guid>
-    <pubDate>Wed, 27 May 2026 01:30:49 +0000</pubDate>
+    <title>This $200 Launch Monitor Is Worth Every Penny</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/launch-monitor-shotscope-lm1-value-accuracy</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/launch-monitor-shotscope-lm1-value-accuracy</guid>
+    <pubDate>Tue, 26 May 2026 20:54:58 +0000</pubDate>
     <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;A new unmarked Titleist GTS fairway wood is out on tour and in the bag of Charley Hoffman this week in Texas&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/Charley-Hoffman-Secret-Titleist-3-Wood-gts"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/GTS_4_fairway_wood_9e76f771c5/GTS_4_fairway_wood_9e76f771c5.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Srixon Delivers The All-American Collection</title>
-    <link>https://skratch.golf/style/mens-style/srixon-all-american-collection-irons-golf-ball-accessories</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/srixon-all-american-collection-irons-golf-ball-accessories</guid>
-    <pubDate>Tue, 26 May 2026 23:09:49 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Limited ZXi irons, bags, accessories, and another reminder that Srixon is one of the hottest brands in golf right now.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/srixon-all-american-collection-irons-golf-ball-accessories"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Srixon_AA_Cover_a69edea90e/Srixon_AA_Cover_a69edea90e.png"/>
+    <description>&lt;p&gt;We put the $200 ShotScope LM1 to the test, and the results are shocking.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/launch-monitor-shotscope-lm1-value-accuracy"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Shotscope_LM_1_c9328ebdfd/Shotscope_LM_1_c9328ebdfd.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -575,20 +592,6 @@ All American Headcovers &amp; Headwear&lt;/p&gt;&lt;p&gt;&lt;a href="https://www
     <yt:videoId>oO3bWWhsx-U</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>SWING BREAKDOWNS: Aaron Rai, New Vs Old Rory, Fitzpatrick Brothers</title>
-    <link>https://www.youtube.com/watch?v=cW0VS-Gg-jM</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=cW0VS-Gg-jM</guid>
-    <pubDate>Tue, 26 May 2026 16:43:09 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Dan Rapaport and Luke Kerr-Dineen break down some of the popular swings on TOUR.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=cW0VS-Gg-jM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/cW0VS-Gg-jM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/cW0VS-Gg-jM" type="text/html" medium="video"/>
-    <yt:videoId>cW0VS-Gg-jM</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
     <category>video</category>
   </item>
   <item>
