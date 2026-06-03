@@ -9,8 +9,41 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 03 Jun 2026 12:17:22 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 03 Jun 2026 17:24:31 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Scottie Scheffler and Rory McIlroy Dish on their Scouting Trips to Shinnecock</title>
+    <link>https://skratch.golf/news/news/memorial-tournament-2026-scottie-scheffler-rory-mcilroy-scouting-trips-shinnecock</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/memorial-tournament-2026-scottie-scheffler-rory-mcilroy-scouting-trips-shinnecock</guid>
+    <pubDate>Wed, 03 Jun 2026 15:30:22 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Before heading to Muirfield Village for this week&#x27;s Memorial, Scottie Scheffler and Rory McIlroy went to Shinnecock on Monday to get an early look at the U.S. Open venue. Here&#x27;s what they thought about the golf course.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/memorial-tournament-2026-scottie-scheffler-rory-mcilroy-scouting-trips-shinnecock"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2278767536_f684a853be/Getty_Images_2278767536_f684a853be.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Why We&#x27;re Buying a Scottie Scheffler 3-Peat at the Memorial</title>
+    <link>https://skratch.golf/news/pro-golf/2026-memorial-tournament-best-bets-picks-to-win</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/2026-memorial-tournament-best-bets-picks-to-win</guid>
+    <pubDate>Wed, 03 Jun 2026 15:20:00 +0000</pubDate>
+    <dc:creator>Rick Gehman</dc:creator>
+    <description>&lt;p&gt;If there was ever a time to accept the short odds of the number one player in the world, it’d be right now. Allow me to explain.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/2026-memorial-tournament-best-bets-picks-to-win"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2278767759_aca7529f73/Getty_Images_2278767759_aca7529f73.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>LeBron James Just Hooked Up Nelly Korda With a One-of-One Nike Golf Shoe</title>
+    <link>https://skratch.golf/style/style/lebron-james-nelly-korda-custom-nike-golf-shoe</link>
+    <guid isPermaLink="true">https://skratch.golf/style/style/lebron-james-nelly-korda-custom-nike-golf-shoe</guid>
+    <pubDate>Wed, 03 Jun 2026 14:48:48 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;The World No. 1 received a custom Nike Victory Pro 4 inspired by LeBron James’ iconic “Old Glory” LeBron 23.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/lebron-james-nelly-korda-custom-nike-golf-shoe"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Nelly_Custom_Cover_b10bf1b622/Nelly_Custom_Cover_b10bf1b622.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Still not over the audio on this 2 iron. 🔊 #TigerTuesday</title>
     <link>https://www.youtube.com/shorts/663MrauEnRk</link>
@@ -172,6 +205,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>USWO 2026: These 10 Players Have Our Attention at Riviera</title>
+    <link>https://skratch.golf/news/news/us-womens-open-2026-players-to-watch-the-field-lpga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/us-womens-open-2026-players-to-watch-the-field-lpga-tour</guid>
+    <pubDate>Tue, 02 Jun 2026 02:52:02 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;From major champions to rising stars, these are the 10 players we&#x27;re watching closest as the 81st U.S. Women&#x27;s Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-womens-open-2026-players-to-watch-the-field-lpga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/26_USWO_0601_12560880_LW_18137_d498228f31/26_USWO_0601_12560880_LW_18137_d498228f31.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>&quot;This is a little bit like Rory and The Masters.&quot;</title>
@@ -407,17 +451,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>Tom Kim Is Back Where He Should Be—In the Mix</title>
-    <link>https://skratch.golf/news/news/tom-kim-charles-schwab-challenge-2026-tied-for-lead-pga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/tom-kim-charles-schwab-challenge-2026-tied-for-lead-pga-tour</guid>
-    <pubDate>Thu, 28 May 2026 23:46:33 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Kim hasn&#x27;t won since Vegas at the end of 2023. But after the first round at Colonial, he&#x27;s got some pep in his step again.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tom-kim-charles-schwab-challenge-2026-tied-for-lead-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2278657552_581b394194/Getty_Images_2278657552_581b394194.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>The Quality of Kylie Kelce&#x27;s Swing Shouldn&#x27;t Surprise You</title>
     <link>https://skratch.golf/news/golf-culture/kylie-kelce-swing-analysis-michelle-wie-video</link>
     <guid isPermaLink="true">https://skratch.golf/news/golf-culture/kylie-kelce-swing-analysis-michelle-wie-video</guid>
@@ -440,17 +473,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>Kevin Kisner’s Buddy Forced His Way into Caddie Duties at Colonial</title>
-    <link>https://skratch.golf/news/news/kevin-kisner-caddie-story-colonial-charles-schwab-challenge-pga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/kevin-kisner-caddie-story-colonial-charles-schwab-challenge-pga-tour</guid>
-    <pubDate>Thu, 28 May 2026 19:08:31 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Kevin Kisner didn&#x27;t have a caddie for the Charles Schwab Challenge, so his buddy bought a plane ticket to Dallas-Fort Worth for Monday of tournament week and forced his way into wearing the bib.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/kevin-kisner-caddie-story-colonial-charles-schwab-challenge-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2278636123_981ba3c8dd/Getty_Images_2278636123_981ba3c8dd.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Quick transition in your swing? This shaft is your answer | KBS TGBlack review</title>
     <link>https://www.youtube.com/shorts/CqLr6bJlM7Y</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/CqLr6bJlM7Y</guid>
@@ -467,17 +489,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>These Are the Grips Used by the Top 25 Golfers in the World</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/grips-golf-top-25-players-world-owgr</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/grips-golf-top-25-players-world-owgr</guid>
-    <pubDate>Thu, 28 May 2026 17:49:12 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Being able to control your club under any condition requires a solid grip, and these are the grips chosen by the top players in the world.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/grips-golf-top-25-players-world-owgr"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2256385809_5d89f7eb36/Getty_Images_2256385809_5d89f7eb36.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Dan’s not sold on this one, but it’s certainly bold.</title>
@@ -506,17 +517,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Stanford Women’s Golf is Starting to Feel Like Nick Saban’s Alabama</title>
-    <link>https://skratch.golf/news/news/stanford-womens-golf-2026-ncaa-national-champions</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/stanford-womens-golf-2026-ncaa-national-champions</guid>
-    <pubDate>Thu, 28 May 2026 13:41:27 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;With a fourth national title secured over USC, Stanford Women’s Golf is starting to look like college sports’ next dynasty.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/stanford-womens-golf-2026-ncaa-national-champions"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Stanford_Women_s_Golf_NCA_As_2026_winners_93faaebd75/Stanford_Women_s_Golf_NCA_As_2026_winners_93faaebd75.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>When in Texas… 🤠 Tom Purtzer goes Texas wedge from the bunker on his way to win at Colonial (1991).</title>
