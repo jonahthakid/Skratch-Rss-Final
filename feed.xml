@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 03 Jun 2026 17:24:31 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 03 Jun 2026 20:34:29 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Three Players to Watch at the Memorial Tournament</title>
+    <link>https://skratch.golf/news/news/memorial-tournament-2026-players-to-watch-pga-tour-picks-jack-nicklaus</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/memorial-tournament-2026-players-to-watch-pga-tour-picks-jack-nicklaus</guid>
+    <pubDate>Wed, 03 Jun 2026 16:42:50 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Ludvig, Si Woo, and Sepp. Here&#x27;s why we&#x27;ll be watching them at the Memorial Tournament.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/memorial-tournament-2026-players-to-watch-pga-tour-picks-jack-nicklaus"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266361024_f6860f1e40/Getty_Images_2266361024_f6860f1e40.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Scottie Scheffler and Rory McIlroy Dish on their Scouting Trips to Shinnecock</title>
     <link>https://skratch.golf/news/news/memorial-tournament-2026-scottie-scheffler-rory-mcilroy-scouting-trips-shinnecock</link>
@@ -41,6 +52,17 @@
     <dc:creator>Raymond Williams</dc:creator>
     <description>&lt;p&gt;The World No. 1 received a custom Nike Victory Pro 4 inspired by LeBron James’ iconic “Old Glory” LeBron 23.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/lebron-james-nelly-korda-custom-nike-golf-shoe"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Nelly_Custom_Cover_b10bf1b622/Nelly_Custom_Cover_b10bf1b622.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Can L.A.B.&#x27;s New Putter Win Over More Golfers?</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/LAB-golf-putter-vzn-1-new-alignment</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/LAB-golf-putter-vzn-1-new-alignment</guid>
+    <pubDate>Wed, 03 Jun 2026 14:47:34 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;The VZN.1i blends Lie Angle Balance technology with a cleaner, more familiar look built around alignment&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/LAB-golf-putter-vzn-1-new-alignment"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/LAB_vsn_1_putter_title_6b05f02850/LAB_vsn_1_putter_title_6b05f02850.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -415,17 +437,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>Do TOUR Pros Avoid Shooting Course Records When They’re Not a Member?</title>
-    <link>https://skratch.golf/news/news/pga-tour-pros-avoiding-course-records-unwritten-rule-justin-thomas</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-pros-avoiding-course-records-unwritten-rule-justin-thomas</guid>
-    <pubDate>Fri, 29 May 2026 16:38:14 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;If there&#x27;s an unwritten rule between pros to avoid shooting course records at a club they&#x27;re not a member of, Justin Thomas isn&#x27;t abiding by it—and that&#x27;s why he&#x27;s a dawg.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-pros-avoiding-course-records-unwritten-rule-justin-thomas"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2235067921_9c19b3422a/Getty_Images_2235067921_9c19b3422a.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>30 teams. 1 dream. It all comes down to the NCAAs at La Costa.</title>
     <link>https://www.youtube.com/shorts/SN8kmnXE7MU</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/SN8kmnXE7MU</guid>
@@ -438,28 +449,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>I&#x27;m Still Thinking About: Wilson Staff XB Irons</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/wilson-staff-xb-irons-thinking-about</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/wilson-staff-xb-irons-thinking-about</guid>
-    <pubDate>Fri, 29 May 2026 12:31:06 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;With the golf season firmly underway, it&#x27;s time to take a second look at Wilson&#x27;s Staff XB irons that offer distance, feel, and total performance.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/wilson-staff-xb-irons-thinking-about"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Wilson_Staff_XB_iron_2026_23060039d8/Wilson_Staff_XB_iron_2026_23060039d8.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Quality of Kylie Kelce&#x27;s Swing Shouldn&#x27;t Surprise You</title>
-    <link>https://skratch.golf/news/golf-culture/kylie-kelce-swing-analysis-michelle-wie-video</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/kylie-kelce-swing-analysis-michelle-wie-video</guid>
-    <pubDate>Thu, 28 May 2026 21:03:32 +0000</pubDate>
-    <dc:creator>Luke Nesbitt</dc:creator>
-    <description>&lt;p&gt;We&#x27;d go so far as to say it&#x27;s much better than her husband&#x27;s.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/kylie-kelce-swing-analysis-michelle-wie-video"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260529_kylie_kelce_golf_swing_analysis_michelle_wie_8e19528b00/20260529_kylie_kelce_golf_swing_analysis_michelle_wie_8e19528b00.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>How The ShopRite LPGA Built The Biggest Pro-Am in Golf</title>
@@ -677,6 +666,17 @@ Subscribe to Skratch on YouTube and don’t&lt;/p&gt;&lt;p&gt;&lt;a href="https:
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Odyssey Joins Blackout Club With S2S Tri-Hot Black Series</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/odyssey-putter-release-black-s2s-zero-torque</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/odyssey-putter-release-black-s2s-zero-torque</guid>
+    <pubDate>Tue, 26 May 2026 02:50:19 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;To give golfers even more options on the greens, Odyssey is simplifying its S2S Tri-Hot series with an all-new black finish.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/odyssey-putter-release-black-s2s-zero-torque"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/s2s_blacl_rossie_8577a1afb0/s2s_blacl_rossie_8577a1afb0.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
 </channel>
 </rss>
