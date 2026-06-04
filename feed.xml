@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 04 Jun 2026 16:49:51 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 04 Jun 2026 19:19:41 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Muirfield Village doesn&#x27;t just test your game, it demands precision.</title>
+    <link>https://www.youtube.com/shorts/od6qoMuLkLI</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/od6qoMuLkLI</guid>
+    <pubDate>Thu, 04 Jun 2026 17:15:26 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Our Chad Mumm shares what it was like playing alongside the pros in the Memorial Pro-Am, and why it opened his eyes to the quality of their games in this Course Preview presented by Attio, the CRM for high growth teams.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/od6qoMuLkLI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/od6qoMuLkLI/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/od6qoMuLkLI" type="text/html" medium="video"/>
+    <yt:videoId>od6qoMuLkLI</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Nelly Korda Ditches Her LeBron-Gifted Shoes Mid-Round at Riviera</title>
+    <link>https://skratch.golf/news/news/nelly-korda-ditches-lebron-james-shoes-us-womens-open-2026-riviera</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/nelly-korda-ditches-lebron-james-shoes-us-womens-open-2026-riviera</guid>
+    <pubDate>Thu, 04 Jun 2026 16:56:28 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;After just five holes of the U.S. Women&#x27;s Open, Nelly Korda swapped out her LeBron-gifted shoes for her normal pair.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/nelly-korda-ditches-lebron-james-shoes-us-womens-open-2026-riviera"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2279830224_b2139be69a/Getty_Images_2279830224_b2139be69a.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Vintage Spieth performance this morning at Memorial. 😭</title>
     <link>https://www.youtube.com/shorts/hPCOsiaQSTQ</link>
@@ -24,6 +49,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Nobody Does Wear Marks Like LPGA Tour Players</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/womens-us-open-golf-wear-marks-face</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/womens-us-open-golf-wear-marks-face</guid>
+    <pubDate>Thu, 04 Jun 2026 15:47:52 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;With the women&#x27;s game defined more by long game precision, the U.S. Women&#x27;s Open is a great place to spot some of the best wear marks you&#x27;ll ever see.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/womens-us-open-golf-wear-marks-face"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Auston_Kim_hybrid_wear_ac9dde21b3/Auston_Kim_hybrid_wear_ac9dde21b3.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>No. 1️⃣ might surprise you…</title>
@@ -454,17 +490,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>The PGA TOUR Confirms “The Sentry” Will Be Held at Torrey Pines</title>
-    <link>https://skratch.golf/news/news/pga-tour-the-sentry-torrey-pines-2027-schedule</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-the-sentry-torrey-pines-2027-schedule</guid>
-    <pubDate>Mon, 01 Jun 2026 17:42:04 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The PGA TOUR&#x27;s event at Torrey Pines will be called &quot;The Sentry&quot; in 2027.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-the-sentry-torrey-pines-2027-schedule"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2258727733_7d1e50e108/Getty_Images_2258727733_7d1e50e108.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>&quot;I hit every single different shot you could hit this week.&quot;</title>
     <link>https://www.youtube.com/shorts/rySQMG8lBFI</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/rySQMG8lBFI</guid>
@@ -642,42 +667,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Spider_Header_MAX_f10ff212ca/Spider_Header_MAX_f10ff212ca.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>The All-American Collection By Srixon</title>
-    <link>https://www.youtube.com/shorts/g87jZ1mkxII</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/g87jZ1mkxII</guid>
-    <pubDate>Wed, 27 May 2026 22:06:05 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;@SrixonGolfUS just continues to build momentum through really solid product, clean design language, and a level of consistency that’s getting harder and harder to ignore.
-
-Limited Edition ZXi5 + ZXi7 combo set
-
-Z Star Diamond Golf Balls
-
-All American Bag Lineup
-
-All American Headcovers &amp; Headwear&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/g87jZ1mkxII"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/g87jZ1mkxII/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/g87jZ1mkxII" type="text/html" medium="video"/>
-    <yt:videoId>g87jZ1mkxII</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>When Scottie escaped from JAIL at the 2025 Charles Schwab Challenge. 😅</title>
-    <link>https://www.youtube.com/shorts/_Wx8KXc-gC0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/_Wx8KXc-gC0</guid>
-    <pubDate>Wed, 27 May 2026 16:45:12 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/_Wx8KXc-gC0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/_Wx8KXc-gC0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/_Wx8KXc-gC0" type="text/html" medium="video"/>
-    <yt:videoId>_Wx8KXc-gC0</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
 </channel>
 </rss>
