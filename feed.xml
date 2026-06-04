@@ -9,8 +9,36 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 04 Jun 2026 10:40:26 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 04 Jun 2026 13:54:46 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Whatever works, man.</title>
+    <link>https://www.youtube.com/shorts/cUyqrfRCksw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/cUyqrfRCksw</guid>
+    <pubDate>Thu, 04 Jun 2026 13:15:17 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/cUyqrfRCksw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/cUyqrfRCksw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/cUyqrfRCksw" type="text/html" medium="video"/>
+    <yt:videoId>cUyqrfRCksw</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Si Woo Kim, Never A Dull Moment</title>
+    <link>https://www.youtube.com/watch?v=yO8YdrkwobA</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=yO8YdrkwobA</guid>
+    <pubDate>Thu, 04 Jun 2026 12:00:37 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Si Woo Kim joins the show to discuss his recent play &amp; close calls, going to YouTube for golf advice, the Presidents Cup, living in Dallas (&amp; playing with Scottie Scheffler at home) &amp; much more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=yO8YdrkwobA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/yO8YdrkwobA/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/yO8YdrkwobA" type="text/html" medium="video"/>
+    <yt:videoId>yO8YdrkwobA</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Sports Illustrated being out of golf is hard to fathom. @manorsgolf</title>
     <link>https://www.youtube.com/shorts/2DgUBicYFHM</link>
@@ -610,34 +638,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:videoId>WGjqrTK_8Fg</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>His heart rate got up to 181?! Alex Fitzpatrick on his putt to win the Zurich.</title>
-    <link>https://www.youtube.com/shorts/EHaLvd6fLDU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/EHaLvd6fLDU</guid>
-    <pubDate>Thu, 28 May 2026 13:30:01 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/EHaLvd6fLDU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/EHaLvd6fLDU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/EHaLvd6fLDU" type="text/html" medium="video"/>
-    <yt:videoId>EHaLvd6fLDU</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>A proposed tax on 6 L.A. country clubs would change golf in the city forever. @manorsgolf</title>
-    <link>https://www.youtube.com/shorts/5GNe8-gl3Zk</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/5GNe8-gl3Zk</guid>
-    <pubDate>Thu, 28 May 2026 12:15:31 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/5GNe8-gl3Zk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/5GNe8-gl3Zk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/5GNe8-gl3Zk" type="text/html" medium="video"/>
-    <yt:videoId>5GNe8-gl3Zk</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
     <category>video</category>
   </item>
   <item>
