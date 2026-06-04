@@ -9,8 +9,36 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 04 Jun 2026 13:54:46 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 04 Jun 2026 16:49:51 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Vintage Spieth performance this morning at Memorial. 😭</title>
+    <link>https://www.youtube.com/shorts/hPCOsiaQSTQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/hPCOsiaQSTQ</guid>
+    <pubDate>Thu, 04 Jun 2026 16:07:14 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/hPCOsiaQSTQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/hPCOsiaQSTQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/hPCOsiaQSTQ" type="text/html" medium="video"/>
+    <yt:videoId>hPCOsiaQSTQ</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>No. 1️⃣ might surprise you…</title>
+    <link>https://www.youtube.com/shorts/OtNjVuGodO4</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/OtNjVuGodO4</guid>
+    <pubDate>Thu, 04 Jun 2026 15:41:57 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/OtNjVuGodO4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/OtNjVuGodO4/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/OtNjVuGodO4" type="text/html" medium="video"/>
+    <yt:videoId>OtNjVuGodO4</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Whatever works, man.</title>
     <link>https://www.youtube.com/shorts/cUyqrfRCksw</link>
@@ -289,6 +317,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
+    <title>Love Letter To: Sugar Tree Golf Club</title>
+    <link>https://skratch.golf/news/news/sugartree-texas-review-golf-club-JJ-Killeen</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/sugartree-texas-review-golf-club-JJ-Killeen</guid>
+    <pubDate>Tue, 02 Jun 2026 16:31:20 +0000</pubDate>
+    <dc:creator>Luke Leesburg, Mac Boucher, Pete Scrimgeour</dc:creator>
+    <description>&lt;p&gt;J.J. Killeen is seemingly throwing the traditional textbook out the window and making his own rules as GM of Sugar Tree Golf Club. Or, in his words, “We don’t have any rules.”&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/sugartree-texas-review-golf-club-JJ-Killeen"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/DSC_9216_ca48d6ac87/DSC_9216_ca48d6ac87.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>The field at Riv is stacked this week for the U.S. Women’s Open, but it&#x27;s anyone&#x27;s to win.</title>
     <link>https://www.youtube.com/shorts/UEuVIvA_wTc</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/UEuVIvA_wTc</guid>
@@ -523,17 +562,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>This May Be The Greatest Par Save of All Time</title>
-    <link>https://skratch.golf/news/news/hailee-cooper-shoprite-lpga-par-save-great-shot</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/hailee-cooper-shoprite-lpga-par-save-great-shot</guid>
-    <pubDate>Fri, 29 May 2026 19:00:20 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;You just have to see how Hailee Cooper saved par from behind a grandstand at the ShopRite LPGA.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/hailee-cooper-shoprite-lpga-par-save-great-shot"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Hailee_Cooper_USWO_Erin_Hills_2025_c222427a77/Hailee_Cooper_USWO_Erin_Hills_2025_c222427a77.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>I Played Riviera Before the U.S. Women’s Open; Here’s What Stood Out</title>
     <link>https://skratch.golf/news/news/2026-us-womens-open-riviera-things-to-know-lpga-tour-womens-golf</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/2026-us-womens-open-riviera-things-to-know-lpga-tour-womens-golf</guid>
@@ -557,28 +585,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The Quality of Kylie Kelce&#x27;s Swing Shouldn&#x27;t Surprise You</title>
-    <link>https://skratch.golf/news/golf-culture/kylie-kelce-swing-analysis-michelle-wie-video</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/kylie-kelce-swing-analysis-michelle-wie-video</guid>
-    <pubDate>Thu, 28 May 2026 21:03:32 +0000</pubDate>
-    <dc:creator>Luke Nesbitt</dc:creator>
-    <description>&lt;p&gt;We&#x27;d go so far as to say it&#x27;s much better than her husband&#x27;s.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/kylie-kelce-swing-analysis-michelle-wie-video"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260529_kylie_kelce_golf_swing_analysis_michelle_wie_8e19528b00/20260529_kylie_kelce_golf_swing_analysis_michelle_wie_8e19528b00.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>How The ShopRite LPGA Built The Biggest Pro-Am in Golf</title>
-    <link>https://skratch.golf/news/golf-culture/shoprite-lpga-biggest-pro-am-in-golf-explained</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/shoprite-lpga-biggest-pro-am-in-golf-explained</guid>
-    <pubDate>Thu, 28 May 2026 19:18:40 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;For more than three decades, the ShopRite LPGA has built its reputation around community, accessibility and one massive pro-am that’s become just as legendary as the tournament itself.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/shoprite-lpga-biggest-pro-am-in-golf-explained"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Shop_Rite_LPGA_Flag_4082f91d0c/Shop_Rite_LPGA_Flag_4082f91d0c.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Quick transition in your swing? This shaft is your answer | KBS TGBlack review</title>
@@ -613,20 +619,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Our Thoughts On A Proposed Tax On L.A. Country Clubs</title>
-    <link>https://www.youtube.com/watch?v=veZYXA6hiVk</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=veZYXA6hiVk</guid>
-    <pubDate>Thu, 28 May 2026 15:51:27 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;A proposed tax on 6 Los Angeles country clubs would certainly change golf in the city forever.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=veZYXA6hiVk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/veZYXA6hiVk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/veZYXA6hiVk" type="text/html" medium="video"/>
-    <yt:videoId>veZYXA6hiVk</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>When in Texas… 🤠 Tom Purtzer goes Texas wedge from the bunker on his way to win at Colonial (1991).</title>
     <link>https://www.youtube.com/shorts/WGjqrTK_8Fg</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/WGjqrTK_8Fg</guid>
@@ -639,6 +631,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>TaylorMade Expands Spider Line With ZT Max &amp; Tour Torched</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/spider-tour-zt-max-torque-putters-taylormade</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/spider-tour-zt-max-torque-putters-taylormade</guid>
+    <pubDate>Thu, 28 May 2026 12:41:41 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Building off continued success, TaylorMade is once again expanding its Spider line of putters with the ZT Max and Tour Torched series.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/spider-tour-zt-max-torque-putters-taylormade"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Spider_Header_MAX_f10ff212ca/Spider_Header_MAX_f10ff212ca.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>The All-American Collection By Srixon</title>
