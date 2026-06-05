@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 04 Jun 2026 22:51:43 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 05 Jun 2026 00:00:40 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>It’s okay, Scottie. We’ve all been there. 😭</title>
+    <link>https://www.youtube.com/shorts/6PpBa53h4HI</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/6PpBa53h4HI</guid>
+    <pubDate>Thu, 04 Jun 2026 22:55:40 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/6PpBa53h4HI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/6PpBa53h4HI/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/6PpBa53h4HI" type="text/html" medium="video"/>
+    <yt:videoId>6PpBa53h4HI</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Scottie Scheffler Gave His Caddie, Ted Scott, an Earful After a Water Ball</title>
+    <link>https://skratch.golf/news/news/scottie-scheffler-blow-up-caddie-ted-scott-memorial-tournament-2026</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/scottie-scheffler-blow-up-caddie-ted-scott-memorial-tournament-2026</guid>
+    <pubDate>Thu, 04 Jun 2026 22:10:35 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;After finding the water at the par-3 16th, Scottie Scheffler let Ted Scott hear it: &quot;We get the wind wrong and I’m in the water. I don’t think you understand how frustrating that is.&quot;&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/scottie-scheffler-blow-up-caddie-ted-scott-memorial-tournament-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2279868971_9d8775eb14/Getty_Images_2279868971_9d8775eb14.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Muirfield Village doesn&#x27;t just test your game, it demands precision.</title>
     <link>https://www.youtube.com/shorts/od6qoMuLkLI</link>
@@ -24,6 +49,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Is The U.S. Women&#x27;s Open Nelly Korda&#x27;s Masters?</title>
+    <link>https://skratch.golf/news/pro-golf/nelly-korda-us-womens-open-career-defining-moment</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/nelly-korda-us-womens-open-career-defining-moment</guid>
+    <pubDate>Thu, 04 Jun 2026 17:02:53 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;It&#x27;s the career defining championship that the World No. 1 has yet to conquer—what exactly would a win mean for her?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/nelly-korda-us-womens-open-career-defining-moment"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Nelly_Korda_USWO_Erin_Hills_2025_8d36fe3ac3/Nelly_Korda_USWO_Erin_Hills_2025_8d36fe3ac3.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Nelly Korda Ditches Her LeBron-Gifted Shoes Mid-Round at Riviera</title>
@@ -490,6 +526,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
+    <title>The PGA TOUR Confirms “The Sentry” Will Be Held at Torrey Pines</title>
+    <link>https://skratch.golf/news/news/pga-tour-the-sentry-torrey-pines-2027-schedule</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-the-sentry-torrey-pines-2027-schedule</guid>
+    <pubDate>Mon, 01 Jun 2026 17:42:04 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The PGA TOUR&#x27;s event at Torrey Pines will be called &quot;The Sentry&quot; in 2027.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-the-sentry-torrey-pines-2027-schedule"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2258727733_7d1e50e108/Getty_Images_2258727733_7d1e50e108.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>&quot;I hit every single different shot you could hit this week.&quot;</title>
     <link>https://www.youtube.com/shorts/rySQMG8lBFI</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/rySQMG8lBFI</guid>
@@ -537,28 +584,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>TaylorMade Went Full Beverly Hills for the U.S. Women’s Open</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/us-womens-open-golf-la-taylormade-staff-bag</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/us-womens-open-golf-la-taylormade-staff-bag</guid>
-    <pubDate>Mon, 01 Jun 2026 14:47:22 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;For the U.S. Women’s Open at Riviera Country Club, TaylorMade’s “Palms &amp; Pastels” collection leans all the way into Beverly Hills style.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/us-womens-open-golf-la-taylormade-staff-bag"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Taylormade_us_womens_open_bag_19b13dedfa/Taylormade_us_womens_open_bag_19b13dedfa.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Happy Masters Lottery Day for Those Who Celebrate</title>
-    <link>https://skratch.golf/news/news/masters-2027-lottery-tickets-how-to-apply-augusta-national</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/masters-2027-lottery-tickets-how-to-apply-augusta-national</guid>
-    <pubDate>Mon, 01 Jun 2026 14:34:05 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Who&#x27;s ready to get hurt again? The window to apply for the 2027 Masters ticket lottery is now open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-2027-lottery-tickets-how-to-apply-augusta-national"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2147778960_835ec413fb/Getty_Images_2147778960_835ec413fb.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Henley Vs. Cole PLAYOFF! | Charles Schwab Challenge LIVE Watch Along</title>
     <link>https://www.youtube.com/watch?v=rhmQMukcQSM</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=rhmQMukcQSM</guid>
@@ -585,17 +610,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>I Played Riviera Before the U.S. Women’s Open; Here’s What Stood Out</title>
-    <link>https://skratch.golf/news/news/2026-us-womens-open-riviera-things-to-know-lpga-tour-womens-golf</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/2026-us-womens-open-riviera-things-to-know-lpga-tour-womens-golf</guid>
-    <pubDate>Fri, 29 May 2026 17:49:22 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;A round at Riviera Country Club before the U.S. Women&#x27;s Open offered an early look at the course conditions, toughest holes, and the challenges awaiting the best players in women’s golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-us-womens-open-riviera-things-to-know-lpga-tour-womens-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/26_USWO_00_C_Riviera_07172025_9th_hole_1_1e7346ea7f/26_USWO_00_C_Riviera_07172025_9th_hole_1_1e7346ea7f.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>30 teams. 1 dream. It all comes down to the NCAAs at La Costa.</title>
@@ -656,17 +670,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>TaylorMade Expands Spider Line With ZT Max &amp; Tour Torched</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/spider-tour-zt-max-torque-putters-taylormade</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/spider-tour-zt-max-torque-putters-taylormade</guid>
-    <pubDate>Thu, 28 May 2026 12:41:41 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Building off continued success, TaylorMade is once again expanding its Spider line of putters with the ZT Max and Tour Torched series.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/spider-tour-zt-max-torque-putters-taylormade"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Spider_Header_MAX_f10ff212ca/Spider_Header_MAX_f10ff212ca.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
