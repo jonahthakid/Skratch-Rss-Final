@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 05 Jun 2026 19:14:32 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 05 Jun 2026 21:05:59 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>What Golf Course Was J.T. Poston Playing on Friday?</title>
+    <link>https://skratch.golf/news/news/memorial-tournament-2026-second-round-scores-jt-poston-wind-memorial</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/memorial-tournament-2026-second-round-scores-jt-poston-wind-memorial</guid>
+    <pubDate>Fri, 05 Jun 2026 20:38:23 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Despite sporadic wind and one of the toughest courses on TOUR, J.T. Poston put on an exhibition at the Memorial on Friday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/memorial-tournament-2026-second-round-scores-jt-poston-wind-memorial"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2279308169_ee881214ca/Getty_Images_2279308169_ee881214ca.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Rapid fire with the serious, very hydrated* @TishaAlyn — ahead of her 15 1/2 Challenge.</title>
     <link>https://www.youtube.com/shorts/WE9n8KkFDSM</link>
@@ -88,6 +99,17 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Relatable: the S-word. Not relatable: making par afterward.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/scottie-scheffler-shank-memorial-tournament-2026-muirfield-village"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2280016496_28988ac6ba/Getty_Images_2280016496_28988ac6ba.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Rapid-Fire Q&amp;A With Rickie Fowler</title>
+    <link>https://skratch.golf/news/news/rickie-fowler-qa-memorial-tournament-2026-pga-tour-cobra-muirifield-village</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/rickie-fowler-qa-memorial-tournament-2026-pga-tour-cobra-muirifield-village</guid>
+    <pubDate>Fri, 05 Jun 2026 15:27:08 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;A hole-in-one at Pine Valley? Must be nice. Here’s our rapid-fire Q&amp;amp;A with the legend himself, Rickie Fowler.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rickie-fowler-qa-memorial-tournament-2026-pga-tour-cobra-muirifield-village"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2278782746_81ddf539f1/Getty_Images_2278782746_81ddf539f1.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -480,17 +502,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Jack Nicklaus Says The PGA TOUR&#x27;s Crowded Schedule Is a Problem Waiting to Happen</title>
-    <link>https://skratch.golf/news/news/jack-nicklaus-pga-tour-schedule-problems-memorial-2026-rory-mcilroy-resume</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/jack-nicklaus-pga-tour-schedule-problems-memorial-2026-rory-mcilroy-resume</guid>
-    <pubDate>Tue, 02 Jun 2026 20:03:25 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Jack Nicklaus said Rory McIlroy has one more box to check on his resume: a win at the Memorial. But he also commented on the PGA TOUR&#x27;s new direction with its schedule, and he&#x27;s not exactly in favor of it.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jack-nicklaus-pga-tour-schedule-problems-memorial-2026-rory-mcilroy-resume"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2278788203_a0dddde5ac/Getty_Images_2278788203_a0dddde5ac.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>You Can Shop Nelly Korda’s Nike Arrival Look for the U.S. Women’s Open Right Now</title>
     <link>https://skratch.golf/style/style/nelly-korda-nike-golf-us-womens-open-look-shop</link>
     <guid isPermaLink="true">https://skratch.golf/style/style/nelly-korda-nike-golf-us-womens-open-look-shop</guid>
@@ -665,17 +676,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>On Tap: The Memorial Tournament at Muirfield Village</title>
-    <link>https://skratch.golf/news/news/memorial-tournament-2026-how-to-watch-pga-tour-tee-times-jack-nicklaus</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/memorial-tournament-2026-how-to-watch-pga-tour-tee-times-jack-nicklaus</guid>
-    <pubDate>Mon, 01 Jun 2026 16:55:00 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;If you&#x27;re planning on watching all the action from Jack&#x27;s Place this week, here&#x27;s all the information you need to know for the Memorial Tournament.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/memorial-tournament-2026-how-to-watch-pga-tour-tee-times-jack-nicklaus"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2218152345_dadd6f392f/Getty_Images_2218152345_dadd6f392f.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
