@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 05 Jun 2026 22:39:06 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 06 Jun 2026 00:01:28 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>What Golf Course Was J.T. Poston Playing on Friday?</title>
@@ -19,6 +19,17 @@
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Despite sporadic wind and one of the toughest courses on TOUR, J.T. Poston put on an exhibition at the Memorial on Friday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/memorial-tournament-2026-second-round-scores-jt-poston-wind-memorial"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2279308169_ee881214ca/Getty_Images_2279308169_ee881214ca.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>New Clubs Helping These Players at the Memorial</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/memorial-tournament-2026-tommy-fleetwood-justin-rose-new-clubs</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/memorial-tournament-2026-tommy-fleetwood-justin-rose-new-clubs</guid>
+    <pubDate>Fri, 05 Jun 2026 20:18:26 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;With new clubs in the bag, these players are near the top of the leaderboard after two rounds at the Memorial.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/memorial-tournament-2026-tommy-fleetwood-justin-rose-new-clubs"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Spider_Tour_X_torch_3_f10c9c2349/Spider_Tour_X_torch_3_f10c9c2349.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -500,17 +511,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>You Can Shop Nelly Korda’s Nike Arrival Look for the U.S. Women’s Open Right Now</title>
-    <link>https://skratch.golf/style/style/nelly-korda-nike-golf-us-womens-open-look-shop</link>
-    <guid isPermaLink="true">https://skratch.golf/style/style/nelly-korda-nike-golf-us-womens-open-look-shop</guid>
-    <pubDate>Tue, 02 Jun 2026 19:54:21 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;The World No. 1 arrived at Riviera Country Club in matching Nike Sportswear pieces that blend tennis-inspired styling with modern sportswear.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/nelly-korda-nike-golf-us-womens-open-look-shop"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Nelly_Cover_Red_dress_9a6dd947f5/Nelly_Cover_Red_dress_9a6dd947f5.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Malan Potgieter, take a bow.</title>
