@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 06 Jun 2026 14:26:20 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 06 Jun 2026 15:49:34 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>What 72nd hole pressure? 🎯</title>
+    <link>https://www.youtube.com/shorts/k2UMLBiGNIg</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/k2UMLBiGNIg</guid>
+    <pubDate>Sat, 06 Jun 2026 15:18:14 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/k2UMLBiGNIg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/k2UMLBiGNIg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/k2UMLBiGNIg" type="text/html" medium="video"/>
+    <yt:videoId>k2UMLBiGNIg</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Riviera Showed its Teeth But Nelly Bounced Back and Alison Lee Found Her Groove</title>
     <link>https://skratch.golf/news/news/2026-us-womens-open-riviera-nelly-korda-alison-lee-day-2-recap</link>
@@ -655,20 +669,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:videoId>CuO2gtWaku4</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>One of the best college players of all time: Jackson Koivun of Auburn</title>
-    <link>https://www.youtube.com/shorts/qpJgGJ2o60w</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/qpJgGJ2o60w</guid>
-    <pubDate>Mon, 01 Jun 2026 23:13:00 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/qpJgGJ2o60w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/qpJgGJ2o60w/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/qpJgGJ2o60w" type="text/html" medium="video"/>
-    <yt:videoId>qpJgGJ2o60w</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
     <category>video</category>
   </item>
 </channel>
