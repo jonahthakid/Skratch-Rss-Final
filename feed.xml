@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 07 Jun 2026 19:12:47 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 07 Jun 2026 20:43:37 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Memorial Tournament LIVE Watch Along | PACKED Leaderboard at Jack&#x27;s Place!</title>
+    <link>https://www.youtube.com/watch?v=WfbhY3ycLEg</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=WfbhY3ycLEg</guid>
+    <pubDate>Sun, 07 Jun 2026 19:37:32 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Watch the final-round action of the Memorial Tournament play out alongside Dan Rapaport&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=WfbhY3ycLEg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/WfbhY3ycLEg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/WfbhY3ycLEg" type="text/html" medium="video"/>
+    <yt:videoId>WfbhY3ycLEg</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>She May Not Win Today, But Asterisk Talley Just Did What No Other Amateur Has</title>
     <link>https://skratch.golf/news/news/us-womens-open-2026-asterisk-talley-lowest-amateur-round-record-history</link>
@@ -653,20 +667,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://img.youtube.com/vi/Sle7vSr6dk4/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/Sle7vSr6dk4" type="text/html" medium="video"/>
     <yt:videoId>Sle7vSr6dk4</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>&quot;This is a little bit like Rory and The Masters.&quot;</title>
-    <link>https://www.youtube.com/shorts/CuO2gtWaku4</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/CuO2gtWaku4</guid>
-    <pubDate>Mon, 01 Jun 2026 23:45:29 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/CuO2gtWaku4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/CuO2gtWaku4/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/CuO2gtWaku4" type="text/html" medium="video"/>
-    <yt:videoId>CuO2gtWaku4</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
