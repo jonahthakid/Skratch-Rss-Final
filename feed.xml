@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 07 Jun 2026 17:46:09 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 07 Jun 2026 19:12:47 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>She May Not Win Today, But Asterisk Talley Just Did What No Other Amateur Has</title>
+    <link>https://skratch.golf/news/news/us-womens-open-2026-asterisk-talley-lowest-amateur-round-record-history</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/us-womens-open-2026-asterisk-talley-lowest-amateur-round-record-history</guid>
+    <pubDate>Sun, 07 Jun 2026 17:44:50 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The 17-year-old standout&#x27;s third round score of 66 is the lowest from any amateur in U.S. Women&#x27;s Open history.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-womens-open-2026-asterisk-talley-lowest-amateur-round-record-history"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/26_USWO_0606_12281377_KHR_14379_b764a381b3/26_USWO_0606_12281377_KHR_14379_b764a381b3.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>I Bought Danielle Kang’s Viral $33 Amazon Pants. Here Are My Thoughts.</title>
     <link>https://skratch.golf/style/womens-style/danielle-kang-us-womens-open-amazon-track-pants-where-to-buy</link>
@@ -530,17 +541,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Nelly Korda, Hyo Joo Kim, and Hannah Green Lead All-Star Grouping at Riv</title>
-    <link>https://skratch.golf/news/news/2026-us-womens-open-first-and-second-round-tee-times-pairings</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/2026-us-womens-open-first-and-second-round-tee-times-pairings</guid>
-    <pubDate>Tue, 02 Jun 2026 23:40:28 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Three of the most dominant players in women&#x27;s golf headline the first and second round tee times for the 81st U.S. Women&#x27;s Open at Riviera.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-us-womens-open-first-and-second-round-tee-times-pairings"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Nelly_Korda_Hyo_Joo_Ford_Champ_2026_b0b272e77d/Nelly_Korda_Hyo_Joo_Ford_Champ_2026_b0b272e77d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>All love for Aaron Rai. Range Report from Muirfield Village.</title>
