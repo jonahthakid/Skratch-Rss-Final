@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 08 Jun 2026 20:38:20 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 08 Jun 2026 22:21:24 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Seek out the best courses, even if they won’t have the biggest crowds.</title>
+    <link>https://www.youtube.com/shorts/TO_ku31DYhw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/TO_ku31DYhw</guid>
+    <pubDate>Mon, 08 Jun 2026 21:20:21 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/TO_ku31DYhw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/TO_ku31DYhw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/TO_ku31DYhw" type="text/html" medium="video"/>
+    <yt:videoId>TO_ku31DYhw</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>When the lights were brightest she came out on top.</title>
     <link>https://www.youtube.com/shorts/ERA_pLEcQFU</link>
@@ -658,20 +672,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:videoId>oxHqFG5EYuE</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Filthy club twirl, even better flop. 😳 #tigertuesday</title>
-    <link>https://www.youtube.com/shorts/thrlW2LRq38</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/thrlW2LRq38</guid>
-    <pubDate>Tue, 02 Jun 2026 20:38:05 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Tiger&#x27;s eagle on 11 helps overcome a four-shot deficit and shoot a final round 65 to win the 2009 Memorial.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/thrlW2LRq38"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/thrlW2LRq38/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/thrlW2LRq38" type="text/html" medium="video"/>
-    <yt:videoId>thrlW2LRq38</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
     <category>video</category>
   </item>
 </channel>
