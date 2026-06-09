@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 09 Jun 2026 16:28:07 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 09 Jun 2026 18:30:17 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>LIV Golf CEO Scott O’Neil Wouldn’t Guarantee Its Season Will Finish as Scheduled</title>
+    <link>https://skratch.golf/news/news/liv-golf-ceo-scott-oneil-wont-guarantee-rest-of-season-will-be-played</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/liv-golf-ceo-scott-oneil-wont-guarantee-rest-of-season-will-be-played</guid>
+    <pubDate>Tue, 09 Jun 2026 17:48:10 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Will LIV Golf finish its season as scheduled? CEO Scott O&#x27;Neil couldn&#x27;t guarantee it.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/liv-golf-ceo-scott-oneil-wont-guarantee-rest-of-season-will-be-played"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2279701644_b42eb45d90/Getty_Images_2279701644_b42eb45d90.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Who did we miss?</title>
+    <link>https://www.youtube.com/shorts/DwKnGFPaqYA</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/DwKnGFPaqYA</guid>
+    <pubDate>Tue, 09 Jun 2026 17:37:32 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/DwKnGFPaqYA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/DwKnGFPaqYA/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/DwKnGFPaqYA" type="text/html" medium="video"/>
+    <yt:videoId>DwKnGFPaqYA</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Best Bets for the RBC Canadian Open: Why We&#x27;ve Got Our Eyes on Tommy</title>
     <link>https://skratch.golf/news/pro-golf/rbc-canadian-open-2026-best-best-picks-to-win</link>
@@ -35,6 +60,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>On Tap: RBC Canadian Open at TPC Toronto</title>
+    <link>https://skratch.golf/news/news/rbc-canadian-open-2026-how-to-watch-pga-tour-tee-times</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/rbc-canadian-open-2026-how-to-watch-pga-tour-tee-times</guid>
+    <pubDate>Tue, 09 Jun 2026 15:20:39 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Here&#x27;s how you can watch this week&#x27;s RBC Canadian Open, plus tee times for the first two rounds.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rbc-canadian-open-2026-how-to-watch-pga-tour-tee-times"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2218495686_aa9f2167ab/Getty_Images_2218495686_aa9f2167ab.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Wyndham Clark Unfiltered: CRAZY U.S. Open Celebration, Negativity, Rule Changes &amp; More</title>
@@ -372,17 +408,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>What Golf Course Was J.T. Poston Playing on Friday?</title>
-    <link>https://skratch.golf/news/news/memorial-tournament-2026-second-round-scores-jt-poston-wind-memorial</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/memorial-tournament-2026-second-round-scores-jt-poston-wind-memorial</guid>
-    <pubDate>Fri, 05 Jun 2026 20:38:23 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Despite sporadic wind and one of the toughest courses on TOUR, J.T. Poston put on an exhibition at the Memorial on Friday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/memorial-tournament-2026-second-round-scores-jt-poston-wind-memorial"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2279308169_ee881214ca/Getty_Images_2279308169_ee881214ca.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>New Clubs Helping These Players at the Memorial</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/memorial-tournament-2026-tommy-fleetwood-justin-rose-new-clubs</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/memorial-tournament-2026-tommy-fleetwood-justin-rose-new-clubs</guid>
@@ -574,17 +599,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <category>video</category>
   </item>
   <item>
-    <title>Nobody Does Wear Marks Like LPGA Tour Players</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/womens-us-open-golf-wear-marks-face</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/womens-us-open-golf-wear-marks-face</guid>
-    <pubDate>Thu, 04 Jun 2026 15:47:52 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;With the women&#x27;s game defined more by long game precision, the U.S. Women&#x27;s Open is a great place to spot some of the best wear marks you&#x27;ll ever see.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/womens-us-open-golf-wear-marks-face"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Auston_Kim_hybrid_wear_ac9dde21b3/Auston_Kim_hybrid_wear_ac9dde21b3.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>No. 1️⃣ might surprise you…</title>
     <link>https://www.youtube.com/shorts/OtNjVuGodO4</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/OtNjVuGodO4</guid>
@@ -636,20 +650,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <media:thumbnail url="https://img.youtube.com/vi/2DgUBicYFHM/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/2DgUBicYFHM" type="text/html" medium="video"/>
     <yt:videoId>2DgUBicYFHM</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>We must protect Si Woo at all costs.</title>
-    <link>https://www.youtube.com/shorts/cdc5aJz8lK0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/cdc5aJz8lK0</guid>
-    <pubDate>Thu, 04 Jun 2026 01:05:20 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/cdc5aJz8lK0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/cdc5aJz8lK0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/cdc5aJz8lK0" type="text/html" medium="video"/>
-    <yt:videoId>cdc5aJz8lK0</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
