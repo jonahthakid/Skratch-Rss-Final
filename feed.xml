@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 10 Jun 2026 17:53:49 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 10 Jun 2026 20:21:42 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Not all heroes wear capes (but some wear caddie bibs). 🫡</title>
+    <link>https://www.youtube.com/shorts/MwvOaIL_quM</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/MwvOaIL_quM</guid>
+    <pubDate>Wed, 10 Jun 2026 18:48:29 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Throwback to when legendary caddie Mike “Fluff” Cowan slipped and a random fan had to step in as the replacement at the ‘24 Canadian Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/MwvOaIL_quM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/MwvOaIL_quM/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/MwvOaIL_quM" type="text/html" medium="video"/>
+    <yt:videoId>MwvOaIL_quM</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>The pressure will be on at TPC Toronto</title>
     <link>https://www.youtube.com/shorts/Dx3ATe0EED4</link>
@@ -28,6 +42,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Picks to Win: Three Players to Watch at the RBC Canadian Open</title>
+    <link>https://skratch.golf/news/news/rbc-canadian-open-2026-picks-to-win-pga-tour-odds-players-to-watch</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/rbc-canadian-open-2026-picks-to-win-pga-tour-odds-players-to-watch</guid>
+    <pubDate>Wed, 10 Jun 2026 16:48:36 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Sam Burns in Canada? Sam Burns in Canada. Here are three players to watch at TPC Toronto.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rbc-canadian-open-2026-picks-to-win-pga-tour-odds-players-to-watch"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2279756453_b89e05d1bd/Getty_Images_2279756453_b89e05d1bd.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Stephen Curry Is the Latest Athlete to Join the Payntr Golf Movement</title>
@@ -462,17 +487,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>Riviera Showed its Teeth But Nelly Bounced Back and Alison Lee Found Her Groove</title>
-    <link>https://skratch.golf/news/news/2026-us-womens-open-riviera-nelly-korda-alison-lee-day-2-recap</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/2026-us-womens-open-riviera-nelly-korda-alison-lee-day-2-recap</guid>
-    <pubDate>Sat, 06 Jun 2026 02:20:27 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Here&#x27;s everything that went down on day two of the 81st U.S. Women&#x27;s Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-us-womens-open-riviera-nelly-korda-alison-lee-day-2-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/26_USWO_0605_15191357_KHR_16777_730e74b279/26_USWO_0605_15191357_KHR_16777_730e74b279.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Not all great shots get rewarded… 😭</title>
     <link>https://www.youtube.com/shorts/-6jscBxuFqc</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/-6jscBxuFqc</guid>
@@ -487,17 +501,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>Michelle Wie West: &quot;Pebble Truly Felt Like The End, This Was Just a Bonus&quot;</title>
-    <link>https://skratch.golf/news/news/us-womens-open-2026-michelle-wie-west-riviera-last-dance-retirement-lpga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/us-womens-open-2026-michelle-wie-west-riviera-last-dance-retirement-lpga-tour</guid>
-    <pubDate>Fri, 05 Jun 2026 23:22:44 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The 2014 U.S. Women&#x27;s Open champion&#x27;s final curtain call at Riv came with a pretty sweet ending.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-womens-open-2026-michelle-wie-west-riviera-last-dance-retirement-lpga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/26_USWO_0605_12585786_KHR_16933_2_9438f1cde6/26_USWO_0605_12585786_KHR_16933_2_9438f1cde6.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>What Golf Course Was J.T. Poston Playing on Friday?</title>
     <link>https://skratch.golf/news/news/memorial-tournament-2026-second-round-scores-jt-poston-wind-memorial</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/memorial-tournament-2026-second-round-scores-jt-poston-wind-memorial</guid>
@@ -505,6 +508,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Despite sporadic wind and one of the toughest courses on TOUR, J.T. Poston put on an exhibition at the Memorial on Friday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/memorial-tournament-2026-second-round-scores-jt-poston-wind-memorial"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2279308169_ee881214ca/Getty_Images_2279308169_ee881214ca.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>New Clubs Helping These Players at the Memorial</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/memorial-tournament-2026-tommy-fleetwood-justin-rose-new-clubs</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/memorial-tournament-2026-tommy-fleetwood-justin-rose-new-clubs</guid>
+    <pubDate>Fri, 05 Jun 2026 20:18:26 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;With new clubs in the bag, these players are near the top of the leaderboard after two rounds at the Memorial.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/memorial-tournament-2026-tommy-fleetwood-justin-rose-new-clubs"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Spider_Tour_X_torch_3_f10c9c2349/Spider_Tour_X_torch_3_f10c9c2349.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -589,6 +603,17 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <category>article</category>
   </item>
   <item>
+    <title>Sugarloaf Social Club Just Landed in Golf Galaxy—That&#x27;s a Big Deal</title>
+    <link>https://skratch.golf/style/mens-style/sugarloaf-social-club-available-golf-galaxy-why-its-a-big-deal</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/sugarloaf-social-club-available-golf-galaxy-why-its-a-big-deal</guid>
+    <pubDate>Fri, 05 Jun 2026 14:55:04 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;Founder Ian Gilley once made trips to Golf Galaxy with his mom to buy golf gear. Now his brand sits on those same shelves.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/sugarloaf-social-club-available-golf-galaxy-why-its-a-big-deal"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/SSC_Golf_Galaxy_Cover_5d024fdf58/SSC_Golf_Galaxy_Cover_5d024fdf58.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Par saves don’t get more electric than this. ⚡️ (‘99 Memorial)</title>
     <link>https://www.youtube.com/shorts/CApw817o81E</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/CApw817o81E</guid>
@@ -603,17 +628,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <category>video</category>
   </item>
   <item>
-    <title>Amateur Aphrodite Deng&#x27;s Caddie Being Mic&#x27;d Up at the USWO is Elite</title>
-    <link>https://skratch.golf/news/news/us-womens-open-aphrodite-deng-caddie-micd-up-riviera-broadcast</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/us-womens-open-aphrodite-deng-caddie-micd-up-riviera-broadcast</guid>
-    <pubDate>Fri, 05 Jun 2026 02:14:31 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Player/caddie convos are some of the best insights for viewers at home, and more majors need to follow suit.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-womens-open-aphrodite-deng-caddie-micd-up-riviera-broadcast"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/26_USWO_0604_13030035_LW_48880_a7abdce792/26_USWO_0604_13030035_LW_48880_a7abdce792.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>It’s okay, Scottie. We’ve all been there. 😭</title>
     <link>https://www.youtube.com/shorts/6PpBa53h4HI</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/6PpBa53h4HI</guid>
@@ -623,20 +637,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <media:thumbnail url="https://img.youtube.com/vi/6PpBa53h4HI/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/6PpBa53h4HI" type="text/html" medium="video"/>
     <yt:videoId>6PpBa53h4HI</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Muirfield Village doesn&#x27;t just test your game, it demands precision.</title>
-    <link>https://www.youtube.com/shorts/od6qoMuLkLI</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/od6qoMuLkLI</guid>
-    <pubDate>Thu, 04 Jun 2026 17:15:26 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Our Chad Mumm shares what it was like playing alongside the pros in the Memorial Pro-Am, and why it opened his eyes to the quality of their games in this Course Preview presented by Attio, the CRM for high growth teams.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/od6qoMuLkLI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/od6qoMuLkLI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/od6qoMuLkLI" type="text/html" medium="video"/>
-    <yt:videoId>od6qoMuLkLI</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
