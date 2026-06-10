@@ -9,8 +9,26 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 10 Jun 2026 14:33:29 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 10 Jun 2026 17:53:49 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The pressure will be on at TPC Toronto</title>
+    <link>https://www.youtube.com/shorts/Dx3ATe0EED4</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/Dx3ATe0EED4</guid>
+    <pubDate>Wed, 10 Jun 2026 17:04:21 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;From a fan-packed &quot;rink&quot; to needing precision off the tee, the pressure will be on this week at TPC Toronto. Ryan Barath shares more on what to expect at the RBC Canadian Open in this Course Preview, presented by Attio the CRM for high growth teams.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Dx3ATe0EED4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Dx3ATe0EED4/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Dx3ATe0EED4" type="text/html" medium="video"/>
+    <yt:videoId>Dx3ATe0EED4</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Stephen Curry Is the Latest Athlete to Join the Payntr Golf Movement</title>
     <link>https://skratch.golf/style/mens-style/stephen-curry-payntr-golf-golf-shoes</link>
@@ -480,6 +498,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
+    <title>What Golf Course Was J.T. Poston Playing on Friday?</title>
+    <link>https://skratch.golf/news/news/memorial-tournament-2026-second-round-scores-jt-poston-wind-memorial</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/memorial-tournament-2026-second-round-scores-jt-poston-wind-memorial</guid>
+    <pubDate>Fri, 05 Jun 2026 20:38:23 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Despite sporadic wind and one of the toughest courses on TOUR, J.T. Poston put on an exhibition at the Memorial on Friday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/memorial-tournament-2026-second-round-scores-jt-poston-wind-memorial"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2279308169_ee881214ca/Getty_Images_2279308169_ee881214ca.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Rapid fire with the serious, very hydrated* @TishaAlyn — ahead of her 15 1/2 Challenge.</title>
     <link>https://www.youtube.com/shorts/WE9n8KkFDSM</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/WE9n8KkFDSM</guid>
@@ -549,35 +578,13 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <category>video</category>
   </item>
   <item>
-    <title>Scottie Scheffler Shanks Another Greenside Bunker Shot at the Memorial</title>
-    <link>https://skratch.golf/news/news/scottie-scheffler-shank-memorial-tournament-2026-muirfield-village</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/scottie-scheffler-shank-memorial-tournament-2026-muirfield-village</guid>
-    <pubDate>Fri, 05 Jun 2026 15:55:00 +0000</pubDate>
+    <title>Rapid-Fire Q&amp;A With Rickie Fowler</title>
+    <link>https://skratch.golf/news/news/rickie-fowler-qa-memorial-tournament-2026-pga-tour-cobra-muirifield-village</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/rickie-fowler-qa-memorial-tournament-2026-pga-tour-cobra-muirifield-village</guid>
+    <pubDate>Fri, 05 Jun 2026 15:27:08 +0000</pubDate>
     <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Relatable: the S-word. Not relatable: making par afterward.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/scottie-scheffler-shank-memorial-tournament-2026-muirfield-village"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2280016496_28988ac6ba/Getty_Images_2280016496_28988ac6ba.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Sugarloaf Social Club Just Landed in Golf Galaxy—That&#x27;s a Big Deal</title>
-    <link>https://skratch.golf/style/mens-style/sugarloaf-social-club-available-golf-galaxy-why-its-a-big-deal</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/sugarloaf-social-club-available-golf-galaxy-why-its-a-big-deal</guid>
-    <pubDate>Fri, 05 Jun 2026 14:55:04 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Founder Ian Gilley once made trips to Golf Galaxy with his mom to buy golf gear. Now his brand sits on those same shelves.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/sugarloaf-social-club-available-golf-galaxy-why-its-a-big-deal"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/SSC_Golf_Galaxy_Cover_5d024fdf58/SSC_Golf_Galaxy_Cover_5d024fdf58.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>This PING Putter&#x27;s Hot Streak Continues At U.S. Women&#x27;s Open</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/ping-putter-hot-streak-ally-onset</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/ping-putter-hot-streak-ally-onset</guid>
-    <pubDate>Fri, 05 Jun 2026 14:27:51 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;It wasn&#x27;t long ago that center-shafted putters were almost extinct, but this new model from Ping is having some serious success right now.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/ping-putter-hot-streak-ally-onset"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Jennifer_Kupcho_Putter_a1e7c4ae07/Jennifer_Kupcho_Putter_a1e7c4ae07.png"/>
+    <description>&lt;p&gt;A hole-in-one at Pine Valley? Must be nice. Here’s our rapid-fire Q&amp;amp;A with the legend himself, Rickie Fowler.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rickie-fowler-qa-memorial-tournament-2026-pga-tour-cobra-muirifield-village"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2278782746_81ddf539f1/Getty_Images_2278782746_81ddf539f1.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -635,20 +642,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <category>video</category>
   </item>
   <item>
-    <title>Vintage Spieth performance this morning at Memorial. 😭</title>
-    <link>https://www.youtube.com/shorts/hPCOsiaQSTQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/hPCOsiaQSTQ</guid>
-    <pubDate>Thu, 04 Jun 2026 16:07:14 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/hPCOsiaQSTQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/hPCOsiaQSTQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/hPCOsiaQSTQ" type="text/html" medium="video"/>
-    <yt:videoId>hPCOsiaQSTQ</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>No. 1️⃣ might surprise you…</title>
     <link>https://www.youtube.com/shorts/OtNjVuGodO4</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/OtNjVuGodO4</guid>
@@ -672,6 +665,20 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <media:thumbnail url="https://img.youtube.com/vi/cUyqrfRCksw/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/cUyqrfRCksw" type="text/html" medium="video"/>
     <yt:videoId>cUyqrfRCksw</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>INTERVIEW: Never A Dull Moment With Si Woo Kim</title>
+    <link>https://www.youtube.com/watch?v=yO8YdrkwobA</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=yO8YdrkwobA</guid>
+    <pubDate>Thu, 04 Jun 2026 12:00:37 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Si Woo Kim joins the show to discuss his recent play &amp; close calls, going to YouTube for golf advice, the Presidents Cup, living in Dallas (&amp; playing with Scottie Scheffler at home) &amp; much more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=yO8YdrkwobA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/yO8YdrkwobA/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/yO8YdrkwobA" type="text/html" medium="video"/>
+    <yt:videoId>yO8YdrkwobA</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
