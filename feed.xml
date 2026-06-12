@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 12 Jun 2026 17:19:43 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 12 Jun 2026 19:27:23 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>@GrantHorvatGolfs has filmed with a lot of pros. But whose game caught his eye the most?</title>
@@ -403,6 +403,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
+    <title>What Really Happens During USGA Driver Testing</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/usga-driver-testing-speed-distance-conforming-uso</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/usga-driver-testing-speed-distance-conforming-uso</guid>
+    <pubDate>Tue, 09 Jun 2026 20:04:02 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Inside the process the USGA uses to make sure drivers stay within the limits of the Rules of Golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/usga-driver-testing-speed-distance-conforming-uso"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Club_testing_measure_usga_2f6eacbdee/Club_testing_measure_usga_2f6eacbdee.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Sun Day Red Understands The Assignment</title>
     <link>https://www.youtube.com/shorts/9kH7V05ZEvQ</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/9kH7V05ZEvQ</guid>
@@ -694,17 +705,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Raymond Williams</dc:creator>
     <description>&lt;p&gt;Inside the facility where data, athlete testing, and craftsmanship come together to shape the future of golf footwear.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/footjoy-golf-shoe-inside-performance-lab-footwear-as-equipment"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/FJ_Equipment_Cover_30195fb412/FJ_Equipment_Cover_30195fb412.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Golf Gift Guide for People Who Don&#x27;t Know What to Buy</title>
-    <link>https://skratch.golf/style/mens-style/best-golf-gifts-for-everyone-lists</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/best-golf-gifts-for-everyone-lists</guid>
-    <pubDate>Wed, 03 Jun 2026 04:52:09 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Finding a gift for a golfer can be tricky. These curated guides cover the apparel, footwear, accessories, and gear I&#x27;d personally recommend for Father&#x27;s Day and every golf occasion after that.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/best-golf-gifts-for-everyone-lists"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Round_up_guide_cover_b4962b92ee/Round_up_guide_cover_b4962b92ee.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
