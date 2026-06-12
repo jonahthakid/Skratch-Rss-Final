@@ -9,8 +9,65 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 12 Jun 2026 14:02:43 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 12 Jun 2026 17:19:43 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>@GrantHorvatGolfs has filmed with a lot of pros. But whose game caught his eye the most?</title>
+    <link>https://www.youtube.com/shorts/JL1mpjSFwAU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/JL1mpjSFwAU</guid>
+    <pubDate>Fri, 12 Jun 2026 16:40:01 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/JL1mpjSFwAU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/JL1mpjSFwAU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/JL1mpjSFwAU" type="text/html" medium="video"/>
+    <yt:videoId>JL1mpjSFwAU</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Early Weather Forecast for the U.S. Open at Shinnecock</title>
+    <link>https://skratch.golf/news/news/us-open-2026-early-weather-forecast-shinnecock-long-island-hamptons</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/us-open-2026-early-weather-forecast-shinnecock-long-island-hamptons</guid>
+    <pubDate>Fri, 12 Jun 2026 14:29:57 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;It looks like we&#x27;re going to get prime U.S. Open conditions at Shinnecock next week. Here&#x27;s a look at the early forecast.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-open-2026-early-weather-forecast-shinnecock-long-island-hamptons"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2235599648_32958f63ee/Getty_Images_2235599648_32958f63ee.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Still one of the BEST saves in Canadian Open history. 🫡</title>
+    <link>https://www.youtube.com/shorts/XaDvwIDIpGc</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/XaDvwIDIpGc</guid>
+    <pubDate>Fri, 12 Jun 2026 14:13:49 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
+
+Check out our website: https://skratch.golf/
+Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/XaDvwIDIpGc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/XaDvwIDIpGc/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/XaDvwIDIpGc" type="text/html" medium="video"/>
+    <yt:videoId>XaDvwIDIpGc</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>No. 1 Amateur Jackson Koivun Will Turn Pro Following the U.S. Open</title>
+    <link>https://skratch.golf/news/news/jackson-koivun-turning-pro-after-us-open-john-deere-classic-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/jackson-koivun-turning-pro-after-us-open-john-deere-classic-pga-tour</guid>
+    <pubDate>Fri, 12 Jun 2026 14:11:50 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;After Shinnecock, Jackson Koivun will be a pro. He&#x27;s going to be a problem on the PGA TOUR.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jackson-koivun-turning-pro-after-us-open-john-deere-classic-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2278850312_8e0b756355/Getty_Images_2278850312_8e0b756355.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>If soccer commentators called golf. 😭</title>
     <link>https://www.youtube.com/shorts/5lYE0IXmvOg</link>
@@ -58,6 +115,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Everything You Need to Know About The 44th Curtis Cup Match</title>
+    <link>https://skratch.golf/news/news/curtis-cup-match-usga-things-to-know-bel-air-country-club-womens-amateur-golf</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/curtis-cup-match-usga-things-to-know-bel-air-country-club-womens-amateur-golf</guid>
+    <pubDate>Thu, 11 Jun 2026 19:12:28 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Your go-to guide for the most coveted team event in women&#x27;s amateur golf at the legendary Bel-Air Country Club.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/curtis-cup-match-usga-things-to-know-bel-air-country-club-womens-amateur-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2281133143_6b054d1e4b/Getty_Images_2281133143_6b054d1e4b.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>One of the BEST amateur tournaments at one of the BEST Los Angeles venues. Need we say more?</title>
@@ -117,6 +185,17 @@ Subscribe to Skratch on YouTube and don’t miss out on the mo&lt;/p&gt;&lt;p&gt
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Future Sites for the U.S. Open</title>
+    <link>https://skratch.golf/news/news/us-open-future-sites-golf-course-usga</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/us-open-future-sites-golf-course-usga</guid>
+    <pubDate>Thu, 11 Jun 2026 14:58:18 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The USGA doesn’t mess around with scheduling its championships. Here’s a full look at the future sites of the U.S. Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-open-future-sites-golf-course-usga"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2196820060_c88b50c2c0/Getty_Images_2196820060_c88b50c2c0.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Contract Chaos, Bankruptcy Rumors...and the U.S. Open: Jon Rahm&#x27;s Future Hangs in the Havoc</title>
@@ -538,17 +617,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>U.S. Open Final Qualifying Results: Here&#x27;s Who Survived Golf&#x27;s Longest Day</title>
-    <link>https://skratch.golf/news/news/us-open-final-qualifying-results-2026-shinnecock-hills-golfs-longest-day</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/us-open-final-qualifying-results-2026-shinnecock-hills-golfs-longest-day</guid>
-    <pubDate>Mon, 08 Jun 2026 20:14:09 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;U.S. Open Final Qualifying results are official. Here are the players headed to Shinnecock Hills next week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-open-final-qualifying-results-2026-shinnecock-hills-golfs-longest-day"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2266134237_f7d98af7cc/Getty_Images_2266134237_f7d98af7cc.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>When Nelly got STARSTRUCK meeting Tiger. 🤣</title>
     <link>https://www.youtube.com/shorts/SqyzdNhxDsA</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/SqyzdNhxDsA</guid>
@@ -608,31 +676,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>“It’s an incredible memory that we’ll have.”</title>
-    <link>https://www.youtube.com/shorts/Qn8Bo7Z4FVM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/Qn8Bo7Z4FVM</guid>
-    <pubDate>Mon, 08 Jun 2026 17:14:03 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Qn8Bo7Z4FVM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/Qn8Bo7Z4FVM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/Qn8Bo7Z4FVM" type="text/html" medium="video"/>
-    <yt:videoId>Qn8Bo7Z4FVM</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Charlie Woods, Max Homa and the Chaos of Golf&#x27;s Longest Day</title>
-    <link>https://skratch.golf/news/news/golfs-longest-day-notable-players-qualifying-sites-charlie-woods-us-open-2026-shinnecock</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/golfs-longest-day-notable-players-qualifying-sites-charlie-woods-us-open-2026-shinnecock</guid>
-    <pubDate>Mon, 08 Jun 2026 14:14:30 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Golf’s Longest Day is here. To make sure you don’t fall behind, here’s all the info you need as qualifiers chase a spot in the U.S. Open at Shinnecock.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/golfs-longest-day-notable-players-qualifying-sites-charlie-woods-us-open-2026-shinnecock"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2219067951_e96adfe49e/Getty_Images_2219067951_e96adfe49e.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Three Color Blocking Ideas From Puma Golf That Anybody Can Pull Off</title>
     <link>https://skratch.golf/style/mens-style/three-color-blocking-ideas-from-puma-golf-that-anybody-can-pull-off</link>
     <guid isPermaLink="true">https://skratch.golf/style/mens-style/three-color-blocking-ideas-from-puma-golf-that-anybody-can-pull-off</guid>
@@ -642,42 +685,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Puma_Combo_Color_Cover_f794563018/Puma_Combo_Color_Cover_f794563018.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>The New Driver and Putter That Lead to J.T. Poston&#x27;s Big Memorial Win</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/jt-poston-memorial-win-driver-putter</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/jt-poston-memorial-win-driver-putter</guid>
-    <pubDate>Mon, 08 Jun 2026 01:21:26 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Poston came back from the depths to win The Memorial in a playoff, and did it with some new additions to his golf bag.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/jt-poston-memorial-win-driver-putter"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Poston_Getty_Memorial_3a7aa3cb05/Poston_Getty_Memorial_3a7aa3cb05.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Lights Seemed Too Bright, Until J.T. Poston Dimmed Them on 14 Tee</title>
-    <link>https://skratch.golf/news/news/jt-poston-wins-memorial-tournament-2026-jack-nicklaus-pga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/jt-poston-wins-memorial-tournament-2026-jack-nicklaus-pga-tour</guid>
-    <pubDate>Mon, 08 Jun 2026 00:12:08 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Just one back thru 13, J.T. Poston knew he was going to shake Jack Nicklaus&#x27; hand regardless of the outcome. He just wanted to be proud of his effort. Mission accomplished.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jt-poston-wins-memorial-tournament-2026-jack-nicklaus-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2279819006_9b4a3286d7/Getty_Images_2279819006_9b4a3286d7.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>What 72nd hole pressure? 🎯</title>
-    <link>https://www.youtube.com/shorts/k2UMLBiGNIg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/k2UMLBiGNIg</guid>
-    <pubDate>Sat, 06 Jun 2026 15:18:14 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/k2UMLBiGNIg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/k2UMLBiGNIg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/k2UMLBiGNIg" type="text/html" medium="video"/>
-    <yt:videoId>k2UMLBiGNIg</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Footwear Is Equipment: Inside FootJoy&#x27;s Performance Lab</title>
