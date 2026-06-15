@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 15 Jun 2026 09:55:53 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 15 Jun 2026 15:42:45 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Carnage at the Carnival: Revisiting the 2004 U.S. Open at Shinnecock Hills</title>
+    <link>https://skratch.golf/news/pro-golf/us-open-shinnecock-hills-2004-retrospective</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/us-open-shinnecock-hills-2004-retrospective</guid>
+    <pubDate>Sun, 14 Jun 2026 23:01:01 +0000</pubDate>
+    <dc:creator>Alan Shipnuck</dc:creator>
+    <description>&lt;p&gt;The golf course is a talking point at every United States Open, but this week it will be an obsession. To understand what’s at stake, it is instructive to look back to &#x27;04 and ask: How did it all go so wrong?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/us-open-shinnecock-hills-2004-retrospective"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2151169496_b0e42325e5/Getty_Images_2151169496_b0e42325e5.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>RBC CANADIAN OPEN LIVE WATCH ALONG | Fitzpatrick CHASING DOWN Leaders!</title>
     <link>https://www.youtube.com/watch?v=0SuP7-tEAlk</link>
@@ -677,17 +688,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Raymond Williams</dc:creator>
     <description>&lt;p&gt;Sun Day Red continues to prove that major-inspired product doesn&#x27;t have to feel like a souvenir.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/sun-day-red-summer-championship-collection-golf-shoes-apparel"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/SDR_Championship_Collection_Cover_73dddb446e/SDR_Championship_Collection_Cover_73dddb446e.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Charlie Woods, Max Homa and the Chaos of Golf&#x27;s Longest Day</title>
-    <link>https://skratch.golf/news/news/golfs-longest-day-notable-players-qualifying-sites-charlie-woods-us-open-2026-shinnecock</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/golfs-longest-day-notable-players-qualifying-sites-charlie-woods-us-open-2026-shinnecock</guid>
-    <pubDate>Mon, 08 Jun 2026 14:14:30 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Golf’s Longest Day is here. To make sure you don’t fall behind, here’s all the info you need as qualifiers chase a spot in the U.S. Open at Shinnecock.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/golfs-longest-day-notable-players-qualifying-sites-charlie-woods-us-open-2026-shinnecock"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2219067951_e96adfe49e/Getty_Images_2219067951_e96adfe49e.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
