@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 16 Jun 2026 22:06:34 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 16 Jun 2026 23:53:31 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>There&#x27;s an IMPRESSIVE win streak happening in pro golf right now 👀</title>
@@ -65,6 +65,17 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/4FhRMjH0Bt8"&gt;
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The Gear Trend to Watch this Week at the U.S. Open</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/hot-streak-golf-ball-titleist-wins-pga-tour-2026</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/hot-streak-golf-ball-titleist-wins-pga-tour-2026</guid>
+    <pubDate>Tue, 16 Jun 2026 15:22:36 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;With a nine-week winning streak on the line, this piece of gear is one of the hottest in golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/hot-streak-golf-ball-titleist-wins-pga-tour-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Winning_ball_left_dash_cea5525ea6/Winning_ball_left_dash_cea5525ea6.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Our 10 Best Bets for the 2026 U.S. Open: Winner, Top 5, Cut Makers and More</title>
@@ -708,17 +719,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>What Really Happens During USGA Driver Testing</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/usga-driver-testing-speed-distance-conforming-uso</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/usga-driver-testing-speed-distance-conforming-uso</guid>
-    <pubDate>Tue, 09 Jun 2026 20:04:02 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Inside the process the USGA uses to make sure drivers stay within the limits of the Rules of Golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/usga-driver-testing-speed-distance-conforming-uso"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Club_testing_measure_usga_2f6eacbdee/Club_testing_measure_usga_2f6eacbdee.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
