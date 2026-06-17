@@ -9,8 +9,58 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 17 Jun 2026 16:33:43 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 17 Jun 2026 19:20:59 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The most brutal par 3 at Shinnecock might also be the shortest. 👀</title>
+    <link>https://www.youtube.com/shorts/zw1yUS7Y5bM</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/zw1yUS7Y5bM</guid>
+    <pubDate>Wed, 17 Jun 2026 17:28:55 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Last month our Riley Hamel played Shinnecock, and one hole in particular felt pivotal to the U.S. Open’s outcome. He explains why to keep an eye on No. 11 in this Course Preview presented by Attio, the CRM for high growth teams.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/zw1yUS7Y5bM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/zw1yUS7Y5bM/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/zw1yUS7Y5bM" type="text/html" medium="video"/>
+    <yt:videoId>zw1yUS7Y5bM</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>The U.S. Open is an opportunity to watch some different guys golf their ball.</title>
+    <link>https://www.youtube.com/shorts/1KrnafpDN2Q</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/1KrnafpDN2Q</guid>
+    <pubDate>Wed, 17 Jun 2026 17:26:23 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/1KrnafpDN2Q"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/1KrnafpDN2Q/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/1KrnafpDN2Q" type="text/html" medium="video"/>
+    <yt:videoId>1KrnafpDN2Q</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>How Kiara Romero Can Punch Her Ticket to the LPGA This Week</title>
+    <link>https://skratch.golf/news/news/kiara-romero-leap-pathway-lpga-tour-card</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/kiara-romero-leap-pathway-lpga-tour-card</guid>
+    <pubDate>Wed, 17 Jun 2026 16:13:14 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The top-ranked amateur is just two LEAP points shy of her LPGA card. It&#x27;s inevitable, but how soon can she get the job done?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/kiara-romero-leap-pathway-lpga-tour-card"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/26_DM_3_6016_afe9cb03c0/26_DM_3_6016_afe9cb03c0.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>As Expected, the U.S. Open Received a Purse Increase</title>
+    <link>https://skratch.golf/news/news/us-open-2026-purse-increase-shinnecock-hills</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/us-open-2026-purse-increase-shinnecock-hills</guid>
+    <pubDate>Wed, 17 Jun 2026 15:38:58 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;This week&#x27;s winner at Shinnecock Hills will go home with $4.5 million. The total purse for the U.S. Open now sits at $22.5 million.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-open-2026-purse-increase-shinnecock-hills"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282055044_eb9f072ff1/Getty_Images_2282055044_eb9f072ff1.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>There’s Concern Surrounding the Overall Distance Standard Testing and its Effectiveness</title>
     <link>https://skratch.golf/news/news/usga-rollback-golf-ball-distance-standard-testing-concern-pga-tour-r-and-a</link>
@@ -617,17 +667,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the mo&lt;/p&gt;&lt;p&gt
     <category>video</category>
   </item>
   <item>
-    <title>Future Sites for the U.S. Open</title>
-    <link>https://skratch.golf/news/news/us-open-future-sites-golf-course-usga</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/us-open-future-sites-golf-course-usga</guid>
-    <pubDate>Thu, 11 Jun 2026 14:58:18 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The USGA doesn’t mess around with scheduling its championships. Here’s a full look at the future sites of the U.S. Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-open-future-sites-golf-course-usga"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2196820060_c88b50c2c0/Getty_Images_2196820060_c88b50c2c0.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Showing respect to the history of the game. @manorsgolf</title>
     <link>https://www.youtube.com/shorts/0e4_RHASHiQ</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/0e4_RHASHiQ</guid>
@@ -653,60 +692,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the mo&lt;/p&gt;&lt;p&gt
     <yt:videoId>fqMgmQYBHRw</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>S2 E45: Grant Horvat Interview, Miles Russell Into U.S. Open, Golf x World Cup</title>
-    <link>https://www.youtube.com/watch?v=yBkYVo0tF44</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=yBkYVo0tF44</guid>
-    <pubDate>Wed, 10 Jun 2026 23:32:48 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;YouTube golf star Grant Horvat joins the show for an in-depth interview. Miles Russell (with Charlie Woods on the bag) qualifies for next week&#x27;s U.S. Open. Dan picks his starting XI of golfers ahead of the World Cup. Our Wednesday tradition of Golfers Wearing Clothes. And as always, much more.
-
-Link to donate to ALS100 - https://fundraise.als.net/hole100
-
-Thank You to Our Sponsors!
-
-Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
-
-Dan travels all year a&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=yBkYVo0tF44"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/yBkYVo0tF44/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/yBkYVo0tF44" type="text/html" medium="video"/>
-    <yt:videoId>yBkYVo0tF44</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>First Out at South Carolina’s MOST anticipated new golf course. 👀</title>
-    <link>https://www.youtube.com/shorts/NZhb-sKdeJ0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/NZhb-sKdeJ0</guid>
-    <pubDate>Wed, 10 Jun 2026 21:20:38 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Designed by the legendary duo of Bill Coore and Ben Crenshaw, this nature walk of a golf course sits between Hilton Head and Savannah and completely lives up to the hype. Watch the full feature now on our page.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/NZhb-sKdeJ0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/NZhb-sKdeJ0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/NZhb-sKdeJ0" type="text/html" medium="video"/>
-    <yt:videoId>NZhb-sKdeJ0</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>First Out at South Carolina&#x27;s Most Anticipated New Golf Course</title>
-    <link>https://www.youtube.com/watch?v=M2L8yD1QWbE</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=M2L8yD1QWbE</guid>
-    <pubDate>Wed, 10 Jun 2026 21:03:29 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Designed by the legendary duo of Bill Coore and Ben Crenshaw, this nature walk of a golf course sits between Hilton Head and Savannah.
-
-Think Pinehurst, but in the low country of South Carolina. We’re talking massive natural bunkers, wide fairways, holes that stretch into the Inner Coastal and sloping greens that require heaps of creativity.
-
-Forget everything you know about golf courses destroying nature. Anson Point actually helping it. Plus, they’re using conservation practices to help the lo&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=M2L8yD1QWbE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/M2L8yD1QWbE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/M2L8yD1QWbE" type="text/html" medium="video"/>
-    <yt:videoId>M2L8yD1QWbE</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
     <category>video</category>
   </item>
 </channel>
