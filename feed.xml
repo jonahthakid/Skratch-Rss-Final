@@ -9,8 +9,36 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 18 Jun 2026 16:23:09 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 18 Jun 2026 18:39:59 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Gettin windy at Shinnecock... Smoke &#x27;em if you got &#x27;em. 🤣</title>
+    <link>https://www.youtube.com/shorts/fpenfdLNa_w</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/fpenfdLNa_w</guid>
+    <pubDate>Thu, 18 Jun 2026 17:21:53 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/fpenfdLNa_w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/fpenfdLNa_w/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/fpenfdLNa_w" type="text/html" medium="video"/>
+    <yt:videoId>fpenfdLNa_w</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>What a comeback story. Shoutout to our DOGs of the Week, the Charlevoix Boys Golf Team in Michigan.</title>
+    <link>https://www.youtube.com/shorts/rhkCfv_7W-o</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/rhkCfv_7W-o</guid>
+    <pubDate>Thu, 18 Jun 2026 16:47:03 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/rhkCfv_7W-o"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/rhkCfv_7W-o/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/rhkCfv_7W-o" type="text/html" medium="video"/>
+    <yt:videoId>rhkCfv_7W-o</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>A Hole-By-Hole Breakdown Of Shinnecock Hills (1-18) With Patrick Rodgers</title>
     <link>https://www.youtube.com/watch?v=smuSQl1s3Zg</link>
@@ -663,31 +691,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/XaDvwIDIpGc"&gt;
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>If soccer commentators called golf. 😭</title>
-    <link>https://www.youtube.com/shorts/5lYE0IXmvOg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/5lYE0IXmvOg</guid>
-    <pubDate>Thu, 11 Jun 2026 23:36:10 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/5lYE0IXmvOg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/5lYE0IXmvOg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/5lYE0IXmvOg" type="text/html" medium="video"/>
-    <yt:videoId>5lYE0IXmvOg</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Lookback: Payne Stewart, Hazeltine, and the Miami Dolphins Fit</title>
-    <link>https://skratch.golf/style/mens-style/us-open-style-lookback-payne-stewart-hazeltine-miami-dolphins-oufit</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/us-open-style-lookback-payne-stewart-hazeltine-miami-dolphins-oufit</guid>
-    <pubDate>Thu, 11 Jun 2026 22:12:54 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;A unique NFL sponsorship, brutal conditions at Hazeltine, and a playoff that became golf lore.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/us-open-style-lookback-payne-stewart-hazeltine-miami-dolphins-oufit"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Payne_91_Cover_b5854ec0d2/Payne_91_Cover_b5854ec0d2.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
