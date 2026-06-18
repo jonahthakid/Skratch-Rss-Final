@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 18 Jun 2026 09:51:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 18 Jun 2026 12:47:35 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Dense Fog Engulfs Shinnecock Hills on Day 1 of the U.S. Open</title>
+    <link>https://skratch.golf/news/news/us-open-2026-fog-delay-thursday-shinnecock-hills</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/us-open-2026-fog-delay-thursday-shinnecock-hills</guid>
+    <pubDate>Thu, 18 Jun 2026 12:15:15 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Dense fog is covering Shinnecock Hills on Thursday morning, and it doesn&#x27;t seem to be going anywhere.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-open-2026-fog-delay-thursday-shinnecock-hills"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282180637_10402e3eb7/Getty_Images_2282180637_10402e3eb7.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>We&#x27;re tired just thinking of this alarm going off.</title>
     <link>https://www.youtube.com/shorts/BlrsxUhUMe8</link>
@@ -603,17 +614,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/XaDvwIDIpGc"&gt;
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Lookback: Payne Stewart, Hazeltine, and the Miami Dolphins Fit</title>
-    <link>https://skratch.golf/style/mens-style/us-open-style-lookback-payne-stewart-hazeltine-miami-dolphins-oufit</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/us-open-style-lookback-payne-stewart-hazeltine-miami-dolphins-oufit</guid>
-    <pubDate>Thu, 11 Jun 2026 22:12:54 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;A unique NFL sponsorship, brutal conditions at Hazeltine, and a playoff that became golf lore.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/us-open-style-lookback-payne-stewart-hazeltine-miami-dolphins-oufit"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Payne_91_Cover_b5854ec0d2/Payne_91_Cover_b5854ec0d2.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Lookback: Payne Stewart, Hazeltine, and the Miami Dolphins Fit</title>
