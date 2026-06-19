@@ -9,8 +9,44 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 19 Jun 2026 12:00:54 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 19 Jun 2026 15:46:15 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>&quot;Pretty Impressive Throw&quot;: Joaquin Niemann Penalized Two Shots at U.S. Open</title>
+    <link>https://skratch.golf/news/news/joaquin-niemann-us-open-penalty-club-throw</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/joaquin-niemann-us-open-penalty-club-throw</guid>
+    <pubDate>Fri, 19 Jun 2026 14:12:21 +0000</pubDate>
+    <dc:creator>Brittany Romano</dc:creator>
+    <description>&lt;p&gt;The USGA determined Niemann&#x27;s actions on the 6th hole constituted &quot;serious misconduct,&quot; resulting in a two-stroke penalty during Round 1 at Shinnecock.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/joaquin-niemann-us-open-penalty-club-throw"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Joaquin_Niemann_Getty_Images_2279522606_ac56eaaec1/Joaquin_Niemann_Getty_Images_2279522606_ac56eaaec1.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Behind The Scenes At The U.S. Open Range</title>
+    <link>https://www.youtube.com/watch?v=iK6i8abd2y4</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=iK6i8abd2y4</guid>
+    <pubDate>Fri, 19 Jun 2026 13:59:21 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Dan Rapaport takes you inside the ropes at the U.S. Open range at Shinnecock Hills.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=iK6i8abd2y4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/iK6i8abd2y4/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/iK6i8abd2y4" type="text/html" medium="video"/>
+    <yt:videoId>iK6i8abd2y4</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Why Pink Has Taken Over Both the World Cup and the U.S. Open</title>
+    <link>https://skratch.golf/style/mens-style/us-open-pink-world-cup-nike-adidas</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/us-open-pink-world-cup-nike-adidas</guid>
+    <pubDate>Fri, 19 Jun 2026 02:16:44 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;The same forces driving football&#x27;s hottest footwear trend are showing up at golf&#x27;s biggest major.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/us-open-pink-world-cup-nike-adidas"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Pink_Cover_b36b46615e/Pink_Cover_b36b46615e.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>U.S. Open Round 1 Recap &amp; Chat: Wyndham FLYING, Rory Off To Great Start, Scottie Struggles</title>
     <link>https://www.youtube.com/watch?v=QUBF7rXAzsk</link>
@@ -485,17 +521,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/4FhRMjH0Bt8"&gt;
     <category>article</category>
   </item>
   <item>
-    <title>Our 10 Best Bets for the 2026 U.S. Open: Winner, Top 5, Cut Makers and More</title>
-    <link>https://skratch.golf/news/pro-golf/us-open-2026-shinnecock-hills-best-bets-picks-to-win</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/us-open-2026-shinnecock-hills-best-bets-picks-to-win</guid>
-    <pubDate>Tue, 16 Jun 2026 15:09:25 +0000</pubDate>
-    <dc:creator>Rick Gehman</dc:creator>
-    <description>&lt;p&gt;Let’s make a betting card for this week’s U.S. Open. And let&#x27;s start with an obligatory bet on Scottie Scheffler, shall we?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/us-open-2026-shinnecock-hills-best-bets-picks-to-win"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2281735486_ded7d8a4bf/Getty_Images_2281735486_ded7d8a4bf.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>How to Watch the U.S. Open at Shinnecock Hills</title>
     <link>https://skratch.golf/news/news/us-open-2026-how-to-watch-tv-streaming-shinnecock-hills</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/us-open-2026-how-to-watch-tv-streaming-shinnecock-hills</guid>
@@ -601,20 +626,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>&quot;I always believed in my ability to play the game&quot;</title>
-    <link>https://www.youtube.com/shorts/AFfn5C4VGoY</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/AFfn5C4VGoY</guid>
-    <pubDate>Mon, 15 Jun 2026 18:31:12 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/AFfn5C4VGoY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/AFfn5C4VGoY/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/AFfn5C4VGoY" type="text/html" medium="video"/>
-    <yt:videoId>AFfn5C4VGoY</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>New driver in the bag for Bryson this week at Shinnecock? 👀</title>
     <link>https://www.youtube.com/shorts/H-G_P1lENmg</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/H-G_P1lENmg</guid>
@@ -670,17 +681,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>What Does the Champion of the U.S. Open Receive?</title>
-    <link>https://skratch.golf/news/news/us-open-champion-receive-exemptions-money-purse-points</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/us-open-champion-receive-exemptions-money-purse-points</guid>
-    <pubDate>Fri, 12 Jun 2026 17:03:08 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;At Shinnecock, there&#x27;s a lot more than just money up for grabs for the U.S. Open winner.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-open-champion-receive-exemptions-money-purse-points"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2219666398_de54d6037a/Getty_Images_2219666398_de54d6037a.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
