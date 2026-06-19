@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 19 Jun 2026 22:29:23 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 19 Jun 2026 23:37:37 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>What Shoe Is Tommy Fleetwood Wearing At The U.S. Open?</title>
+    <link>https://skratch.golf/style/mens-style/us-open-tommy-fleetwood-sun-day-red-golf-shoe</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/us-open-tommy-fleetwood-sun-day-red-golf-shoe</guid>
+    <pubDate>Fri, 19 Jun 2026 22:36:12 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;Weeks of Tour sightings suggest a spiked version of the Presidio may be on the way.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/us-open-tommy-fleetwood-sun-day-red-golf-shoe"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Tommy_SDR_Cover_6bb669a668/Tommy_SDR_Cover_6bb669a668.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>What ball is best for playing Shinnecock? 👀</title>
     <link>https://www.youtube.com/shorts/nDCNEkIcWgo</link>
@@ -660,20 +671,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Ib85GtDKs8I"&gt
     <media:thumbnail url="https://img.youtube.com/vi/Ib85GtDKs8I/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/Ib85GtDKs8I" type="text/html" medium="video"/>
     <yt:videoId>Ib85GtDKs8I</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>New driver in the bag for Bryson this week at Shinnecock? 👀</title>
-    <link>https://www.youtube.com/shorts/H-G_P1lENmg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/H-G_P1lENmg</guid>
-    <pubDate>Mon, 15 Jun 2026 16:19:38 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/H-G_P1lENmg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/H-G_P1lENmg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/H-G_P1lENmg" type="text/html" medium="video"/>
-    <yt:videoId>H-G_P1lENmg</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
