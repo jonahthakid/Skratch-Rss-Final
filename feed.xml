@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 19 Jun 2026 19:40:58 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 19 Jun 2026 21:04:08 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>What ball is best for playing Shinnecock? 👀</title>
@@ -30,6 +30,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Wyndham Clark&#x27;s New Ping Putter Deal is Paying Off</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/us-open-wyndham-ping-putter-deal-contract</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/us-open-wyndham-ping-putter-deal-contract</guid>
+    <pubDate>Fri, 19 Jun 2026 18:01:09 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;In a unique move for the equipment company, Wyndham Clark&#x27;s putter deal with Ping seems to come at the perfect time.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/us-open-wyndham-ping-putter-deal-contract"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Wyndham_clark_putter_wrx_91cdfd73d0/Wyndham_clark_putter_wrx_91cdfd73d0.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Solo leader Wyndham Clark&#x27;s hilarious story about his U.S. Open victory in 2023 😂</title>
@@ -605,28 +616,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/4FhRMjH0Bt8"&gt;
     <category>article</category>
   </item>
   <item>
-    <title>Our 10 Best Bets for the 2026 U.S. Open: Winner, Top 5, Cut Makers and More</title>
-    <link>https://skratch.golf/news/pro-golf/us-open-2026-shinnecock-hills-best-bets-picks-to-win</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/us-open-2026-shinnecock-hills-best-bets-picks-to-win</guid>
-    <pubDate>Tue, 16 Jun 2026 15:09:25 +0000</pubDate>
-    <dc:creator>Rick Gehman</dc:creator>
-    <description>&lt;p&gt;Let’s make a betting card for this week’s U.S. Open. And let&#x27;s start with an obligatory bet on Scottie Scheffler, shall we?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/us-open-2026-shinnecock-hills-best-bets-picks-to-win"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2281735486_ded7d8a4bf/Getty_Images_2281735486_ded7d8a4bf.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Tee Times for the U.S. Open at Shinnecock</title>
-    <link>https://skratch.golf/news/news/us-open-2026-tee-times-groups-shinnecock-hills-first-second-rounds</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/us-open-2026-tee-times-groups-shinnecock-hills-first-second-rounds</guid>
-    <pubDate>Tue, 16 Jun 2026 14:03:06 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Tee times for this week&#x27;s U.S. Open are here and they&#x27;re beautiful. The USGA is spoiling us with these groups.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-open-2026-tee-times-groups-shinnecock-hills-first-second-rounds"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2235079337_68e40937c7/Getty_Images_2235079337_68e40937c7.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>A plaque should really mean something. @Knockaround</title>
     <link>https://www.youtube.com/shorts/PYXWkVq-BEI</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/PYXWkVq-BEI</guid>
@@ -671,6 +660,20 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Ib85GtDKs8I"&gt
     <media:thumbnail url="https://img.youtube.com/vi/Ib85GtDKs8I/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/Ib85GtDKs8I" type="text/html" medium="video"/>
     <yt:videoId>Ib85GtDKs8I</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>New driver in the bag for Bryson this week at Shinnecock? 👀</title>
+    <link>https://www.youtube.com/shorts/H-G_P1lENmg</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/H-G_P1lENmg</guid>
+    <pubDate>Mon, 15 Jun 2026 16:19:38 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/H-G_P1lENmg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/H-G_P1lENmg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/H-G_P1lENmg" type="text/html" medium="video"/>
+    <yt:videoId>H-G_P1lENmg</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
