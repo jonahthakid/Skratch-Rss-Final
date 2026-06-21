@@ -9,13 +9,13 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 21 Jun 2026 21:51:06 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 21 Jun 2026 23:05:31 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>U.S. Open Final Round Watch Along: Contenders CHASING Wyndham Clark at Shinnecock!</title>
     <link>https://www.youtube.com/watch?v=bS57VC5LB8E</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=bS57VC5LB8E</guid>
-    <pubDate>Sun, 21 Jun 2026 19:44:22 +0000</pubDate>
+    <pubDate>Sun, 21 Jun 2026 22:55:17 +0000</pubDate>
     <dc:creator>Dan on Golf</dc:creator>
     <description>&lt;p&gt;Watch the final-round action of the U.S. Open at Shinnecock play out alongside Dan Rapaport&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=bS57VC5LB8E"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://img.youtube.com/vi/bS57VC5LB8E/hqdefault.jpg"/>
@@ -24,6 +24,17 @@
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Comparing Wyndham Clark&#x27;s Two U.S. Open Winning Bags</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/wyndham-clark-us-open-winning-clubs-shinnecock</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/wyndham-clark-us-open-winning-clubs-shinnecock</guid>
+    <pubDate>Sun, 21 Jun 2026 21:28:52 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Two U.S. Open wins, two very different bags. Here&#x27;s what changed between LACC and Shinnecock.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/wyndham-clark-us-open-winning-clubs-shinnecock"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282552194_2c1fd090e9/Getty_Images_2282552194_2c1fd090e9.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Miles Russell Tagged in Dad for the Final Hole of His U.S. Open Debut</title>
@@ -640,20 +651,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/GNmTASQVnJw"&gt;
     <media:thumbnail url="https://img.youtube.com/vi/sW0tpxd0Cbw/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/sW0tpxd0Cbw" type="text/html" medium="video"/>
     <yt:videoId>sW0tpxd0Cbw</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>In the Hamptons for the United States Open, these are the good days</title>
-    <link>https://www.youtube.com/shorts/C0ZU9Y2rji4</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/C0ZU9Y2rji4</guid>
-    <pubDate>Wed, 17 Jun 2026 01:20:56 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/C0ZU9Y2rji4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/C0ZU9Y2rji4/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/C0ZU9Y2rji4" type="text/html" medium="video"/>
-    <yt:videoId>C0ZU9Y2rji4</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
