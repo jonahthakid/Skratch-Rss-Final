@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 21 Jun 2026 17:00:39 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 21 Jun 2026 18:57:24 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Miles Russell Tagged in Dad for the Final Hole of His U.S. Open Debut</title>
+    <link>https://skratch.golf/news/news/us-open-2026-miles-russell-dad-caddie-fathers-day-shinnecock</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/us-open-2026-miles-russell-dad-caddie-fathers-day-shinnecock</guid>
+    <pubDate>Sun, 21 Jun 2026 18:04:59 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;We&#x27;re not crying, you are. What a special Father&#x27;s Day moment for the Russell family.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-open-2026-miles-russell-dad-caddie-fathers-day-shinnecock"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282113542_2abc05f287/Getty_Images_2282113542_2abc05f287.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Keith Mitchell Makes the Case for Natural Fibers at Shinnecock</title>
     <link>https://skratch.golf/style/mens-style/keith-mitchell-us-open-2026-style-natural-fibers-shinnecock</link>
@@ -624,17 +635,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>As Expected, the U.S. Open Received a Purse Increase</title>
-    <link>https://skratch.golf/news/news/us-open-2026-purse-increase-shinnecock-hills</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/us-open-2026-purse-increase-shinnecock-hills</guid>
-    <pubDate>Wed, 17 Jun 2026 15:38:58 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;This week&#x27;s winner at Shinnecock Hills will go home with $4.5 million. The total purse for the U.S. Open now sits at $22.5 million.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-open-2026-purse-increase-shinnecock-hills"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282055044_eb9f072ff1/Getty_Images_2282055044_eb9f072ff1.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>A little taste of what&#x27;s in store for the guys this week at Shinnecock. 😳</title>
