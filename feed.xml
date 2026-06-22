@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 22 Jun 2026 01:59:39 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 22 Jun 2026 07:31:37 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>First There Was Noise, Now There&#x27;s Just Wyndham</title>
+    <link>https://skratch.golf/news/pro-golf/2026-us-open-shinnecock-hills-wyndham-clark-dispatch</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/2026-us-open-shinnecock-hills-wyndham-clark-dispatch</guid>
+    <pubDate>Mon, 22 Jun 2026 02:48:04 +0000</pubDate>
+    <dc:creator>Alan Shipnuck</dc:creator>
+    <description>&lt;p&gt;For all of the chatter around Clark, there is now a very simple way to describe him: two-time U.S. Open champion. That’s more U.S. Open wins than Scheffler, McIlroy, Snead, Mickelson, Faldo, Ballesteros, Norman, Singh, Schauffele, Collin and Justin Thomas…combined.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/2026-us-open-shinnecock-hills-wyndham-clark-dispatch"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282176289_8811b580a8/Getty_Images_2282176289_8811b580a8.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>The Underdog Story Behind Wyndham Clark and Municipal</title>
     <link>https://skratch.golf/style/mens-style/wyndham-clark-municipal-apparel-polo-us-open-ambassador</link>
@@ -429,6 +440,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
+    <title>A Rare Miss From Malbon and Jason Day...There&#x27;s Hope Ahead</title>
+    <link>https://skratch.golf/style/mens-style/jason-day-us-open-2026-shinnecock-scripting-malbon-day-1</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/jason-day-us-open-2026-shinnecock-scripting-malbon-day-1</guid>
+    <pubDate>Thu, 18 Jun 2026 21:13:41 +0000</pubDate>
+    <dc:creator>Ben Boskovich</dc:creator>
+    <description>&lt;p&gt;One of pro golf&#x27;s most stylish partnership kicked off the 2026 U.S. Open with more of a murmur than the usual shout.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/jason-day-us-open-2026-shinnecock-scripting-malbon-day-1"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282255684_44471312f5/Getty_Images_2282255684_44471312f5.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Some courses pull off the no-trees deal better than others. @manorsgolf</title>
     <link>https://www.youtube.com/shorts/KeqG4SHvNUE</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/KeqG4SHvNUE</guid>
@@ -443,35 +465,13 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>You Need to See this Shot from Patrick Reed to Believe it</title>
-    <link>https://skratch.golf/news/news/us-open-2026-patrick-reed-fescuse-shot-shinnecock-hills</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/us-open-2026-patrick-reed-fescuse-shot-shinnecock-hills</guid>
-    <pubDate>Thu, 18 Jun 2026 19:00:59 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The fescue at Shinnecock Hills is a problem—just ask Patrick Reed.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-open-2026-patrick-reed-fescuse-shot-shinnecock-hills"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2281609296_e9a68d1166/Getty_Images_2281609296_e9a68d1166.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>600-Yard Par 5? Just a Driver—&gt;Pitching Wedge for Rory McIlroy</title>
-    <link>https://skratch.golf/news/news/us-open-2026-rory-mcilroy-par-5-eagle-driver-pitching-wedge-shinnecock</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/us-open-2026-rory-mcilroy-par-5-eagle-driver-pitching-wedge-shinnecock</guid>
-    <pubDate>Thu, 18 Jun 2026 18:42:11 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Must be nice to eagle a par 5 using driver-pitching wedge. Unrelatable stuff from Mr. McIlroy.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-open-2026-rory-mcilroy-par-5-eagle-driver-pitching-wedge-shinnecock"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2281609219_354f5a9b3c/Getty_Images_2281609219_354f5a9b3c.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>New Putter Paying Off Early For Aberg At U.S. Open</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/us-open-shinnecock-round-one-aberg-putter</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/us-open-shinnecock-round-one-aberg-putter</guid>
-    <pubDate>Thu, 18 Jun 2026 17:35:57 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Ludvig Aberg is the newest player to see gains since moving from a blade-style putter to a mallet, and so far it&#x27;s paying off at Shinnecock Hills&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/us-open-shinnecock-round-one-aberg-putter"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2281712949_3d8ecdd1d6/Getty_Images_2281712949_3d8ecdd1d6.jpg"/>
+    <title>A Fan Touched Rory McIlroy’s Ball, And The Crowd Took It Personally</title>
+    <link>https://skratch.golf/news/news/us-open-shinnecock-hills-rory-mcilroy-crowds-bad-shot-reaction</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/us-open-shinnecock-hills-rory-mcilroy-crowds-bad-shot-reaction</guid>
+    <pubDate>Thu, 18 Jun 2026 18:34:11 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Public shaming is so back.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-open-shinnecock-hills-rory-mcilroy-crowds-bad-shot-reaction"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/26_USO_0618_11103757_U7_A1175_87c0cdca6a/26_USO_0618_11103757_U7_A1175_87c0cdca6a.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -578,6 +578,17 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/GNmTASQVnJw"&gt;
     <category>video</category>
   </item>
   <item>
+    <title>Dense Fog Engulfs Shinnecock Hills on Day 1 of the U.S. Open</title>
+    <link>https://skratch.golf/news/news/us-open-2026-fog-delay-thursday-shinnecock-hills</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/us-open-2026-fog-delay-thursday-shinnecock-hills</guid>
+    <pubDate>Thu, 18 Jun 2026 12:15:15 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Dense fog is covering Shinnecock Hills on Thursday morning, and it doesn&#x27;t seem to be going anywhere.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-open-2026-fog-delay-thursday-shinnecock-hills"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282180637_10402e3eb7/Getty_Images_2282180637_10402e3eb7.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>There’s an IMPRESSIVE win streak happening in pro golf right now. 👀</title>
     <link>https://www.youtube.com/shorts/refKtQuU37A</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/refKtQuU37A</guid>
@@ -604,17 +615,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/GNmTASQVnJw"&gt;
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>If Riviera Was the Statement, Shinnecock Will Be the Mic Drop For Women&#x27;s Golf</title>
-    <link>https://skratch.golf/news/news/us-womens-open-riviera-statement-shinnecock-hills-uswo-2036</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/us-womens-open-riviera-statement-shinnecock-hills-uswo-2036</guid>
-    <pubDate>Wed, 17 Jun 2026 20:37:12 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;After a landmark U.S. Women&#x27;s Open at Riviera, the USGA is taking the championship to Shinnecock Hills Golf Club in 2036—and USGA leadership believes the best is still ahead.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-womens-open-riviera-statement-shinnecock-hills-uswo-2036"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/26_USO_0617_14303571_KHR_19051_b7bddc7db0/26_USO_0617_14303571_KHR_19051_b7bddc7db0.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>The most brutal par 3 at Shinnecock might also be the shortest. 👀</title>
