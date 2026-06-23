@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 23 Jun 2026 17:12:33 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 23 Jun 2026 19:23:54 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Tee Times for the 2026 Travelers Championship</title>
+    <link>https://skratch.golf/news/news/travelers-championship-2026-tee-times-pairings-tpc-river-highlands</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/travelers-championship-2026-tee-times-pairings-tpc-river-highlands</guid>
+    <pubDate>Tue, 23 Jun 2026 17:26:10 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Tee times and pairings for the first two rounds of the Travelers Championship are here.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/travelers-championship-2026-tee-times-pairings-tpc-river-highlands"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2221556041_57aedd6517/Getty_Images_2221556041_57aedd6517.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>A perfect fit for TPC River Highlands. @RickRunGood gives his play for Travelers.</title>
     <link>https://www.youtube.com/shorts/jxbZF1MrAvk</link>
@@ -525,17 +536,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Dustin Johnson Just Hit the Eject Button at the U.S. Open</title>
-    <link>https://skratch.golf/news/news/us-open-2026-dustin-johnson-eject-button-shinnecock-hills</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/us-open-2026-dustin-johnson-eject-button-shinnecock-hills</guid>
-    <pubDate>Fri, 19 Jun 2026 17:01:55 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Dustin Johnson looked like he could win the U.S. Open, but things started to move very quickly at Shinnecock.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-open-2026-dustin-johnson-eject-button-shinnecock-hills"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282362227_d47ce66692/Getty_Images_2282362227_d47ce66692.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Ready for this level of carnage at Shinnecock. 🙏</title>
