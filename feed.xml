@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 23 Jun 2026 11:37:02 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 23 Jun 2026 14:36:01 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>An Overhaul to the PGA TOUR is Coming in 2028</title>
+    <link>https://skratch.golf/news/news/pga-tour-new-schedule-two-leagues-changes-to-competitive-model</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-new-schedule-two-leagues-changes-to-competitive-model</guid>
+    <pubDate>Tue, 23 Jun 2026 14:16:49 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;BIG changes are coming to the PGA TOUR in 2028. Here&#x27;s a breakdown of everything that was unveiled on Tuesday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-new-schedule-two-leagues-changes-to-competitive-model"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1920489643_e285794aa9/Getty_Images_1920489643_e285794aa9.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Has The Wyndham Clark Hate Gone Too Far?</title>
+    <link>https://www.youtube.com/watch?v=UuEk8y2E8XU</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=UuEk8y2E8XU</guid>
+    <pubDate>Tue, 23 Jun 2026 12:30:28 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Dan &amp; Alan Shipnuck break down the boisterous NY crowd at Shinnecock. Did they go too far brutally rooting against Wyndham Clark at the U.S. Open?&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=UuEk8y2E8XU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/UuEk8y2E8XU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/UuEk8y2E8XU" type="text/html" medium="video"/>
+    <yt:videoId>UuEk8y2E8XU</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Bryson is the only top 25 player on Data Golf to miss the cut in 4 of the past 5 majors.</title>
     <link>https://www.youtube.com/shorts/b50mK8-q1jg</link>
@@ -549,20 +574,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>U.S. Open Round 1 Recap &amp; Chat: Wyndham FLYING, Rory Off To Great Start, Scottie Struggles</title>
-    <link>https://www.youtube.com/watch?v=QUBF7rXAzsk</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=QUBF7rXAzsk</guid>
-    <pubDate>Fri, 19 Jun 2026 01:22:52 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Recap the first round of the U.S. Open at Shinnecock Hills with Dan Rapaport.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=QUBF7rXAzsk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/QUBF7rXAzsk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/QUBF7rXAzsk" type="text/html" medium="video"/>
-    <yt:videoId>QUBF7rXAzsk</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Gettin windy at Shinnecock... Smoke &#x27;em if you got &#x27;em. 🤣</title>
     <link>https://www.youtube.com/shorts/fpenfdLNa_w</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/fpenfdLNa_w</guid>
@@ -575,17 +586,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>WTGL Status Update: The Four Cities Hosting Teams So Far</title>
-    <link>https://skratch.golf/news/news/wtgl-teams-host-cities-lpga-tour-indoor-golf-league</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/wtgl-teams-host-cities-lpga-tour-indoor-golf-league</guid>
-    <pubDate>Thu, 18 Jun 2026 15:58:45 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;As the league continues to take shape, here&#x27;s a look at the four markets that have already staked their claim in women&#x27;s golf&#x27;s newest venture.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/wtgl-teams-host-cities-lpga-tour-indoor-golf-league"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Michelle_Wie_WTGL_99bd11ddff/Michelle_Wie_WTGL_99bd11ddff.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>It&#x27;s Titleist in the ball market, and then it is everyone else</title>
