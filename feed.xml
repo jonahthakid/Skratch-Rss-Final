@@ -1,5 +1,3 @@
-<!-- Warning: Error fetching Skratch: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwtGQ3sgidNlQGbIUBPP3xw -->
-<!-- Warning: Error fetching Dan On Golf Show: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -11,8 +9,78 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 23 Jun 2026 04:38:19 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 23 Jun 2026 08:25:23 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Bryson is the only top 25 player on Data Golf to miss the cut in 4 of the past 5 majors.</title>
+    <link>https://www.youtube.com/shorts/b50mK8-q1jg</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/b50mK8-q1jg</guid>
+    <pubDate>Tue, 23 Jun 2026 02:03:44 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/b50mK8-q1jg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/b50mK8-q1jg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/b50mK8-q1jg" type="text/html" medium="video"/>
+    <yt:videoId>b50mK8-q1jg</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>The college kids—and juniors!—are playing at an insane level.</title>
+    <link>https://www.youtube.com/shorts/k2XRxCkV7iI</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/k2XRxCkV7iI</guid>
+    <pubDate>Mon, 22 Jun 2026 23:40:37 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/k2XRxCkV7iI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/k2XRxCkV7iI/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/k2XRxCkV7iI" type="text/html" medium="video"/>
+    <yt:videoId>k2XRxCkV7iI</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Celebrating DJ&#x27;s birthday with one of the best shots we&#x27;ve ever seen on TOUR. 😳</title>
+    <link>https://www.youtube.com/shorts/WJ8Imdo9bG0</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/WJ8Imdo9bG0</guid>
+    <pubDate>Mon, 22 Jun 2026 22:20:37 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/WJ8Imdo9bG0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/WJ8Imdo9bG0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/WJ8Imdo9bG0" type="text/html" medium="video"/>
+    <yt:videoId>WJ8Imdo9bG0</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>A 17-year-old brutally son-mogged the rest of the field.</title>
+    <link>https://www.youtube.com/shorts/7hwAI0ugXhY</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/7hwAI0ugXhY</guid>
+    <pubDate>Mon, 22 Jun 2026 21:45:33 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/7hwAI0ugXhY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/7hwAI0ugXhY/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/7hwAI0ugXhY" type="text/html" medium="video"/>
+    <yt:videoId>7hwAI0ugXhY</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Did the fans go too far with Wyndham Clark? @manorsgolf</title>
+    <link>https://www.youtube.com/shorts/KOyfvViL4ME</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/KOyfvViL4ME</guid>
+    <pubDate>Mon, 22 Jun 2026 21:00:13 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/KOyfvViL4ME"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/KOyfvViL4ME/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/KOyfvViL4ME" type="text/html" medium="video"/>
+    <yt:videoId>KOyfvViL4ME</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>After Shinnecock, I&#x27;m Ready to Call the U.S. Open Golf&#x27;s Best Major</title>
     <link>https://skratch.golf/news/golf-culture/us-open-best-major-masters-comparison</link>
@@ -23,6 +91,20 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/wyndham_clark_us_open_2026_Getty_Images_2282673754_49a44f3812/wyndham_clark_us_open_2026_Getty_Images_2282673754_49a44f3812.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>GNARLY hat tan lines for the first day of summer. 🤣</title>
+    <link>https://www.youtube.com/shorts/_WndVHRybhM</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/_WndVHRybhM</guid>
+    <pubDate>Mon, 22 Jun 2026 19:42:19 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/_WndVHRybhM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/_WndVHRybhM/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/_WndVHRybhM" type="text/html" medium="video"/>
+    <yt:videoId>_WndVHRybhM</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>How to Watch the Travelers Championship (and the Wild 15 ½ Challenge)</title>
@@ -45,6 +127,26 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282539618_e4bd8b699d/Getty_Images_2282539618_e4bd8b699d.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>S2 E48: U.S. OPEN RECAP: The Wyndham Clark Hate, Bryson Struggles Again, Amateurs Show Out</title>
+    <link>https://www.youtube.com/watch?v=Pd85nUCFtz0</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=Pd85nUCFtz0</guid>
+    <pubDate>Mon, 22 Jun 2026 18:39:32 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Wyndham Clark fights through a crowd against him to win the U.S. Open at Shinnecock. The amateurs absolutely SHOW OUT on the big stage. Bryson misses another cut, will he go 0-for-4 in majors this year? Plus, a fun DOG Race &amp; much more.
+
+Thank You to Our Sponsors!
+
+Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
+
+Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround.com/golf and use code DANONGOLF20, you can stock u&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Pd85nUCFtz0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Pd85nUCFtz0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Pd85nUCFtz0" type="text/html" medium="video"/>
+    <yt:videoId>Pd85nUCFtz0</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
   </item>
   <item>
     <title>Inside Wyndham Clark&#x27;s U.S. Open-Winning Range Session</title>
@@ -102,6 +204,20 @@
     <category>article</category>
   </item>
   <item>
+    <title>He battled his golf swing and a crowd actively rooting against him.</title>
+    <link>https://www.youtube.com/shorts/k8php1ZWgjk</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/k8php1ZWgjk</guid>
+    <pubDate>Mon, 22 Jun 2026 01:17:57 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/k8php1ZWgjk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/k8php1ZWgjk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/k8php1ZWgjk" type="text/html" medium="video"/>
+    <yt:videoId>k8php1ZWgjk</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Scottie Scheffler Applauds Wyndham Clark for Handling the Rowdy New York Crowd</title>
     <link>https://skratch.golf/news/news/wyndham-clark-fans-us-open-2026-scottie-scheffler-shinnecock-hills</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/wyndham-clark-fans-us-open-2026-scottie-scheffler-shinnecock-hills</guid>
@@ -122,6 +238,20 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282677066_4303241dd1/Getty_Images_2282677066_4303241dd1.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>U.S. Open Final Round Watch Along: Contenders CHASING Wyndham Clark at Shinnecock!</title>
+    <link>https://www.youtube.com/watch?v=bS57VC5LB8E</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=bS57VC5LB8E</guid>
+    <pubDate>Sun, 21 Jun 2026 22:55:17 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Watch the final-round action of the U.S. Open at Shinnecock play out alongside Dan Rapaport&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=bS57VC5LB8E"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/bS57VC5LB8E/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/bS57VC5LB8E" type="text/html" medium="video"/>
+    <yt:videoId>bS57VC5LB8E</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
   </item>
   <item>
     <title>Comparing Wyndham Clark&#x27;s Two U.S. Open Winning Bags</title>
@@ -157,6 +287,20 @@
     <category>article</category>
   </item>
   <item>
+    <title>U.S. Open Round 3 Recap: Can Anyone Catch Wyndham Clark?</title>
+    <link>https://www.youtube.com/watch?v=rN16SchkoJc</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=rN16SchkoJc</guid>
+    <pubDate>Sun, 21 Jun 2026 01:09:17 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Recap the third-round action at the U.S. Open with Dan Rapaport.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=rN16SchkoJc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/rN16SchkoJc/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/rN16SchkoJc" type="text/html" medium="video"/>
+    <yt:videoId>rN16SchkoJc</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Final-Round Tee Times for the U.S. Open</title>
     <link>https://skratch.golf/news/news/us-open-2026-final-round-tee-times-sunday-shinnecock-hills</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/us-open-2026-final-round-tee-times-sunday-shinnecock-hills</guid>
@@ -190,6 +334,40 @@
     <category>article</category>
   </item>
   <item>
+    <title>History could be on deck for Scottie tomorrow… if—and I big if—Wyndham comes back to earth.</title>
+    <link>https://www.youtube.com/shorts/Jsg_1ZUzOH0</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/Jsg_1ZUzOH0</guid>
+    <pubDate>Sun, 21 Jun 2026 00:08:01 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Jsg_1ZUzOH0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Jsg_1ZUzOH0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Jsg_1ZUzOH0" type="text/html" medium="video"/>
+    <yt:videoId>Jsg_1ZUzOH0</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>The sights sounds and taste of Shinnecock Hills</title>
+    <link>https://www.youtube.com/shorts/o1kB4ufgzw8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/o1kB4ufgzw8</guid>
+    <pubDate>Sat, 20 Jun 2026 22:51:47 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;It wouldn&#x27;t be a U.S. Open without a little wind, fescue and a Dewars Lemon Wedge.
+
+Pete Scrimgeour gets the full experience at Shinnecock Hills.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/o1kB4ufgzw8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/o1kB4ufgzw8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/o1kB4ufgzw8" type="text/html" medium="video"/>
+    <yt:videoId>o1kB4ufgzw8</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>&#x27;If You Have the Right Attitude, It’s Kind Of Fun&#x27;: Reflections from a Classic U.S. Open Saturday at Shinnecock</title>
     <link>https://skratch.golf/news/pro-golf/2026-us-open-saturday-round-3-recap-interviews</link>
     <guid isPermaLink="true">https://skratch.golf/news/pro-golf/2026-us-open-saturday-round-3-recap-interviews</guid>
@@ -201,6 +379,34 @@
     <category>article</category>
   </item>
   <item>
+    <title>U.S. Open Round 2 Recap: Is Shinnecock Playing TOO EASY?</title>
+    <link>https://www.youtube.com/watch?v=H8JIZZjn6kw</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=H8JIZZjn6kw</guid>
+    <pubDate>Sat, 20 Jun 2026 13:18:20 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Recap the second round action of the U.S. Open at Shinnecock alongside Dan Rapaport.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=H8JIZZjn6kw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/H8JIZZjn6kw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/H8JIZZjn6kw" type="text/html" medium="video"/>
+    <yt:videoId>H8JIZZjn6kw</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Wyndham is balling, but we wanna see Shinnecock be Shinnecock this weekend.</title>
+    <link>https://www.youtube.com/shorts/RMwrJyYcCKI</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/RMwrJyYcCKI</guid>
+    <pubDate>Sat, 20 Jun 2026 00:25:22 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/RMwrJyYcCKI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/RMwrJyYcCKI/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/RMwrJyYcCKI" type="text/html" medium="video"/>
+    <yt:videoId>RMwrJyYcCKI</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>What Shoe Is Tommy Fleetwood Wearing At The U.S. Open?</title>
     <link>https://skratch.golf/style/mens-style/us-open-tommy-fleetwood-sun-day-red-golf-shoe</link>
     <guid isPermaLink="true">https://skratch.golf/style/mens-style/us-open-tommy-fleetwood-sun-day-red-golf-shoe</guid>
@@ -210,6 +416,40 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Tommy_SDR_Cover_6bb669a668/Tommy_SDR_Cover_6bb669a668.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>What ball is best for playing Shinnecock? 👀</title>
+    <link>https://www.youtube.com/shorts/nDCNEkIcWgo</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/nDCNEkIcWgo</guid>
+    <pubDate>Fri, 19 Jun 2026 18:33:38 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Before Riley played Shinnecock last month, he reached out to gear guru Ryan Barath for a ball recommendation, and Ryan had a clear answer: @titleist ProV1x Left Dash.
+
+Hear how it performed at one of the most difficult courses Riley&#x27;s ever played.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special t&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/nDCNEkIcWgo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/nDCNEkIcWgo/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/nDCNEkIcWgo" type="text/html" medium="video"/>
+    <yt:videoId>nDCNEkIcWgo</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Solo leader Wyndham Clark&#x27;s hilarious story about his U.S. Open victory in 2023 😂</title>
+    <link>https://www.youtube.com/shorts/5b_NBsuzsX0</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/5b_NBsuzsX0</guid>
+    <pubDate>Fri, 19 Jun 2026 17:38:27 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/5b_NBsuzsX0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/5b_NBsuzsX0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/5b_NBsuzsX0" type="text/html" medium="video"/>
+    <yt:videoId>5b_NBsuzsX0</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
   </item>
   <item>
     <title>Bryson...Again!? Big Names Who Missed the Cut at the U.S. Open</title>
@@ -232,6 +472,34 @@
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282362227_d47ce66692/Getty_Images_2282362227_d47ce66692.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>Ready for this level of carnage at Shinnecock. 🙏</title>
+    <link>https://www.youtube.com/shorts/t4rGnzpQ8RY</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/t4rGnzpQ8RY</guid>
+    <pubDate>Fri, 19 Jun 2026 16:19:31 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/t4rGnzpQ8RY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/t4rGnzpQ8RY/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/t4rGnzpQ8RY" type="text/html" medium="video"/>
+    <yt:videoId>t4rGnzpQ8RY</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Did the USGA get it right?</title>
+    <link>https://www.youtube.com/shorts/xCXmB7X3WtU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/xCXmB7X3WtU</guid>
+    <pubDate>Fri, 19 Jun 2026 16:18:00 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/xCXmB7X3WtU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/xCXmB7X3WtU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/xCXmB7X3WtU" type="text/html" medium="video"/>
+    <yt:videoId>xCXmB7X3WtU</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
   </item>
   <item>
     <title>Srixon Delivers New ZXi-RKT Drivers At The Travelers</title>
@@ -267,6 +535,48 @@
     <category>article</category>
   </item>
   <item>
+    <title>Behind The Scenes At The U.S. Open Range</title>
+    <link>https://www.youtube.com/watch?v=iK6i8abd2y4</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=iK6i8abd2y4</guid>
+    <pubDate>Fri, 19 Jun 2026 13:59:21 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Dan Rapaport takes you inside the ropes at the U.S. Open range at Shinnecock Hills.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=iK6i8abd2y4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/iK6i8abd2y4/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/iK6i8abd2y4" type="text/html" medium="video"/>
+    <yt:videoId>iK6i8abd2y4</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>U.S. Open Round 1 Recap &amp; Chat: Wyndham FLYING, Rory Off To Great Start, Scottie Struggles</title>
+    <link>https://www.youtube.com/watch?v=QUBF7rXAzsk</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=QUBF7rXAzsk</guid>
+    <pubDate>Fri, 19 Jun 2026 01:22:52 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Recap the first round of the U.S. Open at Shinnecock Hills with Dan Rapaport.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=QUBF7rXAzsk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/QUBF7rXAzsk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/QUBF7rXAzsk" type="text/html" medium="video"/>
+    <yt:videoId>QUBF7rXAzsk</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Gettin windy at Shinnecock... Smoke &#x27;em if you got &#x27;em. 🤣</title>
+    <link>https://www.youtube.com/shorts/fpenfdLNa_w</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/fpenfdLNa_w</guid>
+    <pubDate>Thu, 18 Jun 2026 17:21:53 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/fpenfdLNa_w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/fpenfdLNa_w/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/fpenfdLNa_w" type="text/html" medium="video"/>
+    <yt:videoId>fpenfdLNa_w</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>WTGL Status Update: The Four Cities Hosting Teams So Far</title>
     <link>https://skratch.golf/news/news/wtgl-teams-host-cities-lpga-tour-indoor-golf-league</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/wtgl-teams-host-cities-lpga-tour-indoor-golf-league</guid>
@@ -278,15 +588,81 @@
     <category>article</category>
   </item>
   <item>
-    <title>What We Learned From a Golf Ball Fitting Before Shinnecock</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/us-open-golf-ball-fitting-titleist-media-day</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/us-open-golf-ball-fitting-titleist-media-day</guid>
-    <pubDate>Fri, 12 Jun 2026 14:13:25 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Before taking on Shinnecock Hills, a Skratch editor got a golf ball fitting. Wyndham Clark&#x27;s U.S. Open win showed why finding the right ball matters.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/us-open-golf-ball-fitting-titleist-media-day"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/wyndham_clark_uso_shinnecock_Getty_Images_2282551833_cafa516601/wyndham_clark_uso_shinnecock_Getty_Images_2282551833_cafa516601.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
+    <title>It&#x27;s Titleist in the ball market, and then it is everyone else</title>
+    <link>https://www.youtube.com/shorts/GNmTASQVnJw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/GNmTASQVnJw</guid>
+    <pubDate>Thu, 18 Jun 2026 15:00:19 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
+
+Check out our website: https://skratch.golf/
+Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/GNmTASQVnJw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/GNmTASQVnJw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/GNmTASQVnJw" type="text/html" medium="video"/>
+    <yt:videoId>GNmTASQVnJw</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>2018 @bkoepka was a problem. 😳 Could we see him win another @usopengolf at Shinnecock this week?</title>
+    <link>https://www.youtube.com/shorts/d4rjFdmQDTw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/d4rjFdmQDTw</guid>
+    <pubDate>Thu, 18 Jun 2026 13:54:28 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/d4rjFdmQDTw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/d4rjFdmQDTw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/d4rjFdmQDTw" type="text/html" medium="video"/>
+    <yt:videoId>d4rjFdmQDTw</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>There’s an IMPRESSIVE win streak happening in pro golf right now. 👀</title>
+    <link>https://www.youtube.com/shorts/refKtQuU37A</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/refKtQuU37A</guid>
+    <pubDate>Wed, 17 Jun 2026 23:13:36 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;@titleist could hit double-digit consecutive weeks with a ProV1 in the winner’s circle at Shinnecock.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/refKtQuU37A"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/refKtQuU37A/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/refKtQuU37A" type="text/html" medium="video"/>
+    <yt:videoId>refKtQuU37A</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>An all-time Range Report today from the United States Open</title>
+    <link>https://www.youtube.com/shorts/N08ih6wZyw8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/N08ih6wZyw8</guid>
+    <pubDate>Wed, 17 Jun 2026 22:17:59 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/N08ih6wZyw8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/N08ih6wZyw8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/N08ih6wZyw8" type="text/html" medium="video"/>
+    <yt:videoId>N08ih6wZyw8</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>The most brutal par 3 at Shinnecock might also be the shortest. 👀</title>
+    <link>https://www.youtube.com/shorts/zw1yUS7Y5bM</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/zw1yUS7Y5bM</guid>
+    <pubDate>Wed, 17 Jun 2026 17:28:55 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Last month our Riley Hamel played Shinnecock, and one hole in particular felt pivotal to the U.S. Open’s outcome. He explains why to keep an eye on No. 11 in this Course Preview presented by Attio, the CRM for high growth teams.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/zw1yUS7Y5bM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/zw1yUS7Y5bM/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/zw1yUS7Y5bM" type="text/html" medium="video"/>
+    <yt:videoId>zw1yUS7Y5bM</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
 </channel>
 </rss>
