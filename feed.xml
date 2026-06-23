@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 23 Jun 2026 21:12:32 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 23 Jun 2026 22:44:41 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Where Will the PGA TOUR Play in 2028? Here Are the Courses to Watch</title>
+    <link>https://skratch.golf/news/news/pga-tour-2028-match-play-championship-challenger-courses-to-watch</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-2028-match-play-championship-challenger-courses-to-watch</guid>
+    <pubDate>Tue, 23 Jun 2026 20:25:21 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;A new schedule, a traveling TOUR Championship and plenty of unanswered questions. Here are the courses that could define the PGA TOUR&#x27;s next era.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-2028-match-play-championship-challenger-courses-to-watch"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Jackson_Herrington_2025_olympic_am_Getty_Images_2230671229_781fd95d1f/Jackson_Herrington_2025_olympic_am_Getty_Images_2230671229_781fd95d1f.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Don’t blame the player, blame the rules.</title>
     <link>https://www.youtube.com/shorts/UNmKEd9jIN8</link>
@@ -434,13 +445,13 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>Final-Round Tee Times for the U.S. Open</title>
-    <link>https://skratch.golf/news/news/us-open-2026-final-round-tee-times-sunday-shinnecock-hills</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/us-open-2026-final-round-tee-times-sunday-shinnecock-hills</guid>
-    <pubDate>Sun, 21 Jun 2026 00:41:15 +0000</pubDate>
+    <title>Wyndham Clark Is Thriving in the &#x27;Come and Get Me&#x27; Role</title>
+    <link>https://skratch.golf/news/news/us-open-2026-wyndham-clark-dominating-shinnecock-embrace-role</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/us-open-2026-wyndham-clark-dominating-shinnecock-embrace-role</guid>
+    <pubDate>Sun, 21 Jun 2026 00:14:48 +0000</pubDate>
     <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;This thing might be over. But it’s still Shinnecock, it’s still the U.S. Open, and anything can happen. Here are the tee times and pairings for the final round in the Hamptons.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-open-2026-final-round-tee-times-sunday-shinnecock-hills"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282552194_2c1fd090e9/Getty_Images_2282552194_2c1fd090e9.jpg"/>
+    <description>&lt;p&gt;Say what you want about L.A.C.C. or how much he&#x27;s grown—tomorrow, Wyndham Clark can validate much more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-open-2026-wyndham-clark-dominating-shinnecock-embrace-role"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_06_20_at_5_39_59_PM_34594a5644/Screenshot_2026_06_20_at_5_39_59_PM_34594a5644.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -477,17 +488,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>&#x27;If You Have the Right Attitude, It’s Kind Of Fun&#x27;: Reflections from a Classic U.S. Open Saturday at Shinnecock</title>
-    <link>https://skratch.golf/news/pro-golf/2026-us-open-saturday-round-3-recap-interviews</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/2026-us-open-saturday-round-3-recap-interviews</guid>
-    <pubDate>Sat, 20 Jun 2026 22:37:54 +0000</pubDate>
-    <dc:creator>Alan Shipnuck</dc:creator>
-    <description>&lt;p&gt;The breeze is supposed to be benign on Sunday. Who wins and loses will rightfully be the story. But before all of that plays out, let’s pause to appreciate how much fun it was when we finally got a little peek at how diabolical Shinnecock Hills can be.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/2026-us-open-saturday-round-3-recap-interviews"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282530080_217b8bdd82/Getty_Images_2282530080_217b8bdd82.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>U.S. Open Round 2 Recap: Is Shinnecock Playing TOO EASY?</title>
