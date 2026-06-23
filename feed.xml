@@ -9,8 +9,58 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 23 Jun 2026 14:36:01 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 23 Jun 2026 17:12:33 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>A perfect fit for TPC River Highlands. @RickRunGood gives his play for Travelers.</title>
+    <link>https://www.youtube.com/shorts/jxbZF1MrAvk</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/jxbZF1MrAvk</guid>
+    <pubDate>Tue, 23 Jun 2026 15:39:59 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/jxbZF1MrAvk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/jxbZF1MrAvk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/jxbZF1MrAvk" type="text/html" medium="video"/>
+    <yt:videoId>jxbZF1MrAvk</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>“I think he understands now.” 🥶 #TigerTuesday</title>
+    <link>https://www.youtube.com/shorts/jsUbXyroRL8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/jsUbXyroRL8</guid>
+    <pubDate>Tue, 23 Jun 2026 15:23:07 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/jsUbXyroRL8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/jsUbXyroRL8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/jsUbXyroRL8" type="text/html" medium="video"/>
+    <yt:videoId>jsUbXyroRL8</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Tiger Woods Makes His First Public Appearance Since the Car Accident</title>
+    <link>https://skratch.golf/news/news/tiger-woods-first-public-appearance-car-crash-pga-tour-schedule-press-conference</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/tiger-woods-first-public-appearance-car-crash-pga-tour-schedule-press-conference</guid>
+    <pubDate>Tue, 23 Jun 2026 14:40:11 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Tiger Woods made a surprise appearance at the PGA TOUR&#x27;s press conference on Tuesday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-first-public-appearance-car-crash-pga-tour-schedule-press-conference"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282951738_36f2745114/Getty_Images_2282951738_36f2745114.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Sugarloaf Social Club&#x27;s Americana Dream Collection Has Finally Arrived</title>
+    <link>https://skratch.golf/style/mens-style/sugarloaf-social-club-s-americana-dream-collection-has-finally-arrived</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/sugarloaf-social-club-s-americana-dream-collection-has-finally-arrived</guid>
+    <pubDate>Tue, 23 Jun 2026 14:36:44 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;The SSC x PAYNTR collaboration finally lands alongside a lineup of apparel made for long summer days.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/sugarloaf-social-club-s-americana-dream-collection-has-finally-arrived"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/AD_Cover_b933691450/AD_Cover_b933691450.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>An Overhaul to the PGA TOUR is Coming in 2028</title>
     <link>https://skratch.golf/news/news/pga-tour-new-schedule-two-leagues-changes-to-competitive-model</link>
@@ -172,6 +222,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Hazeltine Awaits: Three Storylines That Could Define the 2026 KPMG Women’s PGA</title>
+    <link>https://skratch.golf/news/news/2026-kpmg-womens-pga-championship-lpga-tour-hazeltine-national-three-storylines</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/2026-kpmg-womens-pga-championship-lpga-tour-hazeltine-national-three-storylines</guid>
+    <pubDate>Mon, 22 Jun 2026 18:35:36 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;A potential historic run from Nelly Korda, a sentimental return for Hannah Green, and Hazeltine reminding everyone why it’s one of golf’s purest tests—three forces shaping the 2026 KPMG Women&#x27;s PGA Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-kpmg-womens-pga-championship-lpga-tour-hazeltine-national-three-storylines"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/KPMG_Hazeltine_trophy_7488176a08/KPMG_Hazeltine_trophy_7488176a08.jpeg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Inside Wyndham Clark&#x27;s U.S. Open-Winning Range Session</title>
@@ -432,17 +493,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>What Shoe Is Tommy Fleetwood Wearing At The U.S. Open?</title>
-    <link>https://skratch.golf/style/mens-style/us-open-tommy-fleetwood-sun-day-red-golf-shoe</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/us-open-tommy-fleetwood-sun-day-red-golf-shoe</guid>
-    <pubDate>Fri, 19 Jun 2026 22:36:12 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Weeks of Tour sightings suggest a spiked version of the Presidio may be on the way.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/us-open-tommy-fleetwood-sun-day-red-golf-shoe"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Tommy_SDR_Cover_6bb669a668/Tommy_SDR_Cover_6bb669a668.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>What ball is best for playing Shinnecock? 👀</title>
     <link>https://www.youtube.com/shorts/nDCNEkIcWgo</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/nDCNEkIcWgo</guid>
@@ -475,17 +525,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Bryson...Again!? Big Names Who Missed the Cut at the U.S. Open</title>
-    <link>https://skratch.golf/news/news/us-open-2026-miss-cut-notable-names-stars-shinnecock-hills</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/us-open-2026-miss-cut-notable-names-stars-shinnecock-hills</guid>
-    <pubDate>Fri, 19 Jun 2026 17:23:15 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Another major championship, another missed cut for Bryson DeChambeau. Here&#x27;s a full look at the notable names heading home after two days at Shinnecock Hills.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-open-2026-miss-cut-notable-names-stars-shinnecock-hills"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282343381_ffbdc0014b/Getty_Images_2282343381_ffbdc0014b.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Dustin Johnson Just Hit the Eject Button at the U.S. Open</title>
@@ -547,31 +586,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2157346688_0a06b99394/Getty_Images_2157346688_0a06b99394.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>&quot;Pretty Impressive Throw&quot;: Joaquin Niemann Penalized Two Shots at U.S. Open</title>
-    <link>https://skratch.golf/news/news/joaquin-niemann-us-open-penalty-club-throw</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/joaquin-niemann-us-open-penalty-club-throw</guid>
-    <pubDate>Fri, 19 Jun 2026 14:12:21 +0000</pubDate>
-    <dc:creator>Brittany Romano</dc:creator>
-    <description>&lt;p&gt;The USGA determined Niemann&#x27;s actions on the 6th hole constituted &quot;serious misconduct,&quot; resulting in a two-stroke penalty during Round 1 at Shinnecock.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/joaquin-niemann-us-open-penalty-club-throw"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Joaquin_Niemann_Getty_Images_2279522606_ac56eaaec1/Joaquin_Niemann_Getty_Images_2279522606_ac56eaaec1.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Behind The Scenes At The U.S. Open Range</title>
-    <link>https://www.youtube.com/watch?v=iK6i8abd2y4</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=iK6i8abd2y4</guid>
-    <pubDate>Fri, 19 Jun 2026 13:59:21 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Dan Rapaport takes you inside the ropes at the U.S. Open range at Shinnecock Hills.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=iK6i8abd2y4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/iK6i8abd2y4/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/iK6i8abd2y4" type="text/html" medium="video"/>
-    <yt:videoId>iK6i8abd2y4</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>Gettin windy at Shinnecock... Smoke &#x27;em if you got &#x27;em. 🤣</title>
@@ -646,20 +660,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/GNmTASQVnJw"&gt;
     <media:thumbnail url="https://img.youtube.com/vi/N08ih6wZyw8/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/N08ih6wZyw8" type="text/html" medium="video"/>
     <yt:videoId>N08ih6wZyw8</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>The most brutal par 3 at Shinnecock might also be the shortest. 👀</title>
-    <link>https://www.youtube.com/shorts/zw1yUS7Y5bM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/zw1yUS7Y5bM</guid>
-    <pubDate>Wed, 17 Jun 2026 17:28:55 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Last month our Riley Hamel played Shinnecock, and one hole in particular felt pivotal to the U.S. Open’s outcome. He explains why to keep an eye on No. 11 in this Course Preview presented by Attio, the CRM for high growth teams.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/zw1yUS7Y5bM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/zw1yUS7Y5bM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/zw1yUS7Y5bM" type="text/html" medium="video"/>
-    <yt:videoId>zw1yUS7Y5bM</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
