@@ -9,8 +9,28 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 24 Jun 2026 21:18:17 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 24 Jun 2026 22:44:46 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>S2, E49: A New PGA TOUR, Spieth Goes Putter Shopping, Jake Knapp &amp; Rich Lerner Interviews</title>
+    <link>https://www.youtube.com/watch?v=hjB5-5ucLqg</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=hjB5-5ucLqg</guid>
+    <pubDate>Wed, 24 Jun 2026 21:37:01 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;A packed Wednesday show. The PGA TOUR announces BIG structural changes for the future. Jordan Spieth is deep in a possible putter change. We also have two interviews for you: Golf Channel&#x27;s Rich Lerner &amp; friend of the show &amp; winner on TOUR, Jake Knapp.
+
+Thank You to Our Sponsors!
+
+Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
+
+Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround.com/golf and use code DANONGOLF20,&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=hjB5-5ucLqg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/hjB5-5ucLqg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/hjB5-5ucLqg" type="text/html" medium="video"/>
+    <yt:videoId>hjB5-5ucLqg</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>If you&#x27;ve never had a ball fitting, this is your sign. 👀</title>
     <link>https://www.youtube.com/shorts/pS2W6Yww3mw</link>
@@ -568,20 +588,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/H8JIZZjn6kw/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/H8JIZZjn6kw" type="text/html" medium="video"/>
     <yt:videoId>H8JIZZjn6kw</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Wyndham is balling, but we wanna see Shinnecock be Shinnecock this weekend.</title>
-    <link>https://www.youtube.com/shorts/RMwrJyYcCKI</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/RMwrJyYcCKI</guid>
-    <pubDate>Sat, 20 Jun 2026 00:25:22 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/RMwrJyYcCKI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/RMwrJyYcCKI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/RMwrJyYcCKI" type="text/html" medium="video"/>
-    <yt:videoId>RMwrJyYcCKI</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
