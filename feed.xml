@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 24 Jun 2026 17:49:22 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 24 Jun 2026 19:38:07 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Stop Firing at EVERY Flagstick | TOUR winner Jacob Bridgeman on Playing Safe or Being Aggressive</title>
@@ -47,6 +47,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
+    <title>JT Time? Three Players to Watch at the Travelers Championship</title>
+    <link>https://skratch.golf/news/news/travelers-championship-2026-players-to-watch-golf-picks-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/travelers-championship-2026-players-to-watch-golf-picks-pga-tour</guid>
+    <pubDate>Wed, 24 Jun 2026 16:08:14 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;JT has loved himself some TPC River Highlands over the last few years—can he finally get a W? Here are three players to watch at the Travelers Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/travelers-championship-2026-players-to-watch-golf-picks-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2281639974_245cca3673/Getty_Images_2281639974_245cca3673.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>This squirrel just wanted a front row seat to see Rory. 😭</title>
     <link>https://www.youtube.com/shorts/M6q86PdBB9I</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/M6q86PdBB9I</guid>
@@ -59,6 +70,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Et tu Jordan? Spieth Spotted Eyeing a Zero Torque Putters at the Travelers</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/jordan-spieth-travelers-golf-zero-torque-putter-swap-lab-golf-scotty-cameron</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/jordan-spieth-travelers-golf-zero-torque-putter-swap-lab-golf-scotty-cameron</guid>
+    <pubDate>Tue, 23 Jun 2026 23:52:07 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;In search of his first victory since 2022, the noted bladesman looks to be considering a major putter change in Connecticut.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/jordan-spieth-travelers-golf-zero-torque-putter-swap-lab-golf-scotty-cameron"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2265793798_c77f4eeef4/Getty_Images_2265793798_c77f4eeef4.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Where Will the PGA TOUR Play in 2028? Here Are the Courses to Watch</title>
@@ -433,17 +455,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>Wyndham Clark Had No Idea His Dad Was Waiting on 18</title>
-    <link>https://skratch.golf/news/news/wyndham-clark-dad-surprise-us-open-2026-shinnecock</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/wyndham-clark-dad-surprise-us-open-2026-shinnecock</guid>
-    <pubDate>Sun, 21 Jun 2026 23:23:50 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;After taking a red-eye into town, Randall Clark surprised his son on the 18th green following Wyndham&#x27;s second U.S. Open victory, creating a Father&#x27;s Day memory neither will forget.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/wyndham-clark-dad-surprise-us-open-2026-shinnecock"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282677066_4303241dd1/Getty_Images_2282677066_4303241dd1.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>U.S. Open Final Round Watch Along: Contenders CHASING Wyndham Clark at Shinnecock!</title>
     <link>https://www.youtube.com/watch?v=bS57VC5LB8E</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=bS57VC5LB8E</guid>
@@ -653,20 +664,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/GNmTASQVnJw"&gt;
     <media:thumbnail url="https://img.youtube.com/vi/GNmTASQVnJw/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/GNmTASQVnJw" type="text/html" medium="video"/>
     <yt:videoId>GNmTASQVnJw</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>2018 @bkoepka was a problem. 😳 Could we see him win another @usopengolf at Shinnecock this week?</title>
-    <link>https://www.youtube.com/shorts/d4rjFdmQDTw</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/d4rjFdmQDTw</guid>
-    <pubDate>Thu, 18 Jun 2026 13:54:28 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/d4rjFdmQDTw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/d4rjFdmQDTw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/d4rjFdmQDTw" type="text/html" medium="video"/>
-    <yt:videoId>d4rjFdmQDTw</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
