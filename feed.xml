@@ -9,8 +9,39 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 24 Jun 2026 19:38:07 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 24 Jun 2026 21:18:17 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>If you&#x27;ve never had a ball fitting, this is your sign. 👀</title>
+    <link>https://www.youtube.com/shorts/pS2W6Yww3mw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/pS2W6Yww3mw</guid>
+    <pubDate>Wed, 24 Jun 2026 20:13:20 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Gear editor, Ryan Barath, confirms if he should keep gaming the @titleist ProV1x Left Dash or if it&#x27;s time to switch it up.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/pS2W6Yww3mw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/pS2W6Yww3mw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/pS2W6Yww3mw" type="text/html" medium="video"/>
+    <yt:videoId>pS2W6Yww3mw</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Shane Lowry Turns to Familiar Face After Caddie Split</title>
+    <link>https://skratch.golf/news/pro-golf/shane-lowry-caddie-change-travelers-byrne</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/shane-lowry-caddie-change-travelers-byrne</guid>
+    <pubDate>Wed, 24 Jun 2026 19:50:35 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;Following a missed cut at the U.S. Open, Lowry has reunited with former caddie Dermot Byrne while he evaluates a longer-term solution.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/shane-lowry-caddie-change-travelers-byrne"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/lowry_caddie_dermot_byrne_travelers_2026_Getty_Images_2283136245_e6fe38a08e/lowry_caddie_dermot_byrne_travelers_2026_Getty_Images_2283136245_e6fe38a08e.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Stop Firing at EVERY Flagstick | TOUR winner Jacob Bridgeman on Playing Safe or Being Aggressive</title>
     <link>https://www.youtube.com/watch?v=b66NaU-N55c</link>
@@ -198,6 +229,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;BIG changes are coming to the PGA TOUR in 2028. Here&#x27;s a breakdown of everything that was unveiled on Tuesday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-new-schedule-two-leagues-changes-to-competitive-model"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1920489643_e285794aa9/Getty_Images_1920489643_e285794aa9.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Are You Playing the Right Golf Ball?</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/titleist-ball-fitting-pro-v1-golf-pinehurst-spin</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/titleist-ball-fitting-pro-v1-golf-pinehurst-spin</guid>
+    <pubDate>Tue, 23 Jun 2026 14:12:44 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;To find out, we headed to Pinehurst, North Carolina, for a Titleist golf ball fitting and discovered how much the right ball can influence performance.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/titleist-ball-fitting-pro-v1-golf-pinehurst-spin"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/2026_left_dash_prov1x_titleist_4ae8600220/2026_left_dash_prov1x_titleist_4ae8600220.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -408,28 +450,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>First There Was Noise, Now There&#x27;s Just Wyndham</title>
-    <link>https://skratch.golf/news/pro-golf/2026-us-open-shinnecock-hills-wyndham-clark-dispatch</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/2026-us-open-shinnecock-hills-wyndham-clark-dispatch</guid>
-    <pubDate>Mon, 22 Jun 2026 02:48:04 +0000</pubDate>
-    <dc:creator>Alan Shipnuck</dc:creator>
-    <description>&lt;p&gt;For all of the chatter around Clark, there is now a very simple way to describe him: two-time U.S. Open champion. That’s more U.S. Open wins than Scheffler, McIlroy, Snead, Mickelson, Faldo, Ballesteros, Norman, Singh, Schauffele, Collin and Justin Thomas…combined.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/2026-us-open-shinnecock-hills-wyndham-clark-dispatch"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282176289_8811b580a8/Getty_Images_2282176289_8811b580a8.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Underdog Story Behind Wyndham Clark and Municipal</title>
-    <link>https://skratch.golf/style/mens-style/wyndham-clark-municipal-apparel-polo-us-open-ambassador</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/wyndham-clark-municipal-apparel-polo-us-open-ambassador</guid>
-    <pubDate>Mon, 22 Jun 2026 01:27:07 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Municipal saw a gritty competitor with big aspirations in 2021. A few major victories later, that belief looks better than ever.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/wyndham-clark-municipal-apparel-polo-us-open-ambassador"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Clark_Cover_Municipal_48adbd5a9f/Clark_Cover_Municipal_48adbd5a9f.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>He battled his golf swing and a crowd actively rooting against him.</title>
     <link>https://www.youtube.com/shorts/k8php1ZWgjk</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/k8php1ZWgjk</guid>
@@ -444,13 +464,13 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>Scottie Scheffler Applauds Wyndham Clark for Handling the Rowdy New York Crowd</title>
-    <link>https://skratch.golf/news/news/wyndham-clark-fans-us-open-2026-scottie-scheffler-shinnecock-hills</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/wyndham-clark-fans-us-open-2026-scottie-scheffler-shinnecock-hills</guid>
-    <pubDate>Mon, 22 Jun 2026 00:18:33 +0000</pubDate>
+    <title>Wyndham Clark Had No Idea His Dad Was Waiting on 18</title>
+    <link>https://skratch.golf/news/news/wyndham-clark-dad-surprise-us-open-2026-shinnecock</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/wyndham-clark-dad-surprise-us-open-2026-shinnecock</guid>
+    <pubDate>Sun, 21 Jun 2026 23:23:50 +0000</pubDate>
     <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;It wasn’t easy for Wyndham Clark on Sunday, and the New York crowd didn’t help. His playing partner, Scottie Scheffler, praised Clark for how he handled the rowdy fans.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/wyndham-clark-fans-us-open-2026-scottie-scheffler-shinnecock-hills"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282669225_aa1f295dc7/Getty_Images_2282669225_aa1f295dc7.jpg"/>
+    <description>&lt;p&gt;After taking a red-eye into town, Randall Clark surprised his son on the 18th green following Wyndham&#x27;s second U.S. Open victory, creating a Father&#x27;s Day memory neither will forget.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/wyndham-clark-dad-surprise-us-open-2026-shinnecock"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282677066_4303241dd1/Getty_Images_2282677066_4303241dd1.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -476,17 +496,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;Two U.S. Open wins, two very different bags. Here&#x27;s what changed between LACC and Shinnecock.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/wyndham-clark-us-open-winning-clubs-shinnecock"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282552194_2c1fd090e9/Getty_Images_2282552194_2c1fd090e9.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Miles Russell Tagged in Dad for the Final Hole of His U.S. Open Debut</title>
-    <link>https://skratch.golf/news/news/us-open-2026-miles-russell-dad-caddie-fathers-day-shinnecock</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/us-open-2026-miles-russell-dad-caddie-fathers-day-shinnecock</guid>
-    <pubDate>Sun, 21 Jun 2026 18:04:59 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;We&#x27;re not crying, you are. What a special Father&#x27;s Day moment for the Russell family.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-open-2026-miles-russell-dad-caddie-fathers-day-shinnecock"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282113542_2abc05f287/Getty_Images_2282113542_2abc05f287.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
