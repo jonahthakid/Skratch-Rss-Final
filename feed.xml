@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 25 Jun 2026 20:32:34 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 25 Jun 2026 22:16:59 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Ludacris would’ve phrased that differently. 🤣</title>
+    <link>https://www.youtube.com/shorts/NLUO4JnsFUE</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/NLUO4JnsFUE</guid>
+    <pubDate>Thu, 25 Jun 2026 21:53:19 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/NLUO4JnsFUE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/NLUO4JnsFUE/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/NLUO4JnsFUE" type="text/html" medium="video"/>
+    <yt:videoId>NLUO4JnsFUE</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>The Viking Row sailed its way on TOUR. 🚣🤣</title>
     <link>https://www.youtube.com/shorts/drrjrn7tX04</link>
@@ -24,6 +38,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>What&#x27;s Behind Fitzpatrick&#x27;s Strong Start This Week? A New Driver.</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/travelers-matt-fitzpatrick-driver-ping-g430</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/travelers-matt-fitzpatrick-driver-ping-g430</guid>
+    <pubDate>Thu, 25 Jun 2026 19:23:57 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;With a new driver in the bag, Matt Fitzpatrick gets off to a hot start at The Travelers Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/travelers-matt-fitzpatrick-driver-ping-g430"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Matt_Fitz_driver_getty_travelers_cd03a244c6/Matt_Fitz_driver_getty_travelers_cd03a244c6.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Rory McIlroy&#x27;s Prep for The Open is Already Underway</title>
@@ -544,6 +569,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
+    <title>How to Watch the Travelers Championship (and the Wild 15 ½ Challenge)</title>
+    <link>https://skratch.golf/news/news/travelers-championship-15-half-challenge-how-to-watch</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/travelers-championship-15-half-challenge-how-to-watch</guid>
+    <pubDate>Mon, 22 Jun 2026 19:34:38 +0000</pubDate>
+    <dc:creator>Brittany Romano</dc:creator>
+    <description>&lt;p&gt;Here’s how to watch the Travelers Championship, plus everything you need to know about the new 15 ½ Challenge.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/travelers-championship-15-half-challenge-how-to-watch"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/travelers_Getty_Images_1242022067_c3f5ef2909/travelers_Getty_Images_1242022067_c3f5ef2909.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>S2 E48: U.S. OPEN RECAP: The Wyndham Clark Hate, Bryson Struggles Again, Amateurs Show Out</title>
     <link>https://www.youtube.com/watch?v=Pd85nUCFtz0</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=Pd85nUCFtz0</guid>
@@ -582,17 +618,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Luke Nesbitt</dc:creator>
     <description>&lt;p&gt;A new coach, a few key swing changes and plenty of reps. Here&#x27;s what Wyndham Clark was working on before winning his second U.S. Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/inside-wyndham-clarks-us-open-winning-range-session-training-aids"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260622_Wyndham_Clark_Us_Open_2026_training_aids_a14fb83fde/20260622_Wyndham_Clark_Us_Open_2026_training_aids_a14fb83fde.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Everything We Know About the PGA TOUR&#x27;s New Schedule</title>
-    <link>https://skratch.golf/news/news/pga-tour-schedule-changes-brian-rolapp-travelers-things-you-need-to-know</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-schedule-changes-brian-rolapp-travelers-things-you-need-to-know</guid>
-    <pubDate>Mon, 22 Jun 2026 15:49:54 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;On Tuesday, Brian Rolapp is expected to announce sweeping changes to the PGA TOUR&#x27;s schedule. Before that happens, let&#x27;s get you caught up on everything we know so far.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-schedule-changes-brian-rolapp-travelers-things-you-need-to-know"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2265985224_71ad20360d/Getty_Images_2265985224_71ad20360d.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -660,31 +685,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Ready for this level of carnage at Shinnecock. 🙏</title>
-    <link>https://www.youtube.com/shorts/t4rGnzpQ8RY</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/t4rGnzpQ8RY</guid>
-    <pubDate>Fri, 19 Jun 2026 16:19:31 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/t4rGnzpQ8RY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/t4rGnzpQ8RY/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/t4rGnzpQ8RY" type="text/html" medium="video"/>
-    <yt:videoId>t4rGnzpQ8RY</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Srixon Delivers New ZXi-RKT Drivers At The Travelers</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/srixon-new-drivers-travelers-rkt-proto</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/srixon-new-drivers-travelers-rkt-proto</guid>
-    <pubDate>Fri, 19 Jun 2026 15:48:00 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;This week at the Travelers, Srixon has 3 new driver models ready for action. Here&#x27;s what we know.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/srixon-new-drivers-travelers-rkt-proto"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Srixon_RKT_sole_title_caf951ffd9/Srixon_RKT_sole_title_caf951ffd9.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
