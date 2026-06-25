@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 25 Jun 2026 22:16:59 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 25 Jun 2026 23:50:12 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Ludacris would’ve phrased that differently. 🤣</title>
@@ -24,6 +24,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>I Was Expecting Carnage...But The Hazeltine Vibes Have Been Incredibly Wholesome</title>
+    <link>https://skratch.golf/news/news/2026-kpmg-womens-pga-championship-round-one-recap</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/2026-kpmg-womens-pga-championship-round-one-recap</guid>
+    <pubDate>Thu, 25 Jun 2026 20:38:43 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;From Nelly Korda&#x27;s adorable fan club to Brooke Henderson&#x27;s good news—joy has permeated around the first round of the KPMG Women&#x27;s PGA Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-kpmg-womens-pga-championship-round-one-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/KPMG_06_25_26_DC_ADC_03751_1c0b8d0a12/KPMG_06_25_26_DC_ADC_03751_1c0b8d0a12.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>The Viking Row sailed its way on TOUR. 🚣🤣</title>
@@ -618,17 +629,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Luke Nesbitt</dc:creator>
     <description>&lt;p&gt;A new coach, a few key swing changes and plenty of reps. Here&#x27;s what Wyndham Clark was working on before winning his second U.S. Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/inside-wyndham-clarks-us-open-winning-range-session-training-aids"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260622_Wyndham_Clark_Us_Open_2026_training_aids_a14fb83fde/20260622_Wyndham_Clark_Us_Open_2026_training_aids_a14fb83fde.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>18 Parting Thoughts from the 2026 U.S. Open at Shinnecock Hills</title>
-    <link>https://skratch.golf/news/pro-golf/us-open-2026-shinnecock-recap-parting-thoughts</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/us-open-2026-shinnecock-recap-parting-thoughts</guid>
-    <pubDate>Mon, 22 Jun 2026 14:43:24 +0000</pubDate>
-    <dc:creator>Dan Rapaport</dc:creator>
-    <description>&lt;p&gt;It&#x27;s the morning after Wyndham Clark battled his own golf swing and a crowd rooting for anyone else to join the two-major club. Let&#x27;s talk about it.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/us-open-2026-shinnecock-recap-parting-thoughts"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282178907_3e419a5fff/Getty_Images_2282178907_3e419a5fff.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
