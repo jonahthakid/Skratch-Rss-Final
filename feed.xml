@@ -9,8 +9,44 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 25 Jun 2026 18:30:06 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 25 Jun 2026 20:32:34 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The Viking Row sailed its way on TOUR. 🚣🤣</title>
+    <link>https://www.youtube.com/shorts/drrjrn7tX04</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/drrjrn7tX04</guid>
+    <pubDate>Thu, 25 Jun 2026 20:28:58 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/drrjrn7tX04"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/drrjrn7tX04/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/drrjrn7tX04" type="text/html" medium="video"/>
+    <yt:videoId>drrjrn7tX04</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Rory McIlroy&#x27;s Prep for The Open is Already Underway</title>
+    <link>https://skratch.golf/news/news/rory-mcilroy-scouting-trip-royal-birkdale-the-open-skips-travelers-championship</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/rory-mcilroy-scouting-trip-royal-birkdale-the-open-skips-travelers-championship</guid>
+    <pubDate>Thu, 25 Jun 2026 17:35:51 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Instead of playing in this week’s Travelers Championship, Rory McIlroy took a scouting trip to Royal Birkdale, the host of this year’s Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rory-mcilroy-scouting-trip-royal-birkdale-the-open-skips-travelers-championship"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282637079_d734add0e1/Getty_Images_2282637079_d734add0e1.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>KPMG’s New Model Suggests Nelly’s Fifth Major Won’t Come Easy</title>
+    <link>https://skratch.golf/news/news/kpmg-womens-pga-championship-data-predictions-nelly-korda-odds</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/kpmg-womens-pga-championship-data-predictions-nelly-korda-odds</guid>
+    <pubDate>Thu, 25 Jun 2026 16:39:33 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;KPMG dropped a full predictive dashboard ahead of the 2026 Women’s PGA Championship. Here are three key takeaways.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/kpmg-womens-pga-championship-data-predictions-nelly-korda-odds"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/korda_hazeltine_2026_Getty_Images_2282409239_17a3cd3860/korda_hazeltine_2026_Getty_Images_2282409239_17a3cd3860.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Yardage at the Travelers and KPMG Women&#x27;s PGA on Thursday? Nearly Identical</title>
     <link>https://skratch.golf/news/news/travelers-championship-2026-yardage-identical-kpmg-womens-pga-championship</link>
@@ -494,17 +530,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>After Shinnecock, I&#x27;m Ready to Call the U.S. Open Golf&#x27;s Best Major</title>
-    <link>https://skratch.golf/news/golf-culture/us-open-best-major-masters-comparison</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/us-open-best-major-masters-comparison</guid>
-    <pubDate>Mon, 22 Jun 2026 20:22:46 +0000</pubDate>
-    <dc:creator>Luke Nesbitt</dc:creator>
-    <description>&lt;p&gt;From local qualifying to golf&#x27;s toughest setups, no major feels more connected to the game the rest of us actually play.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/us-open-best-major-masters-comparison"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/wyndham_clark_us_open_2026_Getty_Images_2282673754_49a44f3812/wyndham_clark_us_open_2026_Getty_Images_2282673754_49a44f3812.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>GNARLY hat tan lines for the first day of summer. 🤣</title>
     <link>https://www.youtube.com/shorts/_WndVHRybhM</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/_WndVHRybhM</guid>
@@ -517,28 +542,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>How to Watch the Travelers Championship (and the Wild 15 ½ Challenge)</title>
-    <link>https://skratch.golf/news/news/travelers-championship-15-half-challenge-how-to-watch</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/travelers-championship-15-half-challenge-how-to-watch</guid>
-    <pubDate>Mon, 22 Jun 2026 19:34:38 +0000</pubDate>
-    <dc:creator>Brittany Romano</dc:creator>
-    <description>&lt;p&gt;Here’s how to watch the Travelers Championship, plus everything you need to know about the new 15 ½ Challenge.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/travelers-championship-15-half-challenge-how-to-watch"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/travelers_Getty_Images_1242022067_c3f5ef2909/travelers_Getty_Images_1242022067_c3f5ef2909.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>What Amateur Golfers Can Learn From Wyndham Clark’s U.S. Open Win</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/wyndham-clark-us-open-win-what-amateurs-can-learn-short-game-training-aids</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/wyndham-clark-us-open-win-what-amateurs-can-learn-short-game-training-aids</guid>
-    <pubDate>Mon, 22 Jun 2026 19:04:25 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;How did Wyndham Clark win the U.S. Open? Two words: short game. So for amateurs who love to dash drivers at the range, here are some tools that will actually help you to lower you scores.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/wyndham-clark-us-open-win-what-amateurs-can-learn-short-game-training-aids"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282539618_e4bd8b699d/Getty_Images_2282539618_e4bd8b699d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>S2 E48: U.S. OPEN RECAP: The Wyndham Clark Hate, Bryson Struggles Again, Amateurs Show Out</title>
@@ -568,6 +571,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;A potential historic run from Nelly Korda, a sentimental return for Hannah Green, and Hazeltine reminding everyone why it’s one of golf’s purest tests—three forces shaping the 2026 KPMG Women&#x27;s PGA Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-kpmg-womens-pga-championship-lpga-tour-hazeltine-national-three-storylines"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/KPMG_Hazeltine_trophy_7488176a08/KPMG_Hazeltine_trophy_7488176a08.jpeg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Inside Wyndham Clark&#x27;s U.S. Open-Winning Range Session</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/inside-wyndham-clarks-us-open-winning-range-session-training-aids</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/inside-wyndham-clarks-us-open-winning-range-session-training-aids</guid>
+    <pubDate>Mon, 22 Jun 2026 17:16:18 +0000</pubDate>
+    <dc:creator>Luke Nesbitt</dc:creator>
+    <description>&lt;p&gt;A new coach, a few key swing changes and plenty of reps. Here&#x27;s what Wyndham Clark was working on before winning his second U.S. Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/inside-wyndham-clarks-us-open-winning-range-session-training-aids"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260622_Wyndham_Clark_Us_Open_2026_training_aids_a14fb83fde/20260622_Wyndham_Clark_Us_Open_2026_training_aids_a14fb83fde.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -669,17 +683,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;This week at the Travelers, Srixon has 3 new driver models ready for action. Here&#x27;s what we know.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/srixon-new-drivers-travelers-rkt-proto"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Srixon_RKT_sole_title_caf951ffd9/Srixon_RKT_sole_title_caf951ffd9.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>What Happens When a City Actually Shows Up for Women&#x27;s Golf?</title>
-    <link>https://skratch.golf/news/pro-golf/meijier-lpga-classic-fan-attendance-womens-golf-essay</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/meijier-lpga-classic-fan-attendance-womens-golf-essay</guid>
-    <pubDate>Fri, 19 Jun 2026 14:55:27 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;With crowds topping 60,000 and a community-first approach, the Meijer LPGA Classic has become a blueprint for how mid-market cities can create some of the best atmospheres in golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/meijier-lpga-classic-fan-attendance-womens-golf-essay"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2157346688_0a06b99394/Getty_Images_2157346688_0a06b99394.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
