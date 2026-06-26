@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 26 Jun 2026 15:12:16 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 26 Jun 2026 17:14:03 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Saved par too. 😭</title>
+    <link>https://www.youtube.com/shorts/_aANtwhUrRw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/_aANtwhUrRw</guid>
+    <pubDate>Fri, 26 Jun 2026 15:17:17 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/_aANtwhUrRw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/_aANtwhUrRw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/_aANtwhUrRw" type="text/html" medium="video"/>
+    <yt:videoId>_aANtwhUrRw</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Seeing if TOUR winner Jacob Bridgeman can remember SHOT-FOR-SHOT this round at Riv. 👀</title>
     <link>https://www.youtube.com/shorts/F6heWRI9HtE</link>
@@ -24,6 +38,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>This Change to the 15th at the Travelers Championship is a No-Brainer</title>
+    <link>https://skratch.golf/news/news/travelers-championship-2026-drivable-par-4-15-fix-more-challenging</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/travelers-championship-2026-drivable-par-4-15-fix-more-challenging</guid>
+    <pubDate>Thu, 25 Jun 2026 22:02:29 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The drivable 15th at this week’s Travelers Championship is awesome—but it could be even better. Here’s how.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/travelers-championship-2026-drivable-par-4-15-fix-more-challenging"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_06_25_at_6_06_08_PM_da3590796c/Screenshot_2026_06_25_at_6_06_08_PM_da3590796c.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Ludacris would’ve phrased that differently. 🤣</title>
@@ -594,17 +619,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>How to Watch the Travelers Championship (and the Wild 15 ½ Challenge)</title>
-    <link>https://skratch.golf/news/news/travelers-championship-15-half-challenge-how-to-watch</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/travelers-championship-15-half-challenge-how-to-watch</guid>
-    <pubDate>Mon, 22 Jun 2026 19:34:38 +0000</pubDate>
-    <dc:creator>Brittany Romano</dc:creator>
-    <description>&lt;p&gt;Here’s how to watch the Travelers Championship, plus everything you need to know about the new 15 ½ Challenge.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/travelers-championship-15-half-challenge-how-to-watch"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/travelers_Getty_Images_1242022067_c3f5ef2909/travelers_Getty_Images_1242022067_c3f5ef2909.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>S2 E48: U.S. OPEN RECAP: The Wyndham Clark Hate, Bryson Struggles Again, Amateurs Show Out</title>
     <link>https://www.youtube.com/watch?v=Pd85nUCFtz0</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=Pd85nUCFtz0</guid>
@@ -632,17 +646,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;A potential historic run from Nelly Korda, a sentimental return for Hannah Green, and Hazeltine reminding everyone why it’s one of golf’s purest tests—three forces shaping the 2026 KPMG Women&#x27;s PGA Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-kpmg-womens-pga-championship-lpga-tour-hazeltine-national-three-storylines"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/KPMG_Hazeltine_trophy_7488176a08/KPMG_Hazeltine_trophy_7488176a08.jpeg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Inside Wyndham Clark&#x27;s U.S. Open-Winning Range Session</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/inside-wyndham-clarks-us-open-winning-range-session-training-aids</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/inside-wyndham-clarks-us-open-winning-range-session-training-aids</guid>
-    <pubDate>Mon, 22 Jun 2026 17:16:18 +0000</pubDate>
-    <dc:creator>Luke Nesbitt</dc:creator>
-    <description>&lt;p&gt;A new coach, a few key swing changes and plenty of reps. Here&#x27;s what Wyndham Clark was working on before winning his second U.S. Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/inside-wyndham-clarks-us-open-winning-range-session-training-aids"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260622_Wyndham_Clark_Us_Open_2026_training_aids_a14fb83fde/20260622_Wyndham_Clark_Us_Open_2026_training_aids_a14fb83fde.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
