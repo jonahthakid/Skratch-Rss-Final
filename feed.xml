@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 26 Jun 2026 21:03:56 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 26 Jun 2026 22:42:25 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Spieth is going through it. 😬</title>
+    <link>https://www.youtube.com/shorts/b3dR_MGRnFU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/b3dR_MGRnFU</guid>
+    <pubDate>Fri, 26 Jun 2026 21:49:00 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/b3dR_MGRnFU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/b3dR_MGRnFU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/b3dR_MGRnFU" type="text/html" medium="video"/>
+    <yt:videoId>b3dR_MGRnFU</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Scottie&#x27;s sick stinger during his second-round 60. 🤤</title>
     <link>https://www.youtube.com/shorts/Qk9Pr4a0zhc</link>
@@ -24,6 +38,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Ben James Has a Funny Definition of &quot;Pretty Good&quot;</title>
+    <link>https://skratch.golf/news/news/ben-james-doesnt-know-what-pretty-good-means</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/ben-james-doesnt-know-what-pretty-good-means</guid>
+    <pubDate>Fri, 26 Jun 2026 17:37:23 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;The PGA TOUR University winner earned his TOUR card, led his professional debut after 36 holes and finished T23 at the U.S. Open. Ben James calls it &quot;pretty good.&quot;&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/ben-james-doesnt-know-what-pretty-good-means"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260626_Ben_James_Travelers2_54a4986620/20260626_Ben_James_Travelers2_54a4986620.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>The Special Olympics Shows Golf at Its Best</title>
@@ -63,6 +88,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>I&#x27;m Still Thinking About: Titleist T-Series Irons</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/Still-Thinking-Titleist-T-Series-T-series-2026</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/Still-Thinking-Titleist-T-Series-T-series-2026</guid>
+    <pubDate>Fri, 26 Jun 2026 13:36:47 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;There&#x27;s a reason T-Series irons remain one of the most-played iron families on the PGA TOUR and continue to be a favorite among golfers of every skill level.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/Still-Thinking-Titleist-T-Series-T-series-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/T_series_titleist_c45f1ab213/T_series_titleist_c45f1ab213.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>This Change to the 15th at the Travelers Championship is a No-Brainer</title>
@@ -416,17 +452,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>Where Will the PGA TOUR Play in 2028? Here Are the Courses to Watch</title>
-    <link>https://skratch.golf/news/news/pga-tour-2028-match-play-championship-challenger-courses-to-watch</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-2028-match-play-championship-challenger-courses-to-watch</guid>
-    <pubDate>Tue, 23 Jun 2026 20:25:21 +0000</pubDate>
-    <dc:creator>Will Neary</dc:creator>
-    <description>&lt;p&gt;A new schedule, a traveling TOUR Championship and plenty of unanswered questions. Here are the courses that could define the PGA TOUR&#x27;s next era.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-2028-match-play-championship-challenger-courses-to-watch"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Jackson_Herrington_2025_olympic_am_Getty_Images_2230671229_781fd95d1f/Jackson_Herrington_2025_olympic_am_Getty_Images_2230671229_781fd95d1f.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Don’t blame the player, blame the rules.</title>
     <link>https://www.youtube.com/shorts/UNmKEd9jIN8</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/UNmKEd9jIN8</guid>
@@ -448,17 +473,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;A fresh set of irons and a familiar reminder that sometimes the smallest equipment changes make the biggest difference.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/ribbed-grips-letter-appreciation-missed-you"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Ribbed_grips_title_a21485e1f9/Ribbed_grips_title_a21485e1f9.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>KPMG Women&#x27;s PGA 2026: Tee Times and Pairings For The First and Second Rounds</title>
-    <link>https://skratch.golf/news/news/kpmg-womens-pga-championship-tee-times-first-second-rounds</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/kpmg-womens-pga-championship-tee-times-first-second-rounds</guid>
-    <pubDate>Tue, 23 Jun 2026 16:36:21 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The can&#x27;t-miss, blockbuster groups to watch at Hazeltine this week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/kpmg-womens-pga-championship-tee-times-first-second-rounds"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Hazeltine_hole_18_85fae7084e/Hazeltine_hole_18_85fae7084e.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -662,17 +676,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Hazeltine Awaits: Three Storylines That Could Define the 2026 KPMG Women’s PGA</title>
-    <link>https://skratch.golf/news/news/2026-kpmg-womens-pga-championship-lpga-tour-hazeltine-national-three-storylines</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/2026-kpmg-womens-pga-championship-lpga-tour-hazeltine-national-three-storylines</guid>
-    <pubDate>Mon, 22 Jun 2026 18:35:36 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;A potential historic run from Nelly Korda, a sentimental return for Hannah Green, and Hazeltine reminding everyone why it’s one of golf’s purest tests—three forces shaping the 2026 KPMG Women&#x27;s PGA Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-kpmg-womens-pga-championship-lpga-tour-hazeltine-national-three-storylines"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/KPMG_Hazeltine_trophy_7488176a08/KPMG_Hazeltine_trophy_7488176a08.jpeg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
