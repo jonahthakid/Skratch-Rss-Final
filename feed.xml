@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 27 Jun 2026 14:58:20 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 27 Jun 2026 16:06:47 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Spieth is going through it. 😬</title>
@@ -38,6 +38,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Big Names Loom at Hazeltine, While a Surprising Few Exit Early</title>
+    <link>https://skratch.golf/news/news/kpmg-womens-pga-championship-hazeltine-second-round-recap-saturday-preview</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/kpmg-womens-pga-championship-hazeltine-second-round-recap-saturday-preview</guid>
+    <pubDate>Fri, 26 Jun 2026 19:13:40 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;KPMG Women&#x27;s PGA weekend forecast: Ina Yoon remains in cruise control, Nelly Korda and Brooke Henderson make their push, and the ones headed home early.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/kpmg-womens-pga-championship-hazeltine-second-round-recap-saturday-preview"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Brooke_Henderson_KPMG_Hazeltine_2026_Getty_fd9c133823/Brooke_Henderson_KPMG_Hazeltine_2026_Getty_fd9c133823.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Ben James Has a Funny Definition of &quot;Pretty Good&quot;</title>
@@ -523,17 +534,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Raymond Williams</dc:creator>
     <description>&lt;p&gt;The SSC x PAYNTR collaboration finally lands alongside a lineup of apparel made for long summer days.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/sugarloaf-social-club-s-americana-dream-collection-has-finally-arrived"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/AD_Cover_b933691450/AD_Cover_b933691450.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>An Overhaul to the PGA TOUR is Coming in 2028</title>
-    <link>https://skratch.golf/news/news/pga-tour-new-schedule-two-leagues-changes-to-competitive-model</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-new-schedule-two-leagues-changes-to-competitive-model</guid>
-    <pubDate>Tue, 23 Jun 2026 14:16:49 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;BIG changes are coming to the PGA TOUR in 2028. Here&#x27;s a breakdown of everything that was unveiled on Tuesday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-new-schedule-two-leagues-changes-to-competitive-model"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_1920489643_e285794aa9/Getty_Images_1920489643_e285794aa9.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
