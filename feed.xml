@@ -9,8 +9,62 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 29 Jun 2026 20:21:10 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 29 Jun 2026 21:49:52 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>This tournament has created a true identity and delivers year after year</title>
+    <link>https://www.youtube.com/shorts/1OLOGSycvPg</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/1OLOGSycvPg</guid>
+    <pubDate>Mon, 29 Jun 2026 21:03:04 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/1OLOGSycvPg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/1OLOGSycvPg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/1OLOGSycvPg" type="text/html" medium="video"/>
+    <yt:videoId>1OLOGSycvPg</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>To LAG or not to LAG, that is the question</title>
+    <link>https://www.youtube.com/shorts/hO3kC3KKcwA</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/hO3kC3KKcwA</guid>
+    <pubDate>Mon, 29 Jun 2026 20:30:38 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;We picked the brain of one of the PGA TOUR&#x27;s hottest putters, Jacob Bridgeman, to give insight into when he tries to find that 3-foot circle and when it makes sense to give it a run based on the data, presented by @CDW. 
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/hO3kC3KKcwA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/hO3kC3KKcwA/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/hO3kC3KKcwA" type="text/html" medium="video"/>
+    <yt:videoId>hO3kC3KKcwA</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Viktor Hovland Doesn’t Care If You Hate His Pool Floaties</title>
+    <link>https://skratch.golf/news/news/viktor-hovland-doesnt-care-if-you-hate-his-pool-floaties</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/viktor-hovland-doesnt-care-if-you-hate-his-pool-floaties</guid>
+    <pubDate>Mon, 29 Jun 2026 20:13:09 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;The Travelers champion knows his constant swing tinkering draws laughs. He&#x27;d rather be the punchline than stop searching for answers.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/viktor-hovland-doesnt-care-if-you-hate-his-pool-floaties"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2283851457_7163821e1a/Getty_Images_2283851457_7163821e1a.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The LPGA Might Have Its Next Sister Duo</title>
+    <link>https://skratch.golf/news/news/lpga-tour-sisters-kiara-kaleiya-romero-womens-golf-stars</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-tour-sisters-kiara-kaleiya-romero-womens-golf-stars</guid>
+    <pubDate>Mon, 29 Jun 2026 19:25:38 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;There&#x27;s a new sister duo to watch out for in Kiara and Kaleiya Romero.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-tour-sisters-kiara-kaleiya-romero-womens-golf-stars"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2269831144_1769bc0f97/Getty_Images_2269831144_1769bc0f97.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Putt SMARTER | TOUR winner Jacob Bridgeman on when to lag and when to go for it</title>
     <link>https://www.youtube.com/watch?v=iMdgHPQchBE</link>
@@ -110,6 +164,17 @@ Dan travels all year and never leaves his Kn&lt;/p&gt;&lt;p&gt;&lt;a href="https
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;This year&#x27;s list of Signature Event winners includes the biggest names in golf and a few &quot;where did that come from&quot; sleepers.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-2026-season-signature-event-winners-viktor-hovland-travelers"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2283851848_ba2a8d11d8/Getty_Images_2283851848_ba2a8d11d8.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Who&#x27;s in The Open? This Week&#x27;s Qualifiers Are Led by Alex Fitzpatrick</title>
+    <link>https://skratch.golf/news/news/open-championship-qualifiers-headlined-by-alex-fitzpatrick</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/open-championship-qualifiers-headlined-by-alex-fitzpatrick</guid>
+    <pubDate>Mon, 29 Jun 2026 15:52:50 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;The Open Championship is around the corner and we&#x27;re tracking the major’s exemptions every week. Here are the most recent names to get the invitation.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/open-championship-qualifiers-headlined-by-alex-fitzpatrick"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260629_Alex_Fitzpatrick_Open_Champ_f5defcd39e/20260629_Alex_Fitzpatrick_Open_Champ_f5defcd39e.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -586,17 +651,6 @@ Subscribe to Skratch&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/short
     <category>video</category>
   </item>
   <item>
-    <title>Shane Lowry Turns to Familiar Face After Caddie Split</title>
-    <link>https://skratch.golf/news/pro-golf/shane-lowry-caddie-change-travelers-byrne</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/shane-lowry-caddie-change-travelers-byrne</guid>
-    <pubDate>Wed, 24 Jun 2026 19:50:35 +0000</pubDate>
-    <dc:creator>Will Neary</dc:creator>
-    <description>&lt;p&gt;Following a missed cut at the U.S. Open, Lowry has reunited with former caddie Dermot Byrne while he evaluates a longer-term solution.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/shane-lowry-caddie-change-travelers-byrne"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/lowry_caddie_dermot_byrne_travelers_2026_Getty_Images_2283136245_e6fe38a08e/lowry_caddie_dermot_byrne_travelers_2026_Getty_Images_2283136245_e6fe38a08e.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Stop Firing at EVERY Flagstick | TOUR winner Jacob Bridgeman on Playing Safe or Being Aggressive</title>
     <link>https://www.youtube.com/watch?v=b66NaU-N55c</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=b66NaU-N55c</guid>
@@ -630,56 +684,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>This squirrel just wanted a front row seat to see Rory. 😭</title>
-    <link>https://www.youtube.com/shorts/M6q86PdBB9I</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/M6q86PdBB9I</guid>
-    <pubDate>Wed, 24 Jun 2026 14:02:33 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/M6q86PdBB9I"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/M6q86PdBB9I/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/M6q86PdBB9I" type="text/html" medium="video"/>
-    <yt:videoId>M6q86PdBB9I</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Exclusive: Phil Mickelson’s Long History of Misconduct</title>
-    <link>https://skratch.golf/news/pro-golf/phil-mickelson-misconduct-women-madison-club-bridges-farms-exits</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/phil-mickelson-misconduct-women-madison-club-bridges-farms-exits</guid>
-    <pubDate>Tue, 23 Jun 2026 20:55:15 +0000</pubDate>
-    <dc:creator>Alan Shipnuck</dc:creator>
-    <description>&lt;p&gt;Interviews with 19 sources reveal two incidents of lewd language and unwanted advances, and the behavior that led to his departure from two additional golf clubs.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/phil-mickelson-misconduct-women-madison-club-bridges-farms-exits"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Mickelson_Exclusive_16x9_Header_490f1e57fb/Mickelson_Exclusive_16x9_Header_490f1e57fb.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Don’t blame the player, blame the rules.</title>
-    <link>https://www.youtube.com/shorts/UNmKEd9jIN8</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/UNmKEd9jIN8</guid>
-    <pubDate>Tue, 23 Jun 2026 19:36:10 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/UNmKEd9jIN8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/UNmKEd9jIN8/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/UNmKEd9jIN8" type="text/html" medium="video"/>
-    <yt:videoId>UNmKEd9jIN8</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>An Ode To Ribbed Grips</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/ribbed-grips-letter-appreciation-missed-you</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/ribbed-grips-letter-appreciation-missed-you</guid>
-    <pubDate>Tue, 23 Jun 2026 17:17:29 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;A fresh set of irons and a familiar reminder that sometimes the smallest equipment changes make the biggest difference.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/ribbed-grips-letter-appreciation-missed-you"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Ribbed_grips_title_a21485e1f9/Ribbed_grips_title_a21485e1f9.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
