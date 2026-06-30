@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 30 Jun 2026 13:06:57 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 30 Jun 2026 15:59:57 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Relive the CLASSIC &quot;You&#x27;ll Learn&quot; interview ahead of Tiger’s professional debut. 🤣 #TigerTuesday</title>
+    <link>https://www.youtube.com/shorts/Nnyg7MFZD58</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/Nnyg7MFZD58</guid>
+    <pubDate>Tue, 30 Jun 2026 14:32:40 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Nnyg7MFZD58"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Nnyg7MFZD58/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Nnyg7MFZD58" type="text/html" medium="video"/>
+    <yt:videoId>Nnyg7MFZD58</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>“We expect athletes to be superheroes.” @manorsgolf</title>
     <link>https://www.youtube.com/shorts/ilwYIDoFP7U</link>
@@ -38,6 +52,17 @@
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The Countdown to the Open Continues During Final Q: Here Are the Names To Look Out For Today</title>
+    <link>https://skratch.golf/news/news/open-championship-final-qualifying-names-to-look-out-for</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/open-championship-final-qualifying-names-to-look-out-for</guid>
+    <pubDate>Mon, 29 Jun 2026 22:11:31 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;The Open Championship is inching ever closer, and Final Qualifying provides a last-ditch opportunity for many recognizable faces to find their way into the field.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/open-championship-final-qualifying-names-to-look-out-for"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260629_Trophy_Open_Champ_85d143b2c7/20260629_Trophy_Open_Champ_85d143b2c7.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>This tournament has created a true identity and delivers year after year</title>
@@ -435,17 +460,6 @@ Dan travels all year and never leaves his &lt;/p&gt;&lt;p&gt;&lt;a href="https:/
     <category>video</category>
   </item>
   <item>
-    <title>I Was Expecting Carnage...But The Hazeltine Vibes Have Been Incredibly Wholesome</title>
-    <link>https://skratch.golf/news/news/2026-kpmg-womens-pga-championship-round-one-recap</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/2026-kpmg-womens-pga-championship-round-one-recap</guid>
-    <pubDate>Thu, 25 Jun 2026 20:38:43 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;From Nelly Korda&#x27;s adorable fan club to Brooke Henderson&#x27;s good news—joy has permeated around the first round of the KPMG Women&#x27;s PGA Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-kpmg-womens-pga-championship-round-one-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/KPMG_06_25_26_DC_ADC_03751_1c0b8d0a12/KPMG_06_25_26_DC_ADC_03751_1c0b8d0a12.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>The Viking Row sailed its way on TOUR. 🚣🤣</title>
     <link>https://www.youtube.com/shorts/drrjrn7tX04</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/drrjrn7tX04</guid>
@@ -471,17 +485,6 @@ Dan travels all year and never leaves his &lt;/p&gt;&lt;p&gt;&lt;a href="https:/
     <category>article</category>
   </item>
   <item>
-    <title>Rory McIlroy&#x27;s Prep for The Open is Already Underway</title>
-    <link>https://skratch.golf/news/news/rory-mcilroy-scouting-trip-royal-birkdale-the-open-skips-travelers-championship</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/rory-mcilroy-scouting-trip-royal-birkdale-the-open-skips-travelers-championship</guid>
-    <pubDate>Thu, 25 Jun 2026 17:35:51 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Instead of playing in this week’s Travelers Championship, Rory McIlroy took a scouting trip to Royal Birkdale, the host of this year’s Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rory-mcilroy-scouting-trip-royal-birkdale-the-open-skips-travelers-championship"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282637079_d734add0e1/Getty_Images_2282637079_d734add0e1.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>KPMG’s New Model Suggests Nelly’s Fifth Major Won’t Come Easy</title>
     <link>https://skratch.golf/news/news/kpmg-womens-pga-championship-data-predictions-nelly-korda-odds</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/kpmg-womens-pga-championship-data-predictions-nelly-korda-odds</guid>
@@ -500,6 +503,17 @@ Dan travels all year and never leaves his &lt;/p&gt;&lt;p&gt;&lt;a href="https:/
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;On Thursday, the yardage at the Travelers Championship and KPMG Women&#x27;s PGA Championship are nearly identical.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/travelers-championship-2026-yardage-identical-kpmg-womens-pga-championship"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2283133104_f58573176c/Getty_Images_2283133104_f58573176c.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Odyssey&#x27;s Damascus Milled Putter Line Keeps Growing</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/Odyssey-Damascus-Expands-New-Shapes-s2s</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/Odyssey-Damascus-Expands-New-Shapes-s2s</guid>
+    <pubDate>Thu, 25 Jun 2026 15:49:51 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Odyssey is once again expanding its one-of-a-kind Damascus insert line to include two new models that offer premium looks and feel.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/Odyssey-Damascus-Expands-New-Shapes-s2s"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Odyssey_Damascus_title_s2s_4e466f4219/Odyssey_Damascus_title_s2s_4e466f4219.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -657,26 +671,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282357844_901c7384ac/Getty_Images_2282357844_901c7384ac.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>If you&#x27;ve never had a ball fitting, this is your sign. 👀</title>
-    <link>https://www.youtube.com/shorts/pS2W6Yww3mw</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/pS2W6Yww3mw</guid>
-    <pubDate>Wed, 24 Jun 2026 20:13:20 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Gear editor, Ryan Barath, confirms if he should keep gaming the @titleist ProV1x Left Dash or if it&#x27;s time to switch it up.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/pS2W6Yww3mw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/pS2W6Yww3mw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/pS2W6Yww3mw" type="text/html" medium="video"/>
-    <yt:videoId>pS2W6Yww3mw</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
 </channel>
 </rss>
