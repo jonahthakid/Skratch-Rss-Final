@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 02 Jul 2026 13:17:52 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 02 Jul 2026 15:38:24 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>You can&#x27;t make this s*** up. 😭</title>
+    <link>https://www.youtube.com/shorts/ohJ4X70f3U8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/ohJ4X70f3U8</guid>
+    <pubDate>Thu, 02 Jul 2026 14:55:00 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ohJ4X70f3U8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/ohJ4X70f3U8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/ohJ4X70f3U8" type="text/html" medium="video"/>
+    <yt:videoId>ohJ4X70f3U8</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Challenging a former TOUR PRO at his home course with THREE CLUBS | Working Holiday</title>
     <link>https://www.youtube.com/watch?v=rQLK8OCcn-0</link>
@@ -48,6 +62,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;The Cardinal just landed the next big thing in women&#x27;s golf: Aphrodite Deng.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/aphrodite-deng-commit-stanford-golf-junior-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2275495112_a1ccc6bfcd/Getty_Images_2275495112_a1ccc6bfcd.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The Arnold Palmer Cup Is This Week. Here&#x27;s What You Need to Know.</title>
+    <link>https://skratch.golf/news/news/arnold-palmer-cup-everything-you-need-to-know</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/arnold-palmer-cup-everything-you-need-to-know</guid>
+    <pubDate>Wed, 01 Jul 2026 19:25:31 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;The co-ed international team event featuring many of the world&#x27;s best amateur golfers returns Friday in Ireland. Here&#x27;s what to know before it begins.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/arnold-palmer-cup-everything-you-need-to-know"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260701_Tralee_Golf_Club_90f075d938/20260701_Tralee_Golf_Club_90f075d938.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -317,17 +342,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>The LPGA Might Have Its Next Sister Duo</title>
-    <link>https://skratch.golf/news/news/lpga-tour-sisters-kiara-kaleiya-romero-womens-golf-stars</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-tour-sisters-kiara-kaleiya-romero-womens-golf-stars</guid>
-    <pubDate>Mon, 29 Jun 2026 19:25:38 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;There&#x27;s a new sister duo to watch out for in Kiara and Kaleiya Romero.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-tour-sisters-kiara-kaleiya-romero-womens-golf-stars"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2269831144_1769bc0f97/Getty_Images_2269831144_1769bc0f97.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Putt SMARTER | TOUR winner Jacob Bridgeman on when to lag and when to go for it</title>
     <link>https://www.youtube.com/watch?v=iMdgHPQchBE</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=iMdgHPQchBE</guid>
@@ -584,20 +598,6 @@ Dan travels all year and never leaves his &lt;/p&gt;&lt;p&gt;&lt;a href="https:/
     <media:thumbnail url="https://img.youtube.com/vi/F6heWRI9HtE/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/F6heWRI9HtE" type="text/html" medium="video"/>
     <yt:videoId>F6heWRI9HtE</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Ludacris would’ve phrased that differently. 🤣</title>
-    <link>https://www.youtube.com/shorts/NLUO4JnsFUE</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/NLUO4JnsFUE</guid>
-    <pubDate>Thu, 25 Jun 2026 21:53:19 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/NLUO4JnsFUE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/NLUO4JnsFUE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/NLUO4JnsFUE" type="text/html" medium="video"/>
-    <yt:videoId>NLUO4JnsFUE</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
