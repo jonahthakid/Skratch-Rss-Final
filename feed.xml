@@ -9,8 +9,49 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 02 Jul 2026 17:39:50 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 02 Jul 2026 19:15:31 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Tonnnns of headlines so far and still so much to go.</title>
+    <link>https://www.youtube.com/shorts/PkHqMCILlsQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/PkHqMCILlsQ</guid>
+    <pubDate>Thu, 02 Jul 2026 18:09:54 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/PkHqMCILlsQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/PkHqMCILlsQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/PkHqMCILlsQ" type="text/html" medium="video"/>
+    <yt:videoId>PkHqMCILlsQ</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Playing our World Golf Tour course for the FIRST TIME!</title>
+    <link>https://www.youtube.com/watch?v=n-1pWhyFIGo</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=n-1pWhyFIGo</guid>
+    <pubDate>Thu, 02 Jul 2026 17:49:08 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Welcome to The Dog Track! We teamed up with @wgt to design a Dan on Golf course featuring 18 holes from our favorites around the world. Join Dan Rapaport as he plays it for the first time with his trusty caddie, Ben Boskovich, on the bag.
+
+You can join in on the fun and play The Dog Track yourself! Download the World Golf Tour app for free to compete against Dan and other players around the world: http://www.wgt.com/&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=n-1pWhyFIGo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/n-1pWhyFIGo/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/n-1pWhyFIGo" type="text/html" medium="video"/>
+    <yt:videoId>n-1pWhyFIGo</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>The Jackson Koivun Era Has Begun on the PGA TOUR</title>
+    <link>https://skratch.golf/news/news/jackson-koivun-era-has-begun-on-the-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/jackson-koivun-era-has-begun-on-the-pga-tour</guid>
+    <pubDate>Thu, 02 Jul 2026 17:00:33 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;Jackson Koivun carded his first birdie as a professional at the John Deere Classic on Thursday. His stardom is a warning sign to the TOUR’s biggest name.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jackson-koivun-era-has-begun-on-the-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260702_Jackson_Koivun_John_Deere_Classic_7471db3b8f/20260702_Jackson_Koivun_John_Deere_Classic_7471db3b8f.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>You can&#x27;t make this s*** up. 😭</title>
     <link>https://www.youtube.com/shorts/ohJ4X70f3U8</link>
@@ -310,17 +351,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>The Countdown to the Open Continues During Final Q: Here Are the Names To Look Out For Today</title>
-    <link>https://skratch.golf/news/news/open-championship-final-qualifying-names-to-look-out-for</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/open-championship-final-qualifying-names-to-look-out-for</guid>
-    <pubDate>Mon, 29 Jun 2026 22:11:31 +0000</pubDate>
-    <dc:creator>Will Neary</dc:creator>
-    <description>&lt;p&gt;The Open Championship is inching ever closer, and Final Qualifying provides a last-ditch opportunity for many recognizable faces to find their way into the field.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/open-championship-final-qualifying-names-to-look-out-for"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260629_Trophy_Open_Champ_85d143b2c7/20260629_Trophy_Open_Champ_85d143b2c7.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>This tournament has created a true identity and delivers year after year</title>
     <link>https://www.youtube.com/shorts/1OLOGSycvPg</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/1OLOGSycvPg</guid>
@@ -351,28 +381,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Viktor Hovland Doesn’t Care If You Hate His Pool Floaties</title>
-    <link>https://skratch.golf/news/news/viktor-hovland-doesnt-care-if-you-hate-his-pool-floaties</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/viktor-hovland-doesnt-care-if-you-hate-his-pool-floaties</guid>
-    <pubDate>Mon, 29 Jun 2026 20:13:09 +0000</pubDate>
-    <dc:creator>Will Neary</dc:creator>
-    <description>&lt;p&gt;The Travelers champion knows his constant swing tinkering draws laughs. He&#x27;d rather be the punchline than stop searching for answers.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/viktor-hovland-doesnt-care-if-you-hate-his-pool-floaties"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2283851457_7163821e1a/Getty_Images_2283851457_7163821e1a.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The LPGA Might Have Its Next Sister Duo</title>
-    <link>https://skratch.golf/news/news/lpga-tour-sisters-kiara-kaleiya-romero-womens-golf-stars</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-tour-sisters-kiara-kaleiya-romero-womens-golf-stars</guid>
-    <pubDate>Mon, 29 Jun 2026 19:25:38 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;There&#x27;s a new sister duo to watch out for in Kiara and Kaleiya Romero.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-tour-sisters-kiara-kaleiya-romero-womens-golf-stars"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2269831144_1769bc0f97/Getty_Images_2269831144_1769bc0f97.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Putt SMARTER | TOUR winner Jacob Bridgeman on when to lag and when to go for it</title>
@@ -427,6 +435,17 @@ Dan travels all year and never leaves his &lt;/p&gt;&lt;p&gt;&lt;a href="https:/
     <category>video</category>
   </item>
   <item>
+    <title>Winning is Really, Really Hard. For Scottie Scheffler, Water is Finding Its Level</title>
+    <link>https://skratch.golf/news/news/scottie-scheffler-loses-travelers-championship-pga-tour-season-close-calls</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/scottie-scheffler-loses-travelers-championship-pga-tour-season-close-calls</guid>
+    <pubDate>Mon, 29 Jun 2026 17:45:07 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Winning came easy to Scottie Scheffler in 2024 and 2025, but 2026 has been a different story. Still, would it surprise you at all to see him end the year with four or five wins?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/scottie-scheffler-loses-travelers-championship-pga-tour-season-close-calls"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2283345948_81df154d0d/Getty_Images_2283345948_81df154d0d.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>&quot;Just seeing the Norwegian flags out there and the jerseys, it was really cool.&quot;</title>
     <link>https://www.youtube.com/shorts/G9phVzRvB48</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/G9phVzRvB48</guid>
@@ -466,13 +485,13 @@ Dan travels all year and never leaves his &lt;/p&gt;&lt;p&gt;&lt;a href="https:/
     <category>article</category>
   </item>
   <item>
-    <title>The 5 Biggest Takeaways From the KPMG Women&#x27;s PGA Championship</title>
-    <link>https://skratch.golf/news/news/kpmg-womens-pga-championship-five-takeaways-lpga-tour-hazeltine</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/kpmg-womens-pga-championship-five-takeaways-lpga-tour-hazeltine</guid>
-    <pubDate>Mon, 29 Jun 2026 15:47:17 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;From Haeran Ryu&#x27;s breakthrough victory to the stars who stumbled and the storylines that will linger long after Hazeltine, here&#x27;s what we&#x27;re still thinking about.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/kpmg-womens-pga-championship-five-takeaways-lpga-tour-hazeltine"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2283765035_e24579ac7f/Getty_Images_2283765035_e24579ac7f.jpg"/>
+    <title>Who&#x27;s in The Open? This Week&#x27;s Qualifiers Are Led by Alex Fitzpatrick</title>
+    <link>https://skratch.golf/news/news/open-championship-qualifiers-headlined-by-alex-fitzpatrick</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/open-championship-qualifiers-headlined-by-alex-fitzpatrick</guid>
+    <pubDate>Mon, 29 Jun 2026 15:52:50 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;The Open Championship is around the corner and we&#x27;re tracking the major’s exemptions every week. Here are the most recent names to get the invitation.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/open-championship-qualifiers-headlined-by-alex-fitzpatrick"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260629_Alex_Fitzpatrick_Open_Champ_f5defcd39e/20260629_Alex_Fitzpatrick_Open_Champ_f5defcd39e.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -654,20 +673,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://img.youtube.com/vi/hjB5-5ucLqg/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/hjB5-5ucLqg" type="text/html" medium="video"/>
     <yt:videoId>hjB5-5ucLqg</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Jake Knapp Gives TOUR Pro’s View On Wyndham Clark, Injury Update &amp; More</title>
-    <link>https://www.youtube.com/watch?v=VgeC5VAu1X4</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=VgeC5VAu1X4</guid>
-    <pubDate>Thu, 25 Jun 2026 11:30:29 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Jake Knapp joins the show to discuss his return from injury, Shinnecock&#x27;s test at the U.S. Open, the behavior from NY fans towards Wyndham Clark &amp; much more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=VgeC5VAu1X4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/VgeC5VAu1X4/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/VgeC5VAu1X4" type="text/html" medium="video"/>
-    <yt:videoId>VgeC5VAu1X4</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
