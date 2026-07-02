@@ -9,20 +9,26 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 02 Jul 2026 20:39:31 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 02 Jul 2026 22:01:59 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Welcome to The Dog Track!</title>
-    <link>https://www.youtube.com/shorts/FB9Q0TPfEvs</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/FB9Q0TPfEvs</guid>
-    <pubDate>Thu, 02 Jul 2026 20:09:38 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;We teamed up with ‪@wgt to design a Dan on Golf course featuring 18 holes from our favorites around the world. Watch Dan Rapaport play it for the first time with his trusty caddie, Ben Boskovich, on our page.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/FB9Q0TPfEvs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/FB9Q0TPfEvs/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/FB9Q0TPfEvs" type="text/html" medium="video"/>
-    <yt:videoId>FB9Q0TPfEvs</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
+    <link>https://www.youtube.com/shorts/lMIK92x2wD8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/lMIK92x2wD8</guid>
+    <pubDate>Thu, 02 Jul 2026 20:58:21 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;We teamed up with ‪@wgt to design a Dan on Golf course featuring 18 holes from our favorites around the world.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube a&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/lMIK92x2wD8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/lMIK92x2wD8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/lMIK92x2wD8" type="text/html" medium="video"/>
+    <yt:videoId>lMIK92x2wD8</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
     <category>video</category>
   </item>
   <item>
@@ -74,6 +80,17 @@ You can join in on the fun and play The Dog Track yourself! Download the World G
     <dc:creator>Will Neary</dc:creator>
     <description>&lt;p&gt;Jackson Koivun carded his first birdie as a professional at the John Deere Classic on Thursday. His stardom is a warning sign to the TOUR’s biggest name.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jackson-koivun-era-has-begun-on-the-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260702_Jackson_Koivun_John_Deere_Classic_7471db3b8f/20260702_Jackson_Koivun_John_Deere_Classic_7471db3b8f.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Viktor Hovland Accidentally Built Golf&#x27;s Best Online Community</title>
+    <link>https://skratch.golf/news/golf-culture/viktor-hovland-fan-accounts-hovi-hive-twitter-community</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/viktor-hovland-fan-accounts-hovi-hive-twitter-community</guid>
+    <pubDate>Thu, 02 Jul 2026 16:53:38 +0000</pubDate>
+    <dc:creator>Claire Rogers</dc:creator>
+    <description>&lt;p&gt;They came for the memes and shot tracking. They stayed for the friendships.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/viktor-hovland-fan-accounts-hovi-hive-twitter-community"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260602_hovland_hive_BR_30e28f943d/20260602_hovland_hive_BR_30e28f943d.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -488,17 +505,6 @@ Dan travels all year and never leaves his &lt;/p&gt;&lt;p&gt;&lt;a href="https:/
     <category>video</category>
   </item>
   <item>
-    <title>Who&#x27;s in The Open? This Week&#x27;s Qualifiers Are Led by Alex Fitzpatrick</title>
-    <link>https://skratch.golf/news/news/open-championship-qualifiers-headlined-by-alex-fitzpatrick</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/open-championship-qualifiers-headlined-by-alex-fitzpatrick</guid>
-    <pubDate>Mon, 29 Jun 2026 15:52:50 +0000</pubDate>
-    <dc:creator>Will Neary</dc:creator>
-    <description>&lt;p&gt;The Open Championship is around the corner and we&#x27;re tracking the major’s exemptions every week. Here are the most recent names to get the invitation.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/open-championship-qualifiers-headlined-by-alex-fitzpatrick"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260629_Alex_Fitzpatrick_Open_Champ_f5defcd39e/20260629_Alex_Fitzpatrick_Open_Champ_f5defcd39e.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Viktorious again!!! This putt put Viktor Hovland back in the winners circle at Travelers Champ.</title>
     <link>https://www.youtube.com/shorts/-T9fTOunnOg</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/-T9fTOunnOg</guid>
@@ -525,17 +531,6 @@ Dan travels all year and never leaves his &lt;/p&gt;&lt;p&gt;&lt;a href="https:/
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Two Putters Lead To Haeran Ryu&#x27;s First Major Championship</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/Two-Putters-Haeran-Ryu-First-Major-kpmg</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/Two-Putters-Haeran-Ryu-First-Major-kpmg</guid>
-    <pubDate>Mon, 29 Jun 2026 12:16:14 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;A mid-tournament putter change helped Haeran Ryu find her footing on the way to her first major title at the KPMG Women&#x27;s PGA Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/Two-Putters-Haeran-Ryu-First-Major-kpmg"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Scotty_11r_OC_title_kpmg_a7f8734cbd/Scotty_11r_OC_title_kpmg_a7f8734cbd.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>TRAVELERS CHAMPIONSHIP LIVE WATCH ALONG: Scheffler, Hovland, Stars BATTLING for Title!</title>
@@ -622,20 +617,6 @@ Dan travels all year and never leaves his &lt;/p&gt;&lt;p&gt;&lt;a href="https:/
     <category>video</category>
   </item>
   <item>
-    <title>Seeing if TOUR winner Jacob Bridgeman can remember SHOT-FOR-SHOT this round at Riv. 👀</title>
-    <link>https://www.youtube.com/shorts/F6heWRI9HtE</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/F6heWRI9HtE</guid>
-    <pubDate>Fri, 26 Jun 2026 14:13:39 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;When Jacob Bridgeman won at Riv this year, it was a career-defining moment. Our Ryan Barath tests him on how well he remembers his back 9 on SATURDAY shot-for-shot with data powered by @CDW.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/F6heWRI9HtE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/F6heWRI9HtE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/F6heWRI9HtE" type="text/html" medium="video"/>
-    <yt:videoId>F6heWRI9HtE</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Odyssey&#x27;s Damascus Milled Putter Line Keeps Growing</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/Odyssey-Damascus-Expands-New-Shapes-s2s</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/Odyssey-Damascus-Expands-New-Shapes-s2s</guid>
@@ -670,6 +651,37 @@ Dan travels all year and never leaves his &lt;/p&gt;&lt;p&gt;&lt;a href="https:/
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>S2, E49: A New PGA TOUR, Spieth Goes Putter Shopping, Jake Knapp &amp; Rich Lerner Interviews</title>
+    <link>https://www.youtube.com/watch?v=hjB5-5ucLqg</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=hjB5-5ucLqg</guid>
+    <pubDate>Thu, 25 Jun 2026 11:54:16 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;A packed Wednesday show. The PGA TOUR announces BIG structural changes for the future. Jordan Spieth is deep in a possible putter change. We also have two interviews for you: Golf Channel&#x27;s Rich Lerner &amp; friend of the show &amp; winner on TOUR, Jake Knapp.
+
+Thank You to Our Sponsors!
+
+Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
+
+Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround.com/golf and use code DANONGOLF20,&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=hjB5-5ucLqg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/hjB5-5ucLqg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/hjB5-5ucLqg" type="text/html" medium="video"/>
+    <yt:videoId>hjB5-5ucLqg</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Every Winning Driver From The 2026 PGA TOUR Season (So Far)</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/pga-tour-every-winning-driver-2026-season</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/pga-tour-every-winning-driver-2026-season</guid>
+    <pubDate>Thu, 12 Feb 2026 18:57:22 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Every winner and every driver used to win on the PGA Tour in 2026, and how you can find them.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/pga-tour-every-winning-driver-2026-season"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/wyndham_clark_uso_shinnecock_Getty_Images_2282551833_cafa516601/wyndham_clark_uso_shinnecock_Getty_Images_2282551833_cafa516601.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
 </channel>
 </rss>
