@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 03 Jul 2026 20:36:25 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 03 Jul 2026 22:00:21 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Not all plaques are created equal</title>
@@ -167,6 +167,17 @@ You can join in on the fun and play The Dog Track yourself! Download the World G
     <category>article</category>
   </item>
   <item>
+    <title>The Field for the 2026 Scottish Open is Loaded</title>
+    <link>https://skratch.golf/news/news/genesis-scottish-open-2026-field-renaissance-club-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/genesis-scottish-open-2026-field-renaissance-club-pga-tour</guid>
+    <pubDate>Thu, 02 Jul 2026 03:05:27 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Scottie Scheffler, Rory McIlroy, and some old friends will all be at the Renaissance Club next week for the Genesis Scottish Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/genesis-scottish-open-2026-field-renaissance-club-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2224221394_441d9776a2/Getty_Images_2224221394_441d9776a2.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Challenging a former TOUR PRO at his home course with THREE CLUBS | Working Holiday</title>
     <link>https://www.youtube.com/watch?v=rQLK8OCcn-0</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=rQLK8OCcn-0</guid>
@@ -315,6 +326,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
+    <title>The Entire Open Championship Field (So Far…)</title>
+    <link>https://skratch.golf/news/news/open-championship-field-so-far</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/open-championship-field-so-far</guid>
+    <pubDate>Tue, 30 Jun 2026 17:46:35 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;Final Qualifying has come to a close, and the field for the Open Championship is almost set. Here’s everyone who has received an exemption so far.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/open-championship-field-so-far"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260630_Open_Championship_Final_Qualifying2_4da44e492a/20260630_Open_Championship_Final_Qualifying2_4da44e492a.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>(But Jordan fans will say it&#x27;s fake.) 🤣</title>
     <link>https://www.youtube.com/shorts/YI1bOxfk0Jw</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/YI1bOxfk0Jw</guid>
@@ -343,17 +365,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Q&amp;A: Dewi Weber Is Playing the Best Golf of Her Career</title>
-    <link>https://skratch.golf/news/pro-golf/dewi-weber-q-a-kpmg-womens-pga-hazeltine-recap-lpga</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/dewi-weber-q-a-kpmg-womens-pga-hazeltine-recap-lpga</guid>
-    <pubDate>Tue, 30 Jun 2026 14:44:36 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Fresh off a career-best finish at the KPMG Women&#x27;s PGA Championship, Dewi Weber reflects on contending in a major, building confidence and what&#x27;s next.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/dewi-weber-q-a-kpmg-womens-pga-hazeltine-recap-lpga"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Dewi_Weber_Final_Rd_KPMG_2026_Getty_Images_2283751686_b79d7193e5/Dewi_Weber_Final_Rd_KPMG_2026_Getty_Images_2283751686_b79d7193e5.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Relive the CLASSIC &quot;You&#x27;ll Learn&quot; interview ahead of Tiger’s professional debut. 🤣 #TigerTuesday</title>
     <link>https://www.youtube.com/shorts/Nnyg7MFZD58</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/Nnyg7MFZD58</guid>
@@ -366,17 +377,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>On Tap: John Deere Classic at TPC Deere Run</title>
-    <link>https://skratch.golf/news/news/john-deere-classis-2026-how-to-watch-pga-tour-tee-times-tpc-deere-run</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/john-deere-classis-2026-how-to-watch-pga-tour-tee-times-tpc-deere-run</guid>
-    <pubDate>Tue, 30 Jun 2026 14:24:17 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;It&#x27;s John Deere Classic week! *Insert 5th major joke here* Here&#x27;s how you can watch all the action from TPC Deere Run.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/john-deere-classis-2026-how-to-watch-pga-tour-tee-times-tpc-deere-run"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2177150766_eaf2a83c21/Getty_Images_2177150766_eaf2a83c21.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>“We expect athletes to be superheroes.” @manorsgolf</title>
