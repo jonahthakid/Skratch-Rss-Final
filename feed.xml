@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 04 Jul 2026 15:39:25 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 04 Jul 2026 16:58:13 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Busting out the good fireworks this year. Happy 4th of July! 🧨</title>
+    <link>https://www.youtube.com/shorts/mxzxwtkfr9s</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/mxzxwtkfr9s</guid>
+    <pubDate>Sat, 04 Jul 2026 16:17:12 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/mxzxwtkfr9s"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/mxzxwtkfr9s/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/mxzxwtkfr9s" type="text/html" medium="video"/>
+    <yt:videoId>mxzxwtkfr9s</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Not all plaques are created equal</title>
     <link>https://www.youtube.com/shorts/3Smt_0UgHSk</link>
@@ -612,20 +626,6 @@ Dan travels all year and never leaves his &lt;/p&gt;&lt;p&gt;&lt;a href="https:/
     <media:thumbnail url="https://img.youtube.com/vi/Qk9Pr4a0zhc/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/Qk9Pr4a0zhc" type="text/html" medium="video"/>
     <yt:videoId>Qk9Pr4a0zhc</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Saved par too. 😭</title>
-    <link>https://www.youtube.com/shorts/_aANtwhUrRw</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/_aANtwhUrRw</guid>
-    <pubDate>Fri, 26 Jun 2026 15:17:17 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/_aANtwhUrRw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/_aANtwhUrRw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/_aANtwhUrRw" type="text/html" medium="video"/>
-    <yt:videoId>_aANtwhUrRw</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
