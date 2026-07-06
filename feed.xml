@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 06 Jul 2026 20:21:04 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 06 Jul 2026 21:53:17 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Is Chris Gotterup the PGA TOUR’s Best Closer? His Resume Says So</title>
@@ -348,17 +348,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Rory McIlroy Breaks Out the Green Jacket for Wimbledon</title>
-    <link>https://skratch.golf/news/news/rory-mcilroy-wimbledon-green-jacket-masters-team-europe</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/rory-mcilroy-wimbledon-green-jacket-masters-team-europe</guid>
-    <pubDate>Wed, 01 Jul 2026 14:03:57 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Safe to say, Rory McIlroy had the outfit of the day at Wimbledon.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rory-mcilroy-wimbledon-green-jacket-masters-team-europe"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2283591399_5020b6f2de/Getty_Images_2283591399_5020b6f2de.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Alan Shipnuck on Breaking the Phil Mickelson Story, Why It Was Important, And What Happens Now</title>
     <link>https://www.youtube.com/watch?v=FSUDQ6tOMjY</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=FSUDQ6tOMjY</guid>
@@ -589,6 +578,17 @@ Dan travels all year and never leaves his &lt;/p&gt;&lt;p&gt;&lt;a href="https:/
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Who’s in The Open? Final Qualifying Headlines Recent Exemptions</title>
+    <link>https://skratch.golf/news/news/open-championship-qualifiers-final-qualifying-headlines-exemptions</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/open-championship-qualifiers-final-qualifying-headlines-exemptions</guid>
+    <pubDate>Mon, 29 Jun 2026 15:52:50 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;The Open Championship is around the corner and we&#x27;re tracking the major’s exemptions. Here’s who qualified over the last two weeks.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/open-championship-qualifiers-final-qualifying-headlines-exemptions"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260706_Matthew_Jordan_Final_Qualifying2_2_75d76d9eec/20260706_Matthew_Jordan_Final_Qualifying2_2_75d76d9eec.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Viktorious again!!! This putt put Viktor Hovland back in the winners circle at Travelers Champ.</title>
