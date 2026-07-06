@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 06 Jul 2026 18:24:05 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 06 Jul 2026 20:21:04 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Is Chris Gotterup the PGA TOUR’s Best Closer? His Resume Says So</title>
@@ -19,6 +19,17 @@
     <dc:creator>Will Neary</dc:creator>
     <description>&lt;p&gt;Chris Gotterup logged his third win of 2026 at the John Deere Classic this past weekend, each coming with a final round of 64 or better.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/chris-gotterup-is-the-pga-tours-best-closer"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260706_Chris_Gotterup_John_Deere_Classic_9c2bd7e7c7/20260706_Chris_Gotterup_John_Deere_Classic_9c2bd7e7c7.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Team International Wins Tightest Arnold Palmer Cup in Decades</title>
+    <link>https://skratch.golf/news/news/arnold-palmer-cup-team-international-wins-tighest-in-decades</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/arnold-palmer-cup-team-international-wins-tighest-in-decades</guid>
+    <pubDate>Mon, 06 Jul 2026 16:34:09 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;Team International managed to eke out a tight victory 30½ - 29½ over Team USA at the 2026 Arnold Palmer Cup as future stars showed their promise.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/arnold-palmer-cup-team-international-wins-tighest-in-decades"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260706_Arnold_Palmer_Cup_ca026d6f06/20260706_Arnold_Palmer_Cup_ca026d6f06.jpeg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -301,17 +312,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>The Best Finds From the PGA TOUR Superstore Sale Right Now</title>
-    <link>https://skratch.golf/style/mens-style/best-pga-tour-superstore-sales-golf-deals</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/best-pga-tour-superstore-sales-golf-deals</guid>
-    <pubDate>Wed, 01 Jul 2026 20:17:46 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;From polos and hoodies to Jordan golf shoes, these are the markdowns that actually stand out.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/best-pga-tour-superstore-sales-golf-deals"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/PGA_Superstore_Sale_Cover_0cc869098e/PGA_Superstore_Sale_Cover_0cc869098e.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Golf Isn&#x27;t Something We Need To Solve</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/old-vs-new-data-persimmon-blades-technology</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/old-vs-new-data-persimmon-blades-technology</guid>
@@ -346,6 +346,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Rory McIlroy Breaks Out the Green Jacket for Wimbledon</title>
+    <link>https://skratch.golf/news/news/rory-mcilroy-wimbledon-green-jacket-masters-team-europe</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/rory-mcilroy-wimbledon-green-jacket-masters-team-europe</guid>
+    <pubDate>Wed, 01 Jul 2026 14:03:57 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Safe to say, Rory McIlroy had the outfit of the day at Wimbledon.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rory-mcilroy-wimbledon-green-jacket-masters-team-europe"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2283591399_5020b6f2de/Getty_Images_2283591399_5020b6f2de.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Alan Shipnuck on Breaking the Phil Mickelson Story, Why It Was Important, And What Happens Now</title>
@@ -648,17 +659,6 @@ Dan travels all year and never leaves his &lt;/p&gt;&lt;p&gt;&lt;a href="https:/
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Patriotic Golf Gear To Amp Up Your Golf Bag Ahead of July 4</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/america-250-golf-gear-shopping</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/america-250-golf-gear-shopping</guid>
-    <pubDate>Thu, 25 Jun 2026 13:16:12 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;From Stars and Stripes to the red, white, and blue, this golf gear celebrates the United States 250th birthday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/america-250-golf-gear-shopping"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/taylormade_250_usa_d1e0536c46/taylormade_250_usa_d1e0536c46.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>These Are the Grips Used by the Top 25 Golfers in the World</title>
