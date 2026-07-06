@@ -9,15 +9,26 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 06 Jul 2026 12:43:40 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 06 Jul 2026 16:14:38 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
-    <title>Chris Gotterup Helps To Keep These Clubs On A Heater</title>
+    <title>My New Favorite Golf Video Game Has Been There All Along</title>
+    <link>https://skratch.golf/news/golf-culture/wgt-golf-launch-dog-track-dan-on-golf-open</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/wgt-golf-launch-dog-track-dan-on-golf-open</guid>
+    <pubDate>Mon, 06 Jul 2026 15:07:35 +0000</pubDate>
+    <dc:creator>Ben Boskovich</dc:creator>
+    <description>&lt;p&gt;And even better—Dan Rapaport and I just got to design our own course on it. Presenting: The DOG Track.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/wgt-golf-launch-dog-track-dan-on-golf-open"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_07_06_at_7_57_05_AM_fc3355bda9/Screenshot_2026_07_06_at_7_57_05_AM_fc3355bda9.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Chris Gotterup&#x27;s Win Extends These Gear Streaks</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/news-chris-gotterup-john-deere-driver-win</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/news-chris-gotterup-john-deere-driver-win</guid>
     <pubDate>Mon, 06 Jul 2026 01:13:37 +0000</pubDate>
     <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Chris Gotterup&#x27;s win with a mixed bag at the John Deere Classic helped keep some popular gear streaks red hot.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/news-chris-gotterup-john-deere-driver-win"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;From Ping drivers to TaylorMade Spiders, Gotterup&#x27;s latest win kept several gear trends alive—and snapped another.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/news-chris-gotterup-john-deere-driver-win"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2260076183_gotterup_driver_bad_crop_80c511418b/Getty_Images_2260076183_gotterup_driver_bad_crop_80c511418b.jpeg"/>
     <category>Skratch Articles</category>
     <category>article</category>
@@ -261,17 +272,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>Stanford Remains Women&#x27;s College Golf&#x27;s Ultimate Destination</title>
-    <link>https://skratch.golf/news/news/aphrodite-deng-commit-stanford-golf-junior-golf</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/aphrodite-deng-commit-stanford-golf-junior-golf</guid>
-    <pubDate>Wed, 01 Jul 2026 19:40:45 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The Cardinal just landed the next big thing in women&#x27;s golf: Aphrodite Deng.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/aphrodite-deng-commit-stanford-golf-junior-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2275495112_a1ccc6bfcd/Getty_Images_2275495112_a1ccc6bfcd.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>The Arnold Palmer Cup Is This Week. Here&#x27;s What You Need to Know.</title>
     <link>https://skratch.golf/news/news/arnold-palmer-cup-everything-you-need-to-know</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/arnold-palmer-cup-everything-you-need-to-know</guid>
@@ -279,17 +279,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Will Neary</dc:creator>
     <description>&lt;p&gt;The co-ed international team event featuring many of the world&#x27;s best amateur golfers returns Friday in Ireland. Here&#x27;s what to know before it begins.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/arnold-palmer-cup-everything-you-need-to-know"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260701_Tralee_Golf_Club_90f075d938/20260701_Tralee_Golf_Club_90f075d938.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Golf Will Return to Hawaii in 2027—Here are the Details</title>
-    <link>https://skratch.golf/news/news/sony-open-hawaii-2027-waialae-pga-tour-champions</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/sony-open-hawaii-2027-waialae-pga-tour-champions</guid>
-    <pubDate>Wed, 01 Jul 2026 19:08:19 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Professional golf isn&#x27;t done with Hawaii quite yet. Here&#x27;s the plan for Waialae in 2027.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/sony-open-hawaii-2027-waialae-pga-tour-champions"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2192546322_ab12ddabea/Getty_Images_2192546322_ab12ddabea.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -315,28 +304,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Tom Kim loves a birdie-fest, and that&#x27;s why he&#x27;s one of our three picks to win the John Deere Classic.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/john-deere-golf-picks-players-to-watch-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282178846_2bda155139/Getty_Images_2282178846_2bda155139.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The KPMG Women&#x27;s PGA Championship Drew Its Biggest Final Round Viewership Numbers Since 2005</title>
-    <link>https://skratch.golf/news/news/kpmg-womens-pga-championship-peak-audience-record-nbc-lpga-tv-broadcast</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/kpmg-womens-pga-championship-peak-audience-record-nbc-lpga-tv-broadcast</guid>
-    <pubDate>Wed, 01 Jul 2026 14:39:24 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The final round at Hazeltine drew an average of 1.4 million viewers on NBC, the championship&#x27;s highest Sunday audience in more than 20 years.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/kpmg-womens-pga-championship-peak-audience-record-nbc-lpga-tv-broadcast"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2283609662_d6744ddf0a/Getty_Images_2283609662_d6744ddf0a.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Rory McIlroy Breaks Out the Green Jacket for Wimbledon</title>
-    <link>https://skratch.golf/news/news/rory-mcilroy-wimbledon-green-jacket-masters-team-europe</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/rory-mcilroy-wimbledon-green-jacket-masters-team-europe</guid>
-    <pubDate>Wed, 01 Jul 2026 14:03:57 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Safe to say, Rory McIlroy had the outfit of the day at Wimbledon.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rory-mcilroy-wimbledon-green-jacket-masters-team-europe"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2283591399_5020b6f2de/Getty_Images_2283591399_5020b6f2de.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -367,6 +334,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The Entire Open Championship Field (So Far…)</title>
+    <link>https://skratch.golf/news/news/open-championship-field-so-far</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/open-championship-field-so-far</guid>
+    <pubDate>Tue, 30 Jun 2026 17:46:35 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;With Final Qualifying and the BMW International Open in the books, the field for the Open Championship is almost set. Here’s everyone who has received an exemption so far.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/open-championship-field-so-far"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260630_Open_Championship_Final_Qualifying2_4da44e492a/20260630_Open_Championship_Final_Qualifying2_4da44e492a.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>(But Jordan fans will say it&#x27;s fake.) 🤣</title>
@@ -487,6 +465,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The Many Looks of PUMA Golf in 2026</title>
+    <link>https://skratch.golf/style/mens-style/the-many-looks-of-puma-golf-2026</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/the-many-looks-of-puma-golf-2026</guid>
+    <pubDate>Mon, 29 Jun 2026 18:58:37 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;Rather than pushing one look, PUMA has spent the year showcasing multiple identities across its PGA TOUR roster.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/the-many-looks-of-puma-golf-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Puma_TT_Cover_e3ef836d6a/Puma_TT_Cover_e3ef836d6a.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>S2 E50: The Phil Mickelson Story, Viktor Beats Scottie at Travelers, Biggest Storylines Of The Year</title>
@@ -678,6 +667,17 @@ Dan travels all year and never leaves his &lt;/p&gt;&lt;p&gt;&lt;a href="https:/
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;Here’s how the latest mini drivers compare in shape, specs, adjustability, and who they’re actually made for.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/mini-driver-101-comparison-testing-reviews"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Mini_driver_26_title_5c0fd97323/Mini_driver_26_title_5c0fd97323.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>A Golf Rivalry For The Ages: Kipp Popert and Brendan Lawlor</title>
+    <link>https://skratch.golf/news/golf-culture/us-adaptive-open-kipp-popert-brendan-lawlor</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/us-adaptive-open-kipp-popert-brendan-lawlor</guid>
+    <pubDate>Thu, 10 Jul 2025 13:40:40 +0000</pubDate>
+    <dc:creator>Will Schube</dc:creator>
+    <description>&lt;p&gt;Popert returns to the U.S. Adaptive Open chasing an unprecedented fourth straight title, but longtime friend and rival Brendan Lawlor isn&#x27;t about to let him get too comfortable in the winner&#x27;s circle.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/us-adaptive-open-kipp-popert-brendan-lawlor"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/popert_lawlor_Getty_Images_2172549417_40857e7fb4/popert_lawlor_Getty_Images_2172549417_40857e7fb4.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
