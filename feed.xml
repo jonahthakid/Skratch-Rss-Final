@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 07 Jul 2026 12:23:16 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 07 Jul 2026 15:22:44 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Scottish Open Best Bets: Here&#x27;s Why It&#x27;s Rory&#x27;s Turn to Get Back in the Winner&#x27;s Circle</title>
@@ -92,6 +92,17 @@ Check out our website: https://skr&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.you
     <dc:creator>Ben Boskovich</dc:creator>
     <description>&lt;p&gt;And even better—Dan Rapaport and I just got to design our own course on it. Presenting: The DOG Track.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/wgt-golf-launch-dog-track-dan-on-golf-open"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_07_06_at_7_57_05_AM_fc3355bda9/Screenshot_2026_07_06_at_7_57_05_AM_fc3355bda9.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Titleist&#x27;s Black Vapor T-Series Irons Are Real, and They&#x27;re Spectacular</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/titleist-t-series-finish-black-vaopr-limited</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/titleist-t-series-finish-black-vaopr-limited</guid>
+    <pubDate>Mon, 06 Jul 2026 12:55:15 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Plus let&#x27;s talk about these new Vokeys.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/titleist-t-series-finish-black-vaopr-limited"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/black_vaopr_t_series_titleist_13049f1144/black_vaopr_t_series_titleist_13049f1144.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -234,17 +245,6 @@ You can join in on the fun and play The Dog Track yourself! Download the World G
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Viktor Hovland Accidentally Built Golf&#x27;s Best Online Community</title>
-    <link>https://skratch.golf/news/golf-culture/viktor-hovland-fan-accounts-hovi-hive-twitter-community</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/viktor-hovland-fan-accounts-hovi-hive-twitter-community</guid>
-    <pubDate>Thu, 02 Jul 2026 16:53:38 +0000</pubDate>
-    <dc:creator>Claire Rogers</dc:creator>
-    <description>&lt;p&gt;They came for the memes and shot tracking. They stayed for the friendships.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/viktor-hovland-fan-accounts-hovi-hive-twitter-community"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260602_hovland_hive_BR_30e28f943d/20260602_hovland_hive_BR_30e28f943d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>You can&#x27;t make this s*** up. 😭</title>
@@ -661,6 +661,17 @@ Dan travels all year and never leaves his &lt;/p&gt;&lt;p&gt;&lt;a href="https:/
     <category>video</category>
   </item>
   <item>
+    <title>The Golf Gear That Made It Back in the Bag This Season</title>
+    <link>https://skratch.golf/style/mens-style/golf-essentials-value-sunglasses-tech-accesssories-packing-list</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/golf-essentials-value-sunglasses-tech-accesssories-packing-list</guid>
+    <pubDate>Thu, 25 Jun 2026 17:10:17 +0000</pubDate>
+    <dc:creator>Brittany Romano</dc:creator>
+    <description>&lt;p&gt;Not every golf purchase becomes a staple. These did.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/golf-essentials-value-sunglasses-tech-accesssories-packing-list"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Golf_Bag_Essentials_header_a9e2d55c97/Golf_Bag_Essentials_header_a9e2d55c97.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>These Are the Grips Used by the Top 25 Golfers in the World</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/grips-golf-top-25-players-world-owgr</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/grips-golf-top-25-players-world-owgr</guid>
@@ -679,17 +690,6 @@ Dan travels all year and never leaves his &lt;/p&gt;&lt;p&gt;&lt;a href="https:/
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;Here’s how the latest mini drivers compare in shape, specs, adjustability, and who they’re actually made for.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/mini-driver-101-comparison-testing-reviews"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Mini_driver_26_title_5c0fd97323/Mini_driver_26_title_5c0fd97323.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>A Golf Rivalry For The Ages: Kipp Popert and Brendan Lawlor</title>
-    <link>https://skratch.golf/news/golf-culture/us-adaptive-open-kipp-popert-brendan-lawlor</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/us-adaptive-open-kipp-popert-brendan-lawlor</guid>
-    <pubDate>Thu, 10 Jul 2025 13:40:40 +0000</pubDate>
-    <dc:creator>Will Schube</dc:creator>
-    <description>&lt;p&gt;Popert returns to the U.S. Adaptive Open chasing an unprecedented fourth straight title, but longtime friend and rival Brendan Lawlor isn&#x27;t about to let him get too comfortable in the winner&#x27;s circle.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/us-adaptive-open-kipp-popert-brendan-lawlor"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/popert_lawlor_Getty_Images_2172549417_40857e7fb4/popert_lawlor_Getty_Images_2172549417_40857e7fb4.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
