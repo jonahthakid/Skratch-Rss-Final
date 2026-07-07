@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 07 Jul 2026 17:30:46 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 07 Jul 2026 19:46:12 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>How to Watch, Tee Times for the 2026 Genesis Scottish Open</title>
@@ -50,6 +50,17 @@ Dan on Golf is presented by @Knockaround, the official s&lt;/p&gt;&lt;p&gt;&lt;a
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Srixon Brings ZXi-RKT Drivers At The ISCO Championship</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/srixon-new-woods-hybrids-isco-rkt-proto</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/srixon-new-woods-hybrids-isco-rkt-proto</guid>
+    <pubDate>Tue, 07 Jul 2026 03:50:35 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;This week at the ISCO Championship, Srixon has new fairway wood and hybrid models ready for player testing. Here&#x27;s what we know.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/srixon-new-woods-hybrids-isco-rkt-proto"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Srixon_rkt_fw_isco_f990f83382/Srixon_rkt_fw_isco_f990f83382.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Is Chris Gotterup the PGA TOUR’s Best Closer? His Resume Says So</title>
@@ -319,17 +330,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;With big data being used in all walks of life, including golf, sometimes the simple eye test is all you need to really know how much things have changed&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/old-vs-new-data-persimmon-blades-technology"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Links_golf_1f70164f61/Links_golf_1f70164f61.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Arnold Palmer Cup Is This Week. Here&#x27;s What You Need to Know.</title>
-    <link>https://skratch.golf/news/news/arnold-palmer-cup-everything-you-need-to-know</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/arnold-palmer-cup-everything-you-need-to-know</guid>
-    <pubDate>Wed, 01 Jul 2026 19:25:31 +0000</pubDate>
-    <dc:creator>Will Neary</dc:creator>
-    <description>&lt;p&gt;The co-ed international team event featuring many of the world&#x27;s best amateur golfers returns Friday in Ireland. Here&#x27;s what to know before it begins.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/arnold-palmer-cup-everything-you-need-to-know"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260701_Tralee_Golf_Club_90f075d938/20260701_Tralee_Golf_Club_90f075d938.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
