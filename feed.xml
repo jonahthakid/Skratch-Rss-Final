@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 07 Jul 2026 15:22:44 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 07 Jul 2026 17:30:46 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>How to Watch, Tee Times for the 2026 Genesis Scottish Open</title>
+    <link>https://skratch.golf/news/news/genesis-scottish-open-2026-how-to-watch-pga-tour-tee-times</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/genesis-scottish-open-2026-how-to-watch-pga-tour-tee-times</guid>
+    <pubDate>Tue, 07 Jul 2026 13:55:25 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The last three champions in one group? Yes, please. Here&#x27;s how you can watch this week&#x27;s Genesis Scottish Open, plus tee times for the first two rounds.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/genesis-scottish-open-2026-how-to-watch-pga-tour-tee-times"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2284508044_099fd12a3d/Getty_Images_2284508044_099fd12a3d.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Scottish Open Best Bets: Here&#x27;s Why It&#x27;s Rory&#x27;s Turn to Get Back in the Winner&#x27;s Circle</title>
     <link>https://skratch.golf/news/pro-golf/genesis-scottish-open-2026-best-bets-pick-to-win</link>
@@ -202,17 +213,6 @@ Subscribe to Skratch on YouTube a&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.yout
     <dc:creator>Will Neary</dc:creator>
     <description>&lt;p&gt;The Open Championship is around the corner, and the field is taking shape. But there’s a new, fun wrinkle this year: the Last-Chance Qualifier.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/open-championship-last-chance-qualifier-how-it-works"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260702_Open_Championship_Royal_Birkdale_8d82e4e22f/20260702_Open_Championship_Royal_Birkdale_8d82e4e22f.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>It Was a Pleasure to Watch Ben Griffin on Thursday—Here&#x27;s Why</title>
-    <link>https://skratch.golf/news/news/john-deere-classic-2026-ben-griffin-quadruple-bogey-pga-tour-comeback</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/john-deere-classic-2026-ben-griffin-quadruple-bogey-pga-tour-comeback</guid>
-    <pubDate>Thu, 02 Jul 2026 19:06:15 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;With a low winning score on the horizon, Ben Griffin could have quit after a brutal quadruple-bogey eight. But he fought like hell to get it back into red figures.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/john-deere-classic-2026-ben-griffin-quadruple-bogey-pga-tour-comeback"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2284356836_4624c56456/Getty_Images_2284356836_4624c56456.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
