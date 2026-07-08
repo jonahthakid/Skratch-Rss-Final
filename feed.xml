@@ -9,8 +9,30 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 08 Jul 2026 17:57:49 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 08 Jul 2026 19:26:30 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>We Can’t Have Rory McIlroy Playing Football This Close to The Open</title>
+    <link>https://skratch.golf/news/news/genesis-scottish-open-2026-rory-mcilroy-playing-soccer-frankie-fleetwood</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/genesis-scottish-open-2026-rory-mcilroy-playing-soccer-frankie-fleetwood</guid>
+    <pubDate>Wed, 08 Jul 2026 17:48:37 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;You know what they say about lightning striking twice, but still, we can&#x27;t have Rory McIlroy playing football (soccer for us Americans) this close to The Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/genesis-scottish-open-2026-rory-mcilroy-playing-soccer-frankie-fleetwood"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285160038_73b1c4e108/Getty_Images_2285160038_73b1c4e108.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Nelly Korda on the Reality of Being World No. 1: &quot;There Is No Advantage&quot;</title>
+    <link>https://skratch.golf/news/news/nelly-korda-amundi-evian-championship-lpga-tour-world-no-1-advantage</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/nelly-korda-amundi-evian-championship-lpga-tour-world-no-1-advantage</guid>
+    <pubDate>Wed, 08 Jul 2026 16:20:07 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Ahead of the Amundi Evian Championship, Korda gets real about the expectations surrounding her (and she&#x27;s not wrong).&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/nelly-korda-amundi-evian-championship-lpga-tour-world-no-1-advantage"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285178608_e4e8e46dbe/Getty_Images_2285178608_e4e8e46dbe.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>S2 E52: Dan and Eugenio Chacarra Bury The Hatchet + Chris Gøtterup Interview</title>
     <link>https://www.youtube.com/watch?v=_B_9C62ozCk</link>
@@ -32,6 +54,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Links Golf and Soccer Have the Same Problem in America</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/links-golf-soccer-problem-understanding</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/links-golf-soccer-problem-understanding</guid>
+    <pubDate>Wed, 08 Jul 2026 13:40:15 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;The World Cup proves we know how to fall for something we don&#x27;t fully understand. Links golf has been waiting on us to figure it out for decades.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/links-golf-soccer-problem-understanding"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/St_Andrews_Golf_4609d4a0d4/St_Andrews_Golf_4609d4a0d4.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Range Report goes international 🏴󠁧󠁢󠁳󠁣󠁴󠁿 this week</title>
@@ -295,17 +328,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>adidas Golf Brings Back a Heavy Hitter With the New CodeChaos 27</title>
-    <link>https://skratch.golf/style/mens-style/adidas-golf-brings-back-a-heavy-hitter-with-the-new-code-chaos-27</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/adidas-golf-brings-back-a-heavy-hitter-with-the-new-code-chaos-27</guid>
-    <pubDate>Thu, 02 Jul 2026 21:27:12 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;A new generation of CodeChaos arrives alongside fresh Originals Golf apparel worth adding to your radar.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/adidas-golf-brings-back-a-heavy-hitter-with-the-new-code-chaos-27"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Adidas_Code_Chaos_Cover_ea7beddeaa/Adidas_Code_Chaos_Cover_ea7beddeaa.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Welcome to The Dog Track!</title>
     <link>https://www.youtube.com/shorts/lMIK92x2wD8</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/lMIK92x2wD8</guid>
@@ -379,17 +401,6 @@ You can join in on the fun and play The Dog Track yourself! Download the World G
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The Field for the 2026 Scottish Open is Loaded</title>
-    <link>https://skratch.golf/news/news/genesis-scottish-open-2026-field-renaissance-club-pga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/genesis-scottish-open-2026-field-renaissance-club-pga-tour</guid>
-    <pubDate>Thu, 02 Jul 2026 03:05:27 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Scottie Scheffler, Rory McIlroy, and some old friends will all be at the Renaissance Club next week for the Genesis Scottish Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/genesis-scottish-open-2026-field-renaissance-club-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2224221394_441d9776a2/Getty_Images_2224221394_441d9776a2.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Challenging a former TOUR PRO at his home course with THREE CLUBS | Working Holiday</title>
@@ -693,17 +704,6 @@ Dan travels all year and never leaves his &lt;/p&gt;&lt;p&gt;&lt;a href="https:/
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The Golf Gear That Made It Back in the Bag This Season</title>
-    <link>https://skratch.golf/style/mens-style/golf-essentials-value-sunglasses-tech-accesssories-packing-list</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/golf-essentials-value-sunglasses-tech-accesssories-packing-list</guid>
-    <pubDate>Thu, 25 Jun 2026 17:10:17 +0000</pubDate>
-    <dc:creator>Brittany Romano</dc:creator>
-    <description>&lt;p&gt;Not every golf purchase becomes a staple. These did.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/golf-essentials-value-sunglasses-tech-accesssories-packing-list"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Golf_Bag_Essentials_header_a9e2d55c97/Golf_Bag_Essentials_header_a9e2d55c97.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
