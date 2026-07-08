@@ -9,8 +9,26 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 08 Jul 2026 14:53:29 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 08 Jul 2026 16:26:04 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>S2 E51: LIVE AT SCOTTISH OPEN, Gøtterup Can&#x27;t Stop Winning, Dalke Shows Out, Sergio Got Sick</title>
+    <link>https://www.youtube.com/watch?v=_B_9C62ozCk</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=_B_9C62ozCk</guid>
+    <pubDate>Wed, 08 Jul 2026 15:33:38 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;We&#x27;re previewing the Genesis Scottish Open. Recapping Chris Gøtterup&#x27;s come-from-behind win at the John Deere Classic. We also take a look at Brad Dalke&#x27;s impressive DP World Tour debut in Germany. We have amateur golfer David Howard on the show, who discusses his battle with Cystic Fibrosis and qualifying for The Open. Plus, Sergio Garcia&#x27;s week took an unexpected turn after eating some lasagne. And much more!
+
+Thank You to Our Sponsors!
+
+Dan on Golf is presented by @Knockaround, the official s&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=_B_9C62ozCk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/_B_9C62ozCk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/_B_9C62ozCk" type="text/html" medium="video"/>
+    <yt:videoId>_B_9C62ozCk</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Range Report goes international 🏴󠁧󠁢󠁳󠁣󠁴󠁿 this week</title>
     <link>https://www.youtube.com/shorts/d4xtjtGT71A</link>
@@ -113,6 +131,17 @@ Dan on Golf is presented by @Knockaround, the official s&lt;/p&gt;&lt;p&gt;&lt;a
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;This week at the ISCO Championship, Srixon has new fairway wood and hybrid models ready for player testing. Here&#x27;s what we know.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/srixon-new-woods-hybrids-isco-rkt-proto"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Srixon_rkt_fw_isco_f990f83382/Srixon_rkt_fw_isco_f990f83382.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Trevor Kennison Doesn&#x27;t Do Ordinary And Neither Does His Golf Story</title>
+    <link>https://skratch.golf/news/news/usga-adaptive-open-trevor-kennison-profile</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/usga-adaptive-open-trevor-kennison-profile</guid>
+    <pubDate>Mon, 06 Jul 2026 17:56:49 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;After a life-changing snowboarding accident, Trevor Kennison found a new competitive outlet in adaptive golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/usga-adaptive-open-trevor-kennison-profile"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/26_USAO_0707_08244620_LW_18521_f2cc0dc661/26_USAO_0707_08244620_LW_18521_f2cc0dc661.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -335,17 +364,6 @@ You can join in on the fun and play The Dog Track yourself! Download the World G
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>LPGA Midseason Check-In: The Moments and Trends Defining 2026 (So Far)</title>
-    <link>https://skratch.golf/news/news/lpga-mid-year-check-in-2026-season</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-mid-year-check-in-2026-season</guid>
-    <pubDate>Thu, 02 Jul 2026 14:09:55 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;We&#x27;re at the turn...here&#x27;s what&#x27;s up next in women&#x27;s golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-mid-year-check-in-2026-season"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Nelly_Korda_Chevron_2026_Day_2_da3fb12062/Nelly_Korda_Chevron_2026_Day_2_da3fb12062.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>The Field for the 2026 Scottish Open is Loaded</title>
@@ -657,20 +675,6 @@ Dan travels all year and never leaves his &lt;/p&gt;&lt;p&gt;&lt;a href="https:/
     <media:thumbnail url="https://img.youtube.com/vi/39uqz0aRm5o/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/39uqz0aRm5o" type="text/html" medium="video"/>
     <yt:videoId>39uqz0aRm5o</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Been there.</title>
-    <link>https://www.youtube.com/shorts/qeld6k7RQQk</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/qeld6k7RQQk</guid>
-    <pubDate>Mon, 29 Jun 2026 00:28:19 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/qeld6k7RQQk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/qeld6k7RQQk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/qeld6k7RQQk" type="text/html" medium="video"/>
-    <yt:videoId>qeld6k7RQQk</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
