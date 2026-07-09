@@ -9,8 +9,58 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 09 Jul 2026 13:24:06 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 09 Jul 2026 16:10:58 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Routine 4 for Rory. 😅</title>
+    <link>https://www.youtube.com/shorts/-92n2KBlcAM</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/-92n2KBlcAM</guid>
+    <pubDate>Thu, 09 Jul 2026 15:40:59 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Throwback to Rory’s clutch, left-handed par save at the final round of last year’s Scottish Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/-92n2KBlcAM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/-92n2KBlcAM/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/-92n2KBlcAM" type="text/html" medium="video"/>
+    <yt:videoId>-92n2KBlcAM</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Rory, Renaissance Club, 2023. Plaque or waque?</title>
+    <link>https://www.youtube.com/shorts/1gOs3mAVTqI</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/1gOs3mAVTqI</guid>
+    <pubDate>Thu, 09 Jul 2026 15:37:01 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/1gOs3mAVTqI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/1gOs3mAVTqI/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/1gOs3mAVTqI" type="text/html" medium="video"/>
+    <yt:videoId>1gOs3mAVTqI</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Thanks to a Lighter Schedule, Rory McIlroy is Finding Balance</title>
+    <link>https://skratch.golf/news/news/rory-mcilroy-genesis-scottish-open-2026-finding-balance-lighter-schedule</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/rory-mcilroy-genesis-scottish-open-2026-finding-balance-lighter-schedule</guid>
+    <pubDate>Thu, 09 Jul 2026 15:04:41 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The TOUR hasn&#x27;t seen much of Rory McIlroy this season, but the lighter schedule has helped the six-time major champion find more balance in his life.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rory-mcilroy-genesis-scottish-open-2026-finding-balance-lighter-schedule"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2284740106_93ddc26e19/Getty_Images_2284740106_93ddc26e19.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Well...That Wasn&#x27;t the Major Championship Start Nelly Korda Had in Mind</title>
+    <link>https://skratch.golf/news/news/nelly-korda-amundi-evian-championship-round-one</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/nelly-korda-amundi-evian-championship-round-one</guid>
+    <pubDate>Thu, 09 Jul 2026 14:43:16 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;A disappointing opening 74 leaves Korda with plenty of work to do.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/nelly-korda-amundi-evian-championship-round-one"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285311916_195a1bbdac/Getty_Images_2285311916_195a1bbdac.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>S2 E52: Dan and Eugenio Chacarra Bury The Hatchet + Chris Gøtterup Interview</title>
     <link>https://www.youtube.com/watch?v=_B_9C62ozCk</link>
@@ -248,17 +298,6 @@ Dan on Golf is presented by @Knockaround, the official s&lt;/p&gt;&lt;p&gt;&lt;a
     <dc:creator>Raymond Williams</dc:creator>
     <description>&lt;p&gt;The longtime sporting goods brand is building a golf collection that feels as thoughtful as it performs.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/why-head-golf-is-worth-having-on-your-radar"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Head_Golf_Cover_2ba9f576dd/Head_Golf_Cover_2ba9f576dd.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Is Chris Gotterup the PGA TOUR’s Best Closer? His Resume Says So</title>
-    <link>https://skratch.golf/news/news/chris-gotterup-is-the-pga-tours-best-closer</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/chris-gotterup-is-the-pga-tours-best-closer</guid>
-    <pubDate>Mon, 06 Jul 2026 17:11:01 +0000</pubDate>
-    <dc:creator>Will Neary</dc:creator>
-    <description>&lt;p&gt;Chris Gotterup logged his third win of 2026 at the John Deere Classic this past weekend, each coming with a final round of 64 or better.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/chris-gotterup-is-the-pga-tours-best-closer"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260706_Chris_Gotterup_John_Deere_Classic_9c2bd7e7c7/20260706_Chris_Gotterup_John_Deere_Classic_9c2bd7e7c7.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -630,17 +669,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>The Many Looks of PUMA Golf in 2026</title>
-    <link>https://skratch.golf/style/mens-style/the-many-looks-of-puma-golf-2026</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/the-many-looks-of-puma-golf-2026</guid>
-    <pubDate>Mon, 29 Jun 2026 18:58:37 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Rather than pushing one look, PUMA has spent the year showcasing multiple identities across its PGA TOUR roster.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/the-many-looks-of-puma-golf-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Puma_TT_Cover_e3ef836d6a/Puma_TT_Cover_e3ef836d6a.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>S2 E50: The Phil Mickelson Story, Viktor Beats Scottie at Travelers, Biggest Storylines Of The Year</title>
     <link>https://www.youtube.com/watch?v=ltt-Bbg8L_o</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=ltt-Bbg8L_o</guid>
@@ -672,34 +700,6 @@ Dan travels all year and never leaves his &lt;/p&gt;&lt;p&gt;&lt;a href="https:/
     <yt:videoId>fw2tBQkS-tg</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>&quot;Just seeing the Norwegian flags out there and the jerseys, it was really cool.&quot;</title>
-    <link>https://www.youtube.com/shorts/G9phVzRvB48</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/G9phVzRvB48</guid>
-    <pubDate>Mon, 29 Jun 2026 17:28:48 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/G9phVzRvB48"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/G9phVzRvB48/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/G9phVzRvB48" type="text/html" medium="video"/>
-    <yt:videoId>G9phVzRvB48</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Get to know Viktor Hovland, one of the most fascinating figures in golf. 😭</title>
-    <link>https://www.youtube.com/shorts/peAg1KMS8NM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/peAg1KMS8NM</guid>
-    <pubDate>Mon, 29 Jun 2026 17:07:33 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/peAg1KMS8NM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/peAg1KMS8NM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/peAg1KMS8NM" type="text/html" medium="video"/>
-    <yt:videoId>peAg1KMS8NM</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
     <category>video</category>
   </item>
 </channel>
