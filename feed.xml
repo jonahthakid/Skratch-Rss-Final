@@ -1,4 +1,3 @@
-<!-- Warning: Error fetching Dan On Golf Show: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -10,8 +9,44 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 09 Jul 2026 06:25:08 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 09 Jul 2026 10:03:02 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>S2 E52: Dan and Eugenio Chacarra Bury The Hatchet + Chris Gøtterup Interview</title>
+    <link>https://www.youtube.com/watch?v=_B_9C62ozCk</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=_B_9C62ozCk</guid>
+    <pubDate>Thu, 09 Jul 2026 06:38:54 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Defending  Scottish Open Champion Chris Gøtterup joins the show! Dan and  Eugenio Chacarra Bury The Hatchet, and Harry Hall finally makes good on his promise to Dan. And so much more!
+
+Thank You to Our Sponsors!
+
+Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
+
+Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround.com/golf and use code DANONGOLF20, you can stock up with 20% off, which brings many pairs under $30. 
+
+&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=_B_9C62ozCk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/_B_9C62ozCk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/_B_9C62ozCk" type="text/html" medium="video"/>
+    <yt:videoId>_B_9C62ozCk</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>He’s done his time and he’s done this before. What is going on here? @manorsgolf</title>
+    <link>https://www.youtube.com/shorts/FiDu1w4bUzI</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/FiDu1w4bUzI</guid>
+    <pubDate>Thu, 09 Jul 2026 02:14:48 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/FiDu1w4bUzI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/FiDu1w4bUzI/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/FiDu1w4bUzI" type="text/html" medium="video"/>
+    <yt:videoId>FiDu1w4bUzI</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Is the Scottish Open and The Open the Best Two-Week Stretch in Golf?</title>
     <link>https://skratch.golf/news/news/genesis-scottish-open-2026-best-two-week-stretches-pga-tour-the-open</link>
@@ -166,6 +201,24 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
+    <title>S2 E51: LIVE AT SCOTTISH OPEN, Gøtterup Can&#x27;t Stop Winning, Dalke Shows Out, Sergio Got Sick</title>
+    <link>https://www.youtube.com/watch?v=6LBrnezoTHk</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=6LBrnezoTHk</guid>
+    <pubDate>Tue, 07 Jul 2026 06:15:36 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;We&#x27;re previewing the Genesis Scottish Open. Recapping Chris Gøtterup&#x27;s come-from-behind win at the John Deere Classic. We also take a look at Brad Dalke&#x27;s impressive DP World Tour debut in Germany. We have amateur golfer David Howard on the show, who discusses his battle with Cystic Fibrosis and qualifying for The Open. Plus, Sergio Garcia&#x27;s week took an unexpected turn after eating some lasagne. And much more!
+
+Thank You to Our Sponsors!
+
+Dan on Golf is presented by @Knockaround, the official s&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=6LBrnezoTHk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/6LBrnezoTHk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/6LBrnezoTHk" type="text/html" medium="video"/>
+    <yt:videoId>6LBrnezoTHk</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Srixon Brings ZXi-RKT Drivers At The ISCO Championship</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/srixon-new-woods-hybrids-isco-rkt-proto</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/srixon-new-woods-hybrids-isco-rkt-proto</guid>
@@ -297,6 +350,20 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
+    <title>Not all plaques are created equal</title>
+    <link>https://www.youtube.com/shorts/3Smt_0UgHSk</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/3Smt_0UgHSk</guid>
+    <pubDate>Thu, 02 Jul 2026 23:41:23 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/3Smt_0UgHSk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/3Smt_0UgHSk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/3Smt_0UgHSk" type="text/html" medium="video"/>
+    <yt:videoId>3Smt_0UgHSk</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Welcome to The Dog Track!</title>
     <link>https://www.youtube.com/shorts/lMIK92x2wD8</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/lMIK92x2wD8</guid>
@@ -326,6 +393,36 @@ Subscribe to Skratch on YouTube a&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.yout
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260702_Open_Championship_Royal_Birkdale_8d82e4e22f/20260702_Open_Championship_Royal_Birkdale_8d82e4e22f.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>Tonnnns of headlines so far and still so much to go.</title>
+    <link>https://www.youtube.com/shorts/PkHqMCILlsQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/PkHqMCILlsQ</guid>
+    <pubDate>Thu, 02 Jul 2026 18:09:54 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/PkHqMCILlsQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/PkHqMCILlsQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/PkHqMCILlsQ" type="text/html" medium="video"/>
+    <yt:videoId>PkHqMCILlsQ</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Playing our World Golf Tour course for the FIRST TIME!</title>
+    <link>https://www.youtube.com/watch?v=n-1pWhyFIGo</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=n-1pWhyFIGo</guid>
+    <pubDate>Thu, 02 Jul 2026 17:49:08 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Welcome to The Dog Track! We teamed up with @wgt to design a Dan on Golf course featuring 18 holes from our favorites around the world. Join Dan Rapaport as he plays it for the first time with his trusty caddie, Ben Boskovich, on the bag.
+
+You can join in on the fun and play The Dog Track yourself! Download the World Golf Tour app for free to compete against Dan and other players around the world: http://www.wgt.com/&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=n-1pWhyFIGo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/n-1pWhyFIGo/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/n-1pWhyFIGo" type="text/html" medium="video"/>
+    <yt:videoId>n-1pWhyFIGo</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
   </item>
   <item>
     <title>You can&#x27;t make this s*** up. 😭</title>
@@ -371,6 +468,34 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:videoId>fbDAFn-RwAI</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Alan Shipnuck on Breaking the Phil Mickelson Story, Why It Was Important, And What Happens Now</title>
+    <link>https://www.youtube.com/watch?v=FSUDQ6tOMjY</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=FSUDQ6tOMjY</guid>
+    <pubDate>Tue, 30 Jun 2026 18:35:17 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Alan Shipnuck joins the show to discuss his bomb shell reporting with Skratch, about the Phil Mickelson story. We dive deep into the subject, and hear first-hand information about the reporting process that took months to source and publish.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=FSUDQ6tOMjY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/FSUDQ6tOMjY/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/FSUDQ6tOMjY" type="text/html" medium="video"/>
+    <yt:videoId>FSUDQ6tOMjY</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Eugenio Chacarra went from LIV, to the DP World Tour—and soon to the PGA TOUR</title>
+    <link>https://www.youtube.com/shorts/e1_rktI4Mok</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/e1_rktI4Mok</guid>
+    <pubDate>Tue, 30 Jun 2026 18:03:57 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Presented by @Knockaround&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/e1_rktI4Mok"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/e1_rktI4Mok/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/e1_rktI4Mok" type="text/html" medium="video"/>
+    <yt:videoId>e1_rktI4Mok</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
     <category>video</category>
   </item>
   <item>
@@ -427,6 +552,48 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
+    <title>“We expect athletes to be superheroes.” @manorsgolf</title>
+    <link>https://www.youtube.com/shorts/ilwYIDoFP7U</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/ilwYIDoFP7U</guid>
+    <pubDate>Tue, 30 Jun 2026 01:27:17 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ilwYIDoFP7U"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/ilwYIDoFP7U/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/ilwYIDoFP7U" type="text/html" medium="video"/>
+    <yt:videoId>ilwYIDoFP7U</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>“There’s a messiness there, a misbehavior that is pretty extreme.”</title>
+    <link>https://www.youtube.com/shorts/ocKw-O6EcAs</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/ocKw-O6EcAs</guid>
+    <pubDate>Mon, 29 Jun 2026 23:00:02 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ocKw-O6EcAs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/ocKw-O6EcAs/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/ocKw-O6EcAs" type="text/html" medium="video"/>
+    <yt:videoId>ocKw-O6EcAs</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>This tournament has created a true identity and delivers year after year</title>
+    <link>https://www.youtube.com/shorts/1OLOGSycvPg</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/1OLOGSycvPg</guid>
+    <pubDate>Mon, 29 Jun 2026 21:03:04 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/1OLOGSycvPg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/1OLOGSycvPg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/1OLOGSycvPg" type="text/html" medium="video"/>
+    <yt:videoId>1OLOGSycvPg</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>To LAG or not to LAG, that is the question</title>
     <link>https://www.youtube.com/shorts/hO3kC3KKcwA</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/hO3kC3KKcwA</guid>
@@ -474,6 +641,54 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
+    <title>S2 E50: The Phil Mickelson Story, Viktor Beats Scottie at Travelers, Biggest Storylines Of The Year</title>
+    <link>https://www.youtube.com/watch?v=ltt-Bbg8L_o</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=ltt-Bbg8L_o</guid>
+    <pubDate>Mon, 29 Jun 2026 18:39:16 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;INWe&#x27;re recapping Viktor Hovland&#x27;s Monday morning playoff win over Scottie Scheffler at the Travelers Championship and chatting with the Norweigian after his victory. Alan Shipnuck joins to discuss his story on Phil Mickelson&#x27;s misconduct, we also preview the John Deere Classic and break down the biggest storylines of the year so far.
+
+Thank You to Our Sponsors!
+
+Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
+
+Dan travels all year and never leaves his &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ltt-Bbg8L_o"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/ltt-Bbg8L_o/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/ltt-Bbg8L_o" type="text/html" medium="video"/>
+    <yt:videoId>ltt-Bbg8L_o</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>“That was a low moment for me … but if it&#x27;s going to help me play better, who cares?&quot;</title>
+    <link>https://www.youtube.com/shorts/fw2tBQkS-tg</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/fw2tBQkS-tg</guid>
+    <pubDate>Mon, 29 Jun 2026 18:30:39 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/fw2tBQkS-tg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/fw2tBQkS-tg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/fw2tBQkS-tg" type="text/html" medium="video"/>
+    <yt:videoId>fw2tBQkS-tg</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>&quot;Just seeing the Norwegian flags out there and the jerseys, it was really cool.&quot;</title>
+    <link>https://www.youtube.com/shorts/G9phVzRvB48</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/G9phVzRvB48</guid>
+    <pubDate>Mon, 29 Jun 2026 17:28:48 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/G9phVzRvB48"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/G9phVzRvB48/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/G9phVzRvB48" type="text/html" medium="video"/>
+    <yt:videoId>G9phVzRvB48</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Get to know Viktor Hovland, one of the most fascinating figures in golf. 😭</title>
     <link>https://www.youtube.com/shorts/peAg1KMS8NM</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/peAg1KMS8NM</guid>
@@ -486,50 +701,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The Golf Gear That Made It Back in the Bag This Season</title>
-    <link>https://skratch.golf/style/mens-style/golf-essentials-value-sunglasses-tech-accesssories-packing-list</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/golf-essentials-value-sunglasses-tech-accesssories-packing-list</guid>
-    <pubDate>Thu, 25 Jun 2026 17:10:17 +0000</pubDate>
-    <dc:creator>Brittany Romano</dc:creator>
-    <description>&lt;p&gt;Not every golf purchase becomes a staple. These did.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/golf-essentials-value-sunglasses-tech-accesssories-packing-list"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Golf_Bag_Essentials_header_a9e2d55c97/Golf_Bag_Essentials_header_a9e2d55c97.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>A Golf Rivalry For The Ages: Kipp Popert and Brendan Lawlor</title>
-    <link>https://skratch.golf/news/golf-culture/us-adaptive-open-kipp-popert-brendan-lawlor</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/us-adaptive-open-kipp-popert-brendan-lawlor</guid>
-    <pubDate>Thu, 10 Jul 2025 13:40:40 +0000</pubDate>
-    <dc:creator>Will Schube</dc:creator>
-    <description>&lt;p&gt;Popert returns to the U.S. Adaptive Open chasing an unprecedented fourth straight title, but longtime friend and rival Brendan Lawlor isn&#x27;t about to let him get too comfortable in the winner&#x27;s circle.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/us-adaptive-open-kipp-popert-brendan-lawlor"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/popert_lawlor_Getty_Images_2172549417_40857e7fb4/popert_lawlor_Getty_Images_2172549417_40857e7fb4.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Our Favorite Wimbledon-Inspired Golf Looks For Summer</title>
-    <link>https://skratch.golf/style/style/best-all-white-golf-apparel-shop-style-guide</link>
-    <guid isPermaLink="true">https://skratch.golf/style/style/best-all-white-golf-apparel-shop-style-guide</guid>
-    <pubDate>Thu, 03 Jul 2025 18:23:30 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Channelling our inner &quot;Pimm&#x27;s on The Hill&quot; with a side of berries and cream vibes, and how to style them for a different kind of grass.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/best-all-white-golf-apparel-shop-style-guide"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/wimbledon_whites_317d39b360/wimbledon_whites_317d39b360.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>How to Watch the U.S. Adaptive Open</title>
-    <link>https://skratch.golf/news/news/adaptive-open-golf-usga-how-to-watch-facts-information-format</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/adaptive-open-golf-usga-how-to-watch-facts-information-format</guid>
-    <pubDate>Wed, 02 Jul 2025 16:49:03 +0000</pubDate>
-    <dc:creator>Riley Hamel, Brittany Romano</dc:creator>
-    <description>&lt;p&gt;One of the best events in our sport kicks off on Monday. Here&#x27;s how you can watch the USGA&#x27;s Adaptive Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/adaptive-open-golf-usga-how-to-watch-facts-information-format"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Bailey_Bish2_7b3bcdb615/Bailey_Bish2_7b3bcdb615.jpeg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
