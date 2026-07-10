@@ -9,8 +9,47 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 10 Jul 2026 15:09:43 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 10 Jul 2026 17:15:26 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Come play a hole with Nicolai Hojgaard. Yes, we&#x27;re sure it&#x27;s Nicolai.</title>
+    <link>https://www.youtube.com/shorts/oIPL8ANpX-4</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/oIPL8ANpX-4</guid>
+    <pubDate>Fri, 10 Jul 2026 15:55:51 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/oIPL8ANpX-4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/oIPL8ANpX-4/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/oIPL8ANpX-4" type="text/html" medium="video"/>
+    <yt:videoId>oIPL8ANpX-4</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>It’s a true pilgrimage for golf sickos everywhere. If you&#x27;re at all able, do the trip.</title>
+    <link>https://www.youtube.com/shorts/1tr5rsXm8_0</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/1tr5rsXm8_0</guid>
+    <pubDate>Fri, 10 Jul 2026 15:30:08 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/1tr5rsXm8_0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/1tr5rsXm8_0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/1tr5rsXm8_0" type="text/html" medium="video"/>
+    <yt:videoId>1tr5rsXm8_0</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Watch: The Laws of Physics Simply Don&#x27;t Matter at Evian</title>
+    <link>https://skratch.golf/news/news/evian-championship-second-round-crazy-shot-watch</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/evian-championship-second-round-crazy-shot-watch</guid>
+    <pubDate>Fri, 10 Jul 2026 15:10:21 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;I always knew there was something magical in that water—and Mi Hyang Lee just proved it.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/evian-championship-second-round-crazy-shot-watch"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2224861503_69b7d119dd/Getty_Images_2224861503_69b7d119dd.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Tiger went 7 years (!!!) without missing a cut. Will anyone ever break this record?</title>
     <link>https://www.youtube.com/shorts/MiDPPWcliu0</link>
@@ -71,26 +110,6 @@
     <media:thumbnail url="https://img.youtube.com/vi/LxDF3nW7zFg/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/LxDF3nW7zFg" type="text/html" medium="video"/>
     <yt:videoId>LxDF3nW7zFg</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Chris Gøtterup: Pebble Beach appreciator, sunscreen user.</title>
-    <link>https://www.youtube.com/shorts/_gPTw6Tis28</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/_gPTw6Tis28</guid>
-    <pubDate>Thu, 09 Jul 2026 22:39:40 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Chris Gøtterup: Pebble Beach appreciator, sunscreen user. Dan Rapaport goes rapid fire, presented by@supergoop.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/_gPTw6Tis28"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/_gPTw6Tis28/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/_gPTw6Tis28" type="text/html" medium="video"/>
-    <yt:videoId>_gPTw6Tis28</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
@@ -659,38 +678,6 @@ You can join in on the fun and play The Dog Track yourself! Download the World G
     <media:thumbnail url="https://img.youtube.com/vi/ohJ4X70f3U8/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/ohJ4X70f3U8" type="text/html" medium="video"/>
     <yt:videoId>ohJ4X70f3U8</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Challenging a former TOUR PRO at his home course with THREE CLUBS | Working Holiday</title>
-    <link>https://www.youtube.com/watch?v=rQLK8OCcn-0</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=rQLK8OCcn-0</guid>
-    <pubDate>Wed, 01 Jul 2026 21:15:56 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The Working Holiday boys join former Korn Ferry Tour pro J.J. Killeen at his course, Sugar Tree, just outside Dallas for an EPIC two versus three match with a catch–they can only use three clubs. 
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love th&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=rQLK8OCcn-0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/rQLK8OCcn-0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/rQLK8OCcn-0" type="text/html" medium="video"/>
-    <yt:videoId>rQLK8OCcn-0</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Average hole from 2015 Spieth. 😭</title>
-    <link>https://www.youtube.com/shorts/fbDAFn-RwAI</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/fbDAFn-RwAI</guid>
-    <pubDate>Wed, 01 Jul 2026 18:56:14 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/fbDAFn-RwAI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/fbDAFn-RwAI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/fbDAFn-RwAI" type="text/html" medium="video"/>
-    <yt:videoId>fbDAFn-RwAI</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
