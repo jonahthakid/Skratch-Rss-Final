@@ -9,8 +9,58 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 10 Jul 2026 12:12:04 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 10 Jul 2026 15:09:43 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Tiger went 7 years (!!!) without missing a cut. Will anyone ever break this record?</title>
+    <link>https://www.youtube.com/shorts/MiDPPWcliu0</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/MiDPPWcliu0</guid>
+    <pubDate>Fri, 10 Jul 2026 14:58:40 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/MiDPPWcliu0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/MiDPPWcliu0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/MiDPPWcliu0" type="text/html" medium="video"/>
+    <yt:videoId>MiDPPWcliu0</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Jeeno Thitikul Fires 64, Storms Up the Evian Championship Leaderboard</title>
+    <link>https://skratch.golf/news/news/jeeno-thitikul-charges-evian-championship-leaderboard-second-round</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/jeeno-thitikul-charges-evian-championship-leaderboard-second-round</guid>
+    <pubDate>Fri, 10 Jul 2026 14:15:26 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Still searching for her first major title, the World No. 2 fired a bogey-free 64 to vault into contention at the Evian Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jeeno-thitikul-charges-evian-championship-leaderboard-second-round"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285479615_ef2fc4cda7/Getty_Images_2285479615_ef2fc4cda7.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Shocker: Scottie Scheffler Misses the Cut at the 2026 Genesis Scottish Open</title>
+    <link>https://skratch.golf/news/news/scottie-scheffler-miss-cut-genesis-scottish-open-2026-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/scottie-scheffler-miss-cut-genesis-scottish-open-2026-pga-tour</guid>
+    <pubDate>Fri, 10 Jul 2026 13:01:34 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Scottie Scheffler&#x27;s made-cut streak ends at 78 as the World No. 1 is heading home a few days early at the Genesis Scottish Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/scottie-scheffler-miss-cut-genesis-scottish-open-2026-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285504151_e52f8062ec/Getty_Images_2285504151_e52f8062ec.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Breaking down plaques involving Tiger Woods, Ben Hogan and Trent Ryan.</title>
+    <link>https://www.youtube.com/shorts/k1YE91yyd2g</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/k1YE91yyd2g</guid>
+    <pubDate>Fri, 10 Jul 2026 13:00:19 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;What do you think, are these “Plaque or Waque”?&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/k1YE91yyd2g"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/k1YE91yyd2g/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/k1YE91yyd2g" type="text/html" medium="video"/>
+    <yt:videoId>k1YE91yyd2g</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>How well do the ACC players know their competitors’ handicaps?</title>
     <link>https://www.youtube.com/shorts/LxDF3nW7zFg</link>
@@ -438,17 +488,6 @@ Dan on Golf is presented by @Knockaround, the official s&lt;/p&gt;&lt;p&gt;&lt;a
     <category>video</category>
   </item>
   <item>
-    <title>Srixon Brings ZXi-RKT Drivers At The ISCO Championship</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/srixon-new-woods-hybrids-isco-rkt-proto</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/srixon-new-woods-hybrids-isco-rkt-proto</guid>
-    <pubDate>Tue, 07 Jul 2026 03:50:35 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;This week at the ISCO Championship, Srixon has new fairway wood and hybrid models ready for player testing. Here&#x27;s what we know.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/srixon-new-woods-hybrids-isco-rkt-proto"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Srixon_rkt_fw_isco_f990f83382/Srixon_rkt_fw_isco_f990f83382.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Trevor Kennison Doesn&#x27;t Do Ordinary And Neither Does His Golf Story</title>
     <link>https://skratch.golf/news/news/usga-adaptive-open-trevor-kennison-profile</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/usga-adaptive-open-trevor-kennison-profile</guid>
@@ -655,45 +694,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Alan Shipnuck on Breaking the Phil Mickelson Story, Why It Was Important, And What Happens Now</title>
-    <link>https://www.youtube.com/watch?v=FSUDQ6tOMjY</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=FSUDQ6tOMjY</guid>
-    <pubDate>Tue, 30 Jun 2026 18:35:17 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Alan Shipnuck joins the show to discuss his bomb shell reporting with Skratch, about the Phil Mickelson story. We dive deep into the subject, and hear first-hand information about the reporting process that took months to source and publish.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=FSUDQ6tOMjY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/FSUDQ6tOMjY/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/FSUDQ6tOMjY" type="text/html" medium="video"/>
-    <yt:videoId>FSUDQ6tOMjY</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Eugenio Chacarra went from LIV, to the DP World Tour—and soon to the PGA TOUR</title>
-    <link>https://www.youtube.com/shorts/e1_rktI4Mok</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/e1_rktI4Mok</guid>
-    <pubDate>Tue, 30 Jun 2026 18:03:57 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Presented by @Knockaround&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/e1_rktI4Mok"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/e1_rktI4Mok/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/e1_rktI4Mok" type="text/html" medium="video"/>
-    <yt:videoId>e1_rktI4Mok</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>The Entire Open Championship Field (So Far…)</title>
-    <link>https://skratch.golf/news/news/open-championship-field-so-far</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/open-championship-field-so-far</guid>
-    <pubDate>Tue, 30 Jun 2026 17:46:35 +0000</pubDate>
-    <dc:creator>Will Neary</dc:creator>
-    <description>&lt;p&gt;With Final Qualifying and the BMW International Open in the books, the field for the Open Championship is almost set. Here’s everyone who has received an exemption so far.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/open-championship-field-so-far"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260630_Open_Championship_Final_Qualifying2_4da44e492a/20260630_Open_Championship_Final_Qualifying2_4da44e492a.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
