@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 11 Jul 2026 17:50:02 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Jul 2026 18:52:24 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Haeran Ryu&#x27;s Record Setting Gear From The Evian Championship</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/evian-scoring-record-haeran-ryu-saturday</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/evian-scoring-record-haeran-ryu-saturday</guid>
+    <pubDate>Sat, 11 Jul 2026 17:41:35 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;During Saturday&#x27;s Third Round at Evian-les-Bains, France, Haeran Ryu shot the lowest score in major golf history for both men and women.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/evian-scoring-record-haeran-ryu-saturday"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/RYU_Haeran_001_eb2036efd5/RYU_Haeran_001_eb2036efd5.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>It’s gameday. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs 🇳🇴. Kristoffer Reitan is ready.</title>
     <link>https://www.youtube.com/shorts/PVnpsM56xWE</link>
@@ -492,17 +503,6 @@ Ch&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=_B_9C62ozCk"&gt
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;It&#x27;s tough to beat the Scottish Open and The Open in back-to-back weeks—but is it the best fortnight stretch in golf?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/genesis-scottish-open-2026-best-two-week-stretches-pga-tour-the-open"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285184103_ba584dea4d/Getty_Images_2285184103_ba584dea4d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Eugenio Chacarra Is Forging The Path From LIV to the PGA TOUR. Who Will Follow?</title>
-    <link>https://skratch.golf/news/news/eugenio-chacarra-liv-to-pga-tour-forging-path-who-will-follow</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/eugenio-chacarra-liv-to-pga-tour-forging-path-who-will-follow</guid>
-    <pubDate>Wed, 08 Jul 2026 18:42:44 +0000</pubDate>
-    <dc:creator>Will Neary</dc:creator>
-    <description>&lt;p&gt;Eugenio Chacarra’s two recent wins have him well-positioned to earn his PGA TOUR card for 2027, paving a road that many may follow in the midst of LIV’s uncertain future.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/eugenio-chacarra-liv-to-pga-tour-forging-path-who-will-follow"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260708_Eugenio_Chacarra_Italian_Open_f2cb5a289c/20260708_Eugenio_Chacarra_Italian_Open_f2cb5a289c.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
