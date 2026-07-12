@@ -9,8 +9,30 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 12 Jul 2026 20:05:17 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Jul 2026 21:13:53 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The First Person to Text Tom Kim After His Scottish Open Win? Tiger Woods</title>
+    <link>https://skratch.golf/news/news/tom-kim-genesis-scottish-open-2026-tiger-woods-first-text</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/tom-kim-genesis-scottish-open-2026-tiger-woods-first-text</guid>
+    <pubDate>Sun, 12 Jul 2026 20:31:28 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Tiger Woods doesn&#x27;t mess around when it comes to quick congratulatory texts. On Sunday, it was Tom Kim&#x27;s turn after claiming the Genesis Scottish Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tom-kim-genesis-scottish-open-2026-tiger-woods-first-text"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285788653_10470cd34e/Getty_Images_2285788653_10470cd34e.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Tom Kim Win&#x27;s Highlighted By This 2026 Gear Oddity</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/tom-kim-pga-tour-scottish-open-blade</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/tom-kim-pga-tour-scottish-open-blade</guid>
+    <pubDate>Sun, 12 Jul 2026 19:40:38 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Tom Kim breaks his winless streak at the Scottish Open, and does it with a piece of gear almost nobody is winning with.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/tom-kim-pga-tour-scottish-open-blade"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2224918227_12055e9fed/Getty_Images_2224918227_12055e9fed.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Anthony Anderson, Bobby Flay and Patrick Peterson get a driver shaft fitting at star-studded event</title>
     <link>https://www.youtube.com/shorts/q_a3kZkSjtU</link>
@@ -525,28 +547,6 @@ Ch&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=_B_9C62ozCk"&gt
     <category>article</category>
   </item>
   <item>
-    <title>Is the Scottish Open and The Open the Best Two-Week Stretch in Golf?</title>
-    <link>https://skratch.golf/news/news/genesis-scottish-open-2026-best-two-week-stretches-pga-tour-the-open</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/genesis-scottish-open-2026-best-two-week-stretches-pga-tour-the-open</guid>
-    <pubDate>Wed, 08 Jul 2026 18:53:42 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;It&#x27;s tough to beat the Scottish Open and The Open in back-to-back weeks—but is it the best fortnight stretch in golf?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/genesis-scottish-open-2026-best-two-week-stretches-pga-tour-the-open"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285184103_ba584dea4d/Getty_Images_2285184103_ba584dea4d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>We Can’t Have Rory McIlroy Playing Football This Close to The Open</title>
-    <link>https://skratch.golf/news/news/genesis-scottish-open-2026-rory-mcilroy-playing-soccer-frankie-fleetwood</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/genesis-scottish-open-2026-rory-mcilroy-playing-soccer-frankie-fleetwood</guid>
-    <pubDate>Wed, 08 Jul 2026 17:48:37 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;You know what they say about lightning striking twice, but still, we can&#x27;t have Rory McIlroy playing football (soccer for us Americans) this close to The Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/genesis-scottish-open-2026-rory-mcilroy-playing-soccer-frankie-fleetwood"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285160038_73b1c4e108/Getty_Images_2285160038_73b1c4e108.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Nelly Korda on the Reality of Being World No. 1: &quot;There Is No Advantage&quot;</title>
     <link>https://skratch.golf/news/news/nelly-korda-amundi-evian-championship-lpga-tour-world-no-1-advantage</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/nelly-korda-amundi-evian-championship-lpga-tour-world-no-1-advantage</guid>
@@ -554,17 +554,6 @@ Ch&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=_B_9C62ozCk"&gt
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;Ahead of the Amundi Evian Championship, Korda gets real about the expectations surrounding her (and she&#x27;s not wrong).&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/nelly-korda-amundi-evian-championship-lpga-tour-world-no-1-advantage"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285178608_e4e8e46dbe/Getty_Images_2285178608_e4e8e46dbe.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Links Golf and Soccer Have the Same Problem in America</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/links-golf-soccer-problem-understanding</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/links-golf-soccer-problem-understanding</guid>
-    <pubDate>Wed, 08 Jul 2026 13:40:15 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;The World Cup proves we know how to fall for something we don&#x27;t fully understand. Links golf has been waiting on us to figure it out for decades.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/links-golf-soccer-problem-understanding"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/St_Andrews_Golf_4609d4a0d4/St_Andrews_Golf_4609d4a0d4.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -599,6 +588,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Can Wyndham Clark Stay Hot? Three Picks for the 2026 Genesis Scottish Open</title>
+    <link>https://skratch.golf/news/news/genesis-scottish-open-2026-golf-picks-pga-tour-players-to-watch</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/genesis-scottish-open-2026-golf-picks-pga-tour-players-to-watch</guid>
+    <pubDate>Tue, 07 Jul 2026 17:48:29 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Wyndham Clark is red-hot and has played well at the Renaissance Club over the last handful of years. He&#x27;s among the players we&#x27;re watching at this week&#x27;s Genesis Scottish Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/genesis-scottish-open-2026-golf-picks-pga-tour-players-to-watch"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2282551217_7ff5d6e467/Getty_Images_2282551217_7ff5d6e467.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Scottish Open Best Bets: Here&#x27;s Why It&#x27;s Rory&#x27;s Turn to Get Back in the Winner&#x27;s Circle</title>
