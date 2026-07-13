@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 13 Jul 2026 19:58:30 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 13 Jul 2026 20:58:31 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>As entertaining on the mic as he is on the course (or on the simulator).</title>
@@ -58,6 +58,17 @@ Dan travels all year and never leaves his Knoc&lt;/p&gt;&lt;p&gt;&lt;a href="htt
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Tommy Time? Dan Rapaport&#x27;s Top 25 for The Open</title>
+    <link>https://skratch.golf/news/news/open-championship-dankings-top-25-at-royal-birkdale</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/open-championship-dankings-top-25-at-royal-birkdale</guid>
+    <pubDate>Mon, 13 Jul 2026 17:48:30 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;The definitive rankings heading into the Open Championship at Royal Birkdale are finally here. Is it Tommy’s time?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/open-championship-dankings-top-25-at-royal-birkdale"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260713_Tommy_Fleetwood_Scottish_Open_6a39be90e8/20260713_Tommy_Fleetwood_Scottish_Open_6a39be90e8.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Based on Trends, One of These 8 Players Will Win The Open</title>
@@ -408,17 +419,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8A4taiIK9-w"&gt;
     <dc:creator>Will Neary, Ryan Barath</dc:creator>
     <description>&lt;p&gt;Scottie Scheffler&#x27;s streak of 78 consecutive made cuts came to an end at the Genesis Scottish Open. Here&#x27;s what the sports world looked like the last time he missed the weekend.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/scottie-scheffler-missed-cut-sports-world-august-2022"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260710_Scottie_Scheffler_Genesis_Scottish_Open_80023d2df5/20260710_Scottie_Scheffler_Genesis_Scottish_Open_80023d2df5.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Jeeno Thitikul Fires 64, Storms Up the Evian Championship Leaderboard</title>
-    <link>https://skratch.golf/news/news/jeeno-thitikul-charges-evian-championship-leaderboard-second-round</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/jeeno-thitikul-charges-evian-championship-leaderboard-second-round</guid>
-    <pubDate>Fri, 10 Jul 2026 14:15:26 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Still searching for her first major title, the World No. 2 fired a bogey-free 64 to vault into contention at the Evian Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jeeno-thitikul-charges-evian-championship-leaderboard-second-round"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285479615_ef2fc4cda7/Getty_Images_2285479615_ef2fc4cda7.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
