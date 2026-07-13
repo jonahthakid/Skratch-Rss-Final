@@ -9,10 +9,46 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 13 Jul 2026 16:54:27 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 13 Jul 2026 18:28:12 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
-    <title>LIVE AT BIRKDALE: Open Championship Preview, Tom Kim Interview, An INSANE Moment</title>
+    <title>🚨🚨🚨 Colum Egan, the master distiller at Bushmills, joined us for a magical round &amp; THIS HAPPENED.</title>
+    <link>https://www.youtube.com/shorts/uFNGar5-rrA</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/uFNGar5-rrA</guid>
+    <pubDate>Mon, 13 Jul 2026 18:16:38 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/uFNGar5-rrA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/uFNGar5-rrA/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/uFNGar5-rrA" type="text/html" medium="video"/>
+    <yt:videoId>uFNGar5-rrA</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Based on Trends, One of These 8 Players Will Win The Open</title>
+    <link>https://skratch.golf/news/news/the-open-2026-trends-one-of-eight-players-will-win-royal-birkdale</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/the-open-2026-trends-one-of-eight-players-will-win-royal-birkdale</guid>
+    <pubDate>Mon, 13 Jul 2026 17:31:34 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Any player at Royal Birkdale can win The Open, right? Wrong (well, according to this decade-plus-long trend).&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-open-2026-trends-one-of-eight-players-will-win-royal-birkdale"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285903943_810cd14377/Getty_Images_2285903943_810cd14377.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Nelly Korda and Haeran Ryu Just Did Something No One in Golf History Has Done</title>
+    <link>https://skratch.golf/news/news/nelly-korda-haeran-ryu-golf-history-two-majors-same-season</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/nelly-korda-haeran-ryu-golf-history-two-majors-same-season</guid>
+    <pubDate>Mon, 13 Jul 2026 16:39:56 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The pair make history, becoming the first golfers ever to win two major championships in the same season.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/nelly-korda-haeran-ryu-golf-history-two-majors-same-season"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/nellyhaeran_1_d4aecf603c/nellyhaeran_1_d4aecf603c.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>LIVE AT BIRKDALE: Open Championship Preview, Tom Kim Interview, An INSANE Ace On Camera</title>
     <link>https://www.youtube.com/watch?v=bEUkB_o7W3c</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=bEUkB_o7W3c</guid>
     <pubDate>Mon, 13 Jul 2026 15:55:53 +0000</pubDate>
@@ -65,6 +101,17 @@ Dan travels all year and never leaves his Knoc&lt;/p&gt;&lt;p&gt;&lt;a href="htt
     <category>article</category>
   </item>
   <item>
+    <title>The Limited Edition Gear We&#x27;ve Spotted Ahead Of The Open</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/open-major-golf-bags-royal-birkdale-gear</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/open-major-golf-bags-royal-birkdale-gear</guid>
+    <pubDate>Mon, 13 Jul 2026 14:20:30 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;For the final men&#x27;s major of the year, many of the biggest companies are pulling out all the stops to celebrate The Open Championship at Royal Birkdale.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/open-major-golf-bags-royal-birkdale-gear"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/title_open_gear_birkdale_784ed8daf8/title_open_gear_birkdale_784ed8daf8.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Photos: Early Sights from Royal Birkdale for The Open</title>
     <link>https://skratch.golf/news/news/the-open-2026-royal-birkdale-photos-early-sights</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/the-open-2026-royal-birkdale-photos-early-sights</guid>
@@ -105,6 +152,17 @@ Dan travels all year and never leaves his Knoc&lt;/p&gt;&lt;p&gt;&lt;a href="htt
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;Tom Kim breaks his winless streak at the Scottish Open, and does it with a piece of gear almost nobody is winning with.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/tom-kim-pga-tour-scottish-open-blade"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2224918227_12055e9fed/Getty_Images_2224918227_12055e9fed.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The 5 Biggest Takeaways From the Amundi Evian Championship</title>
+    <link>https://skratch.golf/news/news/amundi-evian-championship-five-biggest-takeaways</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/amundi-evian-championship-five-biggest-takeaways</guid>
+    <pubDate>Sun, 12 Jul 2026 15:37:37 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The fourth LPGA major of the season delivered yet another dramatic finish, these are the storylines—beyond the trophy—that we&#x27;re still thinking about.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/amundi-evian-championship-five-biggest-takeaways"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Ryu_Haeran_083_f887c173e0/Ryu_Haeran_083_f887c173e0.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -432,18 +490,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8A4taiIK9-w"&gt;
     <category>video</category>
   </item>
   <item>
-    <title>Watch: Not Sure This Putt Preview Could Have Been More Wrong</title>
-    <link>https://skratch.golf/news/news/scottie-scheffler-putt-prediction-broadcast-genesis-scottish-open-2026</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/scottie-scheffler-putt-prediction-broadcast-genesis-scottish-open-2026</guid>
-    <pubDate>Thu, 09 Jul 2026 18:48:50 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Scottie Scheffler: 1
-AI Putt Prediction: 0&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/scottie-scheffler-putt-prediction-broadcast-genesis-scottish-open-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285387487_cb19f7e6a0/Getty_Images_2285387487_cb19f7e6a0.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Takes a real man to cry.</title>
     <link>https://www.youtube.com/shorts/3EmE3eEBu8w</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/3EmE3eEBu8w</guid>
@@ -506,17 +552,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining&lt
     <category>video</category>
   </item>
   <item>
-    <title>Charley Hull is Making a Run at Evian—Fueled by Ice Cream</title>
-    <link>https://skratch.golf/news/news/charley-hull-amundi-evian-championship-ice-cream-cone-round-one</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/charley-hull-amundi-evian-championship-ice-cream-cone-round-one</guid>
-    <pubDate>Thu, 09 Jul 2026 15:40:33 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The English star fired a 5-under par 66 during her opening round, proving that birdies and brain freeze can coexist.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/charley-hull-amundi-evian-championship-ice-cream-cone-round-one"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285185546_00b900b22b/Getty_Images_2285185546_00b900b22b.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Rory, Renaissance Club, 2023. Plaque or waque?</title>
     <link>https://www.youtube.com/shorts/1gOs3mAVTqI</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/1gOs3mAVTqI</guid>
@@ -529,39 +564,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining&lt
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Thanks to a Lighter Schedule, Rory McIlroy is Finding Balance</title>
-    <link>https://skratch.golf/news/news/rory-mcilroy-genesis-scottish-open-2026-finding-balance-lighter-schedule</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/rory-mcilroy-genesis-scottish-open-2026-finding-balance-lighter-schedule</guid>
-    <pubDate>Thu, 09 Jul 2026 15:04:41 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The TOUR hasn&#x27;t seen much of Rory McIlroy this season, but the lighter schedule has helped the six-time major champion find more balance in his life.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rory-mcilroy-genesis-scottish-open-2026-finding-balance-lighter-schedule"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2284740106_93ddc26e19/Getty_Images_2284740106_93ddc26e19.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Driving Iron Too Much? Try A Low Lofted Hybrid</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/links-golf-driving-iron-hybrid-alternative</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/links-golf-driving-iron-hybrid-alternative</guid>
-    <pubDate>Thu, 09 Jul 2026 14:53:41 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;If you&#x27;re looking for a lower-flying long game alternative without going to a driving iron, a hybrid could be the ideal choice.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/links-golf-driving-iron-hybrid-alternative"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Hybrid_cobra_optm_links_9836a8609a/Hybrid_cobra_optm_links_9836a8609a.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Well...That Wasn&#x27;t the Major Championship Start Nelly Korda Had in Mind</title>
-    <link>https://skratch.golf/news/news/nelly-korda-amundi-evian-championship-round-one</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/nelly-korda-amundi-evian-championship-round-one</guid>
-    <pubDate>Thu, 09 Jul 2026 14:43:16 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;A disappointing opening 74 leaves Korda with plenty of work to do.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/nelly-korda-amundi-evian-championship-round-one"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285311916_195a1bbdac/Getty_Images_2285311916_195a1bbdac.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>S2 E52: Dan and Eugenio Chacarra Bury The Hatchet + Chris Gøtterup Interview</title>
@@ -650,6 +652,17 @@ Dan on Golf is presented by @Knockaround, the official s&lt;/p&gt;&lt;p&gt;&lt;a
     <category>video</category>
   </item>
   <item>
+    <title>Each Driving Iron From the Last 10 Open Championship Winners</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/2026-royal-birkdale-driving-iron-winners-decade</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/2026-royal-birkdale-driving-iron-winners-decade</guid>
+    <pubDate>Mon, 06 Jul 2026 17:47:15 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;With the Open Championship taking place at Royal Birkdale, here&#x27;s a look back at the last ten Open winners and the utility irons or long irons they had in play.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/2026-royal-birkdale-driving-iron-winners-decade"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260630_Scottie_Scheffler_2025_Open_b8cffdfc7d/20260630_Scottie_Scheffler_2025_Open_b8cffdfc7d.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>The Range Of Puma Golf In 2026</title>
     <link>https://www.youtube.com/shorts/qD0KMXHv3_Q</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/qD0KMXHv3_Q</guid>
@@ -687,20 +700,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:videoId>7RozmN5HglQ</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Not all plaques are created equal</title>
-    <link>https://www.youtube.com/shorts/3Smt_0UgHSk</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/3Smt_0UgHSk</guid>
-    <pubDate>Thu, 02 Jul 2026 23:41:23 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/3Smt_0UgHSk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/3Smt_0UgHSk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/3Smt_0UgHSk" type="text/html" medium="video"/>
-    <yt:videoId>3Smt_0UgHSk</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
     <category>video</category>
   </item>
 </channel>
