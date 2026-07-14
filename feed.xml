@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 14 Jul 2026 21:52:32 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 22:52:10 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>It’s all coming up 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
+    <link>https://www.youtube.com/shorts/ERFsQ3Bnh-U</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/ERFsQ3Bnh-U</guid>
+    <pubDate>Tue, 14 Jul 2026 21:56:08 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ERFsQ3Bnh-U"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/ERFsQ3Bnh-U/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/ERFsQ3Bnh-U" type="text/html" medium="video"/>
+    <yt:videoId>ERFsQ3Bnh-U</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Every Non-PGA TOUR Member in The Open Field</title>
     <link>https://skratch.golf/news/news/open-championship-non-pga-tour-members-in-the-field</link>
@@ -141,6 +155,17 @@
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;Australian amateur Amelia Harris carded an eight-birdie back-nine 28 at the U.S. Girls&#x27; Junior, producing one of the lowest nine-hole scores ever recorded in USGA competition.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/teenager-lowest-nine-hole-score-usga-history-amelia-harris"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/26_GJR_0713_14034837_LW_14935_ecf1d49290/26_GJR_0713_14034837_LW_14935_ecf1d49290.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>If the Teams Were Made Today, Who’s Going to the Solheim Cup in the Netherlands?</title>
+    <link>https://skratch.golf/news/news/2026-solheim-cup-roster-tracker</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/2026-solheim-cup-roster-tracker</guid>
+    <pubDate>Tue, 14 Jul 2026 13:51:34 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;With less than two months until the 2026 Solheim Cup, here&#x27;s who would be headed to Amsterdam if the teams were finalized today.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-solheim-cup-roster-tracker"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/USA_Solheim_2024_Winning_Moment_5de8f74e59/USA_Solheim_2024_Winning_Moment_5de8f74e59.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -459,17 +484,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Haeran Ryu Goes Back-to-Back in Playoff Thriller at Evian</title>
-    <link>https://skratch.golf/news/news/amundi-evian-championship-haeran-ryu-winner</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/amundi-evian-championship-haeran-ryu-winner</guid>
-    <pubDate>Sun, 12 Jul 2026 14:31:01 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Fresh off her first major title at the KPMG Women&#x27;s PGA Championship, Ryu delivered another clutch performance to win the Amundi Evian Championship in a playoff over Brooke Henderson.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/amundi-evian-championship-haeran-ryu-winner"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285179631_2c82c514f4/Getty_Images_2285179631_2c82c514f4.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>It’s gameday. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs 🇳🇴. Kristoffer Reitan is ready.</title>
     <link>https://www.youtube.com/shorts/PVnpsM56xWE</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/PVnpsM56xWE</guid>
@@ -657,20 +671,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8A4taiIK9-w"&gt;
     <media:thumbnail url="https://img.youtube.com/vi/CALnBrGDsPg/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/CALnBrGDsPg" type="text/html" medium="video"/>
     <yt:videoId>CALnBrGDsPg</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Eugenio Chacarra on Why He Went To LIV Golf And Why He Wants Back</title>
-    <link>https://www.youtube.com/watch?v=3-WfJxiekrk</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=3-WfJxiekrk</guid>
-    <pubDate>Thu, 09 Jul 2026 19:00:14 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Eugenio Chacarra sits down with Dan Rapaport to bury the hatchet and discuss his decisions to join LIV and return to the PGA TOUR.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=3-WfJxiekrk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/3-WfJxiekrk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/3-WfJxiekrk" type="text/html" medium="video"/>
-    <yt:videoId>3-WfJxiekrk</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
