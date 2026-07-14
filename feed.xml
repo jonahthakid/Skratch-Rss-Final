@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 14 Jul 2026 20:36:07 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 21:52:32 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Every Non-PGA TOUR Member in The Open Field</title>
+    <link>https://skratch.golf/news/news/open-championship-non-pga-tour-members-in-the-field</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/open-championship-non-pga-tour-members-in-the-field</guid>
+    <pubDate>Tue, 14 Jul 2026 20:28:41 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;Amateurs, LIV Golfers, DP World Tour’s stars and more make their bids at the 2026 Open Championship. Get to know the non-TOUR names in the field.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/open-championship-non-pga-tour-members-in-the-field"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260714_Bryson_De_Chambeau_Open_Championship_2612b95d9b/20260714_Bryson_De_Chambeau_Open_Championship_2612b95d9b.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Those were the good days, man.</title>
     <link>https://www.youtube.com/shorts/HUEdBCvCzzs</link>
@@ -415,17 +426,6 @@ Dan travels all year and never leaves his Knoc&lt;/p&gt;&lt;p&gt;&lt;a href="htt
     <dc:creator>Alan Shipnuck</dc:creator>
     <description>&lt;p&gt;And a defensive specialist who once held Trae Young (yeah, that one) to three points. This is the story of the dog inside Scottie Scheffler.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/scottie-scheffler-high-school-basketball-career-details-coach-interview"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/55_B365_C2_A4_B6_41_C1_A806_3_FDE_4867_A027_d4902bca95/55_B365_C2_A4_B6_41_C1_A806_3_FDE_4867_A027_d4902bca95.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Tom Kim Win&#x27;s Highlighted By This 2026 Gear Oddity</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/tom-kim-pga-tour-scottish-open-blade</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/tom-kim-pga-tour-scottish-open-blade</guid>
-    <pubDate>Sun, 12 Jul 2026 19:40:38 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Tom Kim breaks his winless streak at the Scottish Open, and does it with a piece of gear almost nobody is winning with.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/tom-kim-pga-tour-scottish-open-blade"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2224918227_12055e9fed/Getty_Images_2224918227_12055e9fed.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
