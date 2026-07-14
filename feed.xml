@@ -1,3 +1,5 @@
+<!-- Warning: Error fetching Skratch: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwtGQ3sgidNlQGbIUBPP3xw -->
+<!-- Warning: Error fetching Dan On Golf Show: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -9,122 +11,8 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 14 Jul 2026 02:12:58 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 05:12:19 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
-  <item>
-    <title>It’s the record Tiger’s most proud of, and it’s looking safer than ever.</title>
-    <link>https://www.youtube.com/shorts/R4UVjb8n4HQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/R4UVjb8n4HQ</guid>
-    <pubDate>Tue, 14 Jul 2026 01:15:13 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/R4UVjb8n4HQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/R4UVjb8n4HQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/R4UVjb8n4HQ" type="text/html" medium="video"/>
-    <yt:videoId>R4UVjb8n4HQ</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>A cool beginning to tournament week or content-ifying a major championship?</title>
-    <link>https://www.youtube.com/shorts/2CrTs8j0LqY</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/2CrTs8j0LqY</guid>
-    <pubDate>Mon, 13 Jul 2026 23:30:33 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/2CrTs8j0LqY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/2CrTs8j0LqY/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/2CrTs8j0LqY" type="text/html" medium="video"/>
-    <yt:videoId>2CrTs8j0LqY</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Rory clarifies his &quot;SO BAD AT GOLF&quot; moment in Scotland</title>
-    <link>https://www.youtube.com/shorts/2p9B58LqW2Q</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/2p9B58LqW2Q</guid>
-    <pubDate>Mon, 13 Jul 2026 21:36:10 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;I mean, Rory McIlroy&#x27;s not *that* bad at golf. Amanda Balionis asks Rory about his quote after his final round at the Genesis Scottish Open. 
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Su&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/2p9B58LqW2Q"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/2p9B58LqW2Q/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/2p9B58LqW2Q" type="text/html" medium="video"/>
-    <yt:videoId>2p9B58LqW2Q</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>TravisMathew and the American Century Championship are doing it right</title>
-    <link>https://www.youtube.com/shorts/YZeOCPLZzQg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/YZeOCPLZzQg</guid>
-    <pubDate>Mon, 13 Jul 2026 21:28:01 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Golf has never had more ways for people to find their version of the game. Nearly 20 years in, @TravisMathew continues to evolve right alongside it at the American Century Championship.x
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, a&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/YZeOCPLZzQg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/YZeOCPLZzQg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/YZeOCPLZzQg" type="text/html" medium="video"/>
-    <yt:videoId>YZeOCPLZzQg</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>As entertaining on the mic as he is on the course (or on the simulator).</title>
-    <link>https://www.youtube.com/shorts/SxvAKR9Q-y4</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/SxvAKR9Q-y4</guid>
-    <pubDate>Mon, 13 Jul 2026 19:30:01 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/SxvAKR9Q-y4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/SxvAKR9Q-y4/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/SxvAKR9Q-y4" type="text/html" medium="video"/>
-    <yt:videoId>SxvAKR9Q-y4</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>S2, E53: LIVE AT BIRKDALE: Open Championship Preview, Tom Kim Interview, An INSANE Ace On Camera</title>
-    <link>https://www.youtube.com/watch?v=bEUkB_o7W3c</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=bEUkB_o7W3c</guid>
-    <pubDate>Mon, 13 Jul 2026 18:32:11 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;We&#x27;re live at Birkdale as The Open Championship is upon us. Tom Kim joins the show after outlasting the field en route to his 4th PGA TOUR victory. We preview this week&#x27;s major championship with a full 25-person ranking—who will win?! Also, stay tuned for an INSANE moment from our shoot at Royal Portrush. And as always, much more.
-
-Thank You to Our Sponsors!
-
-Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
-
-Dan travels all year and never leaves his Knoc&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=bEUkB_o7W3c"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/bEUkB_o7W3c/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/bEUkB_o7W3c" type="text/html" medium="video"/>
-    <yt:videoId>bEUkB_o7W3c</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>🚨🚨🚨 Colum Egan, the master distiller at Bushmills, joined us for a magical round &amp; THIS HAPPENED.</title>
-    <link>https://www.youtube.com/shorts/uFNGar5-rrA</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/uFNGar5-rrA</guid>
-    <pubDate>Mon, 13 Jul 2026 18:16:38 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/uFNGar5-rrA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/uFNGar5-rrA/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/uFNGar5-rrA" type="text/html" medium="video"/>
-    <yt:videoId>uFNGar5-rrA</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
   <item>
     <title>Tommy Time? Dan Rapaport&#x27;s Top 25 for The Open</title>
     <link>https://skratch.golf/news/news/open-championship-dankings-top-25-at-royal-birkdale</link>
@@ -258,24 +146,6 @@ Dan travels all year and never leaves his Knoc&lt;/p&gt;&lt;p&gt;&lt;a href="htt
     <category>article</category>
   </item>
   <item>
-    <title>Anthony Anderson, Bobby Flay and Patrick Peterson get a driver shaft fitting at star-studded event</title>
-    <link>https://www.youtube.com/shorts/q_a3kZkSjtU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/q_a3kZkSjtU</guid>
-    <pubDate>Sun, 12 Jul 2026 15:04:19 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;“Drive for show” at Lake Tahoe. 🤩 @FujikuraTour  was on the range at the American Century Championship to help Anthony Anderson, Bobby Flay and Patrick Peterson dial in their drivers to perfection.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love t&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/q_a3kZkSjtU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/q_a3kZkSjtU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/q_a3kZkSjtU" type="text/html" medium="video"/>
-    <yt:videoId>q_a3kZkSjtU</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Haeran Ryu Goes Back-to-Back in Playoff Thriller at Evian</title>
     <link>https://skratch.golf/news/news/amundi-evian-championship-haeran-ryu-winner</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/amundi-evian-championship-haeran-ryu-winner</guid>
@@ -298,20 +168,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>It’s gameday. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs 🇳🇴. Kristoffer Reitan is ready.</title>
-    <link>https://www.youtube.com/shorts/PVnpsM56xWE</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/PVnpsM56xWE</guid>
-    <pubDate>Sat, 11 Jul 2026 17:11:50 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/PVnpsM56xWE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/PVnpsM56xWE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/PVnpsM56xWE" type="text/html" medium="video"/>
-    <yt:videoId>PVnpsM56xWE</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Haeran Ryu Flirts With History, Fires 60 to Put Another Major Within Reach</title>
     <link>https://skratch.golf/news/news/haeran-ryu-59-watch-amundi-evian-championship-second-round</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/haeran-ryu-59-watch-amundi-evian-championship-second-round</guid>
@@ -321,34 +177,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285629287_2cf3d1d378/Getty_Images_2285629287_2cf3d1d378.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>This feels straight out of an episode of Curb. 🤣</title>
-    <link>https://www.youtube.com/shorts/9C9dOW5gc4w</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/9C9dOW5gc4w</guid>
-    <pubDate>Sat, 11 Jul 2026 06:34:29 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/9C9dOW5gc4w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/9C9dOW5gc4w/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/9C9dOW5gc4w" type="text/html" medium="video"/>
-    <yt:videoId>9C9dOW5gc4w</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Joe Pavelski made THIS gear change before winning the 2025 American Century Championship 👀</title>
-    <link>https://www.youtube.com/shorts/lRLcTGuHaVw</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/lRLcTGuHaVw</guid>
-    <pubDate>Fri, 10 Jul 2026 22:24:23 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;After a runner-up finish in 2024, Joe Pavelski broke through to win last year’s American Century Championship thanks to a brand new @FujikuraTour shaft he got fit for right here on the range at Edgewood Tahoe. He shares how it helped him to victory and what makes this event is special.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/lRLcTGuHaVw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/lRLcTGuHaVw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/lRLcTGuHaVw" type="text/html" medium="video"/>
-    <yt:videoId>lRLcTGuHaVw</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Scottie Scheffler is No Longer the Betting Favorite for The Open</title>
@@ -362,26 +190,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>1st PGA TOUR Wins That Started LEGENDARY Careers 🏆</title>
-    <link>https://www.youtube.com/watch?v=7WEAayj9HCk</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=7WEAayj9HCk</guid>
-    <pubDate>Fri, 10 Jul 2026 19:00:40 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Every legend has a starting point.
-
-Before the majors. Before the records. Before becoming household names, they all had to earn that first PGA TOUR victory.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explo&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=7WEAayj9HCk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/7WEAayj9HCk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/7WEAayj9HCk" type="text/html" medium="video"/>
-    <yt:videoId>7WEAayj9HCk</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>One Last Push: Thorbjornsen and Yellamaraju Chase Open Berths</title>
     <link>https://skratch.golf/news/news/open-championship-final-slots-up-for-grabs-at-scottish-open</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/open-championship-final-slots-up-for-grabs-at-scottish-open</guid>
@@ -393,55 +201,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>Chris Gøtterup: Pebble Beach appreciator, sunscreen user. @supergoop</title>
-    <link>https://www.youtube.com/shorts/8A4taiIK9-w</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/8A4taiIK9-w</guid>
-    <pubDate>Fri, 10 Jul 2026 17:09:00 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
-
-Check out our website: https://skratch.golf/
-Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8A4taiIK9-w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/8A4taiIK9-w/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/8A4taiIK9-w" type="text/html" medium="video"/>
-    <yt:videoId>8A4taiIK9-w</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Come play a hole with Nicolai Hojgaard. Yes, we&#x27;re sure it&#x27;s Nicolai.</title>
-    <link>https://www.youtube.com/shorts/oIPL8ANpX-4</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/oIPL8ANpX-4</guid>
-    <pubDate>Fri, 10 Jul 2026 15:55:51 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/oIPL8ANpX-4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/oIPL8ANpX-4/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/oIPL8ANpX-4" type="text/html" medium="video"/>
-    <yt:videoId>oIPL8ANpX-4</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>It’s a true pilgrimage for golf sickos everywhere. If you&#x27;re at all able, do the trip.</title>
-    <link>https://www.youtube.com/shorts/1tr5rsXm8_0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/1tr5rsXm8_0</guid>
-    <pubDate>Fri, 10 Jul 2026 15:30:08 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/1tr5rsXm8_0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/1tr5rsXm8_0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/1tr5rsXm8_0" type="text/html" medium="video"/>
-    <yt:videoId>1tr5rsXm8_0</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Watch: The Laws of Physics Simply Don&#x27;t Matter at Evian</title>
     <link>https://skratch.golf/news/news/evian-championship-second-round-crazy-shot-watch</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/evian-championship-second-round-crazy-shot-watch</guid>
@@ -451,20 +210,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8A4taiIK9-w"&gt;
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2224861503_69b7d119dd/Getty_Images_2224861503_69b7d119dd.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Tiger went 7 years (!!!) without missing a cut. Will anyone ever break this record?</title>
-    <link>https://www.youtube.com/shorts/MiDPPWcliu0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/MiDPPWcliu0</guid>
-    <pubDate>Fri, 10 Jul 2026 14:58:40 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/MiDPPWcliu0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/MiDPPWcliu0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/MiDPPWcliu0" type="text/html" medium="video"/>
-    <yt:videoId>MiDPPWcliu0</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Nelly Korda Misses the Cut at Evian Championship in Shocking Major Exit</title>
@@ -500,200 +245,48 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8A4taiIK9-w"&gt;
     <category>article</category>
   </item>
   <item>
-    <title>Breaking down plaques involving Tiger Woods, Ben Hogan and Trent Ryan.</title>
-    <link>https://www.youtube.com/shorts/k1YE91yyd2g</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/k1YE91yyd2g</guid>
-    <pubDate>Fri, 10 Jul 2026 13:00:19 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;What do you think, are these “Plaque or Waque”?&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/k1YE91yyd2g"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/k1YE91yyd2g/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/k1YE91yyd2g" type="text/html" medium="video"/>
-    <yt:videoId>k1YE91yyd2g</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
+    <title>Each Driving Iron From the Last 10 Open Championship Winners</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/2026-royal-birkdale-driving-iron-winners-decade</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/2026-royal-birkdale-driving-iron-winners-decade</guid>
+    <pubDate>Mon, 06 Jul 2026 17:47:15 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;With the Open Championship taking place at Royal Birkdale, here&#x27;s a look back at the last ten Open winners and the utility irons or long irons they had in play.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/2026-royal-birkdale-driving-iron-winners-decade"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260630_Scottie_Scheffler_2025_Open_b8cffdfc7d/20260630_Scottie_Scheffler_2025_Open_b8cffdfc7d.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
-    <title>How well do the ACC players know their competitors’ handicaps?</title>
-    <link>https://www.youtube.com/shorts/LxDF3nW7zFg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/LxDF3nW7zFg</guid>
-    <pubDate>Thu, 09 Jul 2026 23:31:07 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/LxDF3nW7zFg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/LxDF3nW7zFg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/LxDF3nW7zFg" type="text/html" medium="video"/>
-    <yt:videoId>LxDF3nW7zFg</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
+    <title>The Entire Open Championship Field (So Far…)</title>
+    <link>https://skratch.golf/news/news/open-championship-field-so-far</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/open-championship-field-so-far</guid>
+    <pubDate>Tue, 30 Jun 2026 17:46:35 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;Well, folks, that should do it! With the Scottish Open and the Last-Chance Qualifier officially in the books, the field for the Open Championship is set. Here’s everyone who has received an exemption into the final major championship of the year.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/open-championship-field-so-far"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260630_Open_Championship_Final_Qualifying2_4da44e492a/20260630_Open_Championship_Final_Qualifying2_4da44e492a.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
-    <title>The perfect use of a sponsor invite.</title>
-    <link>https://www.youtube.com/shorts/qNnH0X3y5J0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/qNnH0X3y5J0</guid>
-    <pubDate>Thu, 09 Jul 2026 22:00:08 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/qNnH0X3y5J0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/qNnH0X3y5J0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/qNnH0X3y5J0" type="text/html" medium="video"/>
-    <yt:videoId>qNnH0X3y5J0</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
+    <title>What Your Golf Polo Says About You</title>
+    <link>https://skratch.golf/style/style/mens-golf-polo-archetypes-what-his-shirt-says-about-him</link>
+    <guid isPermaLink="true">https://skratch.golf/style/style/mens-golf-polo-archetypes-what-his-shirt-says-about-him</guid>
+    <pubDate>Thu, 07 Aug 2025 13:51:45 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Your choice in polo is basically your zodiac sign in fabric form.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/mens-golf-polo-archetypes-what-his-shirt-says-about-him"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/golf_polos_9735a6fad6/golf_polos_9735a6fad6.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
-    <title>You know one when you see one. 👀</title>
-    <link>https://www.youtube.com/shorts/CALnBrGDsPg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/CALnBrGDsPg</guid>
-    <pubDate>Thu, 09 Jul 2026 20:30:15 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/CALnBrGDsPg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/CALnBrGDsPg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/CALnBrGDsPg" type="text/html" medium="video"/>
-    <yt:videoId>CALnBrGDsPg</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Eugenio Chacarra on Why He Went To LIV Golf And Why He Wants Back</title>
-    <link>https://www.youtube.com/watch?v=3-WfJxiekrk</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=3-WfJxiekrk</guid>
-    <pubDate>Thu, 09 Jul 2026 19:00:14 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Eugenio Chacarra sits down with Dan Rapaport to bury the hatchet and discuss his decisions to join LIV and return to the PGA TOUR.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=3-WfJxiekrk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/3-WfJxiekrk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/3-WfJxiekrk" type="text/html" medium="video"/>
-    <yt:videoId>3-WfJxiekrk</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Takes a real man to cry.</title>
-    <link>https://www.youtube.com/shorts/3EmE3eEBu8w</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/3EmE3eEBu8w</guid>
-    <pubDate>Thu, 09 Jul 2026 18:30:39 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/3EmE3eEBu8w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/3EmE3eEBu8w/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/3EmE3eEBu8w" type="text/html" medium="video"/>
-    <yt:videoId>3EmE3eEBu8w</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Come play a hole with Ludvig Åberg.</title>
-    <link>https://www.youtube.com/shorts/JfN1qmvb7Lg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/JfN1qmvb7Lg</guid>
-    <pubDate>Thu, 09 Jul 2026 17:04:26 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;One of the last of the Blade Brigade has fallen. For now, at least. 
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertaining&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/JfN1qmvb7Lg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/JfN1qmvb7Lg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/JfN1qmvb7Lg" type="text/html" medium="video"/>
-    <yt:videoId>JfN1qmvb7Lg</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Gotta appreciate the honesty. 🫡</title>
-    <link>https://www.youtube.com/shorts/AVn6rmkSBQc</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/AVn6rmkSBQc</guid>
-    <pubDate>Thu, 09 Jul 2026 17:00:08 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/AVn6rmkSBQc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/AVn6rmkSBQc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/AVn6rmkSBQc" type="text/html" medium="video"/>
-    <yt:videoId>AVn6rmkSBQc</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Routine 4 for Rory. 😅</title>
-    <link>https://www.youtube.com/shorts/-92n2KBlcAM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/-92n2KBlcAM</guid>
-    <pubDate>Thu, 09 Jul 2026 15:40:59 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Throwback to Rory’s clutch, left-handed par save at the final round of last year’s Scottish Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/-92n2KBlcAM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/-92n2KBlcAM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/-92n2KBlcAM" type="text/html" medium="video"/>
-    <yt:videoId>-92n2KBlcAM</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Rory, Renaissance Club, 2023. Plaque or waque?</title>
-    <link>https://www.youtube.com/shorts/1gOs3mAVTqI</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/1gOs3mAVTqI</guid>
-    <pubDate>Thu, 09 Jul 2026 15:37:01 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/1gOs3mAVTqI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/1gOs3mAVTqI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/1gOs3mAVTqI" type="text/html" medium="video"/>
-    <yt:videoId>1gOs3mAVTqI</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>S2 E52: Dan and Eugenio Chacarra Bury The Hatchet + Chris Gøtterup Interview</title>
-    <link>https://www.youtube.com/watch?v=_B_9C62ozCk</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=_B_9C62ozCk</guid>
-    <pubDate>Thu, 09 Jul 2026 06:38:54 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Defending Scottish Open Champion Chris Gøtterup joins the show! Dan and Eugenio Chacarra Bury The Hatchet, and Harry Hall finally makes good on his promise to Dan. And so much more!
-
-Thank You to Our Sponsors!
-
-Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
-
-Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround.com/golf and use code DANONGOLF20, you can stock up with 20% off, which brings many pairs under $30. 
-
-Ch&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=_B_9C62ozCk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/_B_9C62ozCk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/_B_9C62ozCk" type="text/html" medium="video"/>
-    <yt:videoId>_B_9C62ozCk</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>He’s done his time and he’s done this before. What is going on here? @manorsgolf</title>
-    <link>https://www.youtube.com/shorts/FiDu1w4bUzI</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/FiDu1w4bUzI</guid>
-    <pubDate>Thu, 09 Jul 2026 02:14:48 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/FiDu1w4bUzI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/FiDu1w4bUzI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/FiDu1w4bUzI" type="text/html" medium="video"/>
-    <yt:videoId>FiDu1w4bUzI</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Range Report goes international 🏴󠁧󠁢󠁳󠁣󠁴󠁿 this week</title>
-    <link>https://www.youtube.com/shorts/d4xtjtGT71A</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/d4xtjtGT71A</guid>
-    <pubDate>Tue, 07 Jul 2026 22:55:37 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/d4xtjtGT71A"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/d4xtjtGT71A/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/d4xtjtGT71A" type="text/html" medium="video"/>
-    <yt:videoId>d4xtjtGT71A</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
+    <title>Is Evian the Major That Puts Players on the Map?</title>
+    <link>https://skratch.golf/news/pro-golf/tee-sheet-lydia-ko-10-years-since-evian-first-major-win-lookback</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/tee-sheet-lydia-ko-10-years-since-evian-first-major-win-lookback</guid>
+    <pubDate>Thu, 10 Jul 2025 13:36:01 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;We watched Lydia Ko cement herself over a decade ago—so, who is the next one up?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/tee-sheet-lydia-ko-10-years-since-evian-first-major-win-lookback"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/lydia_ko_evian_trophy_565962f822/lydia_ko_evian_trophy_565962f822.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
 </channel>
 </rss>
