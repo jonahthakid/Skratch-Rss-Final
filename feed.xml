@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 14 Jul 2026 19:09:36 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 20:36:07 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Those were the good days, man.</title>
+    <link>https://www.youtube.com/shorts/HUEdBCvCzzs</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/HUEdBCvCzzs</guid>
+    <pubDate>Tue, 14 Jul 2026 20:20:49 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/HUEdBCvCzzs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/HUEdBCvCzzs/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/HUEdBCvCzzs" type="text/html" medium="video"/>
+    <yt:videoId>HUEdBCvCzzs</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Join @chipotle Hot Streak Quest in PGA TOUR 2K25 for Chipotle-themed in-game gear &amp; free food IRL!</title>
     <link>https://www.youtube.com/shorts/Vjr71XZ7zlU</link>
@@ -657,20 +671,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8A4taiIK9-w"&gt;
     <media:thumbnail url="https://img.youtube.com/vi/3-WfJxiekrk/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/3-WfJxiekrk" type="text/html" medium="video"/>
     <yt:videoId>3-WfJxiekrk</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Takes a real man to cry.</title>
-    <link>https://www.youtube.com/shorts/3EmE3eEBu8w</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/3EmE3eEBu8w</guid>
-    <pubDate>Thu, 09 Jul 2026 18:30:39 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/3EmE3eEBu8w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/3EmE3eEBu8w/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/3EmE3eEBu8w" type="text/html" medium="video"/>
-    <yt:videoId>3EmE3eEBu8w</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
