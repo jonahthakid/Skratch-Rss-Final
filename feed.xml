@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 14 Jul 2026 12:46:01 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 14:44:08 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Links golf. Come for the beauty. Stay for the mayhem.</title>
+    <link>https://www.youtube.com/shorts/T2ZaF8XZpvI</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/T2ZaF8XZpvI</guid>
+    <pubDate>Tue, 14 Jul 2026 13:02:51 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/T2ZaF8XZpvI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/T2ZaF8XZpvI/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/T2ZaF8XZpvI" type="text/html" medium="video"/>
+    <yt:videoId>T2ZaF8XZpvI</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>It&#x27;s Coming Home: Our Best Bets for the 154th Open Championship at Royal Birkdale</title>
+    <link>https://skratch.golf/news/pro-golf/open-championship-2026-picks-to-win-best-bets</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/open-championship-2026-picks-to-win-best-bets</guid>
+    <pubDate>Tue, 14 Jul 2026 12:51:55 +0000</pubDate>
+    <dc:creator>Rick Gehman</dc:creator>
+    <description>&lt;p&gt;There&#x27;s something in the air—it feels like an Englishman&#x27;s week. But even though everyone&#x27;s got their eye on the kid from Southport, it&#x27;s a son of Sheffield we&#x27;re liking at Birkdale. Here&#x27;s why.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/open-championship-2026-picks-to-win-best-bets"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285299005_f90cbda235/Getty_Images_2285299005_f90cbda235.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>WORLD DANKINGS: Ranking The Top 25 For The Open Championship</title>
     <link>https://www.youtube.com/watch?v=Ti3lQHNRGpY</link>
@@ -250,6 +275,17 @@ Dan travels all year and never leaves his Knoc&lt;/p&gt;&lt;p&gt;&lt;a href="htt
     <category>article</category>
   </item>
   <item>
+    <title>Before He Was Scottie, He Was The Sixth Man</title>
+    <link>https://skratch.golf/news/pro-golf/scottie-scheffler-high-school-basketball-career-details-coach-interview</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/scottie-scheffler-high-school-basketball-career-details-coach-interview</guid>
+    <pubDate>Mon, 13 Jul 2026 10:22:59 +0000</pubDate>
+    <dc:creator>Alan Shipnuck</dc:creator>
+    <description>&lt;p&gt;And a defensive specialist who once held Trae Young (yeah, that one) to three points. This is the story of the dog inside Scottie Scheffler.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/scottie-scheffler-high-school-basketball-career-details-coach-interview"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/55_B365_C2_A4_B6_41_C1_A806_3_FDE_4867_A027_d4902bca95/55_B365_C2_A4_B6_41_C1_A806_3_FDE_4867_A027_d4902bca95.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>The First Person to Text Tom Kim After His Scottish Open Win? Tiger Woods</title>
     <link>https://skratch.golf/news/news/tom-kim-genesis-scottish-open-2026-tiger-woods-first-text</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/tom-kim-genesis-scottish-open-2026-tiger-woods-first-text</guid>
@@ -376,6 +412,28 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
+    <title>Scottie Scheffler is No Longer the Betting Favorite for The Open</title>
+    <link>https://skratch.golf/news/news/the-open-2026-scottie-scheffler-not-betting-favorite-royal-birkdale</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/the-open-2026-scottie-scheffler-not-betting-favorite-royal-birkdale</guid>
+    <pubDate>Fri, 10 Jul 2026 21:09:37 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;After a missed cut at the Scottish Open, Las Vegas no longer has Scottie Scheffler as the betting favorite for The Open—which means he&#x27;s obviously going to win, right?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-open-2026-scottie-scheffler-not-betting-favorite-royal-birkdale"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2284861080_5c40986d29/Getty_Images_2284861080_5c40986d29.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Say Hello To The Titleist GTS300 Mini Driver</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/new-titleist-mini-driver-gts-300</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/new-titleist-mini-driver-gts-300</guid>
+    <pubDate>Fri, 10 Jul 2026 20:36:10 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;More forgiveness, more speed, more mini!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/new-titleist-mini-driver-gts-300"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/GTS_300_sole_title_dd9682eb95/GTS_300_sole_title_dd9682eb95.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>1st PGA TOUR Wins That Started LEGENDARY Careers 🏆</title>
     <link>https://www.youtube.com/watch?v=7WEAayj9HCk</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=7WEAayj9HCk</guid>
@@ -394,17 +452,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>One Last Push: Thorbjornsen and Yellamaraju Chase Open Berths</title>
-    <link>https://skratch.golf/news/news/open-championship-final-slots-up-for-grabs-at-scottish-open</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/open-championship-final-slots-up-for-grabs-at-scottish-open</guid>
-    <pubDate>Fri, 10 Jul 2026 18:43:40 +0000</pubDate>
-    <dc:creator>Will Neary</dc:creator>
-    <description>&lt;p&gt;Michael Thorbjornsen and Sudarshan Yellamaraju have spent the season flirting with breakthrough moments. This weekend, a trip to Royal Birkdale is on the line.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/open-championship-final-slots-up-for-grabs-at-scottish-open"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260710_Michael_Thorbjornsen_Genesis_Scottish_Open_f4b83c148d/20260710_Michael_Thorbjornsen_Genesis_Scottish_Open_f4b83c148d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Chris Gøtterup: Pebble Beach appreciator, sunscreen user. @supergoop</title>
@@ -456,17 +503,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8A4taiIK9-w"&gt;
     <category>video</category>
   </item>
   <item>
-    <title>Watch: The Laws of Physics Simply Don&#x27;t Matter at Evian</title>
-    <link>https://skratch.golf/news/news/evian-championship-second-round-crazy-shot-watch</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/evian-championship-second-round-crazy-shot-watch</guid>
-    <pubDate>Fri, 10 Jul 2026 15:10:21 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;I always knew there was something magical in that water—and Mi Hyang Lee just proved it.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/evian-championship-second-round-crazy-shot-watch"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2224861503_69b7d119dd/Getty_Images_2224861503_69b7d119dd.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Tiger went 7 years (!!!) without missing a cut. Will anyone ever break this record?</title>
     <link>https://www.youtube.com/shorts/MiDPPWcliu0</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/MiDPPWcliu0</guid>
@@ -481,24 +517,13 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8A4taiIK9-w"&gt;
     <category>video</category>
   </item>
   <item>
-    <title>Nelly Korda Misses the Cut at Evian Championship in Shocking Major Exit</title>
-    <link>https://skratch.golf/news/news/amundi-evian-championship-players-missed-cut</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/amundi-evian-championship-players-missed-cut</guid>
-    <pubDate>Fri, 10 Jul 2026 14:52:34 +0000</pubDate>
+    <title>Jeeno Thitikul Fires 64, Storms Up the Evian Championship Leaderboard</title>
+    <link>https://skratch.golf/news/news/jeeno-thitikul-charges-evian-championship-leaderboard-second-round</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/jeeno-thitikul-charges-evian-championship-leaderboard-second-round</guid>
+    <pubDate>Fri, 10 Jul 2026 14:15:26 +0000</pubDate>
     <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The World No. 1&#x27;s woes in France continue, missing her first cut in nearly two years.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/amundi-evian-championship-players-missed-cut"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285324348_42b906a0e2/Getty_Images_2285324348_42b906a0e2.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>What the Sports World Looked Like the Last Time Scottie Missed a Cut</title>
-    <link>https://skratch.golf/news/news/scottie-scheffler-missed-cut-sports-world-august-2022</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/scottie-scheffler-missed-cut-sports-world-august-2022</guid>
-    <pubDate>Fri, 10 Jul 2026 14:47:41 +0000</pubDate>
-    <dc:creator>Will Neary, Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Scottie Scheffler&#x27;s streak of 78 consecutive made cuts came to an end at the Genesis Scottish Open. Here&#x27;s what the sports world looked like the last time he missed the weekend.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/scottie-scheffler-missed-cut-sports-world-august-2022"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260710_Scottie_Scheffler_Genesis_Scottish_Open_80023d2df5/20260710_Scottie_Scheffler_Genesis_Scottish_Open_80023d2df5.jpg"/>
+    <description>&lt;p&gt;Still searching for her first major title, the World No. 2 fired a bogey-free 64 to vault into contention at the Evian Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jeeno-thitikul-charges-evian-championship-leaderboard-second-round"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285479615_ef2fc4cda7/Getty_Images_2285479615_ef2fc4cda7.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -657,42 +682,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining&lt
     <yt:videoId>1gOs3mAVTqI</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>S2 E52: Dan and Eugenio Chacarra Bury The Hatchet + Chris Gøtterup Interview</title>
-    <link>https://www.youtube.com/watch?v=_B_9C62ozCk</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=_B_9C62ozCk</guid>
-    <pubDate>Thu, 09 Jul 2026 06:38:54 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Defending Scottish Open Champion Chris Gøtterup joins the show! Dan and Eugenio Chacarra Bury The Hatchet, and Harry Hall finally makes good on his promise to Dan. And so much more!
-
-Thank You to Our Sponsors!
-
-Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
-
-Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround.com/golf and use code DANONGOLF20, you can stock up with 20% off, which brings many pairs under $30. 
-
-Ch&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=_B_9C62ozCk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/_B_9C62ozCk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/_B_9C62ozCk" type="text/html" medium="video"/>
-    <yt:videoId>_B_9C62ozCk</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Range Report goes international 🏴󠁧󠁢󠁳󠁣󠁴󠁿 this week</title>
-    <link>https://www.youtube.com/shorts/d4xtjtGT71A</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/d4xtjtGT71A</guid>
-    <pubDate>Tue, 07 Jul 2026 22:55:37 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/d4xtjtGT71A"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/d4xtjtGT71A/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/d4xtjtGT71A" type="text/html" medium="video"/>
-    <yt:videoId>d4xtjtGT71A</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
     <category>video</category>
   </item>
 </channel>
