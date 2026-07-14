@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 13 Jul 2026 23:56:30 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 02:12:58 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>It’s the record Tiger’s most proud of, and it’s looking safer than ever.</title>
+    <link>https://www.youtube.com/shorts/R4UVjb8n4HQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/R4UVjb8n4HQ</guid>
+    <pubDate>Tue, 14 Jul 2026 01:15:13 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/R4UVjb8n4HQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/R4UVjb8n4HQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/R4UVjb8n4HQ" type="text/html" medium="video"/>
+    <yt:videoId>R4UVjb8n4HQ</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>A cool beginning to tournament week or content-ifying a major championship?</title>
     <link>https://www.youtube.com/shorts/2CrTs8j0LqY</link>
@@ -677,24 +691,6 @@ Ch&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=_B_9C62ozCk"&gt
     <media:thumbnail url="https://img.youtube.com/vi/d4xtjtGT71A/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/d4xtjtGT71A" type="text/html" medium="video"/>
     <yt:videoId>d4xtjtGT71A</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>No tricks, no force-carries, no gimmicks.</title>
-    <link>https://www.youtube.com/shorts/aQfspq18jnQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/aQfspq18jnQ</guid>
-    <pubDate>Tue, 07 Jul 2026 22:51:24 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Mid Pines. No tricks, no force-carries, no gimmicks. Just strategic golf that rewards creativity and and good decision-making. Our Zane Moulton sees the Donald Ross gem in North Carolina for himself.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/aQfspq18jnQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/aQfspq18jnQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/aQfspq18jnQ" type="text/html" medium="video"/>
-    <yt:videoId>aQfspq18jnQ</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
