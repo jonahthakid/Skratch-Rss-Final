@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 15 Jul 2026 11:07:43 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 12:49:10 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>It’s all coming up 🏴󠁧󠁢󠁥󠁮󠁧󠁿</title>
@@ -24,6 +24,28 @@
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>These Top Finishers From 2017 Have Returned to Royal Birkdale for The Open</title>
+    <link>https://skratch.golf/news/news/the-open-2017-top-finishers-return-to-royal-birkdale-2026-field</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/the-open-2017-top-finishers-return-to-royal-birkdale-2026-field</guid>
+    <pubDate>Tue, 14 Jul 2026 21:39:59 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;2017 Open Champion Jordan Spieth returns to Royal Birkdale hoping to find his form, but he’s not alone.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-open-2017-top-finishers-return-to-royal-birkdale-2026-field"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260714_Jordan_Spieth_2017_Open_Championship_c78ee96696/20260714_Jordan_Spieth_2017_Open_Championship_c78ee96696.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The Very Specific Reason Collin Morikawa Made an Iron Swap for Birkdale</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/collin-morikawa-iron-swap-open-championship-gear-change</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/collin-morikawa-iron-swap-open-championship-gear-change</guid>
+    <pubDate>Tue, 14 Jul 2026 20:53:37 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;For former Champion Golfer of the Year Collin Morikawa, dialing in his gear involves swapping irons for a very specific reason.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/collin-morikawa-iron-swap-open-championship-gear-change"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2225844356_157dca3de1/Getty_Images_2225844356_157dca3de1.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Every Non-PGA TOUR Member in The Open Field</title>
@@ -378,17 +400,6 @@ Dan travels all year and never leaves his Knoc&lt;/p&gt;&lt;p&gt;&lt;a href="htt
     <category>article</category>
   </item>
   <item>
-    <title>Ranking the Best Groups for The Open at Royal Birkdale</title>
-    <link>https://skratch.golf/news/news/the-open-2026-best-groups-ranking-tee-times-royal-birkdale</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/the-open-2026-best-groups-ranking-tee-times-royal-birkdale</guid>
-    <pubDate>Mon, 13 Jul 2026 15:18:18 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;It&#x27;s tough to beat Rory McIlroy, Xander Schauffele, and Matt Fitzpatrick—but are they the best group for the first two rounds of The Open?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-open-2026-best-groups-ranking-tee-times-royal-birkdale"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2215484802_6a365bb25d/Getty_Images_2215484802_6a365bb25d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Michael Kim Hit a 4-Iron How Far?! Royal Birkdale is FIRM</title>
     <link>https://skratch.golf/news/news/royal-birkdale-firm-conditions-highlight-links-golf</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/royal-birkdale-firm-conditions-highlight-links-golf</guid>
@@ -657,20 +668,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8A4taiIK9-w"&gt;
     <media:thumbnail url="https://img.youtube.com/vi/qNnH0X3y5J0/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/qNnH0X3y5J0" type="text/html" medium="video"/>
     <yt:videoId>qNnH0X3y5J0</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>You know one when you see one. 👀</title>
-    <link>https://www.youtube.com/shorts/CALnBrGDsPg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/CALnBrGDsPg</guid>
-    <pubDate>Thu, 09 Jul 2026 20:30:15 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/CALnBrGDsPg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/CALnBrGDsPg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/CALnBrGDsPg" type="text/html" medium="video"/>
-    <yt:videoId>CALnBrGDsPg</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
