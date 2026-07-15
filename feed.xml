@@ -9,21 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 15 Jul 2026 16:15:26 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 17:44:26 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
-    <title>S2, E53: LIVE AT BIRKDALE: Open Championship Preview, Tom Kim Interview, An INSANE Ace On Camera</title>
+    <title>Just In Time For Links Season, The TaylorMade Bomber Returns</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/taylormade-bomber-one-iron-links-golf-club</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/taylormade-bomber-one-iron-links-golf-club</guid>
+    <pubDate>Wed, 15 Jul 2026 16:25:35 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;TaylorMade has brought back a limited edition favorite for golfers looking for the ultimate missile-launching driving iron.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/taylormade-bomber-one-iron-links-golf-club"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Taylor_Made_Bomber_b76e0dfb54/Taylor_Made_Bomber_b76e0dfb54.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>OPEN PREVIEW: Scottie &amp; Rory Get Existential, The Bryson Question, U.S. vs U.K. Golf</title>
     <link>https://www.youtube.com/watch?v=X1ZKzyCb4cA</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=X1ZKzyCb4cA</guid>
     <pubDate>Wed, 15 Jul 2026 16:08:54 +0000</pubDate>
     <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;We&#x27;re live at Birkdale as The Open Championship is upon us. Tom Kim joins the show after outlasting the field en route to his 4th PGA TOUR victory. We preview this week&#x27;s major championship with a full 25-person ranking—who will win?! Also, stay tuned for an INSANE moment from our shoot at Royal Portrush. And as always, much more.
+    <description>&lt;p&gt;Live at Birkdale, we preview The Open Championship. Scottie &amp; Rory have some existential quotes in their weekly press conferences. What is going on with Bryson DeChambeau? Ranking the top 10 differences between golf in the U.S. and U.K. And much, much more.
+
 
 Thank You to Our Sponsors!
 
 Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
 
-Dan travels all year and never leaves his Knoc&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=X1ZKzyCb4cA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround.com/golf and use code DANONG&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=X1ZKzyCb4cA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://img.youtube.com/vi/X1ZKzyCb4cA/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/X1ZKzyCb4cA" type="text/html" medium="video"/>
     <yt:videoId>X1ZKzyCb4cA</yt:videoId>
@@ -412,17 +424,6 @@ Dan travels all year and never leaves his Knoc&lt;/p&gt;&lt;p&gt;&lt;a href="htt
     <category>video</category>
   </item>
   <item>
-    <title>Tommy Time? Dan Rapaport&#x27;s Top 25 for The Open</title>
-    <link>https://skratch.golf/news/news/open-championship-dankings-top-25-at-royal-birkdale</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/open-championship-dankings-top-25-at-royal-birkdale</guid>
-    <pubDate>Mon, 13 Jul 2026 17:48:30 +0000</pubDate>
-    <dc:creator>Will Neary</dc:creator>
-    <description>&lt;p&gt;The definitive rankings heading into the Open Championship at Royal Birkdale are finally here. Is it Tommy’s time?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/open-championship-dankings-top-25-at-royal-birkdale"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260713_Tommy_Fleetwood_Scottish_Open_6a39be90e8/20260713_Tommy_Fleetwood_Scottish_Open_6a39be90e8.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Based on Trends, One of These 8 Players Will Win The Open</title>
     <link>https://skratch.golf/news/news/the-open-2026-trends-one-of-eight-players-will-win-royal-birkdale</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/the-open-2026-trends-one-of-eight-players-will-win-royal-birkdale</guid>
@@ -441,6 +442,17 @@ Dan travels all year and never leaves his Knoc&lt;/p&gt;&lt;p&gt;&lt;a href="htt
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;The pair make history, becoming the first golfers ever to win two major championships in the same season.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/nelly-korda-haeran-ryu-golf-history-two-majors-same-season"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/nellyhaeran_1_d4aecf603c/nellyhaeran_1_d4aecf603c.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Ranking the Best Groups for The Open at Royal Birkdale</title>
+    <link>https://skratch.golf/news/news/the-open-2026-best-groups-ranking-tee-times-royal-birkdale</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/the-open-2026-best-groups-ranking-tee-times-royal-birkdale</guid>
+    <pubDate>Mon, 13 Jul 2026 15:18:18 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;It&#x27;s tough to beat Rory McIlroy, Xander Schauffele, and Matt Fitzpatrick—but are they the best group for the first two rounds of The Open?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-open-2026-best-groups-ranking-tee-times-royal-birkdale"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2215484802_6a365bb25d/Getty_Images_2215484802_6a365bb25d.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -496,17 +508,6 @@ Dan travels all year and never leaves his Knoc&lt;/p&gt;&lt;p&gt;&lt;a href="htt
     <dc:creator>Alan Shipnuck</dc:creator>
     <description>&lt;p&gt;And a defensive specialist who once held Trae Young (yeah, that one) to three points. This is the story of the dog inside Scottie Scheffler.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/scottie-scheffler-high-school-basketball-career-details-coach-interview"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/55_B365_C2_A4_B6_41_C1_A806_3_FDE_4867_A027_d4902bca95/55_B365_C2_A4_B6_41_C1_A806_3_FDE_4867_A027_d4902bca95.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The 5 Biggest Takeaways From the Amundi Evian Championship</title>
-    <link>https://skratch.golf/news/news/amundi-evian-championship-five-biggest-takeaways</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/amundi-evian-championship-five-biggest-takeaways</guid>
-    <pubDate>Sun, 12 Jul 2026 15:37:37 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The fourth LPGA major of the season delivered yet another dramatic finish, these are the storylines—beyond the trophy—that we&#x27;re still thinking about.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/amundi-evian-championship-five-biggest-takeaways"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Ryu_Haeran_083_f887c173e0/Ryu_Haeran_083_f887c173e0.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
