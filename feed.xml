@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 15 Jul 2026 19:01:18 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 20:30:17 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>A frustrating year but still so much to play for. Come play a hole with 2019 Open champ Shane Lowry</title>
@@ -44,6 +44,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Northwood Golf Club is Golf At Its Best</title>
+    <link>https://skratch.golf/news/news/northwood-golf-club-is-golf-at-its-best</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/northwood-golf-club-is-golf-at-its-best</guid>
+    <pubDate>Wed, 15 Jul 2026 17:39:31 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;Bryson DeChambeau recently visited Northwood Golf Club, a secluded property shaded by redwoods in northern California, and it’s everything we love about golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/northwood-golf-club-is-golf-at-its-best"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260715_Northwood_Golf_Club_5a58bb22d2/20260715_Northwood_Golf_Club_5a58bb22d2.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Just In Time For Links Season, The TaylorMade Bomber Returns</title>
@@ -421,17 +432,6 @@ Dan travels all year and never leaves his Knoc&lt;/p&gt;&lt;p&gt;&lt;a href="htt
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Based on Trends, One of These 8 Players Will Win The Open</title>
-    <link>https://skratch.golf/news/news/the-open-2026-trends-one-of-eight-players-will-win-royal-birkdale</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/the-open-2026-trends-one-of-eight-players-will-win-royal-birkdale</guid>
-    <pubDate>Mon, 13 Jul 2026 17:31:34 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Any player at Royal Birkdale can win The Open, right? Wrong (well, according to this decade-plus-long trend).&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-open-2026-trends-one-of-eight-players-will-win-royal-birkdale"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285903943_810cd14377/Getty_Images_2285903943_810cd14377.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Nelly Korda and Haeran Ryu Just Did Something No One in Golf History Has Done</title>
