@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 16 Jul 2026 10:01:39 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 16 Jul 2026 11:57:48 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>While You Were Sleeping: Early-Morning Notes from Thursday at The Open</title>
+    <link>https://skratch.golf/news/news/the-open-2026-round-one-thursday-early-notes-scottie-scheffler-bryson-dechambeau</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/the-open-2026-round-one-thursday-early-notes-scottie-scheffler-bryson-dechambeau</guid>
+    <pubDate>Thu, 16 Jul 2026 10:50:00 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Hit the snooze? Couldn&#x27;t get out of bed? No worries. Here are some early-morning notes to get you caught up on what happened at The Open on Thursday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-open-2026-round-one-thursday-early-notes-scottie-scheffler-bryson-dechambeau"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2286348353_bc33bcb52a/Getty_Images_2286348353_bc33bcb52a.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Golf fans trying to stay up for Round 1 of The Open like… 😴</title>
     <link>https://www.youtube.com/shorts/tr53d0NOIw8</link>
@@ -494,17 +505,6 @@ Dan travels all year and never leaves his Knoc&lt;/p&gt;&lt;p&gt;&lt;a href="htt
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;It&#x27;s tough to beat Rory McIlroy, Xander Schauffele, and Matt Fitzpatrick—but are they the best group for the first two rounds of The Open?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-open-2026-best-groups-ranking-tee-times-royal-birkdale"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2215484802_6a365bb25d/Getty_Images_2215484802_6a365bb25d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Michael Kim Hit a 4-Iron How Far?! Royal Birkdale is FIRM</title>
-    <link>https://skratch.golf/news/news/royal-birkdale-firm-conditions-highlight-links-golf</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/royal-birkdale-firm-conditions-highlight-links-golf</guid>
-    <pubDate>Mon, 13 Jul 2026 14:34:53 +0000</pubDate>
-    <dc:creator>Will Neary</dc:creator>
-    <description>&lt;p&gt;Open Championship golf is at its absolute best when conditions are firm and fast, and it looks like Royal Birkdale is putting its best foot forward this week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/royal-birkdale-firm-conditions-highlight-links-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260713_Royal_Birkdale_Open_Championship_5ac878fecc/20260713_Royal_Birkdale_Open_Championship_5ac878fecc.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
