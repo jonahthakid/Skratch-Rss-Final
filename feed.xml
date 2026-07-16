@@ -9,8 +9,44 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 16 Jul 2026 16:48:40 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 16 Jul 2026 18:00:45 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>How’d we do?!</title>
+    <link>https://www.youtube.com/shorts/-YEY6CGMCnQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/-YEY6CGMCnQ</guid>
+    <pubDate>Thu, 16 Jul 2026 17:32:27 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/-YEY6CGMCnQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/-YEY6CGMCnQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/-YEY6CGMCnQ" type="text/html" medium="video"/>
+    <yt:videoId>-YEY6CGMCnQ</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Rory Just Drove the Green…on a 415-Yard Hole</title>
+    <link>https://skratch.golf/news/news/rory-drove-green-on-a-415-yard-hole-at-open-championship</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/rory-drove-green-on-a-415-yard-hole-at-open-championship</guid>
+    <pubDate>Thu, 16 Jul 2026 17:12:27 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;Yes, you read that right. Rory McIlroy’s Open Championship bid is off to a rocky start, but driving the green on the 415-yard 9th hole might have him back on track.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rory-drove-green-on-a-415-yard-hole-at-open-championship"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260716_Rory_Mc_Ilroy_Open_Championship_f1dc1a42bf/20260716_Rory_Mc_Ilroy_Open_Championship_f1dc1a42bf.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The Open: Bryson DeChambeau Not-So-Subtly Responds to Nick Faldo</title>
+    <link>https://skratch.golf/news/news/bryson-dechambeau-the-open-2026-fires-back-nick-faldo-no-strategy</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/bryson-dechambeau-the-open-2026-fires-back-nick-faldo-no-strategy</guid>
+    <pubDate>Thu, 16 Jul 2026 16:30:02 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Alright, Bryson, we see you. On Thursday, he fired back at Nick Faldo&#x27;s &quot;no strategy&quot; comments from earlier this week after an opening-round 67.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/bryson-dechambeau-the-open-2026-fires-back-nick-faldo-no-strategy"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2286388592_75e61fd161/Getty_Images_2286388592_75e61fd161.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Wake up, coffee, rip a cig. Dan Brown’s pre-round routine is one of a kind.</title>
     <link>https://www.youtube.com/shorts/xMpy71_Qnb0</link>
@@ -120,6 +156,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Will Neary</dc:creator>
     <description>&lt;p&gt;Bryson DeChambeau recently visited Northwood Golf Club, a secluded property shaded by redwoods in northern California, and it’s everything we love about golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/northwood-golf-club-is-golf-at-its-best"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260715_Northwood_Golf_Club_5a58bb22d2/20260715_Northwood_Golf_Club_5a58bb22d2.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>A Totally Unsolicited Team USA Solheim Style Wishlist</title>
+    <link>https://skratch.golf/style/style/team-usa-solheim-cup-fits-wishlist-b-draddy-zero-restriction</link>
+    <guid isPermaLink="true">https://skratch.golf/style/style/team-usa-solheim-cup-fits-wishlist-b-draddy-zero-restriction</guid>
+    <pubDate>Wed, 15 Jul 2026 16:58:49 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;B.Draddy and Zero Restriction have the assignment. Here&#x27;s our wish list for Team USA&#x27;s Solheim Cup wardrobe.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/team-usa-solheim-cup-fits-wishlist-b-draddy-zero-restriction"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2172203785_36ef3d929b/Getty_Images_2172203785_36ef3d929b.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -512,28 +559,6 @@ Dan travels all year and never leaves his Knoc&lt;/p&gt;&lt;p&gt;&lt;a href="htt
     <category>article</category>
   </item>
   <item>
-    <title>Ranking the Best Groups for The Open at Royal Birkdale</title>
-    <link>https://skratch.golf/news/news/the-open-2026-best-groups-ranking-tee-times-royal-birkdale</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/the-open-2026-best-groups-ranking-tee-times-royal-birkdale</guid>
-    <pubDate>Mon, 13 Jul 2026 15:18:18 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;It&#x27;s tough to beat Rory McIlroy, Xander Schauffele, and Matt Fitzpatrick—but are they the best group for the first two rounds of The Open?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-open-2026-best-groups-ranking-tee-times-royal-birkdale"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2215484802_6a365bb25d/Getty_Images_2215484802_6a365bb25d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Tee Times for The Open 2026 at Royal Birkdale</title>
-    <link>https://skratch.golf/news/news/the-open-2026-tee-times-groupings-first-second-rounds-royal-birkdale</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/the-open-2026-tee-times-groupings-first-second-rounds-royal-birkdale</guid>
-    <pubDate>Mon, 13 Jul 2026 14:21:48 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Tee times for The Open are here, and we have one question: is it Thursday yet!?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-open-2026-tee-times-groupings-first-second-rounds-royal-birkdale"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2237485286_d2506ec052/Getty_Images_2237485286_d2506ec052.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Photos: Early Sights from Royal Birkdale for The Open</title>
     <link>https://skratch.golf/news/news/the-open-2026-royal-birkdale-photos-early-sights</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/the-open-2026-royal-birkdale-photos-early-sights</guid>
@@ -541,17 +566,6 @@ Dan travels all year and never leaves his Knoc&lt;/p&gt;&lt;p&gt;&lt;a href="htt
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;The best players in the world have arrived at Royal Birkdale—Open week is officially underway. Here are some early images from the final major of the year.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-open-2026-royal-birkdale-photos-early-sights"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285867884_8299484db1/Getty_Images_2285867884_8299484db1.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>My 5 Favorite Details From The Open Championship</title>
-    <link>https://skratch.golf/news/news/open-championship-birkale-5-things-favorite</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/open-championship-birkale-5-things-favorite</guid>
-    <pubDate>Mon, 13 Jul 2026 11:11:35 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;The world&#x27;s oldest golf championship offers some incredibly fun details that make it truly unique.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/open-championship-birkale-5-things-favorite"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2225030322_6b5faab39a/Getty_Images_2225030322_6b5faab39a.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -653,27 +667,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/7WEAayj9HCk/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/7WEAayj9HCk" type="text/html" medium="video"/>
     <yt:videoId>7WEAayj9HCk</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Chris Gøtterup: Pebble Beach appreciator, sunscreen user. @supergoop</title>
-    <link>https://www.youtube.com/shorts/8A4taiIK9-w</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/8A4taiIK9-w</guid>
-    <pubDate>Fri, 10 Jul 2026 17:09:00 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
-
-Check out our website: https://skratch.golf/
-Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8A4taiIK9-w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/8A4taiIK9-w/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/8A4taiIK9-w" type="text/html" medium="video"/>
-    <yt:videoId>8A4taiIK9-w</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
