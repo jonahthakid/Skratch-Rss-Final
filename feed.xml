@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 17 Jul 2026 15:53:24 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 17 Jul 2026 17:05:48 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Lucas Herbert Might Have the Stragest Set Of Clubs at Royal Birkdale</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/lucas-herbert-open-birkdale-witb-record-score</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/lucas-herbert-open-birkdale-witb-record-score</guid>
+    <pubDate>Fri, 17 Jul 2026 15:09:23 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Herbert just matched the best men&#x27;s major scoring record, and did it with one of the most mixed sets you&#x27;re ever seen in professional golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/lucas-herbert-open-birkdale-witb-record-score"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Lucas_Herbert_clubs_Open_12f7fe43ef/Lucas_Herbert_clubs_Open_12f7fe43ef.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Minjee Lee Went Incognito at The Open—and Heard Exactly What Fans Think of Min Woo</title>
     <link>https://skratch.golf/news/news/minjee-lee-the-open-min-woo-lee-crowds</link>
@@ -374,17 +385,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>How to Watch The Open at Royal Birkdale</title>
-    <link>https://skratch.golf/news/news/the-open-2026-how-to-watch-tv-streaming-royal-birkdale</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/the-open-2026-how-to-watch-tv-streaming-royal-birkdale</guid>
-    <pubDate>Tue, 14 Jul 2026 16:22:55 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Get ready to set those alarms, folks. Here&#x27;s how you can watch The Open from Royal Birkdale.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-open-2026-how-to-watch-tv-streaming-royal-birkdale"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285177182_bc4b1f15ea/Getty_Images_2285177182_bc4b1f15ea.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>There are things worth getting angry over. This is not one of them. @manorsgolf</title>
