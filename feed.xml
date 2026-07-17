@@ -9,16 +9,27 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 17 Jul 2026 17:05:48 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 17 Jul 2026 18:32:21 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
-    <title>Lucas Herbert Might Have the Stragest Set Of Clubs at Royal Birkdale</title>
+    <title>Before Herbert and Burns, Branden Grace ruled Birkdale</title>
+    <link>https://skratch.golf/news/news/royal-birkdale-ruled-by-branden-grace-before-herbert-or-burns</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/royal-birkdale-ruled-by-branden-grace-before-herbert-or-burns</guid>
+    <pubDate>Fri, 17 Jul 2026 16:23:35 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;Nine years before Lucas Herbert and Sam Burns added their names to the record books, Branden Grace fired the first 62 in men’s major championship history. And he didn’t even know.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/royal-birkdale-ruled-by-branden-grace-before-herbert-or-burns"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260717_Branden_Grace_2017_Open_Championship_141be3a88e/20260717_Branden_Grace_2017_Open_Championship_141be3a88e.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Lucas Herbert Might Have the Strangest Set Of Clubs at Royal Birkdale</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/lucas-herbert-open-birkdale-witb-record-score</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/lucas-herbert-open-birkdale-witb-record-score</guid>
     <pubDate>Fri, 17 Jul 2026 15:09:23 +0000</pubDate>
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;Herbert just matched the best men&#x27;s major scoring record, and did it with one of the most mixed sets you&#x27;re ever seen in professional golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/lucas-herbert-open-birkdale-witb-record-score"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Lucas_Herbert_clubs_Open_12f7fe43ef/Lucas_Herbert_clubs_Open_12f7fe43ef.jpg"/>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260717_herbert_bag_edit_eb4c5a7bc7/20260717_herbert_bag_edit_eb4c5a7bc7.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -446,17 +457,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>It&#x27;s Coming Home: Our Best Bets for the 154th Open Championship at Royal Birkdale</title>
-    <link>https://skratch.golf/news/pro-golf/open-championship-2026-picks-to-win-best-bets</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/open-championship-2026-picks-to-win-best-bets</guid>
-    <pubDate>Tue, 14 Jul 2026 12:51:55 +0000</pubDate>
-    <dc:creator>Rick Gehman</dc:creator>
-    <description>&lt;p&gt;There&#x27;s something in the air—it feels like an Englishman&#x27;s week. But even though everyone&#x27;s got their eye on the kid from Southport, it&#x27;s a son of Sheffield we&#x27;re liking at Birkdale. Here&#x27;s why.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/open-championship-2026-picks-to-win-best-bets"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285299005_f90cbda235/Getty_Images_2285299005_f90cbda235.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>WORLD DANKINGS: Ranking The Top 25 For The Open Championship</title>
