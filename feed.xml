@@ -9,8 +9,29 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 18 Jul 2026 18:54:16 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 18 Jul 2026 20:01:24 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>In case the fans at The Open need a chant for Si Woo tomorrow, let us remind you...</title>
+    <link>https://www.youtube.com/shorts/3X5Y_IN8VOY</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/3X5Y_IN8VOY</guid>
+    <pubDate>Sat, 18 Jul 2026 19:41:15 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
+
+Check out our website: https://skratch.golf/
+Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/3X5Y_IN8VOY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/3X5Y_IN8VOY/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/3X5Y_IN8VOY" type="text/html" medium="video"/>
+    <yt:videoId>3X5Y_IN8VOY</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>I&#x27;ve Spent 20 Weeks Trying to ID Justin Thomas&#x27; Pants</title>
     <link>https://skratch.golf/style/mens-style/trying-to-identify-justin-thomas-pants-golf-style-search</link>
@@ -660,20 +681,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:videoId>YZeOCPLZzQg</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>As entertaining on the mic as he is on the course (or on the simulator).</title>
-    <link>https://www.youtube.com/shorts/SxvAKR9Q-y4</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/SxvAKR9Q-y4</guid>
-    <pubDate>Mon, 13 Jul 2026 19:30:01 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/SxvAKR9Q-y4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/SxvAKR9Q-y4/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/SxvAKR9Q-y4" type="text/html" medium="video"/>
-    <yt:videoId>SxvAKR9Q-y4</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
     <category>video</category>
   </item>
 </channel>
