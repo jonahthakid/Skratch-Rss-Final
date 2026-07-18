@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 18 Jul 2026 14:32:55 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 18 Jul 2026 15:50:04 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Itty-bitty bunkers that can cause so much stress. Nothing like links pot bunkers.</title>
+    <link>https://www.youtube.com/shorts/s7xbhEfHhl8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/s7xbhEfHhl8</guid>
+    <pubDate>Sat, 18 Jul 2026 15:12:04 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/s7xbhEfHhl8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/s7xbhEfHhl8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/s7xbhEfHhl8" type="text/html" medium="video"/>
+    <yt:videoId>s7xbhEfHhl8</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>1. The penalty on Bryson is insanely harsh 2. You simply cannot take your ball and go home</title>
     <link>https://www.youtube.com/shorts/7-3DqgdZvrc</link>
@@ -655,20 +669,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://img.youtube.com/vi/q_a3kZkSjtU/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/q_a3kZkSjtU" type="text/html" medium="video"/>
     <yt:videoId>q_a3kZkSjtU</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>It’s gameday. 🏴󠁧󠁢󠁥󠁮󠁧󠁿 vs 🇳🇴. Kristoffer Reitan is ready.</title>
-    <link>https://www.youtube.com/shorts/PVnpsM56xWE</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/PVnpsM56xWE</guid>
-    <pubDate>Sat, 11 Jul 2026 17:11:50 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/PVnpsM56xWE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/PVnpsM56xWE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/PVnpsM56xWE" type="text/html" medium="video"/>
-    <yt:videoId>PVnpsM56xWE</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
