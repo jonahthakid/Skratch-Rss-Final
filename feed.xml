@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 17 Jul 2026 23:15:08 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 18 Jul 2026 00:52:19 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>1. The penalty on Bryson is insanely harsh 2. You simply cannot take your ball and go home</title>
@@ -26,12 +26,12 @@
     <category>video</category>
   </item>
   <item>
-    <title>Freshly Penalized, Bryson DeChambeau Reportedly Undecided If He Plays the Weekend</title>
+    <title>Update: Freshly Penalized, Bryson DeChambeau Says &#x27;Onto the Weekend&#x27;</title>
     <link>https://skratch.golf/news/news/bryson-dechambeau-penalized-two-strokes-for-improving-backswing</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/bryson-dechambeau-penalized-two-strokes-for-improving-backswing</guid>
     <pubDate>Fri, 17 Jul 2026 20:39:14 +0000</pubDate>
     <dc:creator>Will Neary</dc:creator>
-    <description>&lt;p&gt;Here&#x27;s everything you need to know about what went down, what the rule says, the R&amp;amp;A&#x27;s response, and reports that Bryson may not play on Saturday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/bryson-dechambeau-penalized-two-strokes-for-improving-backswing"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <description>&lt;p&gt;Here&#x27;s everything you need to know about what went down, what the rule says, the R&amp;amp;A&#x27;s response, and what Bryson did next.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/bryson-dechambeau-penalized-two-strokes-for-improving-backswing"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2286554879_91c1d40ef0/Getty_Images_2286554879_91c1d40ef0.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
@@ -88,6 +88,17 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/aA-nnI8Lk_A"&gt;
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Tee Times for the Third Round of The Open and How to Watch</title>
+    <link>https://skratch.golf/news/news/the-open-2026-how-to-watch-third-round-tee-times-royal-birkdale</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/the-open-2026-how-to-watch-third-round-tee-times-royal-birkdale</guid>
+    <pubDate>Fri, 17 Jul 2026 18:30:51 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;We&#x27;re on to the weekend at Royal Birkdale. Here&#x27;s how you can watch the third round of The Open, plus tee times and pairings for Saturday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-open-2026-how-to-watch-third-round-tee-times-royal-birkdale"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2286496527_e9a9d7d8e9/Getty_Images_2286496527_e9a9d7d8e9.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Battered by Birkdale: Big Names Who Missed the Cut at The Open</title>
@@ -444,17 +455,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Will Neary</dc:creator>
     <description>&lt;p&gt;2017 Open Champion Jordan Spieth returns to Royal Birkdale hoping to find his form, but he’s not alone.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-open-2017-top-finishers-return-to-royal-birkdale-2026-field"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260714_Jordan_Spieth_2017_Open_Championship_c78ee96696/20260714_Jordan_Spieth_2017_Open_Championship_c78ee96696.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Very Specific Reason Collin Morikawa Made an Iron Swap for Birkdale</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/collin-morikawa-iron-swap-open-championship-gear-change</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/collin-morikawa-iron-swap-open-championship-gear-change</guid>
-    <pubDate>Tue, 14 Jul 2026 20:53:37 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;For former Champion Golfer of the Year Collin Morikawa, dialing in his gear involves swapping irons for a very specific reason.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/collin-morikawa-iron-swap-open-championship-gear-change"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2225844356_157dca3de1/Getty_Images_2225844356_157dca3de1.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
