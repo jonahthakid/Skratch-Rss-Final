@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 19 Jul 2026 16:51:04 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 19 Jul 2026 17:53:10 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The Open LIVE Watch Along | WiLD Finish On Deck At Royal Birkdale!</title>
+    <link>https://www.youtube.com/watch?v=g-_eWKvTdlI</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=g-_eWKvTdlI</guid>
+    <pubDate>Sun, 19 Jul 2026 17:45:24 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Watch the final-round action at The Open Championship play out alongside Dan Rapaport.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=g-_eWKvTdlI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/g-_eWKvTdlI/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/g-_eWKvTdlI" type="text/html" medium="video"/>
+    <yt:videoId>g-_eWKvTdlI</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Scottie Scheffler’s TIO Relief at The Open Angered, Well, Everyone</title>
+    <link>https://skratch.golf/news/news/scottie-scheffler-tio-relief-reaction-the-open-2026</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/scottie-scheffler-tio-relief-reaction-the-open-2026</guid>
+    <pubDate>Sun, 19 Jul 2026 16:27:37 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Scottie Scheffler never found his ball at the par-5 17th, but got a free drop anyway and made birdie. It didn&#x27;t sit very well with the fans at home—even a PGA TOUR winner was surprised.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/scottie-scheffler-tio-relief-reaction-the-open-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2286768576_8ac33c46cf/Getty_Images_2286768576_8ac33c46cf.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Si Woo Kim&#x27;s stinger coming in handy at The Open 🐝</title>
     <link>https://www.youtube.com/shorts/BcgFiRrUH-g</link>
@@ -30,20 +55,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/BcgFiRrUH-g"&gt;
     <yt:videoId>BcgFiRrUH-g</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>The Open LIVE Watch Along | WiLD Finish On Deck At Royal Birkdale!</title>
-    <link>https://www.youtube.com/watch?v=g-_eWKvTdlI</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=g-_eWKvTdlI</guid>
-    <pubDate>Sun, 19 Jul 2026 15:18:24 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Watch the final-round action at The Open Championship play out alongside Dan Rapaport.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=g-_eWKvTdlI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/g-_eWKvTdlI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/g-_eWKvTdlI" type="text/html" medium="video"/>
-    <yt:videoId>g-_eWKvTdlI</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
     <category>video</category>
   </item>
   <item>
@@ -536,17 +547,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>Northwood Golf Club is Golf At Its Best</title>
-    <link>https://skratch.golf/news/news/northwood-golf-club-is-golf-at-its-best</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/northwood-golf-club-is-golf-at-its-best</guid>
-    <pubDate>Wed, 15 Jul 2026 17:39:31 +0000</pubDate>
-    <dc:creator>Will Neary</dc:creator>
-    <description>&lt;p&gt;Bryson DeChambeau recently visited Northwood Golf Club, a secluded property shaded by redwoods in northern California, and it’s everything we love about golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/northwood-golf-club-is-golf-at-its-best"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260715_Northwood_Golf_Club_5a58bb22d2/20260715_Northwood_Golf_Club_5a58bb22d2.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>A Totally Unsolicited Team USA Solheim Style Wishlist</title>
     <link>https://skratch.golf/style/style/team-usa-solheim-cup-fits-wishlist-b-draddy-zero-restriction</link>
     <guid isPermaLink="true">https://skratch.golf/style/style/team-usa-solheim-cup-fits-wishlist-b-draddy-zero-restriction</guid>
@@ -554,17 +554,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;B.Draddy and Zero Restriction have the assignment. Here&#x27;s our wish list for Team USA&#x27;s Solheim Cup wardrobe.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/team-usa-solheim-cup-fits-wishlist-b-draddy-zero-restriction"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2172203785_36ef3d929b/Getty_Images_2172203785_36ef3d929b.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Just In Time For Links Season, The TaylorMade Bomber Returns</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/taylormade-bomber-one-iron-links-golf-club</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/taylormade-bomber-one-iron-links-golf-club</guid>
-    <pubDate>Wed, 15 Jul 2026 16:25:35 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;TaylorMade has brought back a limited edition favorite for golfers looking for the ultimate missile-launching driving iron.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/taylormade-bomber-one-iron-links-golf-club"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Taylor_Made_Bomber_b76e0dfb54/Taylor_Made_Bomber_b76e0dfb54.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -673,6 +662,20 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://img.youtube.com/vi/Ti3lQHNRGpY/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/Ti3lQHNRGpY" type="text/html" medium="video"/>
     <yt:videoId>Ti3lQHNRGpY</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>It’s the record Tiger’s most proud of, and it’s looking safer than ever.</title>
+    <link>https://www.youtube.com/shorts/R4UVjb8n4HQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/R4UVjb8n4HQ</guid>
+    <pubDate>Tue, 14 Jul 2026 01:15:13 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/R4UVjb8n4HQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/R4UVjb8n4HQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/R4UVjb8n4HQ" type="text/html" medium="video"/>
+    <yt:videoId>R4UVjb8n4HQ</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
