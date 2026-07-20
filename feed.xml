@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 20 Jul 2026 11:19:50 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 20 Jul 2026 13:23:12 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>18 Parting Thoughts from the 154th Open Championship at Royal Birkdale</title>
+    <link>https://skratch.golf/news/pro-golf/154th-open-championship-royal-birkdale-2026-full-recap-reaction</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/154th-open-championship-royal-birkdale-2026-full-recap-reaction</guid>
+    <pubDate>Mon, 20 Jul 2026 13:01:56 +0000</pubDate>
+    <dc:creator>Dan Rapaport</dc:creator>
+    <description>&lt;p&gt;Major season is over, but not without an epic Sunday performance and plenty of controversy. Dan Rapaport breaks it all down.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/154th-open-championship-royal-birkdale-2026-full-recap-reaction"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2286797428_b48835c1a4/Getty_Images_2286797428_b48835c1a4.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Cricket &amp; rugby through school. 2 handicap at 18. Pro at 25. Now major champion at 39.</title>
     <link>https://www.youtube.com/shorts/DEkgGFgxTQ0</link>
@@ -627,17 +638,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;B.Draddy and Zero Restriction have the assignment. Here&#x27;s our wish list for Team USA&#x27;s Solheim Cup wardrobe.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/team-usa-solheim-cup-fits-wishlist-b-draddy-zero-restriction"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2172203785_36ef3d929b/Getty_Images_2172203785_36ef3d929b.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Just In Time For Links Season, The TaylorMade Bomber Returns</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/taylormade-bomber-one-iron-links-golf-club</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/taylormade-bomber-one-iron-links-golf-club</guid>
-    <pubDate>Wed, 15 Jul 2026 16:25:35 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;TaylorMade has brought back a limited edition favorite for golfers looking for the ultimate missile-launching driving iron.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/taylormade-bomber-one-iron-links-golf-club"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Taylor_Made_Bomber_b76e0dfb54/Taylor_Made_Bomber_b76e0dfb54.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
