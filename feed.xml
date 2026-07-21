@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 21 Jul 2026 12:20:14 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 21 Jul 2026 14:32:00 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>PGA TOUR, DP World Tour and Asian Tour Announce Multi-Year Partnership as LIV&#x27;s Future Remains Unclear</title>
+    <link>https://skratch.golf/news/news/asian-tour-pga-tour-dpwt-partnership</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/asian-tour-pga-tour-dpwt-partnership</guid>
+    <pubDate>Tue, 21 Jul 2026 14:02:09 +0000</pubDate>
+    <dc:creator>Brittany Romano</dc:creator>
+    <description>&lt;p&gt;The agreement strengthens ties between the PGA TOUR, DP World Tour and Asian Tour while raising new questions about where LIV fits into golf&#x27;s evolving global landscape.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/asian-tour-pga-tour-dpwt-partnership"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Asia_Tour_Credit_29c11ac483/Asia_Tour_Credit_29c11ac483.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>The penalty and the reaction to the penalty are two separate conversations.</title>
     <link>https://www.youtube.com/shorts/kt5i0inT4cw</link>
@@ -571,13 +582,13 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/aA-nnI8Lk_A"&gt;
     <category>video</category>
   </item>
   <item>
-    <title>Did You Say A 15° Hybrid? YEP!</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/the-open-2026-royal-birkdale-callaway-apex-uw-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/the-open-2026-royal-birkdale-callaway-apex-uw-tour</guid>
-    <pubDate>Thu, 16 Jul 2026 18:56:54 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Firm turf and windy conditions at Royal Birkdale have one player swapping in a very rare club at The Open&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/the-open-2026-royal-birkdale-callaway-apex-uw-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/tour_15_uw_sole_title_1df4b1af36/tour_15_uw_sole_title_1df4b1af36.jpg"/>
+    <title>How to Watch, Tee Times for the Second Round of The Open</title>
+    <link>https://skratch.golf/news/news/the-open-2026-second-round-how-to-watch-tee-times-royal-birkdale</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/the-open-2026-second-round-how-to-watch-tee-times-royal-birkdale</guid>
+    <pubDate>Thu, 16 Jul 2026 19:37:32 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Who&#x27;s ready for more coffee golf? Here are the tee times for the second round of The Open, plus how-to-watch information.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-open-2026-second-round-how-to-watch-tee-times-royal-birkdale"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285761859_d936b6fc72/Getty_Images_2285761859_d936b6fc72.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -608,17 +619,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/aA-nnI8Lk_A"&gt;
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The Open: Bryson DeChambeau Not-So-Subtly Responds to Nick Faldo</title>
-    <link>https://skratch.golf/news/news/bryson-dechambeau-the-open-2026-fires-back-nick-faldo-no-strategy</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/bryson-dechambeau-the-open-2026-fires-back-nick-faldo-no-strategy</guid>
-    <pubDate>Thu, 16 Jul 2026 16:30:02 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Alright, Bryson, we see you. On Thursday, he fired back at Nick Faldo&#x27;s &quot;no strategy&quot; comments from earlier this week after an opening-round 67.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/bryson-dechambeau-the-open-2026-fires-back-nick-faldo-no-strategy"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2286388592_75e61fd161/Getty_Images_2286388592_75e61fd161.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Wake up, coffee, rip a cig. Dan Brown’s pre-round routine is one of a kind.</title>
