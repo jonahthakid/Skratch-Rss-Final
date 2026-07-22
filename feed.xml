@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 22 Jul 2026 17:47:35 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 22 Jul 2026 19:04:03 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Georgia Hall Makes Return Less Than Six Months After Giving Birth—The Timing Feels Perfect</title>
@@ -35,6 +35,17 @@
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>10 Golf Purchases That Are Absolutely Worth It</title>
+    <link>https://skratch.golf/style/mens-style/golf-products-that-are-worth-it</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/golf-products-that-are-worth-it</guid>
+    <pubDate>Tue, 21 Jul 2026 21:55:37 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;A curated list of apparel and gear that earns its place in your rotation, price tag be damned.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/golf-products-that-are-worth-it"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/10_Golf_Things_Worth_It_Hero_4e3fd7e1ac/10_Golf_Things_Worth_It_Hero_4e3fd7e1ac.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Addie&#x27;s must-have while covering women&#x27;s golf ☀️</title>
@@ -595,13 +606,13 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/aA-nnI8Lk_A"&gt;
     <category>article</category>
   </item>
   <item>
-    <title>Lucas Herbert Might Have the Strangest Set Of Clubs at Royal Birkdale</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/lucas-herbert-open-birkdale-witb-record-score</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/lucas-herbert-open-birkdale-witb-record-score</guid>
-    <pubDate>Fri, 17 Jul 2026 15:09:23 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Herbert just matched the best men&#x27;s major scoring record, and did it with one of the most mixed sets you&#x27;re ever seen in professional golf.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/lucas-herbert-open-birkdale-witb-record-score"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260717_herbert_bag_edit_eb4c5a7bc7/20260717_herbert_bag_edit_eb4c5a7bc7.jpg"/>
+    <title>Before Herbert and Burns, Branden Grace ruled Birkdale</title>
+    <link>https://skratch.golf/news/news/royal-birkdale-ruled-by-branden-grace-before-herbert-or-burns</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/royal-birkdale-ruled-by-branden-grace-before-herbert-or-burns</guid>
+    <pubDate>Fri, 17 Jul 2026 16:23:35 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;Nine years before Lucas Herbert and Sam Burns added their names to the record books, Branden Grace fired the first 62 in men’s major championship history. And he didn’t even know.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/royal-birkdale-ruled-by-branden-grace-before-herbert-or-burns"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260717_Branden_Grace_2017_Open_Championship_141be3a88e/20260717_Branden_Grace_2017_Open_Championship_141be3a88e.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -624,17 +635,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/aA-nnI8Lk_A"&gt;
     <dc:creator>Will Neary</dc:creator>
     <description>&lt;p&gt;In the span of just 22 minutes, Lucas Herbert and Sam Burns turned in rounds of 62, equalling the men’s major record. They could not have been more different.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/those-62s-at-open-championship-could-not-have-been-more-different"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260717_Sam_Burns_Open_Championship_d325920487/20260717_Sam_Burns_Open_Championship_d325920487.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Open: Leader Lucas Herbert’s Major Championship Record…Isn’t Great</title>
-    <link>https://skratch.golf/news/news/the-open-2026-lucas-herbert-record-round-major-championship-history</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/the-open-2026-lucas-herbert-record-round-major-championship-history</guid>
-    <pubDate>Fri, 17 Jul 2026 13:09:11 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Lucas Herbert went deep on Friday, tying the 18-hole scoring record at The Open (8-under 62). Believe it or not, he&#x27;s never finished inside the top 10 of a major championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-open-2026-lucas-herbert-record-round-major-championship-history"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285822622_36353bd9af/Getty_Images_2285822622_36353bd9af.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
