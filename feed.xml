@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 22 Jul 2026 16:24:50 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 22 Jul 2026 17:47:35 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Georgia Hall Makes Return Less Than Six Months After Giving Birth—The Timing Feels Perfect</title>
+    <link>https://skratch.golf/news/news/georgia-hall-comeback-isps-handa-womens-scottish-open</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/georgia-hall-comeback-isps-handa-womens-scottish-open</guid>
+    <pubDate>Wed, 22 Jul 2026 15:24:58 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Hall makes her first LPGA start since welcoming her son this week in Scotland, a week before the AIG Women&#x27;s Open returns to Royal Lytham &amp; St Annes, where Catriona Matthew won just 11 weeks after giving birth.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/georgia-hall-comeback-isps-handa-womens-scottish-open"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Georgia_Hall_AIG_2005_Getty_Images_2228341219_fc0a738928/Georgia_Hall_AIG_2005_Getty_Images_2228341219_fc0a738928.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Been looping in his favorite tournament since 1984 and he’s not stopping now</title>
     <link>https://www.youtube.com/shorts/e20uzVQMrMU</link>
@@ -562,17 +573,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/aA-nnI8Lk_A"&gt;
     <category>video</category>
   </item>
   <item>
-    <title>Tee Times for the Third Round of The Open and How to Watch</title>
-    <link>https://skratch.golf/news/news/the-open-2026-how-to-watch-third-round-tee-times-royal-birkdale</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/the-open-2026-how-to-watch-third-round-tee-times-royal-birkdale</guid>
-    <pubDate>Fri, 17 Jul 2026 18:30:51 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;We&#x27;re on to the weekend at Royal Birkdale. Here&#x27;s how you can watch the third round of The Open, plus tee times and pairings for Saturday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-open-2026-how-to-watch-third-round-tee-times-royal-birkdale"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2286496527_e9a9d7d8e9/Getty_Images_2286496527_e9a9d7d8e9.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Battered by Birkdale: Big Names Who Missed the Cut at The Open</title>
     <link>https://skratch.golf/news/news/the-open-2026-miss-cut-big-names-stars-royal-birkdale</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/the-open-2026-miss-cut-big-names-stars-royal-birkdale</guid>
@@ -591,17 +591,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/aA-nnI8Lk_A"&gt;
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;Spoiler alert: the top-four belong to women.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lowest-scores-major-championship-history-list"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2286513167_b68d0d1307/Getty_Images_2286513167_b68d0d1307.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Before Herbert and Burns, Branden Grace ruled Birkdale</title>
-    <link>https://skratch.golf/news/news/royal-birkdale-ruled-by-branden-grace-before-herbert-or-burns</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/royal-birkdale-ruled-by-branden-grace-before-herbert-or-burns</guid>
-    <pubDate>Fri, 17 Jul 2026 16:23:35 +0000</pubDate>
-    <dc:creator>Will Neary</dc:creator>
-    <description>&lt;p&gt;Nine years before Lucas Herbert and Sam Burns added their names to the record books, Branden Grace fired the first 62 in men’s major championship history. And he didn’t even know.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/royal-birkdale-ruled-by-branden-grace-before-herbert-or-burns"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260717_Branden_Grace_2017_Open_Championship_141be3a88e/20260717_Branden_Grace_2017_Open_Championship_141be3a88e.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -635,6 +624,17 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/aA-nnI8Lk_A"&gt;
     <dc:creator>Will Neary</dc:creator>
     <description>&lt;p&gt;In the span of just 22 minutes, Lucas Herbert and Sam Burns turned in rounds of 62, equalling the men’s major record. They could not have been more different.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/those-62s-at-open-championship-could-not-have-been-more-different"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260717_Sam_Burns_Open_Championship_d325920487/20260717_Sam_Burns_Open_Championship_d325920487.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The Open: Leader Lucas Herbert’s Major Championship Record…Isn’t Great</title>
+    <link>https://skratch.golf/news/news/the-open-2026-lucas-herbert-record-round-major-championship-history</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/the-open-2026-lucas-herbert-record-round-major-championship-history</guid>
+    <pubDate>Fri, 17 Jul 2026 13:09:11 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Lucas Herbert went deep on Friday, tying the 18-hole scoring record at The Open (8-under 62). Believe it or not, he&#x27;s never finished inside the top 10 of a major championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-open-2026-lucas-herbert-record-round-major-championship-history"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285822622_36353bd9af/Getty_Images_2285822622_36353bd9af.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
