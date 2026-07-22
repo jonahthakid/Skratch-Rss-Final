@@ -1,3 +1,4 @@
+<!-- Warning: Error fetching Dan On Golf Show: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -9,22 +10,8 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 22 Jul 2026 00:13:57 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 22 Jul 2026 03:55:37 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
-  <item>
-    <title>Been looping in his favorite tournament since 1984 and he’s not stopping now</title>
-    <link>https://www.youtube.com/shorts/e20uzVQMrMU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/e20uzVQMrMU</guid>
-    <pubDate>Tue, 21 Jul 2026 22:15:51 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/e20uzVQMrMU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/e20uzVQMrMU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/e20uzVQMrMU" type="text/html" medium="video"/>
-    <yt:videoId>e20uzVQMrMU</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
   <item>
     <title>Addie&#x27;s must-have while covering women&#x27;s golf ☀️</title>
     <link>https://www.youtube.com/shorts/FqeEj5YaV_I</link>
@@ -53,34 +40,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/A_Lim_Kim_Hawaii_Getty_Images_2183931854_289d539efb/A_Lim_Kim_Hawaii_Getty_Images_2183931854_289d539efb.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>It’s a respect thing.</title>
-    <link>https://www.youtube.com/shorts/g4wyz4f1pC0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/g4wyz4f1pC0</guid>
-    <pubDate>Tue, 21 Jul 2026 17:35:55 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/g4wyz4f1pC0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/g4wyz4f1pC0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/g4wyz4f1pC0" type="text/html" medium="video"/>
-    <yt:videoId>g4wyz4f1pC0</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Did Bryson DeChambeau Deserve His Penalty At The Open Championship?</title>
-    <link>https://www.youtube.com/watch?v=4ILRVYCbRR4</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=4ILRVYCbRR4</guid>
-    <pubDate>Tue, 21 Jul 2026 17:00:03 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Dan &amp; Ben dive into Bryson&#x27;s penalty at The Open Championship and the aftermath. Was it deserved?&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=4ILRVYCbRR4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/4ILRVYCbRR4/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/4ILRVYCbRR4" type="text/html" medium="video"/>
-    <yt:videoId>4ILRVYCbRR4</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>Why Hannah Green Is Playing the Women&#x27;s Scottish Open for the First Time in Years</title>
@@ -116,34 +75,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>The penalty and the reaction to the penalty are two separate conversations.</title>
-    <link>https://www.youtube.com/shorts/kt5i0inT4cw</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/kt5i0inT4cw</guid>
-    <pubDate>Tue, 21 Jul 2026 00:33:57 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/kt5i0inT4cw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/kt5i0inT4cw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/kt5i0inT4cw" type="text/html" medium="video"/>
-    <yt:videoId>kt5i0inT4cw</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>If you’re gonna give it out, you gotta be prepared to take it. @manorsgolf</title>
-    <link>https://www.youtube.com/shorts/EELDN-WY7FE</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/EELDN-WY7FE</guid>
-    <pubDate>Mon, 20 Jul 2026 21:42:05 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/EELDN-WY7FE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/EELDN-WY7FE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/EELDN-WY7FE" type="text/html" medium="video"/>
-    <yt:videoId>EELDN-WY7FE</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Inside Ryan Fox&#x27;s WILD New Zealand Golf Charity Event</title>
     <link>https://www.youtube.com/shorts/s1Dy5ygKCls</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/s1Dy5ygKCls</guid>
@@ -159,26 +90,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:videoId>s1Dy5ygKCls</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>S2 E55: OPEN RECAP SHOW: Fox&#x27;s Unlikely Journey, The Bryson Penalty Saga, Major Season Grades &amp; More</title>
-    <link>https://www.youtube.com/watch?v=f0KcNXpsjxU</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=f0KcNXpsjxU</guid>
-    <pubDate>Mon, 20 Jul 2026 18:40:22 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Ryan Fox wins The Open Championship in stunning fashion. Bryson DeChambeau&#x27;s penalty had the golf world up in arms. We give out major championship season grades for the top golfers in the world. A Chirps from the Gallery segment for the ages. And as always, much more.
-
-Thank You to Our Sponsors!
-
-Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
-
-Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround.com/golf and use c&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=f0KcNXpsjxU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/f0KcNXpsjxU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/f0KcNXpsjxU" type="text/html" medium="video"/>
-    <yt:videoId>f0KcNXpsjxU</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
     <category>video</category>
   </item>
   <item>
@@ -240,20 +151,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>Cricket &amp; rugby through school. 2 handicap at 18. Pro at 25. Now major champion at 39.</title>
-    <link>https://www.youtube.com/shorts/DEkgGFgxTQ0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/DEkgGFgxTQ0</guid>
-    <pubDate>Sun, 19 Jul 2026 23:14:30 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/DEkgGFgxTQ0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/DEkgGFgxTQ0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/DEkgGFgxTQ0" type="text/html" medium="video"/>
-    <yt:videoId>DEkgGFgxTQ0</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>From late bloomer to major champion. Play a hole with Open Champion Ryan Fox.</title>
     <link>https://www.youtube.com/shorts/qpJzQClAmfQ</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/qpJzQClAmfQ</guid>
@@ -288,20 +185,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Ryan Fox didn’t start playing tournament golf until after high school. Victory for the late bloomers</title>
-    <link>https://www.youtube.com/shorts/6qttF1sg7dg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/6qttF1sg7dg</guid>
-    <pubDate>Sun, 19 Jul 2026 18:54:13 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/6qttF1sg7dg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/6qttF1sg7dg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/6qttF1sg7dg" type="text/html" medium="video"/>
-    <yt:videoId>6qttF1sg7dg</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Ryan Fox Just Delivered One of the Best Finishes in Recent Memory</title>
     <link>https://skratch.golf/news/news/ryan-fox-the-open-2026-best-finishes-recent-memory-royal-birkdale</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/ryan-fox-the-open-2026-best-finishes-recent-memory-royal-birkdale</guid>
@@ -311,20 +194,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2286152223_5934f095aa/Getty_Images_2286152223_5934f095aa.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>The Open LIVE Watch Along | WiLD Finish On Deck At Royal Birkdale!</title>
-    <link>https://www.youtube.com/watch?v=g-_eWKvTdlI</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=g-_eWKvTdlI</guid>
-    <pubDate>Sun, 19 Jul 2026 17:45:24 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Watch the final-round action at The Open Championship play out alongside Dan Rapaport.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=g-_eWKvTdlI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/g-_eWKvTdlI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/g-_eWKvTdlI" type="text/html" medium="video"/>
-    <yt:videoId>g-_eWKvTdlI</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>Scottie Scheffler’s TIO Relief at The Open Angered, Well, Everyone</title>
@@ -368,20 +237,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/BcgFiRrUH-g"&gt;
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260713_Royal_Birkdale_Open_Championship_5ac878fecc/20260713_Royal_Birkdale_Open_Championship_5ac878fecc.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Sam Burns has blossomed into a consistent major performer. Does he get it done tomorrow?</title>
-    <link>https://www.youtube.com/shorts/g2cB8TLwjiM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/g2cB8TLwjiM</guid>
-    <pubDate>Sat, 18 Jul 2026 20:28:39 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/g2cB8TLwjiM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/g2cB8TLwjiM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/g2cB8TLwjiM" type="text/html" medium="video"/>
-    <yt:videoId>g2cB8TLwjiM</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>In case the fans at The Open need a chant for Si Woo tomorrow, let us remind you...</title>
@@ -481,20 +336,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/qwOwtZeV7is"&gt;
     <yt:videoId>s7xbhEfHhl8</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>1. The penalty on Bryson is insanely harsh 2. You simply cannot take your ball and go home</title>
-    <link>https://www.youtube.com/shorts/7-3DqgdZvrc</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/7-3DqgdZvrc</guid>
-    <pubDate>Fri, 17 Jul 2026 23:05:16 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/7-3DqgdZvrc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/7-3DqgdZvrc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/7-3DqgdZvrc" type="text/html" medium="video"/>
-    <yt:videoId>7-3DqgdZvrc</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
     <category>video</category>
   </item>
   <item>
@@ -664,31 +505,45 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/aA-nnI8Lk_A"&gt;
     <category>video</category>
   </item>
   <item>
-    <title>Jamie Kennedy aced the par-4 18th at North Berwick with a hickory!</title>
-    <link>https://www.youtube.com/shorts/8Hlgz3EReOU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/8Hlgz3EReOU</guid>
-    <pubDate>Thu, 16 Jul 2026 18:47:58 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8Hlgz3EReOU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/8Hlgz3EReOU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/8Hlgz3EReOU" type="text/html" medium="video"/>
-    <yt:videoId>8Hlgz3EReOU</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
+    <title>Wake up, coffee, rip a cig. Dan Brown’s pre-round routine is one of a kind.</title>
+    <link>https://www.youtube.com/shorts/xMpy71_Qnb0</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/xMpy71_Qnb0</guid>
+    <pubDate>Thu, 16 Jul 2026 14:44:52 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/xMpy71_Qnb0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/xMpy71_Qnb0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/xMpy71_Qnb0" type="text/html" medium="video"/>
+    <yt:videoId>xMpy71_Qnb0</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
     <category>video</category>
   </item>
   <item>
-    <title>How’d we do?!</title>
-    <link>https://www.youtube.com/shorts/-YEY6CGMCnQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/-YEY6CGMCnQ</guid>
-    <pubDate>Thu, 16 Jul 2026 17:32:27 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/-YEY6CGMCnQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/-YEY6CGMCnQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/-YEY6CGMCnQ" type="text/html" medium="video"/>
-    <yt:videoId>-YEY6CGMCnQ</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
+    <title>Golf fans trying to stay up for Round 1 of The Open like… 😴</title>
+    <link>https://www.youtube.com/shorts/tr53d0NOIw8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/tr53d0NOIw8</guid>
+    <pubDate>Thu, 16 Jul 2026 04:17:46 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/tr53d0NOIw8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/tr53d0NOIw8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/tr53d0NOIw8" type="text/html" medium="video"/>
+    <yt:videoId>tr53d0NOIw8</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>A frustrating year but still so much to play for. Come play a hole with 2019 Open champ Shane Lowry</title>
+    <link>https://www.youtube.com/shorts/0rmSPuEme78</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/0rmSPuEme78</guid>
+    <pubDate>Wed, 15 Jul 2026 18:53:26 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/0rmSPuEme78"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/0rmSPuEme78/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/0rmSPuEme78" type="text/html" medium="video"/>
+    <yt:videoId>0rmSPuEme78</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
     <category>video</category>
   </item>
 </channel>
