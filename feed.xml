@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 23 Jul 2026 15:50:54 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 23 Jul 2026 17:12:58 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Statistical anomaly, or is there an explanation?</title>
+    <link>https://www.youtube.com/shorts/CD4DSxYtjxE</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/CD4DSxYtjxE</guid>
+    <pubDate>Thu, 23 Jul 2026 17:01:01 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/CD4DSxYtjxE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/CD4DSxYtjxE/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/CD4DSxYtjxE" type="text/html" medium="video"/>
+    <yt:videoId>CD4DSxYtjxE</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Jordan Spieth is Set to Make His Rocket Mortgage Classic Debut Next Week</title>
+    <link>https://skratch.golf/news/news/jordan-spieth-rocket-mortgage-classic-debut-recent-struggles-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/jordan-spieth-rocket-mortgage-classic-debut-recent-struggles-pga-tour</guid>
+    <pubDate>Thu, 23 Jul 2026 16:48:45 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The last few months haven&#x27;t been too kind to Jordan Spieth, but he&#x27;ll look to stop the skid at next week&#x27;s Rocket Mortgage Classic.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jordan-spieth-rocket-mortgage-classic-debut-recent-struggles-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2281965892_62b0aec80e/Getty_Images_2281965892_62b0aec80e.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>LIV&#x27;s Future, Rory Vs. Bryson &amp; More With Alan Shipnuck</title>
     <link>https://www.youtube.com/watch?v=8hi-Bg-vpws</link>
@@ -672,28 +697,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/aA-nnI8Lk_A"&gt;
     <dc:creator>Will Neary</dc:creator>
     <description>&lt;p&gt;Nine years before Lucas Herbert and Sam Burns added their names to the record books, Branden Grace fired the first 62 in men’s major championship history. And he didn’t even know.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/royal-birkdale-ruled-by-branden-grace-before-herbert-or-burns"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260717_Branden_Grace_2017_Open_Championship_141be3a88e/20260717_Branden_Grace_2017_Open_Championship_141be3a88e.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Those 62s Could Not Have Ended More Differently</title>
-    <link>https://skratch.golf/news/news/those-62s-at-open-championship-could-not-have-been-more-different</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/those-62s-at-open-championship-could-not-have-been-more-different</guid>
-    <pubDate>Fri, 17 Jul 2026 14:21:19 +0000</pubDate>
-    <dc:creator>Will Neary</dc:creator>
-    <description>&lt;p&gt;In the span of just 22 minutes, Lucas Herbert and Sam Burns turned in rounds of 62, equalling the men’s major record. They could not have been more different.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/those-62s-at-open-championship-could-not-have-been-more-different"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260717_Sam_Burns_Open_Championship_d325920487/20260717_Sam_Burns_Open_Championship_d325920487.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>While You Were Sleeping: Friday Morning Notes from The Open</title>
-    <link>https://skratch.golf/news/news/the-open-2026-second-round-morning-notes-scores-royal-birkdale</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/the-open-2026-second-round-morning-notes-scores-royal-birkdale</guid>
-    <pubDate>Fri, 17 Jul 2026 10:38:43 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Good morning, America. Here&#x27;s what you missed early Friday at The Open, including a front-nine 28 from LIV Golf&#x27;s Lucas Herbert.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/the-open-2026-second-round-morning-notes-scores-royal-birkdale"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2286490828_f8bd4d5420/Getty_Images_2286490828_f8bd4d5420.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
