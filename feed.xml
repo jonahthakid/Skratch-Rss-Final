@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 24 Jul 2026 23:59:43 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 25 Jul 2026 03:21:15 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Practice Round Diaries: Nine Hole Practice Round with PGA TOUR Rookie Davis Chatfield</title>
@@ -28,6 +28,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The Women&#x27;s Scottish Open Leaderboard is Exactly the Kind of Chaos Links Golf Promises</title>
+    <link>https://skratch.golf/news/news/isps-handa-womens-scottish-open-round-two-recap</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/isps-handa-womens-scottish-open-round-two-recap</guid>
+    <pubDate>Fri, 24 Jul 2026 19:36:14 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;LPGA vet Jenny Shin leads after 36 holes as the stars continue searching for answers at Dundonald Links.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/isps-handa-womens-scottish-open-round-two-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Nelly_Lottie_Charley_WSO_2026_Getty_Images_2286814304_57fe107f23/Nelly_Lottie_Charley_WSO_2026_Getty_Images_2286814304_57fe107f23.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>The newest member of the 59 Club, Michael Kim! 👏</title>
@@ -686,27 +697,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2286768576_8ac33c46cf/Getty_Images_2286768576_8ac33c46cf.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Si Woo Kim&#x27;s stinger coming in handy at The Open 🐝</title>
-    <link>https://www.youtube.com/shorts/BcgFiRrUH-g</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/BcgFiRrUH-g</guid>
-    <pubDate>Sun, 19 Jul 2026 15:41:16 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
-
-Check out our website: https://skratch.golf/
-Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/BcgFiRrUH-g"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/BcgFiRrUH-g/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/BcgFiRrUH-g" type="text/html" medium="video"/>
-    <yt:videoId>BcgFiRrUH-g</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
 </channel>
 </rss>
