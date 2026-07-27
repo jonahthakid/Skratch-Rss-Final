@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 27 Jul 2026 13:23:16 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 27 Jul 2026 15:56:48 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Happy birthday to Jordan Spieth, wherever he might be today. 😭</title>
+    <link>https://www.youtube.com/shorts/3Z-YRO5jxjY</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/3Z-YRO5jxjY</guid>
+    <pubDate>Mon, 27 Jul 2026 14:23:27 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/3Z-YRO5jxjY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/3Z-YRO5jxjY/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/3Z-YRO5jxjY" type="text/html" medium="video"/>
+    <yt:videoId>3Z-YRO5jxjY</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Gonna stop writing &quot;Don&#x27;t Shank It&quot; on our gloves and start writing this</title>
     <link>https://www.youtube.com/shorts/vhCjElmUnyw</link>
@@ -705,17 +719,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;Two major close calls, a new title as aunt, and now an engagement—Brooke Henderson is quietly putting together the happiest stretch of her year.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/brooke-henderson-best-summer-engaged-major-finishes"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2285235968_156ea76529/Getty_Images_2285235968_156ea76529.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>18 Parting Thoughts from the 154th Open Championship at Royal Birkdale</title>
-    <link>https://skratch.golf/news/pro-golf/154th-open-championship-royal-birkdale-2026-full-recap-reaction</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/154th-open-championship-royal-birkdale-2026-full-recap-reaction</guid>
-    <pubDate>Mon, 20 Jul 2026 13:01:56 +0000</pubDate>
-    <dc:creator>Dan Rapaport</dc:creator>
-    <description>&lt;p&gt;Major season is over, but not without an epic Sunday performance and plenty of controversy. Dan Rapaport breaks it all down.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/154th-open-championship-royal-birkdale-2026-full-recap-reaction"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2286797428_b48835c1a4/Getty_Images_2286797428_b48835c1a4.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
