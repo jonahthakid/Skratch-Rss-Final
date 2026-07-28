@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 28 Jul 2026 19:13:55 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 28 Jul 2026 20:40:16 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Brooks Koepka has Withdrawn from the Rocket Classic</title>
+    <link>https://skratch.golf/news/news/brooks-koepka-wd-rocket-classic-2026-pga-tour-playoffs</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/brooks-koepka-wd-rocket-classic-2026-pga-tour-playoffs</guid>
+    <pubDate>Tue, 28 Jul 2026 19:29:48 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Brooks Koepka has withdrawn from this week’s Rocket Classic—with the playoffs right around the corner, here’s why that’s a big deal.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/brooks-koepka-wd-rocket-classic-2026-pga-tour-playoffs"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2237903098_4260c2b317/Getty_Images_2237903098_4260c2b317.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Only Tiger could turn a wrong fairway into a birdie opp. 🤣 #TigerTuesday</title>
     <link>https://www.youtube.com/shorts/PUskQw2At14</link>
@@ -173,6 +184,17 @@ Dan on Golf is presented by @Knockaround, the official sunglasses partne&lt;/p&g
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Jackson Koivun and Tommy Morrison Are Making a Case for College (and PGA TOUR U) Enrollment</title>
+    <link>https://skratch.golf/news/news/jackson-koivun-tommy-morrison-prove-pga-tour-u-grows-winners</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/jackson-koivun-tommy-morrison-prove-pga-tour-u-grows-winners</guid>
+    <pubDate>Mon, 27 Jul 2026 18:08:44 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;Well, that happened fast. Less than two months ago, Jackson Koivun and Tommy Morrison were finishing up college. Now, they’re both winners on golf’s highest levels. Does college golf lead to professional success?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jackson-koivun-tommy-morrison-prove-pga-tour-u-grows-winners"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2287763415_edf6fff45d/Getty_Images_2287763415_edf6fff45d.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>This kid knows how to win.</title>
@@ -686,28 +708,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>10 Golf Purchases That Are Absolutely Worth It</title>
-    <link>https://skratch.golf/style/mens-style/golf-products-that-are-worth-it</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/golf-products-that-are-worth-it</guid>
-    <pubDate>Tue, 21 Jul 2026 21:55:37 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;A curated list of apparel and gear that earns its place in your rotation, price tag be damned.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/golf-products-that-are-worth-it"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/10_Golf_Things_Worth_It_Hero_4e3fd7e1ac/10_Golf_Things_Worth_It_Hero_4e3fd7e1ac.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>LPGA Announces a First-of-Its-Kind Pro and College Golf Showdown Set in Hawaii</title>
-    <link>https://skratch.golf/news/news/lpga-announces-nanea-cup-hawaii-pro-college-golf-event</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-announces-nanea-cup-hawaii-pro-college-golf-event</guid>
-    <pubDate>Tue, 21 Jul 2026 18:22:24 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Meet the Nanea Cup, a new event that&#x27;s set to bring together 95 LPGA Tour players and 25 collegiate golfers for a unique competition at Nanea Golf Club next year.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-announces-nanea-cup-hawaii-pro-college-golf-event"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/A_Lim_Kim_Hawaii_Getty_Images_2183931854_289d539efb/A_Lim_Kim_Hawaii_Getty_Images_2183931854_289d539efb.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
