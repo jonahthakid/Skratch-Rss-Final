@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 28 Jul 2026 11:33:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 28 Jul 2026 13:50:03 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>It’s the perfect time to make his Team USA debut.</title>
@@ -38,6 +38,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>They Weren&#x27;t in the Field This Weekend, Now They&#x27;re Playing the AIG Women&#x27;s Open</title>
+    <link>https://skratch.golf/news/news/aig-womens-open-final-qualifying-english-players</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/aig-womens-open-final-qualifying-english-players</guid>
+    <pubDate>Mon, 27 Jul 2026 20:52:18 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Meet the four English golfers who secured their places in the AIG Women&#x27;s Open field after advancing through a dramatic Final Qualifying on Monday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/aig-womens-open-final-qualifying-english-players"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2287808423_b86f848870/Getty_Images_2287808423_b86f848870.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>The YOUNGEST winner on TOUR in over 100 YEARS. 🤯</title>
@@ -132,6 +143,17 @@ Dan on Golf is presented by @Knockaround, the official sunglasses partne&lt;/p&g
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;The name may sound slow, but the Odyssey TRTL is picking up some serious steam out on the PGA TOUR.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/odyssey-trtl-turtle-putter-rocket"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/TRTL_odyssey_title_fac6c8b1a8/TRTL_odyssey_title_fac6c8b1a8.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The Favorites, Sleepers, and Wild Cards to Watch at the AIG Women&#x27;s Open</title>
+    <link>https://skratch.golf/news/news/aig-womens-open-2026-players-to-watch</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/aig-womens-open-2026-players-to-watch</guid>
+    <pubDate>Mon, 27 Jul 2026 15:40:47 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;From proven major champions to under-the-radar contenders and players who could go either way, here&#x27;s who deserves your attention this week at Royal Lytham.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/aig-womens-open-2026-players-to-watch"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/AIG_Women_s_Open_2026_Preview_Day_One_1_ee119240f2/AIG_Women_s_Open_2026_Preview_Day_One_1_ee119240f2.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -696,28 +718,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Why Hannah Green Is Playing the Women&#x27;s Scottish Open for the First Time in Years</title>
-    <link>https://skratch.golf/news/news/hannah-green-returns-womens-scottish-open-links-prep-aig-womens-open</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/hannah-green-returns-womens-scottish-open-links-prep-aig-womens-open</guid>
-    <pubDate>Tue, 21 Jul 2026 15:24:14 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;&quot;I have not had a good track record in the AIG,&quot; Green on why she&#x27;s returning to Scotland for the first time since 2022.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/hannah-green-returns-womens-scottish-open-links-prep-aig-womens-open"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/hannah_green_hazeltine_2026_KPMG_06_26_26_ST_ST_2_B5177_ea20b1829a/hannah_green_hazeltine_2026_KPMG_06_26_26_ST_ST_2_B5177_ea20b1829a.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>PGA TOUR, DP World Tour and Asian Tour Announce Multi-Year Partnership as LIV&#x27;s Future Remains Unclear</title>
-    <link>https://skratch.golf/news/news/asian-tour-pga-tour-dpwt-partnership</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/asian-tour-pga-tour-dpwt-partnership</guid>
-    <pubDate>Tue, 21 Jul 2026 14:02:09 +0000</pubDate>
-    <dc:creator>Brittany Romano</dc:creator>
-    <description>&lt;p&gt;The agreement strengthens ties between the PGA TOUR, DP World Tour and Asian Tour while raising new questions about where LIV fits into golf&#x27;s evolving global landscape.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/asian-tour-pga-tour-dpwt-partnership"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Asia_Tour_Credit_29c11ac483/Asia_Tour_Credit_29c11ac483.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
