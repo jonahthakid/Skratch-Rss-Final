@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 29 Jul 2026 15:26:58 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 29 Jul 2026 16:48:40 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Is It Knapp Time in Detroit? We Think It&#x27;s Knapp Time in Detroit.</title>
+    <link>https://skratch.golf/news/pro-golf/rocket-classic-2026-best-bets-picks-to-win</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/rocket-classic-2026-best-bets-picks-to-win</guid>
+    <pubDate>Wed, 29 Jul 2026 16:32:09 +0000</pubDate>
+    <dc:creator>Rick Gehman</dc:creator>
+    <description>&lt;p&gt;Our picks for the Rocket Classic are here, and we&#x27;re feeling a comeback on the way.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/rocket-classic-2026-best-bets-picks-to-win"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2261475053_8b369f90bf/Getty_Images_2261475053_8b369f90bf.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Bryson averaged 350+ yards off the tee at the ‘20 Rocket. The longest ever by a PGA TOUR winner.</title>
     <link>https://www.youtube.com/shorts/4hOR0Ct_wqU</link>
@@ -58,6 +69,17 @@
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;The penultimate event of the PGA TOUR&#x27;s regular season has arrived. Here&#x27;s how you can watch the Rocket Classic, plus tee times for the first two rounds.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rocket-classic-2026-how-to-watch-pga-tour-tee-times"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_07_28_at_1_03_54_PM_5a93d53e09/Screenshot_2026_07_28_at_1_03_54_PM_5a93d53e09.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Sentry, Sompo Added as Championship Series Sponsors for 2028</title>
+    <link>https://skratch.golf/news/news/senty-sompo-pga-tour-championship-series-sponsor-for-2028</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/senty-sompo-pga-tour-championship-series-sponsor-for-2028</guid>
+    <pubDate>Tue, 28 Jul 2026 15:35:21 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;The PGA TOUR announced on Wednesday that Sentry will join Travelers and Sompo as a Championship Series sponsor when schedule changes are put in place in 2028.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/senty-sompo-pga-tour-championship-series-sponsor-for-2028"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/2026_07_29_Sentry_a90e554cc3/2026_07_29_Sentry_a90e554cc3.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -680,28 +702,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>With These Odds, You Won&#x27;t Find Us Betting Against Scottie This Week.</title>
-    <link>https://skratch.golf/news/pro-golf/3m-open-2026-best-bets-picks-to-win</link>
-    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/3m-open-2026-best-bets-picks-to-win</guid>
-    <pubDate>Wed, 22 Jul 2026 19:59:54 +0000</pubDate>
-    <dc:creator>Rick Gehman</dc:creator>
-    <description>&lt;p&gt;That, and more picks for the 3M Open from our resident winner picker Rick Gehman.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/3m-open-2026-best-bets-picks-to-win"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/scheffler_3m_2026_Getty_Images_2287190848_861c12b1b0/scheffler_3m_2026_Getty_Images_2287190848_861c12b1b0.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>How to Watch, Tee Times for the 3M Open</title>
-    <link>https://skratch.golf/news/news/3m-open-2026-how-to-watch-pga-tour-tee-times</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/3m-open-2026-how-to-watch-pga-tour-tee-times</guid>
-    <pubDate>Wed, 22 Jul 2026 19:08:24 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The PGA TOUR is back stateside, so here&#x27;s how you can follow all the action from TPC Twin Cities.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/3m-open-2026-how-to-watch-pga-tour-tee-times"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2287190735_21bad830fc/Getty_Images_2287190735_21bad830fc.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
