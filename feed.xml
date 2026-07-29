@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 29 Jul 2026 13:12:22 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 29 Jul 2026 15:26:58 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Bryson averaged 350+ yards off the tee at the ‘20 Rocket. The longest ever by a PGA TOUR winner.</title>
+    <link>https://www.youtube.com/shorts/4hOR0Ct_wqU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/4hOR0Ct_wqU</guid>
+    <pubDate>Wed, 29 Jul 2026 15:01:29 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/4hOR0Ct_wqU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/4hOR0Ct_wqU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/4hOR0Ct_wqU" type="text/html" medium="video"/>
+    <yt:videoId>4hOR0Ct_wqU</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>The ball doesn’t care what it looks like.</title>
     <link>https://www.youtube.com/shorts/67Jg7ZQnPwU</link>
@@ -33,6 +47,17 @@
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Brooks Koepka has withdrawn from this week’s Rocket Classic—with the playoffs right around the corner, here’s why that’s a big deal.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/brooks-koepka-wd-rocket-classic-2026-pga-tour-playoffs"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2237903098_4260c2b317/Getty_Images_2237903098_4260c2b317.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>How to Watch, Tee Times for the Rocket Classic</title>
+    <link>https://skratch.golf/news/news/rocket-classic-2026-how-to-watch-pga-tour-tee-times</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/rocket-classic-2026-how-to-watch-pga-tour-tee-times</guid>
+    <pubDate>Tue, 28 Jul 2026 16:02:42 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The penultimate event of the PGA TOUR&#x27;s regular season has arrived. Here&#x27;s how you can watch the Rocket Classic, plus tee times for the first two rounds.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rocket-classic-2026-how-to-watch-pga-tour-tee-times"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_07_28_at_1_03_54_PM_5a93d53e09/Screenshot_2026_07_28_at_1_03_54_PM_5a93d53e09.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -254,6 +279,17 @@ Dan on Golf is presented by @Knockaround, the official sunglasses partne&lt;/p&g
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Step aside, Brandt Snedeker. Here’s what Team USA should look like for the Presidents Cup at Medinah.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jackson-koivun-presidents-cup-2026-picks-for-team-usa-medinah"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2287761528_65f43fe330/Getty_Images_2287761528_65f43fe330.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>What 50 Years of the AIG Women&#x27;s Open Means to Someone Who&#x27;s Lived It</title>
+    <link>https://skratch.golf/news/golf-culture/aig-womens-open-50th-anniversary-karen-stupples-history</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/aig-womens-open-50th-anniversary-karen-stupples-history</guid>
+    <pubDate>Mon, 27 Jul 2026 15:16:22 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;As the championship celebrates its 50th anniversary, 2004 winner Karen Stupples looks back on the evolution of the Women&#x27;s British Open—and why winning it has always meant more than a trophy.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/aig-womens-open-50th-anniversary-karen-stupples-history"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Karen_Stupples_AIG_Getty_Images_829114126_b72ba4581a/Karen_Stupples_AIG_Getty_Images_829114126_b72ba4581a.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -515,26 +551,6 @@ Subscribe to Skratch on YouT&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.c
     <category>video</category>
   </item>
   <item>
-    <title>Tee it high and let it OH MY GOD WHAT IS THAT?!</title>
-    <link>https://www.youtube.com/shorts/H-omjVMmog8</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/H-omjVMmog8</guid>
-    <pubDate>Thu, 23 Jul 2026 19:16:55 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Max and the rogue umbrella at the 2020 3M Open.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/H-omjVMmog8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/H-omjVMmog8/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/H-omjVMmog8" type="text/html" medium="video"/>
-    <yt:videoId>H-omjVMmog8</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>There&#x27;s Near Aces, and Then There&#x27;s Whatever Happened to Jake Knapp at the 3M Open</title>
     <link>https://skratch.golf/news/news/jake-knapp-near-hole-in-one-3m-open-2026-pga-tour</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/jake-knapp-near-hole-in-one-3m-open-2026-pga-tour</guid>
@@ -684,28 +700,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;The PGA TOUR is back stateside, so here&#x27;s how you can follow all the action from TPC Twin Cities.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/3m-open-2026-how-to-watch-pga-tour-tee-times"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2287190735_21bad830fc/Getty_Images_2287190735_21bad830fc.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Watch: Nelly Korda and Charley Hull Deliver the Perfect Hickory Tutorial</title>
-    <link>https://skratch.golf/news/news/nelly-korda-charley-hull-hickory-golf-clubs</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/nelly-korda-charley-hull-hickory-golf-clubs</guid>
-    <pubDate>Wed, 22 Jul 2026 18:24:18 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The two stars are really embracing the tradition of &quot;links golf life&quot; across the pond.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/nelly-korda-charley-hull-hickory-golf-clubs"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Nelly_Charley_Scottish_Open_2025_Getty_Images_2226760487_746755f0f9/Nelly_Charley_Scottish_Open_2025_Getty_Images_2226760487_746755f0f9.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Georgia Hall Makes Return Less Than Six Months After Giving Birth—The Timing Feels Perfect</title>
-    <link>https://skratch.golf/news/news/georgia-hall-comeback-isps-handa-womens-scottish-open</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/georgia-hall-comeback-isps-handa-womens-scottish-open</guid>
-    <pubDate>Wed, 22 Jul 2026 15:24:58 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Hall makes her first LPGA start since welcoming her son this week in Scotland, a week before the AIG Women&#x27;s Open returns to Royal Lytham &amp; St Annes, where Catriona Matthew won just 11 weeks after giving birth.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/georgia-hall-comeback-isps-handa-womens-scottish-open"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Georgia_Hall_AIG_2005_Getty_Images_2228341219_fc0a738928/Georgia_Hall_AIG_2005_Getty_Images_2228341219_fc0a738928.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
