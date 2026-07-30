@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 30 Jul 2026 20:40:07 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 30 Jul 2026 22:00:53 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Confirmed Championship Series Events for the PGA TOUR in 2028</title>
+    <link>https://skratch.golf/news/news/pga-tour-championship-series-events-2028-season-full-list</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-championship-series-events-2028-season-full-list</guid>
+    <pubDate>Thu, 30 Jul 2026 20:11:26 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The PGA TOUR&#x27;s Championship Series lineup is slowly coming together. Here&#x27;s everything we know so far.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-championship-series-events-2028-season-full-list"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2204208043_4a844299f6/Getty_Images_2204208043_4a844299f6.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Arnold Palmer Invitational Added to Championship Series for 2028</title>
     <link>https://skratch.golf/news/news/arnold-palmer-invitational-added-to-championship-series-for-2028</link>
@@ -673,17 +684,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/HVg7BW7fUQk"&gt;
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The Women&#x27;s Scottish Open Leaderboard is Exactly the Kind of Chaos Links Golf Promises</title>
-    <link>https://skratch.golf/news/news/isps-handa-womens-scottish-open-round-two-recap</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/isps-handa-womens-scottish-open-round-two-recap</guid>
-    <pubDate>Fri, 24 Jul 2026 19:36:14 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;LPGA vet Jenny Shin leads after 36 holes as the stars continue searching for answers at Dundonald Links.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/isps-handa-womens-scottish-open-round-two-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Nelly_Lottie_Charley_WSO_2026_Getty_Images_2286814304_57fe107f23/Nelly_Lottie_Charley_WSO_2026_Getty_Images_2286814304_57fe107f23.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
