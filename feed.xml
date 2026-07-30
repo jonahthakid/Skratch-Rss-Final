@@ -9,10 +9,24 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 30 Jul 2026 12:10:15 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 30 Jul 2026 14:39:33 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
-    <title>Guess That Swing: Dan Is Put To THE TEST</title>
+    <title>Any 3-iron ace deserves a brand new car. Rapid fire questions with the birthday boy, Justin Rose.</title>
+    <link>https://www.youtube.com/shorts/isDNoC3297M</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/isDNoC3297M</guid>
+    <pubDate>Thu, 30 Jul 2026 14:28:36 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/isDNoC3297M"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/isDNoC3297M/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/isDNoC3297M" type="text/html" medium="video"/>
+    <yt:videoId>isDNoC3297M</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>GUESS THAT SWING: Dan Is Put To THE TEST</title>
     <link>https://www.youtube.com/watch?v=PPimb81op7c</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=PPimb81op7c</guid>
     <pubDate>Thu, 30 Jul 2026 11:30:36 +0000</pubDate>
@@ -24,6 +38,17 @@
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Bettinardi Offers First Premium Junior Putter Line</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/bettinardi-jr-putters-premium-line</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/bettinardi-jr-putters-premium-line</guid>
+    <pubDate>Thu, 30 Jul 2026 02:32:20 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;In a company first, Bettinardi has created a line of three premium putters, specifically designed for junior golfers.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/bettinardi-jr-putters-premium-line"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Betti_jr_putters_5cb7a80c03/Betti_jr_putters_5cb7a80c03.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>The boys are split on this one.</title>
@@ -571,6 +596,17 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/pX2A3U7qJFI"&gt;
     <category>video</category>
   </item>
   <item>
+    <title>The One &amp; Done Is PXG Newest Zero Torque Putter!</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/one-done-pxg-zero-torque-putter</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/one-done-pxg-zero-torque-putter</guid>
+    <pubDate>Sun, 26 Jul 2026 18:54:56 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;PXG is making its presence known in the putter market by once again expanding its zero-torque offerings with the newest One &amp; Done.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/one-done-pxg-zero-torque-putter"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/one_and_done_title_pxg_cb217e8cce/one_and_done_title_pxg_cb217e8cce.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Mason Mount On Manchester United Golf Scene, His Own Game &amp; More</title>
     <link>https://www.youtube.com/watch?v=EwKdVfxbgns</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=EwKdVfxbgns</guid>
@@ -612,27 +648,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Nelly_Lottie_Charley_WSO_2026_Getty_Images_2286814304_57fe107f23/Nelly_Lottie_Charley_WSO_2026_Getty_Images_2286814304_57fe107f23.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>The newest member of the 59 Club, Michael Kim! 👏</title>
-    <link>https://www.youtube.com/shorts/7F5rZ_rMZM0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/7F5rZ_rMZM0</guid>
-    <pubDate>Fri, 24 Jul 2026 18:15:05 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
-
-Check out our website: https://skratch.golf/
-Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/7F5rZ_rMZM0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/7F5rZ_rMZM0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/7F5rZ_rMZM0" type="text/html" medium="video"/>
-    <yt:videoId>7F5rZ_rMZM0</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>LeBron James is Going to Philly—We Think It’s For All the Incredible Golf</title>
@@ -678,28 +693,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/7F5rZ_rMZM0"&gt;
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Jake Knapp’s wallet might be happy, but coming this close to a hole-in-one should be illegal.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jake-knapp-near-hole-in-one-3m-open-2026-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2287324865_a939d7eaf1/Getty_Images_2287324865_a939d7eaf1.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>A Lim Kim Just Took &quot;Look Good, Play Good&quot; to a Whole New Level</title>
-    <link>https://skratch.golf/style/style/a-lim-lim-isps-handa-womens-scottish-open-style-earmuffs</link>
-    <guid isPermaLink="true">https://skratch.golf/style/style/a-lim-lim-isps-handa-womens-scottish-open-style-earmuffs</guid>
-    <pubDate>Thu, 23 Jul 2026 18:14:03 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Yes, those are bunny earmuffs.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/a-lim-lim-isps-handa-womens-scottish-open-style-earmuffs"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/A_Lim_Kim_WSO_2026_Getty_Images_2287335766_2c87346a97/A_Lim_Kim_WSO_2026_Getty_Images_2287335766_2c87346a97.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Anna Nordqvist Won&#x27;t Play in the Solheim Cup But Her Golf Still Matters</title>
-    <link>https://skratch.golf/news/news/anna-nordqvist-solheim-cup-europe-playing-captain-debate</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/anna-nordqvist-solheim-cup-europe-playing-captain-debate</guid>
-    <pubDate>Thu, 23 Jul 2026 17:42:16 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Fresh off a historic top-10 major finish, the 39-year-old captain&#x27;s strong play is revealing something totally different.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/anna-nordqvist-solheim-cup-europe-playing-captain-debate"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Anna_Nordqvist_Evian_2026_Getty_Images_2285206149_3a75b8dd5c/Anna_Nordqvist_Evian_2026_Getty_Images_2285206149_3a75b8dd5c.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
