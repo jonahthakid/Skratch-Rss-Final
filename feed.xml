@@ -9,8 +9,30 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 30 Jul 2026 22:00:53 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 30 Jul 2026 23:30:40 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Is Ontario Canada&#x27;s Best Golf Destination?</title>
+    <link>https://skratch.golf/news/golf-culture/where-to-play-golf-ontario-canada-best-courses</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/where-to-play-golf-ontario-canada-best-courses</guid>
+    <pubDate>Thu, 30 Jul 2026 22:35:33 +0000</pubDate>
+    <dc:creator>Luke Leesburg</dc:creator>
+    <description>&lt;p&gt;TOUR-level venues, neighborhood munis, exclusive private clubs and destination resort golf, all packed into a single week. The Working Holiday crew checks in from above the border.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/where-to-play-golf-ontario-canada-best-courses"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/DSC_0489_2_544f391313/DSC_0489_2_544f391313.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The Six Stories That Defined Day One at the AIG Women&#x27;s Open</title>
+    <link>https://skratch.golf/news/news/2026-aig-womens-open-day-one-recap</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/2026-aig-womens-open-day-one-recap</guid>
+    <pubDate>Thu, 30 Jul 2026 21:11:01 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The leaderboard took shape, the course showed its teeth and the prank that stole the show. Here are the stories that defined Thursday&#x27;s opening round.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-aig-womens-open-day-one-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/AIG_Women_s_Open_2026_Round_One_1a62f25494/AIG_Women_s_Open_2026_Round_One_1a62f25494.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Confirmed Championship Series Events for the PGA TOUR in 2028</title>
     <link>https://skratch.golf/news/news/pga-tour-championship-series-events-2028-season-full-list</link>
@@ -658,31 +680,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/HVg7BW7fUQk"&gt;
     <yt:videoId>_kbGvT3WiAE</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>The One &amp; Done Is PXG Newest Zero Torque Putter!</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/one-done-pxg-zero-torque-putter</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/one-done-pxg-zero-torque-putter</guid>
-    <pubDate>Sun, 26 Jul 2026 18:54:56 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;PXG is making its presence known in the putter market by once again expanding its zero-torque offerings with the newest One &amp; Done.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/one-done-pxg-zero-torque-putter"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/one_and_done_title_pxg_cb217e8cce/one_and_done_title_pxg_cb217e8cce.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Mason Mount On Manchester United Golf Scene, His Own Game &amp; More</title>
-    <link>https://www.youtube.com/watch?v=EwKdVfxbgns</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=EwKdVfxbgns</guid>
-    <pubDate>Sun, 26 Jul 2026 11:30:18 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Manchester United&#x27;s Mason Mount joins Dan Rapaport to discuss his love for golf, similarities between the two, the golf scene in Manchester, his own golf game &amp; much more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=EwKdVfxbgns"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/EwKdVfxbgns/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/EwKdVfxbgns" type="text/html" medium="video"/>
-    <yt:videoId>EwKdVfxbgns</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
     <category>video</category>
   </item>
 </channel>
