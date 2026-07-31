@@ -9,8 +9,47 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 31 Jul 2026 20:15:14 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 31 Jul 2026 21:35:32 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Chris Francoeur Fires First 59 of KFT Season</title>
+    <link>https://skratch.golf/news/news/chris-francoeur-fires-first-59-of-korn-ferry-tour-season</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/chris-francoeur-fires-first-59-of-korn-ferry-tour-season</guid>
+    <pubDate>Fri, 31 Jul 2026 20:37:13 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;Chris Francoeur just tallied the first 59 of the 2026 Korn Ferry Tour season, and he did it without making a single putt longer than 15 feet (kind of…).&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/chris-francoeur-fires-first-59-of-korn-ferry-tour-season"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260731_Chris_Francoeur_Utah_Championship_949d49cd3d/20260731_Chris_Francoeur_Utah_Championship_949d49cd3d.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Dan has his hater blockers on. Bring on the mean tweets.</title>
+    <link>https://www.youtube.com/shorts/707G7bUMARI</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/707G7bUMARI</guid>
+    <pubDate>Fri, 31 Jul 2026 20:32:04 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Presented by @Knockaround.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/707G7bUMARI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/707G7bUMARI/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/707G7bUMARI" type="text/html" medium="video"/>
+    <yt:videoId>707G7bUMARI</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Throwback to when we hooked Rickie up with a caddie at the Rocket Classic. It didn’t work out. 🤣</title>
+    <link>https://www.youtube.com/shorts/OaZsH_i75Dc</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/OaZsH_i75Dc</guid>
+    <pubDate>Fri, 31 Jul 2026 20:19:00 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/OaZsH_i75Dc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/OaZsH_i75Dc/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/OaZsH_i75Dc" type="text/html" medium="video"/>
+    <yt:videoId>OaZsH_i75Dc</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Cameron Young Did Nothing But Throw Darts on Friday at the Rocket Classic</title>
     <link>https://skratch.golf/news/news/cameron-young-rocket-classic-2026-second-round-scores-61-pga-tour</link>
@@ -49,6 +88,17 @@
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Haeran Ryu Leads After Two Rounds, Nelly Korda Lurks at AIG Women&#x27;s Open</title>
+    <link>https://skratch.golf/news/news/aig-womens-open-second-round-recap</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/aig-womens-open-second-round-recap</guid>
+    <pubDate>Fri, 31 Jul 2026 15:13:52 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Haeran Ryu takes a one-shot lead into the weekend, Nelly Korda stays in the hunt, and several notable names fail to survive the cut at Royal Lytham and St Annes.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/aig-womens-open-second-round-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2288463999_39532b40e8/Getty_Images_2288463999_39532b40e8.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Testing @callawaygolf&#x27;s NEW top-of-the-bag lineup. 👀</title>
@@ -423,6 +473,20 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
+    <title>Imagine starting your Open Championship with an ace.</title>
+    <link>https://www.youtube.com/shorts/-oajKpBI5I8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/-oajKpBI5I8</guid>
+    <pubDate>Tue, 28 Jul 2026 17:23:24 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Preview the first hole of the AIG Women’s Open at the historic Royal Lytham &amp; St. Anne’s.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/-oajKpBI5I8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/-oajKpBI5I8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/-oajKpBI5I8" type="text/html" medium="video"/>
+    <yt:videoId>-oajKpBI5I8</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Love Letter To: Vineyard Golf Club</title>
     <link>https://skratch.golf/news/golf-culture/vineyard-golf-club-marthas-vineyard-experience-recap</link>
     <guid isPermaLink="true">https://skratch.golf/news/golf-culture/vineyard-golf-club-marthas-vineyard-experience-recap</guid>
@@ -617,64 +681,6 @@ Dan on Golf is presented by @Knockaround, the official sunglasses partne&lt;/p&g
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Jackson Koivun and Tommy Morrison Are Making a Case for College (and PGA TOUR U) Enrollment</title>
-    <link>https://skratch.golf/news/news/jackson-koivun-tommy-morrison-prove-pga-tour-u-grows-winners</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/jackson-koivun-tommy-morrison-prove-pga-tour-u-grows-winners</guid>
-    <pubDate>Mon, 27 Jul 2026 18:08:44 +0000</pubDate>
-    <dc:creator>Will Neary</dc:creator>
-    <description>&lt;p&gt;Well, that happened fast. Less than two months ago, Jackson Koivun and Tommy Morrison were finishing up college. Now, they’re both winners on golf’s highest levels. Does college golf lead to professional success?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jackson-koivun-tommy-morrison-prove-pga-tour-u-grows-winners"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2287763415_edf6fff45d/Getty_Images_2287763415_edf6fff45d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>This kid knows how to win.</title>
-    <link>https://www.youtube.com/shorts/rO_86uAxMr4</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/rO_86uAxMr4</guid>
-    <pubDate>Mon, 27 Jul 2026 17:10:21 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/rO_86uAxMr4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/rO_86uAxMr4/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/rO_86uAxMr4" type="text/html" medium="video"/>
-    <yt:videoId>rO_86uAxMr4</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Odyssey TRTL Putters Moving Fast At Rocket Classic</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/odyssey-trtl-turtle-putter-rocket</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/odyssey-trtl-turtle-putter-rocket</guid>
-    <pubDate>Mon, 27 Jul 2026 16:04:08 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;The name may sound slow, but the Odyssey TRTL is picking up some serious steam out on the PGA TOUR.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/odyssey-trtl-turtle-putter-rocket"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/TRTL_odyssey_title_fac6c8b1a8/TRTL_odyssey_title_fac6c8b1a8.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Favorites, Sleepers, and Wild Cards to Watch at the AIG Women&#x27;s Open</title>
-    <link>https://skratch.golf/news/news/aig-womens-open-2026-players-to-watch</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/aig-womens-open-2026-players-to-watch</guid>
-    <pubDate>Mon, 27 Jul 2026 15:40:47 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;From proven major champions to under-the-radar contenders and players who could go either way, here&#x27;s who deserves your attention this week at Royal Lytham.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/aig-womens-open-2026-players-to-watch"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/AIG_Women_s_Open_2026_Preview_Day_One_1_ee119240f2/AIG_Women_s_Open_2026_Preview_Day_One_1_ee119240f2.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Perfect Team USA for the Presidents Cup at Medinah</title>
-    <link>https://skratch.golf/news/news/jackson-koivun-presidents-cup-2026-picks-for-team-usa-medinah</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/jackson-koivun-presidents-cup-2026-picks-for-team-usa-medinah</guid>
-    <pubDate>Mon, 27 Jul 2026 15:26:30 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Step aside, Brandt Snedeker. Here’s what Team USA should look like for the Presidents Cup at Medinah.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jackson-koivun-presidents-cup-2026-picks-for-team-usa-medinah"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2287761528_65f43fe330/Getty_Images_2287761528_65f43fe330.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
