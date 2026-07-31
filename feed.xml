@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 31 Jul 2026 17:22:50 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 31 Jul 2026 18:50:35 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Cameron Young Did Nothing But Throw Darts on Friday at the Rocket Classic</title>
+    <link>https://skratch.golf/news/news/cameron-young-rocket-classic-2026-second-round-scores-61-pga-tour</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/cameron-young-rocket-classic-2026-second-round-scores-61-pga-tour</guid>
+    <pubDate>Fri, 31 Jul 2026 17:33:52 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;After blistering Detroit Golf Club to the tune of a 9-under 61, Cameron Young said, “It felt like I had a 10-footer for birdie on pretty much every hole”—must be nice.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/cameron-young-rocket-classic-2026-second-round-scores-61-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2288464714_df6025943e/Getty_Images_2288464714_df6025943e.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>It’s cut day at the AIG Women’s Open and the ladies are LOCKED in.</title>
+    <link>https://www.youtube.com/shorts/aJO4SyTaOUs</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/aJO4SyTaOUs</guid>
+    <pubDate>Fri, 31 Jul 2026 17:24:45 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Addie reports from day 2 at Royal Lytham &amp; St Annes.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/aJO4SyTaOUs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/aJO4SyTaOUs/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/aJO4SyTaOUs" type="text/html" medium="video"/>
+    <yt:videoId>aJO4SyTaOUs</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>There’s a plaque epidemic in our game. This is where we step in.</title>
     <link>https://www.youtube.com/shorts/HR-NxAzE2QI</link>
@@ -650,31 +675,6 @@ Dan on Golf is presented by @Knockaround, the official sunglasses partne&lt;/p&g
     <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2287761528_65f43fe330/Getty_Images_2287761528_65f43fe330.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>What 50 Years of the AIG Women&#x27;s Open Means to Someone Who&#x27;s Lived It</title>
-    <link>https://skratch.golf/news/golf-culture/aig-womens-open-50th-anniversary-karen-stupples-history</link>
-    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/aig-womens-open-50th-anniversary-karen-stupples-history</guid>
-    <pubDate>Mon, 27 Jul 2026 15:16:22 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;As the championship celebrates its 50th anniversary, 2004 winner Karen Stupples looks back on the evolution of the Women&#x27;s British Open—and why winning it has always meant more than a trophy.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/aig-womens-open-50th-anniversary-karen-stupples-history"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Karen_Stupples_AIG_Getty_Images_829114126_b72ba4581a/Karen_Stupples_AIG_Getty_Images_829114126_b72ba4581a.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Happy birthday to Jordan Spieth, wherever he might be today. 😭</title>
-    <link>https://www.youtube.com/shorts/3Z-YRO5jxjY</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/3Z-YRO5jxjY</guid>
-    <pubDate>Mon, 27 Jul 2026 14:23:27 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/3Z-YRO5jxjY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/3Z-YRO5jxjY/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/3Z-YRO5jxjY" type="text/html" medium="video"/>
-    <yt:videoId>3Z-YRO5jxjY</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
 </channel>
 </rss>
