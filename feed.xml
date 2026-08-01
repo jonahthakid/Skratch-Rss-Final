@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 01 Aug 2026 22:25:36 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 01 Aug 2026 23:26:42 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The Major Trend That Isn&#x27;t Slowing Down at the AIG Women&#x27;s Open</title>
+    <link>https://skratch.golf/news/news/aig-womens-open-third-round-recap-first-time-major-champion</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/aig-womens-open-third-round-recap-first-time-major-champion</guid>
+    <pubDate>Sat, 01 Aug 2026 21:44:42 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;There are a handful of contenders entering Sunday&#x27;s final round looking to capture their first major championship title at Royal Lytham and St Annes.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/aig-womens-open-third-round-recap-first-time-major-champion"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2288589596_e8bd49a97c/Getty_Images_2288589596_e8bd49a97c.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Four years, four months and 29 days. Throwback to Rickie’s last TOUR win at the 2023 Rocket Classic</title>
     <link>https://www.youtube.com/shorts/S8CYaiqXSxI</link>
@@ -652,17 +663,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The Travelers Championship Will be Part of the PGA TOUR’s Championship Series</title>
-    <link>https://skratch.golf/news/news/pga-tour-schedule-changes-2028-championship-series-travlers-championship</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-schedule-changes-2028-championship-series-travlers-championship</guid>
-    <pubDate>Mon, 27 Jul 2026 19:20:43 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;When the PGA TOUR implements its schedule changes in 2028, the Travelers Championship will be part of the Championship Series (aka: The Show).&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-schedule-changes-2028-championship-series-travlers-championship"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260630_Viktor_Hovland_Travelers_d8972697b3/20260630_Viktor_Hovland_Travelers_d8972697b3.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>S2 E57: Jackson Koivun Holds Off Scottie, Inside The Trackerverse, Mason Mount Interview</title>
