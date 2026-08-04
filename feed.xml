@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 04 Aug 2026 12:54:51 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 04 Aug 2026 15:20:33 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Have you ever seen a more PERFECT flop? #TigerTuesday</title>
+    <link>https://www.youtube.com/shorts/ggf0HUjCRhw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/ggf0HUjCRhw</guid>
+    <pubDate>Tue, 04 Aug 2026 14:22:02 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Tiger started his only Wyndham Championship appearance off with a BANG.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ggf0HUjCRhw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/ggf0HUjCRhw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/ggf0HUjCRhw" type="text/html" medium="video"/>
+    <yt:videoId>ggf0HUjCRhw</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>A Beginner Viewer&#x27;s Guide to the 126th U.S. Women&#x27;s Amateur</title>
+    <link>https://skratch.golf/news/news/everything-to-know-about-the-126th-us-womens-amateur</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/everything-to-know-about-the-126th-us-womens-amateur</guid>
+    <pubDate>Tue, 04 Aug 2026 11:10:40 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;From the format and schedule to the biggest names in the field and how to watch, here&#x27;s your guide to one of women&#x27;s amateur golf&#x27;s biggest weeks.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/everything-to-know-about-the-126th-us-womens-amateur"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/26_USWO_0607_11510910_KHR_13620_abb781debb/26_USWO_0607_11510910_KHR_13620_abb781debb.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>It’s about how good your bad golf is.</title>
     <link>https://www.youtube.com/shorts/4bSISPSQ-Ac</link>
@@ -127,7 +152,7 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <pubDate>Sun, 02 Aug 2026 12:09:30 +0000</pubDate>
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;From Shiho Kuwaki&#x27;s place in championship history to the Solheim Cup implications and the unmistakable atmosphere of links golf, these are the moments and storylines I&#x27;ll remember from the 50th AIG Women&#x27;s Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/aig-womens-open-biggest-takeaways-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2288799701_82a1430b85/Getty_Images_2288799701_82a1430b85.jpg"/>
+    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2288799701_82a1430b85/Getty_Images_2288799701_82a1430b85.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -138,7 +163,7 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <pubDate>Sat, 01 Aug 2026 21:44:42 +0000</pubDate>
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;There are a handful of contenders entering Sunday&#x27;s final round looking to capture their first major championship title at Royal Lytham and St Annes.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/aig-womens-open-third-round-recap-first-time-major-champion"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2288589596_e8bd49a97c/Getty_Images_2288589596_e8bd49a97c.jpg"/>
+    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2288589596_e8bd49a97c/Getty_Images_2288589596_e8bd49a97c.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -163,7 +188,7 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <pubDate>Fri, 31 Jul 2026 20:37:13 +0000</pubDate>
     <dc:creator>Will Neary</dc:creator>
     <description>&lt;p&gt;Chris Francoeur just tallied the first 59 of the 2026 Korn Ferry Tour season, and he did it without making a single putt longer than 15 feet (kind of…).&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/chris-francoeur-fires-first-59-of-korn-ferry-tour-season"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260731_Chris_Francoeur_Utah_Championship_949d49cd3d/20260731_Chris_Francoeur_Utah_Championship_949d49cd3d.jpg"/>
+    <media:thumbnail url="https://media.skratch.golf/20260731_Chris_Francoeur_Utah_Championship_949d49cd3d/20260731_Chris_Francoeur_Utah_Championship_949d49cd3d.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -202,7 +227,7 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <pubDate>Fri, 31 Jul 2026 17:33:52 +0000</pubDate>
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;After blistering Detroit Golf Club to the tune of a 9-under 61, Cameron Young said, “It felt like I had a 10-footer for birdie on pretty much every hole”—must be nice.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/cameron-young-rocket-classic-2026-second-round-scores-61-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2288464714_df6025943e/Getty_Images_2288464714_df6025943e.jpg"/>
+    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2288464714_df6025943e/Getty_Images_2288464714_df6025943e.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -235,13 +260,24 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
+    <title>You Asked, Callaway Delivered: The Apex MB Tour Raw Irons Are Here</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/callaway-apex-mb-raw-limited-irons</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/callaway-apex-mb-raw-limited-irons</guid>
+    <pubDate>Fri, 31 Jul 2026 15:15:25 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;After extensive testing on tour and requests by golfers, Callaway is ready to release the Apex MB Tour Raw irons for any golfer looking for pure precision &amp; control.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/callaway-apex-mb-raw-limited-irons"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/Callaway_MB_tour_rawr_title_f16e1d2b56/Callaway_MB_tour_rawr_title_f16e1d2b56.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>Haeran Ryu Leads After Two Rounds, Nelly Korda Lurks at AIG Women&#x27;s Open</title>
     <link>https://skratch.golf/news/news/aig-womens-open-second-round-recap</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/aig-womens-open-second-round-recap</guid>
     <pubDate>Fri, 31 Jul 2026 15:13:52 +0000</pubDate>
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;Haeran Ryu takes a one-shot lead into the weekend, Nelly Korda stays in the hunt, and several notable names fail to survive the cut at Royal Lytham and St Annes.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/aig-womens-open-second-round-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2288463999_39532b40e8/Getty_Images_2288463999_39532b40e8.jpg"/>
+    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2288463999_39532b40e8/Getty_Images_2288463999_39532b40e8.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -285,6 +321,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
+    <title>The New Cleveland RTZ 2: A Modern Wedge with Classic Refinements</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/cleveland-rtz2-wedges-new-classic-technology</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/cleveland-rtz2-wedges-new-classic-technology</guid>
+    <pubDate>Fri, 31 Jul 2026 12:27:26 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Built with feedback from the best players in the world and refined by the man who started it all, the RTZ 2 wedges lead Cleveland&#x27;s next defining chapter.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/cleveland-rtz2-wedges-new-classic-technology"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/Cleveland_rtz2_title_28e9a681c5/Cleveland_rtz2_title_28e9a681c5.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
     <title>How many did you get right?</title>
     <link>https://www.youtube.com/shorts/2ZDF3GuZdQU</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/2ZDF3GuZdQU</guid>
@@ -305,7 +352,7 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <pubDate>Thu, 30 Jul 2026 22:35:33 +0000</pubDate>
     <dc:creator>Luke Leesburg</dc:creator>
     <description>&lt;p&gt;TOUR-level venues, neighborhood munis, exclusive private clubs and destination resort golf, all packed into a single week. The Working Holiday crew checks in from above the border.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/where-to-play-golf-ontario-canada-best-courses"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/DSC_0489_2_544f391313/DSC_0489_2_544f391313.jpg"/>
+    <media:thumbnail url="https://media.skratch.golf/DSC_0489_2_544f391313/DSC_0489_2_544f391313.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -316,7 +363,7 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <pubDate>Thu, 30 Jul 2026 21:33:47 +0000</pubDate>
     <dc:creator>Raymond Williams</dc:creator>
     <description>&lt;p&gt;Good product matters. So does someone willing to wear it a little differently every week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/six-months-into-jordan-golf-tony-finau-has-me-sold"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Tony_6_month_hero_5005f4f782/Tony_6_month_hero_5005f4f782.png"/>
+    <media:thumbnail url="https://media.skratch.golf/Tony_6_month_hero_5005f4f782/Tony_6_month_hero_5005f4f782.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -327,7 +374,7 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <pubDate>Thu, 30 Jul 2026 21:11:01 +0000</pubDate>
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;The leaderboard took shape, the course showed its teeth and the prank that stole the show. Here are the stories that defined Thursday&#x27;s opening round.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-aig-womens-open-day-one-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/AIG_Women_s_Open_2026_Round_One_1a62f25494/AIG_Women_s_Open_2026_Round_One_1a62f25494.jpg"/>
+    <media:thumbnail url="https://media.skratch.golf/AIG_Women_s_Open_2026_Round_One_1a62f25494/AIG_Women_s_Open_2026_Round_One_1a62f25494.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -338,7 +385,7 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <pubDate>Thu, 30 Jul 2026 20:11:26 +0000</pubDate>
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;The PGA TOUR&#x27;s Championship Series lineup is slowly coming together. Here&#x27;s everything we know so far.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-championship-series-events-2028-season-full-list"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2204208043_4a844299f6/Getty_Images_2204208043_4a844299f6.jpg"/>
+    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2204208043_4a844299f6/Getty_Images_2204208043_4a844299f6.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -349,7 +396,7 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <pubDate>Thu, 30 Jul 2026 19:16:03 +0000</pubDate>
     <dc:creator>Will Neary</dc:creator>
     <description>&lt;p&gt;The Arnold Palmer Invitational will maintain its status as one of the TOUR’s higher-tier events, becoming the fourth tournament officially added to the anticipated Championship Series schedule.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/arnold-palmer-invitational-added-to-championship-series-for-2028"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/20260706_Arnold_Palmer_Cup_ca026d6f06/20260706_Arnold_Palmer_Cup_ca026d6f06.jpeg"/>
+    <media:thumbnail url="https://media.skratch.golf/20260706_Arnold_Palmer_Cup_ca026d6f06/20260706_Arnold_Palmer_Cup_ca026d6f06.jpeg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -388,7 +435,7 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <pubDate>Thu, 30 Jul 2026 17:41:03 +0000</pubDate>
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;When you watch the Rocket Classic this week, Detroit Golf Club will look a lot different. Let&#x27;s talk through all the changes.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-detroit-golf-club-restoration-changes-rocket-classic-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2288173651_055b400245/Getty_Images_2288173651_055b400245.jpg"/>
+    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2288173651_055b400245/Getty_Images_2288173651_055b400245.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -427,7 +474,7 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <pubDate>Thu, 30 Jul 2026 14:05:07 +0000</pubDate>
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;PRG and Guinness have teamed up on a collection that&#x27;s equal parts premium golf gear and Irish pub nostalgia.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/prg-guinness-headcovers-premium-accessories"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Guinness_prg_67cd85b126/Guinness_prg_67cd85b126.jpg"/>
+    <media:thumbnail url="https://media.skratch.golf/Guinness_prg_67cd85b126/Guinness_prg_67cd85b126.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -452,7 +499,7 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <pubDate>Thu, 30 Jul 2026 02:32:20 +0000</pubDate>
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;In a company first, Bettinardi has created a line of three premium putters, specifically designed for junior golfers.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/bettinardi-jr-putters-premium-line"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Betti_jr_putters_5cb7a80c03/Betti_jr_putters_5cb7a80c03.jpg"/>
+    <media:thumbnail url="https://media.skratch.golf/Betti_jr_putters_5cb7a80c03/Betti_jr_putters_5cb7a80c03.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -505,17 +552,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>Trey Mullinax Suspended for Violating the PGA TOUR’s Anti-Doping Policy</title>
-    <link>https://skratch.golf/news/news/pga-tour-trey-mullinax-suspended-anti-doping-policy</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-trey-mullinax-suspended-anti-doping-policy</guid>
-    <pubDate>Wed, 29 Jul 2026 19:15:25 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;After violating the PGA TOUR&#x27;s Anti-Doping Policy, Trey Mullinax will be sidelined until 2027—but he&#x27;s adamant he did it unknowingly.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-trey-mullinax-suspended-anti-doping-policy"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2251453298_df38a9edb8/Getty_Images_2251453298_df38a9edb8.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>If anyone can speak on great golf in Ontario, it&#x27;s the hometown kid @MacBoucherGolf. 🇨🇦</title>
     <link>https://www.youtube.com/shorts/nC8wgttPg-Y</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/nC8wgttPg-Y</guid>
@@ -554,7 +590,7 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <pubDate>Wed, 29 Jul 2026 16:32:09 +0000</pubDate>
     <dc:creator>Rick Gehman</dc:creator>
     <description>&lt;p&gt;Our picks for the Rocket Classic are here, and we&#x27;re feeling a comeback on the way.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/rocket-classic-2026-best-bets-picks-to-win"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Getty_Images_2261475053_8b369f90bf/Getty_Images_2261475053_8b369f90bf.jpg"/>
+    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2261475053_8b369f90bf/Getty_Images_2261475053_8b369f90bf.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -579,7 +615,7 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <pubDate>Wed, 29 Jul 2026 02:39:32 +0000</pubDate>
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;Designed to maximize longer approaches, we put the Callaway Quantum Mini Spinner fairway wood to the test against Callaway&#x27;s other long game clubs.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/callaway-bench-tested-mini-spinner-quantum"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Mini_spinner_sole_11w_5599acab4c/Mini_spinner_sole_11w_5599acab4c.jpg"/>
+    <media:thumbnail url="https://media.skratch.golf/Mini_spinner_sole_11w_5599acab4c/Mini_spinner_sole_11w_5599acab4c.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -612,28 +648,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>How to Watch, Tee Times for the Rocket Classic</title>
-    <link>https://skratch.golf/news/news/rocket-classic-2026-how-to-watch-pga-tour-tee-times</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/rocket-classic-2026-how-to-watch-pga-tour-tee-times</guid>
-    <pubDate>Tue, 28 Jul 2026 16:02:42 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The penultimate event of the PGA TOUR&#x27;s regular season has arrived. Here&#x27;s how you can watch the Rocket Classic, plus tee times for the first two rounds.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rocket-classic-2026-how-to-watch-pga-tour-tee-times"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/Screenshot_2026_07_28_at_1_03_54_PM_5a93d53e09/Screenshot_2026_07_28_at_1_03_54_PM_5a93d53e09.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Sentry, Sompo Added as Championship Series Sponsors for 2028</title>
-    <link>https://skratch.golf/news/news/senty-sompo-pga-tour-championship-series-sponsor-for-2028</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/senty-sompo-pga-tour-championship-series-sponsor-for-2028</guid>
-    <pubDate>Tue, 28 Jul 2026 15:35:21 +0000</pubDate>
-    <dc:creator>Will Neary</dc:creator>
-    <description>&lt;p&gt;The PGA TOUR announced on Wednesday that Sentry will join Travelers and Sompo as a Championship Series sponsor when schedule changes are put in place in 2028.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/senty-sompo-pga-tour-championship-series-sponsor-for-2028"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://storage.googleapis.com/skratch-strapi/2026_07_29_Sentry_a90e554cc3/2026_07_29_Sentry_a90e554cc3.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Only Tiger could turn a wrong fairway into a birdie opp. 🤣 #TigerTuesday</title>
     <link>https://www.youtube.com/shorts/PUskQw2At14</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/PUskQw2At14</guid>
@@ -659,20 +673,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:videoId>K7FQ6M_dp7c</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Wishing the world No. 1 a happy 28th birthday! 🥳</title>
-    <link>https://www.youtube.com/shorts/zw3htO2BUr0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/zw3htO2BUr0</guid>
-    <pubDate>Tue, 28 Jul 2026 13:55:49 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/zw3htO2BUr0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/zw3htO2BUr0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/zw3htO2BUr0" type="text/html" medium="video"/>
-    <yt:videoId>zw3htO2BUr0</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
     <category>video</category>
   </item>
 </channel>
