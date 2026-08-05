@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 05 Aug 2026 12:48:38 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 05 Aug 2026 15:09:44 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>LIV Golf has a New Investor, According to CEO Scott O’Neil</title>
+    <link>https://skratch.golf/news/news/liv-golf-investor-ceo-scott-oneil-trump-bedminster</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/liv-golf-investor-ceo-scott-oneil-trump-bedminster</guid>
+    <pubDate>Wed, 05 Aug 2026 14:31:20 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;LIV Golf has found its life raft—we just don&#x27;t know how big it is yet.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/liv-golf-investor-ceo-scott-oneil-trump-bedminster"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2204123493_957f349528/Getty_Images_2204123493_957f349528.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Koivun, Thorbjornsen, Russell, Brown, Morrison.</title>
     <link>https://www.youtube.com/shorts/1yYj6n_se-k</link>
@@ -456,17 +467,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Raymond Williams</dc:creator>
     <description>&lt;p&gt;Good product matters. So does someone willing to wear it a little differently every week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/six-months-into-jordan-golf-tony-finau-has-me-sold"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://media.skratch.golf/Tony_6_month_hero_5005f4f782/Tony_6_month_hero_5005f4f782.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Six Stories That Defined Day One at the AIG Women&#x27;s Open</title>
-    <link>https://skratch.golf/news/news/2026-aig-womens-open-day-one-recap</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/2026-aig-womens-open-day-one-recap</guid>
-    <pubDate>Thu, 30 Jul 2026 21:11:01 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The leaderboard took shape, the course showed its teeth and the prank that stole the show. Here are the stories that defined Thursday&#x27;s opening round.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-aig-womens-open-day-one-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/AIG_Women_s_Open_2026_Round_One_1a62f25494/AIG_Women_s_Open_2026_Round_One_1a62f25494.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
