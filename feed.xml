@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 07 Aug 2026 19:26:16 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 20:03:58 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Merion Golf Club Almost Went Down With the Titanic</title>
+    <link>https://skratch.golf/news/news/merion-golf-club-us-amateur-almost-went-down-with-the-titanic</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/merion-golf-club-us-amateur-almost-went-down-with-the-titanic</guid>
+    <pubDate>Fri, 07 Aug 2026 19:05:40 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;Merion Golf Club hosts its seventh U.S. Amateur this week. But without one last-minute decision by its architect, one of America&#x27;s greatest courses might never have existed.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/merion-golf-club-us-amateur-almost-went-down-with-the-titanic"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/20260807_Merion_Golf_Club_5e87c5165e/20260807_Merion_Golf_Club_5e87c5165e.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Dan faces the music from haters. No Shade, presented by @Knockaround</title>
     <link>https://www.youtube.com/shorts/fqbG5kZM9Wg</link>
@@ -146,6 +157,17 @@
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Barath&#x27;s Bargain Bin: How To Build A Basic $500 Set Of Clubs</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/how-to-build-500-dollar-set-clubs-value</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/how-to-build-500-dollar-set-clubs-value</guid>
+    <pubDate>Thu, 06 Aug 2026 13:16:35 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;With new prices making full sets easily pass the $3,000 mark, we&#x27;re here to show you how to build a great set of clubs for less than the price of a new driver.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/how-to-build-500-dollar-set-clubs-value"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/500_dollar_set_shopping_2f32adbd46/500_dollar_set_shopping_2f32adbd46.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Good news for LIV, but does it really change anything long term?</title>
@@ -476,17 +498,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>2026 Solheim Cup: Meet the 12 Players Heading to Amsterdam for Team Europe</title>
-    <link>https://skratch.golf/news/news/europe-solheim-cup-team-2026-final-roster</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/europe-solheim-cup-team-2026-final-roster</guid>
-    <pubDate>Mon, 03 Aug 2026 15:05:36 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Europe&#x27;s lineup is set, the captain&#x27;s picks are confirmed, and all eyes now turn to Amsterdam.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/europe-solheim-cup-team-2026-final-roster"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_1695536371_c8f0ba262a/Getty_Images_1695536371_c8f0ba262a.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>What&#x27;s Staying With Me After a Week at the AIG Women&#x27;s Open</title>
     <link>https://skratch.golf/news/news/aig-womens-open-biggest-takeaways-recap</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/aig-womens-open-biggest-takeaways-recap</guid>
@@ -494,17 +505,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;From Shiho Kuwaki&#x27;s place in championship history to the Solheim Cup implications and the unmistakable atmosphere of links golf, these are the moments and storylines I&#x27;ll remember from the 50th AIG Women&#x27;s Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/aig-womens-open-biggest-takeaways-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://media.skratch.golf/Getty_Images_2288799701_82a1430b85/Getty_Images_2288799701_82a1430b85.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Major Trend That Isn&#x27;t Slowing Down at the AIG Women&#x27;s Open</title>
-    <link>https://skratch.golf/news/news/aig-womens-open-third-round-recap-first-time-major-champion</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/aig-womens-open-third-round-recap-first-time-major-champion</guid>
-    <pubDate>Sat, 01 Aug 2026 21:44:42 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;There are a handful of contenders entering Sunday&#x27;s final round looking to capture their first major championship title at Royal Lytham and St Annes.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/aig-womens-open-third-round-recap-first-time-major-champion"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2288589596_e8bd49a97c/Getty_Images_2288589596_e8bd49a97c.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
