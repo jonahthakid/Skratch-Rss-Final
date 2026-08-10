@@ -9,8 +9,53 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 10 Aug 2026 16:47:10 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 10 Aug 2026 17:45:27 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>When you pick good targets, good things happen.</title>
+    <link>https://www.youtube.com/shorts/tDGLRybxrQ8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/tDGLRybxrQ8</guid>
+    <pubDate>Mon, 10 Aug 2026 17:06:35 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/tDGLRybxrQ8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/tDGLRybxrQ8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/tDGLRybxrQ8" type="text/html" medium="video"/>
+    <yt:videoId>tDGLRybxrQ8</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>S2 E61: Season Recap, INSANE Cheating Scandal, Bryson’s Wish List</title>
+    <link>https://www.youtube.com/watch?v=zcnp3nuYNLg</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=zcnp3nuYNLg</guid>
+    <pubDate>Mon, 10 Aug 2026 16:50:48 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Michael Brennan joins the show fresh off his win at the Wyndham Championship. With the FedExCup Playoffs ahead, we break down the entire PGA TOUR season—with haikus. Also, the INSANE golf cheating scandal, Bryson&#x27;s LIV Golf wish list, Michael Block&#x27;s dramatics at a senior event, &amp; more.
+
+Thank You to Our Sponsors!
+
+Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
+
+Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=zcnp3nuYNLg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/zcnp3nuYNLg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/zcnp3nuYNLg" type="text/html" medium="video"/>
+    <yt:videoId>zcnp3nuYNLg</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Noah Maclauchlan Welcomes the Spotlight Ahead of U.S. Am</title>
+    <link>https://skratch.golf/news/news/us-amateur-noah-maclauchlan-welcomes-spotlight</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/us-amateur-noah-maclauchlan-welcomes-spotlight</guid>
+    <pubDate>Mon, 10 Aug 2026 16:40:22 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;On July 20, Noah Maclauchlan was fairly unknown to the average golf fan. Now, the U.S. Junior Amateur champion has played his way into the spotlight, and is ready to back it up at Merion.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/us-amateur-noah-maclauchlan-welcomes-spotlight"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/20260810_Noah_Maclauchlan_US_Junior_Am4_4ee180d4e2/20260810_Noah_Maclauchlan_US_Junior_Am4_4ee180d4e2.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Jackson Koivun&#x27;s ANXIOUS Sunday at Wyndham</title>
     <link>https://www.youtube.com/shorts/9me8ljJys9w</link>
@@ -68,6 +113,17 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Just Use The Damn Blades!</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/golf-irons-blades-just-use-them-fun</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/golf-irons-blades-just-use-them-fun</guid>
+    <pubDate>Mon, 10 Aug 2026 15:10:46 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Even with so much technology to help increase forgiveness and ball speed, I think we need to realize that at some point you just have to hit the ball.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/golf-irons-blades-just-use-them-fun"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/Rors_blades_outside_eb617e0db6/Rors_blades_outside_eb617e0db6.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Michael Brennan Wins With &quot;Mystery&quot; Titleist 3-Wood</title>
@@ -544,51 +600,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Ei2-AaDzvtc"&gt;
     <category>article</category>
   </item>
   <item>
-    <title>Break 90? 80? A freaking +2?!</title>
-    <link>https://www.youtube.com/shorts/IjH91GOFRaM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/IjH91GOFRaM</guid>
-    <pubDate>Mon, 03 Aug 2026 20:57:06 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/IjH91GOFRaM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/IjH91GOFRaM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/IjH91GOFRaM" type="text/html" medium="video"/>
-    <yt:videoId>IjH91GOFRaM</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>S2 E59: Thorbjornsen Talks Rocket Win, Brad Dalke STRUGGLES, Playoff Push Time</title>
-    <link>https://www.youtube.com/watch?v=jCJW6B37h3o</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=jCJW6B37h3o</guid>
-    <pubDate>Mon, 03 Aug 2026 18:12:47 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Michael Thorbjornsen joins the show fresh off his first PGA TOUR victory at the Rocket Classic. Good Good star Brad Dalke struggles mightily in his appearance on TOUR. FedExCup Playoff time is almost here. We dive into the final push to the playoffs. And as always, much more.
-
-Thank You to Our Sponsors!
-
-Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
-
-Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround.com/golf a&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=jCJW6B37h3o"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/jCJW6B37h3o/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/jCJW6B37h3o" type="text/html" medium="video"/>
-    <yt:videoId>jCJW6B37h3o</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>2026 Solheim Cup: Meet the 12 Players Heading to Amsterdam for Team Europe</title>
-    <link>https://skratch.golf/news/news/europe-solheim-cup-team-2026-final-roster</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/europe-solheim-cup-team-2026-final-roster</guid>
-    <pubDate>Mon, 03 Aug 2026 15:05:36 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Europe&#x27;s lineup is set, the captain&#x27;s picks are confirmed, and all eyes now turn to Amsterdam.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/europe-solheim-cup-team-2026-final-roster"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_1695536371_c8f0ba262a/Getty_Images_1695536371_c8f0ba262a.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Four years, four months and 29 days. Throwback to Rickie’s last TOUR win at the 2023 Rocket Classic</title>
     <link>https://www.youtube.com/shorts/S8CYaiqXSxI</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/S8CYaiqXSxI</guid>
@@ -638,17 +649,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;It takes a lot to make a standout rangefinder these days, and with so many features, the Vortex Anarch Plus builds a strong case for best in the business.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/vortex-anarch-plus-golf-rangefinder-technology"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://media.skratch.golf/Vortex_plus_title_2403cf68b4/Vortex_plus_title_2403cf68b4.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>You Asked, Callaway Delivered: The Apex MB Tour Raw Irons Are Here</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/callaway-apex-mb-raw-limited-irons</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/callaway-apex-mb-raw-limited-irons</guid>
-    <pubDate>Fri, 31 Jul 2026 15:15:25 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;After extensive testing on tour and requests by golfers, Callaway is ready to release the Apex MB Tour Raw irons for any golfer looking for pure precision &amp; control.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/callaway-apex-mb-raw-limited-irons"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Callaway_MB_tour_rawr_title_f16e1d2b56/Callaway_MB_tour_rawr_title_f16e1d2b56.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
