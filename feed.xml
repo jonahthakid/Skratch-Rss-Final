@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 10 Aug 2026 21:34:51 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 10 Aug 2026 22:30:17 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>&quot;This stadium idea, what does he expect to happen with these teams?&quot;</title>
@@ -24,6 +24,17 @@
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Is This the Worst Golf Cheating Story You&#x27;ve Ever Heard?</title>
+    <link>https://skratch.golf/news/news/winghaven-country-club-faked-hole-in-one-scandal-st-louis-explained</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/winghaven-country-club-faked-hole-in-one-scandal-st-louis-explained</guid>
+    <pubDate>Mon, 10 Aug 2026 21:10:32 +0000</pubDate>
+    <dc:creator>Will Neary</dc:creator>
+    <description>&lt;p&gt;This scandal out of WingHaven Country Club in Missouri might be hard to top.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/winghaven-country-club-faked-hole-in-one-scandal-st-louis-explained"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/Getty_Images_114927122_f26ecb00d5/Getty_Images_114927122_f26ecb00d5.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>If you want easy, go try pickleball.</title>
@@ -665,27 +676,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Ei2-AaDzvtc"&gt;
     <media:thumbnail url="https://media.skratch.golf/Vortex_plus_title_2403cf68b4/Vortex_plus_title_2403cf68b4.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Testing @callawaygolf&#x27;s NEW top-of-the-bag lineup. 👀</title>
-    <link>https://www.youtube.com/shorts/KO00eCwhrCc</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/KO00eCwhrCc</guid>
-    <pubDate>Fri, 31 Jul 2026 14:41:13 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
-
-Check out our website: https://skratch.golf/
-Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/KO00eCwhrCc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/KO00eCwhrCc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/KO00eCwhrCc" type="text/html" medium="video"/>
-    <yt:videoId>KO00eCwhrCc</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
 </channel>
 </rss>
