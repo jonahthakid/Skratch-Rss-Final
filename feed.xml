@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 11 Aug 2026 18:53:35 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 19:57:17 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>You’ve heard of Matt Fitz…I’d like you to meet his brother.</title>
+    <link>https://www.youtube.com/shorts/aJw9VDqAOm0</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/aJw9VDqAOm0</guid>
+    <pubDate>Tue, 11 Aug 2026 19:30:09 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/aJw9VDqAOm0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/aJw9VDqAOm0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/aJw9VDqAOm0" type="text/html" medium="video"/>
+    <yt:videoId>aJw9VDqAOm0</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Lexi Thompson&#x27;s Next Big Adventure Won&#x27;t Be on the Golf Course</title>
+    <link>https://skratch.golf/news/news/lexi-thompson-pregnant-expecting-baby</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/lexi-thompson-pregnant-expecting-baby</guid>
+    <pubDate>Tue, 11 Aug 2026 18:29:34 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The LPGA star announces that she&#x27;s pregnant with her first child!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lexi-thompson-pregnant-expecting-baby"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/Lexi_Thompson_Dow_Champ_2026_Getty_Images_2281117713_1ffc603c4a/Lexi_Thompson_Dow_Champ_2026_Getty_Images_2281117713_1ffc603c4a.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>One of Kristoffer Reitan&#x27;s biggest benefits after switching to @SQAIRZ happened on the greens</title>
     <link>https://www.youtube.com/shorts/sZc1I1gjEPo</link>
@@ -143,6 +168,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Will Neary</dc:creator>
     <description>&lt;p&gt;This scandal out of WingHaven Country Club in Missouri might be hard to top.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/winghaven-country-club-faked-hole-in-one-scandal-st-louis-explained"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://media.skratch.golf/Getty_Images_114927122_f26ecb00d5/Getty_Images_114927122_f26ecb00d5.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>I Golfed a Mile in Kristoffer Reitan&#x27;s (PGA TOUR-Winning) Shoes</title>
+    <link>https://skratch.golf/style/style/kris-reitan-interview-three-holes-sqairz-shoes-review</link>
+    <guid isPermaLink="true">https://skratch.golf/style/style/kris-reitan-interview-three-holes-sqairz-shoes-review</guid>
+    <pubDate>Mon, 10 Aug 2026 21:06:59 +0000</pubDate>
+    <dc:creator>Ben Boskovich</dc:creator>
+    <description>&lt;p&gt;The 2026 Truist champ and I met up at Forest Oaks CC in Greensboro, NC for three holes—in three different pairs of tech-packed Sqairz.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/style/kris-reitan-interview-three-holes-sqairz-shoes-review"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/SQAIRZ_Thumb_16x9_45e6095a6f/SQAIRZ_Thumb_16x9_45e6095a6f.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -469,17 +505,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <category>video</category>
   </item>
   <item>
-    <title>Jordan Spieth’s First Shot at the Wyndham Championship…Out of Bounds</title>
-    <link>https://skratch.golf/news/news/jordan-spieth-wyndham-championship-2026-first-shot-out-of-bounds-pga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/jordan-spieth-wyndham-championship-2026-first-shot-out-of-bounds-pga-tour</guid>
-    <pubDate>Thu, 06 Aug 2026 17:21:53 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Well, there aren&#x27;t many worse ways to start a golf tournament than what Jordan Spieth just did at the Wyndham Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jordan-spieth-wyndham-championship-2026-first-shot-out-of-bounds-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2270016184_d390835d7a/Getty_Images_2270016184_d390835d7a.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>A. PUTNAM&#x27;s Signature Aesthetic Gets a Performance Upgrade</title>
     <link>https://skratch.golf/style/womens-style/a-putnam-sport-edit-performance-golf-apparel</link>
     <guid isPermaLink="true">https://skratch.golf/style/womens-style/a-putnam-sport-edit-performance-golf-apparel</guid>
@@ -578,17 +603,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you&lt;/p&
     <category>video</category>
   </item>
   <item>
-    <title>Is This LIV Golf’s Move to Lock In Bryson DeChambeau?</title>
-    <link>https://skratch.golf/news/news/liv-golf-new-investor-bryson-dechambeau-future-trump-bedminster</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/liv-golf-new-investor-bryson-dechambeau-future-trump-bedminster</guid>
-    <pubDate>Wed, 05 Aug 2026 19:26:52 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;If LIV wanted to keep Bryson DeChambeau onboard—he’s due a new contract—this feels like a good first step.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/liv-golf-new-investor-bryson-dechambeau-future-trump-bedminster"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2287725944_3e90e4e57e/Getty_Images_2287725944_3e90e4e57e.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Wishing Patrick &quot;Be the number&quot; Reed a happy birthday. 😭</title>
     <link>https://www.youtube.com/shorts/Ei2-AaDzvtc</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/Ei2-AaDzvtc</guid>
@@ -607,20 +621,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Ei2-AaDzvtc"&gt;
     <yt:videoId>Ei2-AaDzvtc</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Koivun, Thorbjornsen, Russell, Brown, Morrison.</title>
-    <link>https://www.youtube.com/shorts/1yYj6n_se-k</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/1yYj6n_se-k</guid>
-    <pubDate>Tue, 04 Aug 2026 21:00:18 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/1yYj6n_se-k"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/1yYj6n_se-k/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/1yYj6n_se-k" type="text/html" medium="video"/>
-    <yt:videoId>1yYj6n_se-k</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
     <category>video</category>
   </item>
   <item>
