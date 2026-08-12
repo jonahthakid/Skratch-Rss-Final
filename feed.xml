@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 12 Aug 2026 20:36:12 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 12 Aug 2026 21:38:17 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Hoping to see this former Volunteer of the Year do his thing this week in Memphis. 😭</title>
+    <link>https://www.youtube.com/shorts/jgls4W4__74</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/jgls4W4__74</guid>
+    <pubDate>Wed, 12 Aug 2026 21:31:30 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/jgls4W4__74"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/jgls4W4__74/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/jgls4W4__74" type="text/html" medium="video"/>
+    <yt:videoId>jgls4W4__74</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Over/Under: 1 MILLION strokes played on the entire PGA TOUR in 2025?</title>
     <link>https://www.youtube.com/shorts/yrbqtg-Nceg</link>
@@ -669,20 +683,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Ei2-AaDzvtc"&gt;
     <media:thumbnail url="https://img.youtube.com/vi/jVK_IAL6QLw/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/jVK_IAL6QLw" type="text/html" medium="video"/>
     <yt:videoId>jVK_IAL6QLw</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Have you ever seen a more PERFECT flop? #TigerTuesday</title>
-    <link>https://www.youtube.com/shorts/ggf0HUjCRhw</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ggf0HUjCRhw</guid>
-    <pubDate>Tue, 04 Aug 2026 14:22:02 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Tiger started his only Wyndham Championship appearance off with a BANG.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ggf0HUjCRhw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ggf0HUjCRhw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ggf0HUjCRhw" type="text/html" medium="video"/>
-    <yt:videoId>ggf0HUjCRhw</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
