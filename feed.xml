@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 13 Aug 2026 19:32:38 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 13 Aug 2026 20:35:02 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Could Rahm sway the future of LIV golf?</title>
@@ -47,6 +47,17 @@
     <dc:creator>Will Neary</dc:creator>
     <description>&lt;p&gt;The recent success of young talent on the PGA TOUR has sparked a conversation as the 2027 Ryder Cup looms, and U.S. captain Jim Furyk isn’t shying away from it.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/ryder-cup-jim-furyk-says-young-guns-bringing-pressure"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://media.skratch.golf/20260813_Jim_Furyk_Ryder_Cup_159584eee0/20260813_Jim_Furyk_Ryder_Cup_159584eee0.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The U.S. Solheim Cup Bubble Is About to Get Very Interesting</title>
+    <link>https://skratch.golf/news/news/usa-solheim-cup-team-bubble-explained</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/usa-solheim-cup-team-bubble-explained</guid>
+    <pubDate>Thu, 13 Aug 2026 16:06:07 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;With just two events left before Angela Stanford finalizes Team USA, the race for the final spots is getting crowded—and a newly minted pro could make things even more interesting.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/usa-solheim-cup-team-bubble-explained"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/Nelly_Korda_Solheim_24_Getty_Images_2171779313_2c9f11027e/Nelly_Korda_Solheim_24_Getty_Images_2171779313_2c9f11027e.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -626,17 +637,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The Lore Behind Merion’s Wicker Baskets</title>
-    <link>https://skratch.golf/news/news/merion-us-amateur-wicker-basket-lore</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/merion-us-amateur-wicker-basket-lore</guid>
-    <pubDate>Fri, 07 Aug 2026 15:09:35 +0000</pubDate>
-    <dc:creator>Will Neary</dc:creator>
-    <description>&lt;p&gt;Ever since the 1916 U.S. Amateur, Merion Golf Club’s renowned wicker pin-toppers have been the cause of quite a stir. Their true origin and purpose is shrouded in mystery, but golf fans and historians alike have their theories.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/merion-us-amateur-wicker-basket-lore"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/20260807_Merion_Golf_Club_Wicker_Basket_a7031258dd/20260807_Merion_Golf_Club_Wicker_Basket_a7031258dd.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Whose list is better?</title>
