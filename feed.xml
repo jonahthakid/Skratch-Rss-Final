@@ -1,3 +1,4 @@
+<!-- Warning: Error fetching Skratch: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwtGQ3sgidNlQGbIUBPP3xw -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -9,44 +10,8 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 14 Aug 2026 01:22:23 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 03:35:21 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
-  <item>
-    <title>Merion history is UNMATCHED 👀</title>
-    <link>https://www.youtube.com/shorts/8Slkkq8gy6w</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/8Slkkq8gy6w</guid>
-    <pubDate>Thu, 13 Aug 2026 23:43:28 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;There is no shortage of history at Merion.
-
-Who will be next to add their name to Merion&#x27;s record books?&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8Slkkq8gy6w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/8Slkkq8gy6w/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/8Slkkq8gy6w" type="text/html" medium="video"/>
-    <yt:videoId>8Slkkq8gy6w</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Particularly savage move, but we respect it</title>
-    <link>https://www.youtube.com/shorts/G6wUdU2IAOc</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/G6wUdU2IAOc</guid>
-    <pubDate>Thu, 13 Aug 2026 21:59:15 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Who knew the FedEx St. Jude monkey&#x27;s owner was such a savage?!
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/G6wUdU2IAOc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/G6wUdU2IAOc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/G6wUdU2IAOc" type="text/html" medium="video"/>
-    <yt:videoId>G6wUdU2IAOc</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
   <item>
     <title>What the PGA TOUR Can Learn From the U.S. Amateur</title>
     <link>https://skratch.golf/news/news/us-amateur-what-the-pga-tour-can-learn</link>
@@ -57,20 +22,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <media:thumbnail url="https://media.skratch.golf/20260813_US_Amateur_Merion_b6459b8c22/20260813_US_Amateur_Merion_b6459b8c22.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Could Rahm sway the future of LIV golf?</title>
-    <link>https://www.youtube.com/shorts/guxu98EvsC4</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/guxu98EvsC4</guid>
-    <pubDate>Thu, 13 Aug 2026 19:11:42 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/guxu98EvsC4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/guxu98EvsC4/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/guxu98EvsC4" type="text/html" medium="video"/>
-    <yt:videoId>guxu98EvsC4</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>These Grips Are Dominating In The Humid Memphis Heat</title>
@@ -118,20 +69,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <media:thumbnail url="https://media.skratch.golf/Nelly_Korda_Solheim_24_Getty_Images_2171779313_2c9f11027e/Nelly_Korda_Solheim_24_Getty_Images_2171779313_2c9f11027e.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>You can’t make this up. 😭</title>
-    <link>https://www.youtube.com/shorts/DrHybnYnutc</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/DrHybnYnutc</guid>
-    <pubDate>Thu, 13 Aug 2026 15:40:55 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/DrHybnYnutc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/DrHybnYnutc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/DrHybnYnutc" type="text/html" medium="video"/>
-    <yt:videoId>DrHybnYnutc</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Ryder Cup Captain Jim Furyk On What He Got Wrong &amp; Jackson Koivun</title>
@@ -240,34 +177,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if&lt;/p&gt;&
     <category>article</category>
   </item>
   <item>
-    <title>Hoping to see this former Volunteer of the Year do his thing this week in Memphis. 😭</title>
-    <link>https://www.youtube.com/shorts/jgls4W4__74</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/jgls4W4__74</guid>
-    <pubDate>Wed, 12 Aug 2026 21:31:30 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/jgls4W4__74"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/jgls4W4__74/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/jgls4W4__74" type="text/html" medium="video"/>
-    <yt:videoId>jgls4W4__74</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Over/Under: 1 MILLION strokes played on the entire PGA TOUR in 2025?</title>
-    <link>https://www.youtube.com/shorts/yrbqtg-Nceg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/yrbqtg-Nceg</guid>
-    <pubDate>Wed, 12 Aug 2026 17:16:33 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Gary takes on the Over/Under ShotLink trivia gauntlet, presented by @CDW.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/yrbqtg-Nceg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/yrbqtg-Nceg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/yrbqtg-Nceg" type="text/html" medium="video"/>
-    <yt:videoId>yrbqtg-Nceg</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>It&#x27;s Official—Kiara Romero is LPGA Bound</title>
     <link>https://skratch.golf/news/news/kiara-romero-lpga-membership-leap-points</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/kiara-romero-lpga-membership-leap-points</guid>
@@ -313,44 +222,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if&lt;/p&gt;&
     <media:thumbnail url="https://media.skratch.golf/Lexi_Thompson_Dow_Champ_2026_Getty_Images_2281117713_1ffc603c4a/Lexi_Thompson_Dow_Champ_2026_Getty_Images_2281117713_1ffc603c4a.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>One of Kristoffer Reitan&#x27;s biggest benefits after switching to @SQAIRZ happened on the greens</title>
-    <link>https://www.youtube.com/shorts/sZc1I1gjEPo</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/sZc1I1gjEPo</guid>
-    <pubDate>Tue, 11 Aug 2026 16:38:06 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Ben Boskovic goes toe-to-toe with the PGA TOUR winner for three holes while testing out the latest SQAIRZ Golf styles.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on Y&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/sZc1I1gjEPo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/sZc1I1gjEPo/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/sZc1I1gjEPo" type="text/html" medium="video"/>
-    <yt:videoId>sZc1I1gjEPo</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Going TOE-TO-TOE with PGA TOUR champ Kristoffer Reitan</title>
-    <link>https://www.youtube.com/watch?v=RX9l6uo5kVU</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=RX9l6uo5kVU</guid>
-    <pubDate>Tue, 11 Aug 2026 16:35:40 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;One of Kristoffer Reitan&#x27;s biggest benefits after switching to @SQAIRZ  happened on the greens. Our Ben Boskovich goes head-to-head (or toe-to-toe) with the PGA TOUR winner for three holes while testing out the latest SQAIRZ styles.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There hav&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=RX9l6uo5kVU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/RX9l6uo5kVU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/RX9l6uo5kVU" type="text/html" medium="video"/>
-    <yt:videoId>RX9l6uo5kVU</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>A Player in the U.S. Amateur Field Has Taken Golf Twitter By Storm—And For Good Reason</title>
@@ -497,20 +368,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Look at for the fans this week in Memphis, they are absolute animals. 😭</title>
-    <link>https://www.youtube.com/shorts/JJU6KEra5Pc</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/JJU6KEra5Pc</guid>
-    <pubDate>Mon, 10 Aug 2026 19:20:42 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/JJU6KEra5Pc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/JJU6KEra5Pc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/JJU6KEra5Pc" type="text/html" medium="video"/>
-    <yt:videoId>JJU6KEra5Pc</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>S2 E61: Season Recap, INSANE Cheating Scandal, Bryson’s Wish List</title>
     <link>https://www.youtube.com/watch?v=zcnp3nuYNLg</link>
     <guid isPermaLink="true">https://www.youtube.com/watch?v=zcnp3nuYNLg</guid>
@@ -554,64 +411,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://media.skratch.golf/20260810_Noah_Maclauchlan_US_Junior_Am4_4ee180d4e2/20260810_Noah_Maclauchlan_US_Junior_Am4_4ee180d4e2.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Jackson Koivun&#x27;s ANXIOUS Sunday at Wyndham</title>
-    <link>https://www.youtube.com/shorts/9me8ljJys9w</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/9me8ljJys9w</guid>
-    <pubDate>Mon, 10 Aug 2026 15:48:18 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The tournament within the tournament at Wyndham. 
-
-Two players had a chance to knock Jackson Koivun out of the first FedExCup Playoffs event next week in Memphis - Davis Thompson and Beau Hossler.
-
-Davis needed birdies down the stretch and Beau needed to win outright.
-
-Here&#x27;s what happened:
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. G&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/9me8ljJys9w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/9me8ljJys9w/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/9me8ljJys9w" type="text/html" medium="video"/>
-    <yt:videoId>9me8ljJys9w</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Brooks Kopeka&#x27;s comeback story in 2027 is going to be epic</title>
-    <link>https://www.youtube.com/shorts/zbKUWsQP8hs</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/zbKUWsQP8hs</guid>
-    <pubDate>Mon, 10 Aug 2026 15:47:23 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The Brooks Kopeka comeback story in 2027 is going to be epic.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf c&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/zbKUWsQP8hs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/zbKUWsQP8hs/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/zbKUWsQP8hs" type="text/html" medium="video"/>
-    <yt:videoId>zbKUWsQP8hs</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>As the 126th U.S. Amateur gets underway, get reacquainted with the historic Merion Golf Club.</title>
-    <link>https://www.youtube.com/shorts/5YzrMK_GPKU</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/5YzrMK_GPKU</guid>
-    <pubDate>Mon, 10 Aug 2026 15:46:34 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/5YzrMK_GPKU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/5YzrMK_GPKU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/5YzrMK_GPKU" type="text/html" medium="video"/>
-    <yt:videoId>5YzrMK_GPKU</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Just Use The Damn Blades!</title>
@@ -687,6 +486,28 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Confirmed Championship Series Events for the PGA TOUR in 2028</title>
+    <link>https://skratch.golf/news/news/pga-tour-championship-series-events-2028-season-full-list</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-championship-series-events-2028-season-full-list</guid>
+    <pubDate>Thu, 30 Jul 2026 20:11:26 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;The PGA TOUR&#x27;s Championship Series lineup is slowly coming together. Here&#x27;s everything we know so far.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-championship-series-events-2028-season-full-list"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2274358927_3fdaf56659/Getty_Images_2274358927_3fdaf56659.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>WTGL Just Added a Boston Team...Something We Hoped Was Coming</title>
+    <link>https://skratch.golf/news/news/wtgl-teams-host-cities-lpga-tour-indoor-golf-league</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/wtgl-teams-host-cities-lpga-tour-indoor-golf-league</guid>
+    <pubDate>Thu, 18 Jun 2026 15:58:45 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;As the league continues to take shape, here&#x27;s a look at the five markets that have already staked their claim in women&#x27;s golf&#x27;s newest venture.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/wtgl-teams-host-cities-lpga-tour-indoor-golf-league"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/TGL_Green_Zone_6941f06357/TGL_Green_Zone_6941f06357.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
 </channel>
 </rss>
