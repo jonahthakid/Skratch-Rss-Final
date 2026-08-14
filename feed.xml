@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 14 Aug 2026 21:18:41 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 21:47:25 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Casual 61 with a couple bogeys for the World No. 1.</title>
+    <link>https://www.youtube.com/shorts/-GaeoRUpJTw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/-GaeoRUpJTw</guid>
+    <pubDate>Fri, 14 Aug 2026 21:31:56 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/-GaeoRUpJTw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/-GaeoRUpJTw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/-GaeoRUpJTw" type="text/html" medium="video"/>
+    <yt:videoId>-GaeoRUpJTw</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>From pickup to show time. Ride along with Dan &amp; Ben on show night, presented by @chipotle.</title>
     <link>https://www.youtube.com/shorts/9f4Kdm8g3ZM</link>
@@ -663,30 +677,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://media.skratch.golf/20260810_Noah_Maclauchlan_US_Junior_Am4_4ee180d4e2/20260810_Noah_Maclauchlan_US_Junior_Am4_4ee180d4e2.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Jackson Koivun&#x27;s ANXIOUS Sunday at Wyndham</title>
-    <link>https://www.youtube.com/shorts/9me8ljJys9w</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/9me8ljJys9w</guid>
-    <pubDate>Mon, 10 Aug 2026 15:48:18 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The tournament within the tournament at Wyndham. 
-
-Two players had a chance to knock Jackson Koivun out of the first FedExCup Playoffs event next week in Memphis - Davis Thompson and Beau Hossler.
-
-Davis needed birdies down the stretch and Beau needed to win outright.
-
-Here&#x27;s what happened:
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. G&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/9me8ljJys9w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/9me8ljJys9w/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/9me8ljJys9w" type="text/html" medium="video"/>
-    <yt:videoId>9me8ljJys9w</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
 </channel>
 </rss>
