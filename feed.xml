@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 17 Aug 2026 20:18:28 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 17 Aug 2026 20:51:07 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Could you take down Scottie with 20 strokes? 🤣</title>
+    <link>https://www.youtube.com/shorts/YUv4zIYwOBs</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/YUv4zIYwOBs</guid>
+    <pubDate>Mon, 17 Aug 2026 20:34:01 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/YUv4zIYwOBs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/YUv4zIYwOBs/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/YUv4zIYwOBs" type="text/html" medium="video"/>
+    <yt:videoId>YUv4zIYwOBs</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>LIV Golf Officially Cancels Season Finale</title>
     <link>https://skratch.golf/news/news/liv-golf-cancels-season-finale-contract-workers-owed-thousands-jon-rahm</link>
@@ -603,24 +617,6 @@ Subscribe to Skratch on Y&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/
     <media:thumbnail url="https://img.youtube.com/vi/sZc1I1gjEPo/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/sZc1I1gjEPo" type="text/html" medium="video"/>
     <yt:videoId>sZc1I1gjEPo</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Going TOE-TO-TOE with PGA TOUR champ Kristoffer Reitan</title>
-    <link>https://www.youtube.com/watch?v=RX9l6uo5kVU</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=RX9l6uo5kVU</guid>
-    <pubDate>Tue, 11 Aug 2026 16:35:40 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;One of Kristoffer Reitan&#x27;s biggest benefits after switching to @SQAIRZ  happened on the greens. Our Ben Boskovich goes head-to-head (or toe-to-toe) with the PGA TOUR winner for three holes while testing out the latest SQAIRZ styles.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There hav&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=RX9l6uo5kVU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/RX9l6uo5kVU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/RX9l6uo5kVU" type="text/html" medium="video"/>
-    <yt:videoId>RX9l6uo5kVU</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
