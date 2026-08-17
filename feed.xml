@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 17 Aug 2026 19:07:42 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 17 Aug 2026 19:48:58 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>The U.S. Amateur is a grind. Gotta let the dogs breathe.</title>
+    <link>https://www.youtube.com/shorts/OBN3qW-HOFM</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/OBN3qW-HOFM</guid>
+    <pubDate>Mon, 17 Aug 2026 19:38:20 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/OBN3qW-HOFM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/OBN3qW-HOFM/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/OBN3qW-HOFM" type="text/html" medium="video"/>
+    <yt:videoId>OBN3qW-HOFM</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>S2 E63: Scottie Dominates, Jon Rahm&#x27;s Future, LeBron Joins YouTube Golf</title>
     <link>https://www.youtube.com/watch?v=F40S_KTgyNc</link>
@@ -39,6 +53,17 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Scottie Scheffler has 21 wins, he never finishes outside the top 10, and has benefitted from massive purse overhauls. It won&#x27;t be long before everyone is looking up at him on the money list.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/scottie-scheffler-career-earnings-pga-tour-tiger-woods"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://media.skratch.golf/Getty_Images_2249790655_00c3842e3d/Getty_Images_2249790655_00c3842e3d.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Three More U.S. Solheim Cup Spots Are Confirmed, Here&#x27;s Who Got Them</title>
+    <link>https://skratch.golf/news/news/auston-kim-yealimi-noh-clinch-usa-solheim-cup-spots</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/auston-kim-yealimi-noh-clinch-usa-solheim-cup-spots</guid>
+    <pubDate>Mon, 17 Aug 2026 14:58:02 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Auston Kim, Yealimi Noh, and Lauren Coughlin just punched their tickets to Amsterdam.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/auston-kim-yealimi-noh-clinch-usa-solheim-cup-spots"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/Yealimi_Noh_Solheim_2021_Getty_Images_1235078940_452ad8c665/Yealimi_Noh_Solheim_2021_Getty_Images_1235078940_452ad8c665.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -203,6 +228,17 @@ Check out our website&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shor
     <dc:creator>Will Neary</dc:creator>
     <description>&lt;p&gt;Since being named captain of the 2027 U.S. Ryder Cup team, Jim Furyk has noted that change to the qualification process is necessary. Reporting from Golfweek on Friday indicates that will come sooner rather than later.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/ryder-cup-qualification-updated-for-adare-manor-2027"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://media.skratch.golf/Getty_Images_1235451859_55cfcbdb7c/Getty_Images_1235451859_55cfcbdb7c.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Stop Wasting Money on These 3 Gear Purchases</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/waste-money-list-gear-saving-better-value</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/waste-money-list-gear-saving-better-value</guid>
+    <pubDate>Fri, 14 Aug 2026 15:48:54 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;There are plenty of smart ways to spend money on golf gear. These are three purchases I&#x27;ve seen golfers make that often aren&#x27;t worth it.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/waste-money-list-gear-saving-better-value"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/IMG_3538_4925f87afa/IMG_3538_4925f87afa.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -527,17 +563,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if&lt;/p&gt;&
     <category>article</category>
   </item>
   <item>
-    <title>Miles Russell In, Preston Stout Out at U.S. Amateur</title>
-    <link>https://skratch.golf/news/news/miles-russell-in-preston-stout-out-at-u-s-amateur</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/miles-russell-in-preston-stout-out-at-u-s-amateur</guid>
-    <pubDate>Tue, 11 Aug 2026 20:56:48 +0000</pubDate>
-    <dc:creator>Will Neary</dc:creator>
-    <description>&lt;p&gt;It was two very different tales for Miles Russell and Preston Stout during the stroke play section of the U.S. Amateur. Miles stayed hot while Preston, who hasn’t played an amateur event since the NCAA championships, will suffer an early exit.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/miles-russell-in-preston-stout-out-at-u-s-amateur"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/20260811_Miles_Russell_US_Amateur_3848ab781b/20260811_Miles_Russell_US_Amateur_3848ab781b.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>You’ve heard of Matt Fitz…I’d like you to meet his brother.</title>
     <link>https://www.youtube.com/shorts/aJw9VDqAOm0</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/aJw9VDqAOm0</guid>
@@ -612,17 +637,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>Rory Is Back. The FedExCup Playoffs Are Here. Here’s What You Need to Know.</title>
-    <link>https://skratch.golf/news/news/fedex-st-jude-championship-2026-how-to-watch-pga-tour-tee-times-playoffs</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/fedex-st-jude-championship-2026-how-to-watch-pga-tour-tee-times-playoffs</guid>
-    <pubDate>Tue, 11 Aug 2026 13:46:31 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Bubble Watch, Field Notes, Best Pairings and more: Your one-stop shop for the FedEx St. Jude Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/fedex-st-jude-championship-2026-how-to-watch-pga-tour-tee-times-playoffs"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2166665798_be60a76536/Getty_Images_2166665798_be60a76536.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>This should be jail time. @manorsgolf</title>
     <link>https://www.youtube.com/shorts/nBoBqwK1Hyc</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/nBoBqwK1Hyc</guid>
@@ -672,17 +686,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Will Neary</dc:creator>
     <description>&lt;p&gt;This scandal out of WingHaven Country Club in Missouri might be hard to top.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/winghaven-country-club-faked-hole-in-one-scandal-st-louis-explained"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://media.skratch.golf/Getty_Images_114927122_f26ecb00d5/Getty_Images_114927122_f26ecb00d5.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Skratch&#x27;s Guide To Blade Irons</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/skratch-guide-to-blade-irons-muscle-backs</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/skratch-guide-to-blade-irons-muscle-backs</guid>
-    <pubDate>Mon, 10 Aug 2026 20:11:10 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Although they might look similar, not all blade irons are created equal, and we&#x27;re here to break things down for you.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/skratch-guide-to-blade-irons-muscle-backs"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Blade_blank_stock_bfea6c6f76/Blade_blank_stock_bfea6c6f76.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
