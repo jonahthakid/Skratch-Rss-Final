@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 18 Aug 2026 11:48:39 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 13:36:33 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Not every week, but the U.S. Amateur vibe is replicable with the world’s best.</title>
@@ -66,6 +66,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The Case for Sam Burns in St. Louis—Our Best Bets for the BMW Championship</title>
+    <link>https://skratch.golf/news/pro-golf/bmw-championship-2026-best-bets-picks-to-win-sam-burns</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/bmw-championship-2026-best-bets-picks-to-win-sam-burns</guid>
+    <pubDate>Mon, 17 Aug 2026 20:18:58 +0000</pubDate>
+    <dc:creator>Rick Gehman</dc:creator>
+    <description>&lt;p&gt;He&#x27;s is the best player on TOUR this year without a victory—and his stat profile in Memphis week was exactly what you’d like to see from him.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/bmw-championship-2026-best-bets-picks-to-win-sam-burns"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/20260717_Sam_Burns_Open_Championship_d325920487/20260717_Sam_Burns_Open_Championship_d325920487.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>LIV Golf Officially Cancels Season Finale</title>
@@ -662,17 +673,6 @@ Subscribe to Skratch on Y&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The LPGA&#x27;s Future Takes Center Stage in Portland, While Two Stars Are Missing</title>
-    <link>https://skratch.golf/news/news/lpga-portland-classic-future-stars-the-field-how-to-watch</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/lpga-portland-classic-future-stars-the-field-how-to-watch</guid>
-    <pubDate>Tue, 11 Aug 2026 14:18:53 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;A mix of top amateurs, sponsor invitees and Epson Tour standouts are giving Portland a look at the next generation of LPGA talent—but where are Asterisk Talley and Kiara Romero?&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/lpga-portland-classic-future-stars-the-field-how-to-watch"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Talley_Romero_Curtis_Cup_2026_Getty_Images_2280590561_57d2daa6a4/Talley_Romero_Curtis_Cup_2026_Getty_Images_2280590561_57d2daa6a4.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Is This the Worst Golf Cheating Story You&#x27;ve Ever Heard?</title>
