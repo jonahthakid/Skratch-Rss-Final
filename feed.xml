@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 18 Aug 2026 15:00:23 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 15:55:06 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Alan Shipnuck On LIV’s Future, Jon Rahm, The Future Of Golf</title>
@@ -24,6 +24,17 @@
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The Minimum Finish Required (for Each Player) to Earn a Spot in the TOUR Championship</title>
+    <link>https://skratch.golf/news/news/bmw-championship-2026-minimum-finish-required-fedexcup-tour-championship</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/bmw-championship-2026-minimum-finish-required-fedexcup-tour-championship</guid>
+    <pubDate>Tue, 18 Aug 2026 14:49:37 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Justin Thomas needs at least a solo seventh at the BMW Championship to get into the TOUR Championship. Patrick Cantlay needs the same. Here&#x27;s a full look at the minimum required finish for all players on the outside looking in at the BMW.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/bmw-championship-2026-minimum-finish-required-fedexcup-tour-championship"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2276748575_8009fe0ebf/Getty_Images_2276748575_8009fe0ebf.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Not every week, but the U.S. Amateur vibe is replicable with the world’s best.</title>
@@ -673,17 +684,6 @@ Subscribe to Skratch on Y&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Is This the Worst Golf Cheating Story You&#x27;ve Ever Heard?</title>
-    <link>https://skratch.golf/news/news/winghaven-country-club-faked-hole-in-one-scandal-st-louis-explained</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/winghaven-country-club-faked-hole-in-one-scandal-st-louis-explained</guid>
-    <pubDate>Mon, 10 Aug 2026 21:10:32 +0000</pubDate>
-    <dc:creator>Will Neary</dc:creator>
-    <description>&lt;p&gt;This scandal out of WingHaven Country Club in Missouri might be hard to top.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/winghaven-country-club-faked-hole-in-one-scandal-st-louis-explained"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_114927122_f26ecb00d5/Getty_Images_114927122_f26ecb00d5.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
