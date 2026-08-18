@@ -1,4 +1,5 @@
-<!-- Warning: Error fetching Skratch: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwtGQ3sgidNlQGbIUBPP3xw -->
+<!-- Warning: Error fetching Skratch: 500 Server Error: Internal Server Error for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwtGQ3sgidNlQGbIUBPP3xw -->
+<!-- Warning: Error fetching Dan On Golf Show: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -10,50 +11,8 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 18 Aug 2026 03:20:44 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 04:04:53 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
-  <item>
-    <title>Not every week, but the U.S. Amateur vibe is replicable with the world’s best.</title>
-    <link>https://www.youtube.com/shorts/TDL3ei3qMmE</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/TDL3ei3qMmE</guid>
-    <pubDate>Tue, 18 Aug 2026 01:30:11 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/TDL3ei3qMmE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/TDL3ei3qMmE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/TDL3ei3qMmE" type="text/html" medium="video"/>
-    <yt:videoId>TDL3ei3qMmE</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>This is a game-changer. Presented by @Knockaround.</title>
-    <link>https://www.youtube.com/shorts/rZOuc8DeGgo</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/rZOuc8DeGgo</guid>
-    <pubDate>Mon, 17 Aug 2026 22:32:36 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/rZOuc8DeGgo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/rZOuc8DeGgo/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/rZOuc8DeGgo" type="text/html" medium="video"/>
-    <yt:videoId>rZOuc8DeGgo</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Back again…</title>
-    <link>https://www.youtube.com/shorts/St-rr3QlVV0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/St-rr3QlVV0</guid>
-    <pubDate>Mon, 17 Aug 2026 21:11:59 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/St-rr3QlVV0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/St-rr3QlVV0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/St-rr3QlVV0" type="text/html" medium="video"/>
-    <yt:videoId>St-rr3QlVV0</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
   <item>
     <title>LIV Golf Officially Cancels Season Finale</title>
     <link>https://skratch.golf/news/news/liv-golf-cancels-season-finale-contract-workers-owed-thousands-jon-rahm</link>
@@ -64,40 +23,6 @@
     <media:thumbnail url="https://media.skratch.golf/Getty_Images_2226393830_0e890fb824/Getty_Images_2226393830_0e890fb824.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>The U.S. Amateur is a grind. Gotta let the dogs breathe.</title>
-    <link>https://www.youtube.com/shorts/OBN3qW-HOFM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/OBN3qW-HOFM</guid>
-    <pubDate>Mon, 17 Aug 2026 19:38:20 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/OBN3qW-HOFM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/OBN3qW-HOFM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/OBN3qW-HOFM" type="text/html" medium="video"/>
-    <yt:videoId>OBN3qW-HOFM</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>S2 E63: Scottie Dominates, Jon Rahm&#x27;s Future, LeBron Joins YouTube Golf</title>
-    <link>https://www.youtube.com/watch?v=F40S_KTgyNc</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=F40S_KTgyNc</guid>
-    <pubDate>Mon, 17 Aug 2026 18:29:35 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Guess who&#x27;s back...back...back. Scottie Scheffler dominates en route to a victory at the FedEx St. Jude in Memphis. LeBron James joins YouTube golf. What is Jon Rahm&#x27;s future—with or without LIV Golf? Plus, an Official Statement on the incredible atmosphere at Merion for the U.S. Amateur.
-
-Thank You to Our Sponsors!
-
-Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
-
-Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockarou&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=F40S_KTgyNc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/F40S_KTgyNc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/F40S_KTgyNc" type="text/html" medium="video"/>
-    <yt:videoId>F40S_KTgyNc</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>Nothing Can Stop Scottie Scheffler from Passing Tiger Woods on the Money List</title>
@@ -133,34 +58,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>Fed Ex St Jude/U.S. Amateur LIVE Watch Along | Scheffler Leading, Leng Jr. vs. Whaley Final</title>
-    <link>https://www.youtube.com/watch?v=rxbUdccG7hc</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=rxbUdccG7hc</guid>
-    <pubDate>Sun, 16 Aug 2026 21:55:16 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Experience the final round of the FedEx St. Jude Championship and the U.S. Amateur live alongside Dan Rapaport.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=rxbUdccG7hc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/rxbUdccG7hc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/rxbUdccG7hc" type="text/html" medium="video"/>
-    <yt:videoId>rxbUdccG7hc</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>From pickup to show time. Ride along with Dan &amp; Ben on show night, presented by @chipotle.</title>
-    <link>https://www.youtube.com/shorts/9f4Kdm8g3ZM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/9f4Kdm8g3ZM</guid>
-    <pubDate>Fri, 14 Aug 2026 20:00:01 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/9f4Kdm8g3ZM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/9f4Kdm8g3ZM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/9f4Kdm8g3ZM" type="text/html" medium="video"/>
-    <yt:videoId>9f4Kdm8g3ZM</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Tiger Woods’ Greatest Achievement Came as an Amateur</title>
     <link>https://skratch.golf/news/news/tiger-woods-us-amateur-greatest-achievement</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/tiger-woods-us-amateur-greatest-achievement</guid>
@@ -170,20 +67,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://media.skratch.golf/20260814_Tiger_Woods_1994_US_Amateur_4840cf21d8/20260814_Tiger_Woods_1994_US_Amateur_4840cf21d8.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Furyk’s captains picks went a combined 2-10 in France that week.</title>
-    <link>https://www.youtube.com/shorts/fPfAzd12fqs</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/fPfAzd12fqs</guid>
-    <pubDate>Fri, 14 Aug 2026 19:02:58 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/fPfAzd12fqs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/fPfAzd12fqs/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/fPfAzd12fqs" type="text/html" medium="video"/>
-    <yt:videoId>fPfAzd12fqs</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>The Magic of a Monday Qualifier</title>
@@ -230,20 +113,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>It’s the little annoyances that kill you.</title>
-    <link>https://www.youtube.com/shorts/8AisVcJI-cA</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/8AisVcJI-cA</guid>
-    <pubDate>Fri, 14 Aug 2026 13:30:28 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8AisVcJI-cA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/8AisVcJI-cA/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/8AisVcJI-cA" type="text/html" medium="video"/>
-    <yt:videoId>8AisVcJI-cA</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>What the PGA TOUR Can Learn From the U.S. Amateur</title>
     <link>https://skratch.golf/news/news/us-amateur-what-the-pga-tour-can-learn</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/us-amateur-what-the-pga-tour-can-learn</guid>
@@ -266,20 +135,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>The world pulls them apart but they find their way back to each other. Presented by @Knockaround.</title>
-    <link>https://www.youtube.com/shorts/Ucgn1my5J5c</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/Ucgn1my5J5c</guid>
-    <pubDate>Thu, 13 Aug 2026 17:12:02 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Ucgn1my5J5c"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/Ucgn1my5J5c/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/Ucgn1my5J5c" type="text/html" medium="video"/>
-    <yt:videoId>Ucgn1my5J5c</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Jim Furyk: Young Guns Putting Pressure on &quot;Wily Veterans&quot;</title>
     <link>https://skratch.golf/news/news/ryder-cup-jim-furyk-says-young-guns-bringing-pressure</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/ryder-cup-jim-furyk-says-young-guns-bringing-pressure</guid>
@@ -300,20 +155,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://media.skratch.golf/Nelly_Korda_Solheim_24_Getty_Images_2171779313_2c9f11027e/Nelly_Korda_Solheim_24_Getty_Images_2171779313_2c9f11027e.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Ryder Cup Captain Jim Furyk On What He Got Wrong &amp; Jackson Koivun</title>
-    <link>https://www.youtube.com/watch?v=DbZZRLS_F98</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=DbZZRLS_F98</guid>
-    <pubDate>Thu, 13 Aug 2026 15:00:07 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Jim Furyk joins the show to discuss it all: What he got wrong in the past as captain in 2018, the quick rise of Jackson Koivun and other young Americans, Dan&#x27;s past comments &amp; more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=DbZZRLS_F98"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/DbZZRLS_F98/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/DbZZRLS_F98" type="text/html" medium="video"/>
-    <yt:videoId>DbZZRLS_F98</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>Jon Rahm May Leave LIV Golf Following the 2026 Season</title>
@@ -349,54 +190,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>article</category>
   </item>
   <item>
-    <title>Rolapp clearly got through to Rory.</title>
-    <link>https://www.youtube.com/shorts/3kowuzWYhZk</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/3kowuzWYhZk</guid>
-    <pubDate>Thu, 13 Aug 2026 01:22:42 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/3kowuzWYhZk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/3kowuzWYhZk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/3kowuzWYhZk" type="text/html" medium="video"/>
-    <yt:videoId>3kowuzWYhZk</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>S2 E62: LIV Finale CANCELED, Annoying Golf Behaviors, Captain Jim Furyk Interview</title>
-    <link>https://www.youtube.com/watch?v=pZbaM5GBvtY</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=pZbaM5GBvtY</guid>
-    <pubDate>Wed, 12 Aug 2026 23:26:57 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;A packed Wednesday show. LIV Finale is rumored to be canceled? Where does LIV Golf go from here? A full ranking from Dan on the most annoying golf behaviors. Ryder Cup Captain Jim Furyk joins the show to discuss it all. Also, Presidents Cup team picks &amp; Golfers Wearing Clothes from Wyndham Championship week.
-
-Thank You to Our Sponsors!
-
-Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
-
-Dan travels all year and never leaves his Knockarounds behind, and if&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=pZbaM5GBvtY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/pZbaM5GBvtY/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/pZbaM5GBvtY" type="text/html" medium="video"/>
-    <yt:videoId>pZbaM5GBvtY</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>&quot;They&#x27;re going to put some stress on our wily veterans&quot;</title>
-    <link>https://www.youtube.com/shorts/XTe5QBygewA</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/XTe5QBygewA</guid>
-    <pubDate>Wed, 12 Aug 2026 22:54:54 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/XTe5QBygewA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/XTe5QBygewA/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/XTe5QBygewA" type="text/html" medium="video"/>
-    <yt:videoId>XTe5QBygewA</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Ryder Cowan Did His Best Tiger Woods Impression to Defeat Miles Russell</title>
     <link>https://skratch.golf/news/news/us-amateur-2026-merion-ryder-cowan-tiger-woods-impression-defeat-miles-russell</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/us-amateur-2026-merion-ryder-cowan-tiger-woods-impression-defeat-miles-russell</guid>
@@ -417,20 +210,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if&lt;/p&gt;&
     <media:thumbnail url="https://media.skratch.golf/Romero_Kiara_003_5bf187caa8/Romero_Kiara_003_5bf187caa8.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>You’ve heard of Matt Fitz…I’d like you to meet his brother.</title>
-    <link>https://www.youtube.com/shorts/aJw9VDqAOm0</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/aJw9VDqAOm0</guid>
-    <pubDate>Tue, 11 Aug 2026 19:30:09 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/aJw9VDqAOm0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/aJw9VDqAOm0/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/aJw9VDqAOm0" type="text/html" medium="video"/>
-    <yt:videoId>aJw9VDqAOm0</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>The LPGA&#x27;s Future Takes Center Stage in Portland, While Two Stars Are Missing</title>
