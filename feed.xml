@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 19 Aug 2026 15:54:44 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 16:23:16 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>&quot;How is he still standing?!&quot; 🤣</title>
+    <link>https://www.youtube.com/shorts/wKvtf8oJkgA</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/wKvtf8oJkgA</guid>
+    <pubDate>Wed, 19 Aug 2026 15:55:50 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/wKvtf8oJkgA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/wKvtf8oJkgA/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/wKvtf8oJkgA" type="text/html" medium="video"/>
+    <yt:videoId>wKvtf8oJkgA</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Over/under 50 wins &amp; 8 majors?</title>
     <link>https://www.youtube.com/shorts/dB4NJMysG4Y</link>
@@ -655,20 +669,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <media:thumbnail url="https://media.skratch.golf/Getty_Images_2276267397_38fd47ae11/Getty_Images_2276267397_38fd47ae11.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Hoping to see this former Volunteer of the Year do his thing this week in Memphis. 😭</title>
-    <link>https://www.youtube.com/shorts/jgls4W4__74</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/jgls4W4__74</guid>
-    <pubDate>Wed, 12 Aug 2026 21:31:30 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/jgls4W4__74"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/jgls4W4__74/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/jgls4W4__74" type="text/html" medium="video"/>
-    <yt:videoId>jgls4W4__74</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
 </channel>
 </rss>
