@@ -9,8 +9,26 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 19 Aug 2026 16:54:23 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 17:20:41 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>ONE-IN-A-MILLION SHOT in Northern Ireland | Dan vs. Ben Royal Portrush Skins Game</title>
+    <link>https://www.youtube.com/watch?v=1_OZ6oMbNg0</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=1_OZ6oMbNg0</guid>
+    <pubDate>Wed, 19 Aug 2026 16:58:28 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;The Irish Links Showdown is finally here. Dan Rapaport and Ben Boskovich go head-to-head in an epic Skins Game match at the iconic Royal Portrush–and a one-in-a-million shot happens along the way. Then they stop by the @BushmillsGlobal Distillery to learn more about the brand&#x27;s generations of history and process for making some of the best whiskey in the world.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=1_OZ6oMbNg0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/1_OZ6oMbNg0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/1_OZ6oMbNg0" type="text/html" medium="video"/>
+    <yt:videoId>1_OZ6oMbNg0</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Lee Trevino Told Us His Greatest Hustle of All Time</title>
     <link>https://skratch.golf/news/news/lee-trevino-sandbagger-hustle-vanity-index-interview</link>
@@ -658,20 +676,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <media:thumbnail url="https://media.skratch.golf/20260813_Frustrated_Golfer_661985389d/20260813_Frustrated_Golfer_661985389d.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Hoping to see this former Volunteer of the Year do his thing this week in Memphis. 😭</title>
-    <link>https://www.youtube.com/shorts/jgls4W4__74</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/jgls4W4__74</guid>
-    <pubDate>Wed, 12 Aug 2026 21:31:30 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/jgls4W4__74"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/jgls4W4__74/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/jgls4W4__74" type="text/html" medium="video"/>
-    <yt:videoId>jgls4W4__74</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
 </channel>
 </rss>
