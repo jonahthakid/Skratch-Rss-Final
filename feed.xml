@@ -9,8 +9,19 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 19 Aug 2026 18:24:09 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 19:01:07 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Rory McIlroy May Have Just Dropped the Quote of the Year</title>
+    <link>https://skratch.golf/news/news/rory-mcilroy-liv-golf-quote-of-the-year-bmw-championship-2026</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/rory-mcilroy-liv-golf-quote-of-the-year-bmw-championship-2026</guid>
+    <pubDate>Wed, 19 Aug 2026 18:28:43 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;When it comes to LIV Golf, Rory McIlroy doesn’t exactly agree with “don’t kick a man when he’s down.”&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rory-mcilroy-liv-golf-quote-of-the-year-bmw-championship-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2290588776_2069da9290/Getty_Images_2290588776_2069da9290.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Rickie Fowler Is This Close to Getting Into the Masters</title>
     <link>https://skratch.golf/news/news/rickie-fowler-qualify-masters-advance-to-tour-championship-2026</link>
@@ -665,17 +676,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The Most Annoying Golf Behaviors, Ranked 10-1</title>
-    <link>https://skratch.golf/news/news/dan-rapaports-10-worst-golf-habits</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/dan-rapaports-10-worst-golf-habits</guid>
-    <pubDate>Thu, 13 Aug 2026 13:20:38 +0000</pubDate>
-    <dc:creator>Will Neary</dc:creator>
-    <description>&lt;p&gt;We all have someone in our lives who makes you wonder “Why did I do this to myself?” when you’re on the third hole together. Here are Dan Rapaport’s 10 most irksome golf habits.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/dan-rapaports-10-worst-golf-habits"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/20260813_Frustrated_Golfer_661985389d/20260813_Frustrated_Golfer_661985389d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
