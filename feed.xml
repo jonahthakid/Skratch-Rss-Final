@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 20 Aug 2026 14:28:45 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 15:05:22 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>&quot;This is probably the coolest place I&#x27;ve ever had a drink in my life.&quot; 🥃</title>
+    <link>https://www.youtube.com/shorts/NaMffTOkWiA</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/NaMffTOkWiA</guid>
+    <pubDate>Thu, 20 Aug 2026 14:50:48 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/NaMffTOkWiA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/NaMffTOkWiA/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/NaMffTOkWiA" type="text/html" medium="video"/>
+    <yt:videoId>NaMffTOkWiA</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Breaking Down LIV Rumors &amp; Scott O&#x27;Neil&#x27;s Comments</title>
     <link>https://www.youtube.com/watch?v=VC1uhIMK6JI</link>
@@ -532,20 +546,6 @@ Check out our website&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shor
     <media:thumbnail url="https://media.skratch.golf/20260816_Jack_Whaley_US_Amateur_173b6a3342/20260816_Jack_Whaley_US_Amateur_173b6a3342.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Fed Ex St Jude/U.S. Amateur LIVE Watch Along | Scheffler Leading, Leng Jr. vs. Whaley Final</title>
-    <link>https://www.youtube.com/watch?v=rxbUdccG7hc</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=rxbUdccG7hc</guid>
-    <pubDate>Sun, 16 Aug 2026 21:55:16 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Experience the final round of the FedEx St. Jude Championship and the U.S. Amateur live alongside Dan Rapaport.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=rxbUdccG7hc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/rxbUdccG7hc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/rxbUdccG7hc" type="text/html" medium="video"/>
-    <yt:videoId>rxbUdccG7hc</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>Casual 61 with a couple bogeys for the World No. 1.</title>
