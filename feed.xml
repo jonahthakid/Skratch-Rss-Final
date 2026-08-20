@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 20 Aug 2026 19:53:19 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 20:20:39 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>300+ degrees of PAIN.</title>
+    <link>https://www.youtube.com/shorts/3fOFZV59YZw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/3fOFZV59YZw</guid>
+    <pubDate>Thu, 20 Aug 2026 19:56:58 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/3fOFZV59YZw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/3fOFZV59YZw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/3fOFZV59YZw" type="text/html" medium="video"/>
+    <yt:videoId>3fOFZV59YZw</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>This is out of bounds…hardworking people deserve to be paid. @manorsgolf</title>
     <link>https://www.youtube.com/shorts/C8Z3ipuZSKI</link>
@@ -651,22 +665,6 @@ Check out our website&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shor
     <media:thumbnail url="https://img.youtube.com/vi/pbPGEksLcDU/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/pbPGEksLcDU" type="text/html" medium="video"/>
     <yt:videoId>pbPGEksLcDU</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Merion history is UNMATCHED 👀</title>
-    <link>https://www.youtube.com/shorts/8Slkkq8gy6w</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/8Slkkq8gy6w</guid>
-    <pubDate>Thu, 13 Aug 2026 23:43:28 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;There is no shortage of history at Merion.
-
-Who will be next to add their name to Merion&#x27;s record books?&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/8Slkkq8gy6w"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/8Slkkq8gy6w/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/8Slkkq8gy6w" type="text/html" medium="video"/>
-    <yt:videoId>8Slkkq8gy6w</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
