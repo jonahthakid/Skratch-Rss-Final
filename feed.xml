@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 21 Aug 2026 17:02:02 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 17:53:47 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Send this to your buddy who&#x27;d still miss this putt. 🤣</title>
+    <link>https://www.youtube.com/shorts/-cD58_iO-QY</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/-cD58_iO-QY</guid>
+    <pubDate>Fri, 21 Aug 2026 17:20:22 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/-cD58_iO-QY"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/-cD58_iO-QY/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/-cD58_iO-QY" type="text/html" medium="video"/>
+    <yt:videoId>-cD58_iO-QY</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Rory was NOT having it with this fan at the 2022 BMW Championship. 🤣</title>
     <link>https://www.youtube.com/shorts/P6GqUvesC_A</link>
@@ -651,20 +665,6 @@ Check out our website&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shor
     <media:thumbnail url="https://img.youtube.com/vi/s0SauW_9AGQ/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/s0SauW_9AGQ" type="text/html" medium="video"/>
     <yt:videoId>s0SauW_9AGQ</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>&quot;I&#x27;m a lot better golfer than I&#x27;ve been in a long time.&quot;</title>
-    <link>https://www.youtube.com/shorts/G5G46HWH1fo</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/G5G46HWH1fo</guid>
-    <pubDate>Fri, 14 Aug 2026 15:22:49 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/G5G46HWH1fo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/G5G46HWH1fo/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/G5G46HWH1fo" type="text/html" medium="video"/>
-    <yt:videoId>G5G46HWH1fo</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
