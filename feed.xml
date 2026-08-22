@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 22 Aug 2026 19:18:38 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 19:43:49 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>“I&#x27;m not going to crash out on the course this time.” Me on the first hole:</title>
+    <link>https://www.youtube.com/shorts/TOndHcKmrAM</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/TOndHcKmrAM</guid>
+    <pubDate>Sat, 22 Aug 2026 19:18:10 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/TOndHcKmrAM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/TOndHcKmrAM/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/TOndHcKmrAM" type="text/html" medium="video"/>
+    <yt:videoId>TOndHcKmrAM</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>BMW Championship fans are one of a kind. 😂</title>
     <link>https://www.youtube.com/shorts/G0Gc3r3Dy8o</link>
@@ -653,20 +667,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://media.skratch.golf/Jeeno_Thitikul_Portland_Win_Getty_Images_2290768539_df5ced9bdb/Jeeno_Thitikul_Portland_Win_Getty_Images_2290768539_df5ced9bdb.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>The two most profitable swings of all-time. 💰</title>
-    <link>https://www.youtube.com/shorts/HDzmNgoBp6k</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/HDzmNgoBp6k</guid>
-    <pubDate>Mon, 17 Aug 2026 14:27:06 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/HDzmNgoBp6k"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/HDzmNgoBp6k/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/HDzmNgoBp6k" type="text/html" medium="video"/>
-    <yt:videoId>HDzmNgoBp6k</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
 </channel>
 </rss>
