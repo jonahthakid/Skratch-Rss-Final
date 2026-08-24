@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 24 Aug 2026 17:05:18 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 24 Aug 2026 17:55:46 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>An all-time TOUR Championship moment.</title>
+    <link>https://www.youtube.com/shorts/-xY_0GolWaE</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/-xY_0GolWaE</guid>
+    <pubDate>Mon, 24 Aug 2026 17:06:59 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/-xY_0GolWaE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/-xY_0GolWaE/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/-xY_0GolWaE" type="text/html" medium="video"/>
+    <yt:videoId>-xY_0GolWaE</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Cash, Cash &amp; More Cash: Here’s What’s Up for Grabs at the 2026 TOUR Championship</title>
     <link>https://skratch.golf/news/news/tour-championship-2026-purse-payouts-breakdown-pga-tour-east-lake</link>
@@ -654,17 +668,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;Packed with modern technology plus vintage flair, the Callaway Full Toe SP wedges deliver versatility from everywhere.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/callaway-full-toe-sp-wedges-new-technology-spin"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://media.skratch.golf/callaway_full_toe_1_title_9ee4d962c6/callaway_full_toe_1_title_9ee4d962c6.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Is Jeeno Thitikul&#x27;s Game Built for a Certain Kind of Golf Course?</title>
-    <link>https://skratch.golf/news/news/jeeno-thitikul-major-title-course-fit</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/jeeno-thitikul-major-title-course-fit</guid>
-    <pubDate>Mon, 17 Aug 2026 14:30:14 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The World No. 2 has won 10 times on the LPGA. A closer look at where she thrives might just reveal something about that missing major.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jeeno-thitikul-major-title-course-fit"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Jeeno_Thitikul_Portland_Win_Getty_Images_2290768539_df5ced9bdb/Jeeno_Thitikul_Portland_Win_Getty_Images_2290768539_df5ced9bdb.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
