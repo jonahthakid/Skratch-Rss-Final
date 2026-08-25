@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 25 Aug 2026 21:50:52 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 22:19:10 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>“That cannot be what tipped the scales…”</title>
+    <link>https://www.youtube.com/shorts/9cyt8DZC6tw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/9cyt8DZC6tw</guid>
+    <pubDate>Tue, 25 Aug 2026 21:38:19 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Presented by @Knockaround.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/9cyt8DZC6tw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/9cyt8DZC6tw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/9cyt8DZC6tw" type="text/html" medium="video"/>
+    <yt:videoId>9cyt8DZC6tw</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>The final week of the PGA TOUR season. @RickRunGood gives his play for the TOUR Championship.</title>
     <link>https://www.youtube.com/shorts/1BIGl2bIKso</link>
@@ -654,20 +668,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://media.skratch.golf/Getty_Images_1857686553_3cb883ec95/Getty_Images_1857686553_3cb883ec95.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>&quot;I&#x27;m just trying to stay humble and remember where I&#x27;ve come from.&quot;</title>
-    <link>https://www.youtube.com/shorts/T46TEFGYlcQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/T46TEFGYlcQ</guid>
-    <pubDate>Wed, 19 Aug 2026 16:29:47 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/T46TEFGYlcQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/T46TEFGYlcQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/T46TEFGYlcQ" type="text/html" medium="video"/>
-    <yt:videoId>T46TEFGYlcQ</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>&quot;How is he still standing?!&quot; 🤣</title>
