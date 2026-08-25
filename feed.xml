@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 25 Aug 2026 17:53:20 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 18:30:26 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Lighters in the air for the TOUR’s return to Firestone. #TigerTuesday</title>
@@ -24,6 +24,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Read Good Good CEO Matt Kendrick&#x27;s Internal Memo About That Callaway Ad</title>
+    <link>https://skratch.golf/news/news/good-good-callaway-ceo-matt-kendrick-responds-internal-memo</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/good-good-callaway-ceo-matt-kendrick-responds-internal-memo</guid>
+    <pubDate>Tue, 25 Aug 2026 17:49:49 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;In a lengthy internal memo, Kendrick addressed the controversy stating &quot;our response cannot simply be pointing to what we have done in the past. We need to take action.&quot;&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/good-good-callaway-ceo-matt-kendrick-responds-internal-memo"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2230445186_dd26d0b8c2/Getty_Images_2230445186_dd26d0b8c2.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>How did this get through layers of approval?</title>
@@ -598,17 +609,6 @@ Subscribe to Skratch on &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/s
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;When it comes to LIV Golf, Rory McIlroy doesn’t exactly agree with “don’t kick a man when he’s down.”&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rory-mcilroy-liv-golf-quote-of-the-year-bmw-championship-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://media.skratch.golf/Getty_Images_2290588776_2069da9290/Getty_Images_2290588776_2069da9290.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Rickie Fowler Is This Close to Getting Into the Masters</title>
-    <link>https://skratch.golf/news/news/rickie-fowler-qualify-masters-advance-to-tour-championship-2026</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/rickie-fowler-qualify-masters-advance-to-tour-championship-2026</guid>
-    <pubDate>Wed, 19 Aug 2026 17:13:35 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;April is always better when Rickie Fowler is on property at Augusta National, and he&#x27;s just a solid week at the BMW Championship away from getting an invite back.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/rickie-fowler-qualify-masters-advance-to-tour-championship-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2290501658_e317407ddc/Getty_Images_2290501658_e317407ddc.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
