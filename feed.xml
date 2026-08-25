@@ -1,3 +1,4 @@
+<!-- Warning: Error fetching Dan On Golf Show: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCQvs9V1djea1wFurLJPlqMg -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -9,28 +10,8 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 25 Aug 2026 00:54:49 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 02:15:03 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
-  <item>
-    <title>S2 E65: The Real LIV Story, Player of the Year Debate, An INSANE Commercial</title>
-    <link>https://www.youtube.com/watch?v=pAA0Xczy5Yc</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=pAA0Xczy5Yc</guid>
-    <pubDate>Mon, 24 Aug 2026 23:57:31 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Wyndham Clark wins for the third time this year. Alan Shipnucks joins to discuss his story about the &quot;real LIV story,&quot; we debate Player of the Year &amp; address the Good Good x Callaway commercial that has since been removed. Also: World Dankings, Plaque or Waque &amp; Give Me A Winner. (edited)
-
-Thank You to Our Sponsors!
-
-Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
-
-Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockarou&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=pAA0Xczy5Yc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/pAA0Xczy5Yc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/pAA0Xczy5Yc" type="text/html" medium="video"/>
-    <yt:videoId>pAA0Xczy5Yc</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
   <item>
     <title>The LPGA Tour is back in Boston!</title>
     <link>https://www.youtube.com/shorts/k8an34z_r4U</link>
@@ -237,20 +218,6 @@ Subscribe to S&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/-WW-
     <category>article</category>
   </item>
   <item>
-    <title>Extreme SICKO Quiz: Guess That Mannerism</title>
-    <link>https://www.youtube.com/watch?v=MmK43BV1h7s</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=MmK43BV1h7s</guid>
-    <pubDate>Fri, 21 Aug 2026 12:30:09 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Dan Rapaport plays &#x27;Guess That Mannerism,&#x27; and has to guess 15 different golfers by their silhouette.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=MmK43BV1h7s"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/MmK43BV1h7s/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/MmK43BV1h7s" type="text/html" medium="video"/>
-    <yt:videoId>MmK43BV1h7s</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>So Much for Rookie Nerves: Kiara Romero Goes Low in Her Pro Debut</title>
     <link>https://skratch.golf/news/news/kiara-romero-rookie-debut-cpkc-womens-open-round-one</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/kiara-romero-rookie-debut-cpkc-womens-open-round-one</guid>
@@ -287,34 +254,6 @@ Subscribe to S&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/-WW-
     <category>video</category>
   </item>
   <item>
-    <title>This is out of bounds…hardworking people deserve to be paid. @manorsgolf</title>
-    <link>https://www.youtube.com/shorts/C8Z3ipuZSKI</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/C8Z3ipuZSKI</guid>
-    <pubDate>Thu, 20 Aug 2026 19:34:04 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/C8Z3ipuZSKI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/C8Z3ipuZSKI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/C8Z3ipuZSKI" type="text/html" medium="video"/>
-    <yt:videoId>C8Z3ipuZSKI</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>How many did you get?</title>
-    <link>https://www.youtube.com/shorts/K9XETTw0p1U</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/K9XETTw0p1U</guid>
-    <pubDate>Thu, 20 Aug 2026 17:10:13 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/K9XETTw0p1U"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/K9XETTw0p1U/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/K9XETTw0p1U" type="text/html" medium="video"/>
-    <yt:videoId>K9XETTw0p1U</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Gary Woodland Is Straight Up Launching It With This Club—Maybe It&#x27;s Time You Got Board?</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/gary-woodland-bmw-playoff-fairway-wood-easy</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/gary-woodland-bmw-playoff-fairway-wood-easy</guid>
@@ -346,82 +285,6 @@ Subscribe to S&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/-WW-
     <media:thumbnail url="https://media.skratch.golf/Screenshot_2026_08_20_at_10_54_11_AM_fec7e2f75e/Screenshot_2026_08_20_at_10_54_11_AM_fec7e2f75e.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>&quot;This is probably the coolest place I&#x27;ve ever had a drink in my life.&quot; 🥃</title>
-    <link>https://www.youtube.com/shorts/NaMffTOkWiA</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/NaMffTOkWiA</guid>
-    <pubDate>Thu, 20 Aug 2026 14:50:48 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/NaMffTOkWiA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/NaMffTOkWiA/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/NaMffTOkWiA" type="text/html" medium="video"/>
-    <yt:videoId>NaMffTOkWiA</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Breaking Down LIV Rumors &amp; Scott O&#x27;Neil&#x27;s Comments</title>
-    <link>https://www.youtube.com/watch?v=VC1uhIMK6JI</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=VC1uhIMK6JI</guid>
-    <pubDate>Thu, 20 Aug 2026 12:30:31 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Dan &amp; Ben break down the rumors swirling around LIV Golf, along with Scott O&#x27;Neil&#x27;s plan for LIV 2.0.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=VC1uhIMK6JI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/VC1uhIMK6JI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/VC1uhIMK6JI" type="text/html" medium="video"/>
-    <yt:videoId>VC1uhIMK6JI</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>What motivation does the PGA TOUR have for playing ball?</title>
-    <link>https://www.youtube.com/shorts/tyJdWIr4q54</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/tyJdWIr4q54</guid>
-    <pubDate>Thu, 20 Aug 2026 01:20:24 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/tyJdWIr4q54"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/tyJdWIr4q54/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/tyJdWIr4q54" type="text/html" medium="video"/>
-    <yt:videoId>tyJdWIr4q54</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>&quot;If you dropped a ball you would not get it closer than where he got it to.&quot;</title>
-    <link>https://www.youtube.com/shorts/q6k1QEQPoII</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/q6k1QEQPoII</guid>
-    <pubDate>Wed, 19 Aug 2026 23:45:07 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/q6k1QEQPoII"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/q6k1QEQPoII/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/q6k1QEQPoII" type="text/html" medium="video"/>
-    <yt:videoId>q6k1QEQPoII</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>S2 E64: LIV Golf in CHAOS, Joel Dahmen Interview, Ultimate Sicko Quiz</title>
-    <link>https://www.youtube.com/watch?v=_jO-bwkBoII</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=_jO-bwkBoII</guid>
-    <pubDate>Wed, 19 Aug 2026 23:18:33 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Rumors going wild around LIV Golf—Rahm to leave? LIV isn&#x27;t paying players/vendors? Also, Scott O&#x27;Neil spoke on the future of LIV Golf—we discuss it all. Joel Dahmen joins the show to speak on Hideki&#x27;s insane short game, past LIV offers &amp; more. We put Dan to the test: can he name these players based on their mannerisms? And as always, much more.
-
-Thank You to Our Sponsors!
-
-Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
-
-Dan travels all year and never l&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=_jO-bwkBoII"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/_jO-bwkBoII/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/_jO-bwkBoII" type="text/html" medium="video"/>
-    <yt:videoId>_jO-bwkBoII</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>There&#x27;s No Such Thing as a &quot;Dumb Question&quot; When You’re an LPGA Rookie</title>
@@ -517,20 +380,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>&quot;I&#x27;m just trying to stay humble and remember where I&#x27;ve come from.&quot;</title>
-    <link>https://www.youtube.com/shorts/T46TEFGYlcQ</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/T46TEFGYlcQ</guid>
-    <pubDate>Wed, 19 Aug 2026 16:29:47 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/T46TEFGYlcQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/T46TEFGYlcQ/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/T46TEFGYlcQ" type="text/html" medium="video"/>
-    <yt:videoId>T46TEFGYlcQ</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>&quot;How is he still standing?!&quot; 🤣</title>
     <link>https://www.youtube.com/shorts/wKvtf8oJkgA</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/wKvtf8oJkgA</guid>
@@ -542,48 +391,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:videoId>wKvtf8oJkgA</yt:videoId>
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Over/under 50 wins &amp; 8 majors?</title>
-    <link>https://www.youtube.com/shorts/dB4NJMysG4Y</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/dB4NJMysG4Y</guid>
-    <pubDate>Wed, 19 Aug 2026 15:06:49 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/dB4NJMysG4Y"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/dB4NJMysG4Y/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/dB4NJMysG4Y" type="text/html" medium="video"/>
-    <yt:videoId>dB4NJMysG4Y</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Playing the long game, or get in and then out? @RickRunGood&#x27;s play for the TOUR Championship.</title>
-    <link>https://www.youtube.com/shorts/uP3m3WcYe2Y</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/uP3m3WcYe2Y</guid>
-    <pubDate>Tue, 18 Aug 2026 21:30:27 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/uP3m3WcYe2Y"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/uP3m3WcYe2Y/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/uP3m3WcYe2Y" type="text/html" medium="video"/>
-    <yt:videoId>uP3m3WcYe2Y</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>Tag your playing partner who most qualifies.</title>
-    <link>https://www.youtube.com/shorts/L85SwA20f44</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/L85SwA20f44</guid>
-    <pubDate>Tue, 18 Aug 2026 19:30:13 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/L85SwA20f44"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/L85SwA20f44/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/L85SwA20f44" type="text/html" medium="video"/>
-    <yt:videoId>L85SwA20f44</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
     <category>video</category>
   </item>
   <item>
@@ -634,20 +441,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>Alan Shipnuck On LIV’s Future, Jon Rahm, The Future Of Golf</title>
-    <link>https://www.youtube.com/watch?v=ziLhxPT25ro</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=ziLhxPT25ro</guid>
-    <pubDate>Tue, 18 Aug 2026 14:58:18 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Alan Shipnuck joins the show to discuss everything LIV: where does the league go from here? What will Jon Rahm do? What does the pro golf landscape look like moving forward? Also, how many victories will Scottie Scheffler get to?&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=ziLhxPT25ro"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ziLhxPT25ro/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ziLhxPT25ro" type="text/html" medium="video"/>
-    <yt:videoId>ziLhxPT25ro</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>The Minimum Finish Required (for Each Player) to Earn a Spot in the TOUR Championship</title>
     <link>https://skratch.golf/news/news/bmw-championship-2026-minimum-finish-required-fedexcup-tour-championship</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/bmw-championship-2026-minimum-finish-required-fedexcup-tour-championship</guid>
@@ -657,20 +450,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <media:thumbnail url="https://media.skratch.golf/Getty_Images_2276748575_8009fe0ebf/Getty_Images_2276748575_8009fe0ebf.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Not every week, but the U.S. Amateur vibe is replicable with the world’s best.</title>
-    <link>https://www.youtube.com/shorts/TDL3ei3qMmE</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/TDL3ei3qMmE</guid>
-    <pubDate>Tue, 18 Aug 2026 01:30:11 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/TDL3ei3qMmE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/TDL3ei3qMmE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/TDL3ei3qMmE" type="text/html" medium="video"/>
-    <yt:videoId>TDL3ei3qMmE</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
   <item>
     <title>Could you take down Scottie with 20 strokes? 🤣</title>
@@ -685,6 +464,75 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Callaway Goes Full Send With Full Toe SP Wedges</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/callaway-full-toe-sp-wedges-new-technology-spin</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/callaway-full-toe-sp-wedges-new-technology-spin</guid>
+    <pubDate>Mon, 17 Aug 2026 15:38:47 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Packed with modern technology plus vintage flair, the Callaway Full Toe SP wedges deliver versatility from everywhere.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/callaway-full-toe-sp-wedges-new-technology-spin"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/callaway_full_toe_1_title_9ee4d962c6/callaway_full_toe_1_title_9ee4d962c6.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Is Jeeno Thitikul&#x27;s Game Built for a Certain Kind of Golf Course?</title>
+    <link>https://skratch.golf/news/news/jeeno-thitikul-major-title-course-fit</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/jeeno-thitikul-major-title-course-fit</guid>
+    <pubDate>Mon, 17 Aug 2026 14:30:14 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;The World No. 2 has won 10 times on the LPGA. A closer look at where she thrives might just reveal something about that missing major.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jeeno-thitikul-major-title-course-fit"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/Jeeno_Thitikul_Portland_Win_Getty_Images_2290768539_df5ced9bdb/Jeeno_Thitikul_Portland_Win_Getty_Images_2290768539_df5ced9bdb.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The two most profitable swings of all-time. 💰</title>
+    <link>https://www.youtube.com/shorts/HDzmNgoBp6k</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/HDzmNgoBp6k</guid>
+    <pubDate>Mon, 17 Aug 2026 14:27:06 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/HDzmNgoBp6k"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/HDzmNgoBp6k/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/HDzmNgoBp6k" type="text/html" medium="video"/>
+    <yt:videoId>HDzmNgoBp6k</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Two-and-a-half years old and already checking dad&#x27;s work</title>
+    <link>https://www.youtube.com/shorts/l47XnKFZI_k</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/l47XnKFZI_k</guid>
+    <pubDate>Mon, 17 Aug 2026 00:51:14 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Theo Kim: Little legend.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
+
+Check out our website&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/l47XnKFZI_k"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/l47XnKFZI_k/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/l47XnKFZI_k" type="text/html" medium="video"/>
+    <yt:videoId>l47XnKFZI_k</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Two LPGA Players Have Already Earned Their Cards Through LEAP. Here&#x27;s How It Works.</title>
+    <link>https://skratch.golf/news/pro-golf/lpga-leap-pathway-program-explained</link>
+    <guid isPermaLink="true">https://skratch.golf/news/pro-golf/lpga-leap-pathway-program-explained</guid>
+    <pubDate>Tue, 28 Jan 2025 20:03:24 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;Lottie Woad and Kiara Romero have punched their tickets to the LPGA through LEAP, here&#x27;s your guide to how the pathway works, and why we dig it.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/pro-golf/lpga-leap-pathway-program-explained"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2272980693_5250852cbe/Getty_Images_2272980693_5250852cbe.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
 </channel>
 </rss>
