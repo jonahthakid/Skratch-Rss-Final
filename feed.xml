@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 26 Aug 2026 18:11:45 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 26 Aug 2026 20:28:10 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Caddie had ONE job! 😭😭</title>
+    <link>https://www.youtube.com/shorts/vxoJywH_nEM</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/vxoJywH_nEM</guid>
+    <pubDate>Wed, 26 Aug 2026 18:57:23 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/vxoJywH_nEM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/vxoJywH_nEM/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/vxoJywH_nEM" type="text/html" medium="video"/>
+    <yt:videoId>vxoJywH_nEM</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Wishing Scottie’s newest fan a happy #NationalDogDay.</title>
     <link>https://www.youtube.com/shorts/pPYubdf_sYc</link>
@@ -655,20 +669,6 @@ Subscribe to S&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/-WW-
     <media:thumbnail url="https://img.youtube.com/vi/tyJdWIr4q54/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/tyJdWIr4q54" type="text/html" medium="video"/>
     <yt:videoId>tyJdWIr4q54</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>&quot;If you dropped a ball you would not get it closer than where he got it to.&quot;</title>
-    <link>https://www.youtube.com/shorts/q6k1QEQPoII</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/q6k1QEQPoII</guid>
-    <pubDate>Wed, 19 Aug 2026 23:45:07 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/q6k1QEQPoII"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/q6k1QEQPoII/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/q6k1QEQPoII" type="text/html" medium="video"/>
-    <yt:videoId>q6k1QEQPoII</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
