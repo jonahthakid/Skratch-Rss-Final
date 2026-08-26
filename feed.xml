@@ -9,8 +9,28 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 26 Aug 2026 14:37:08 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 26 Aug 2026 16:12:18 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Rosie, Foxy and Scottie, OH, MY! Pumped for another epic season finale at East Lake.</title>
+    <link>https://www.youtube.com/shorts/jtuWjiZyEfg</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/jtuWjiZyEfg</guid>
+    <pubDate>Wed, 26 Aug 2026 15:36:57 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Addie Parker goes full-coverage with @supergoop from the grounds in Atlanta.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss out on the most ente&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/jtuWjiZyEfg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/jtuWjiZyEfg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/jtuWjiZyEfg" type="text/html" medium="video"/>
+    <yt:videoId>jtuWjiZyEfg</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Brooks Koepka Is Taking His Talents to Motor City</title>
     <link>https://skratch.golf/news/news/brooks-koepka-tgl-detroit-motor-city-golf-club</link>
@@ -664,17 +684,6 @@ Subscribe to Skratch on &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/s
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>PING Just Quietly Expanded Its Wildly Successful Scottsdale Tec Putter Suite</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/new-update-ping-irons-putters-tec-midnight</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/new-update-ping-irons-putters-tec-midnight</guid>
-    <pubDate>Wed, 19 Aug 2026 19:04:10 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;That, and they added a new &#x27;midnight&#x27; finish to the G740 irons. Here&#x27;s why they&#x27;re both worth a heads up.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/new-update-ping-irons-putters-tec-midnight"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/PING_G740_midnight_title_00955ab926/PING_G740_midnight_title_00955ab926.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
