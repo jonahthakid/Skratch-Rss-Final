@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 30 Aug 2026 18:08:49 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 30 Aug 2026 21:19:48 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>TOUR Championship LIVE Watch Along | Scheffler, Hovland Battling for FedEx Cup Title</title>
+    <link>https://www.youtube.com/watch?v=jp0Afo1WfDM</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=jp0Afo1WfDM</guid>
+    <pubDate>Sun, 30 Aug 2026 19:51:07 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Watch the Tour Championship, the PGA Tour&#x27;s FedEx Cup Playoff finale, play out alongside Dan Rapaport&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=jp0Afo1WfDM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/jp0Afo1WfDM/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/jp0Afo1WfDM" type="text/html" medium="video"/>
+    <yt:videoId>jp0Afo1WfDM</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>BIG LPGA payday at TPC Boston | FM Championship final-round preview</title>
     <link>https://www.youtube.com/shorts/yx8SvxRYiMk</link>
@@ -650,20 +664,6 @@ Check &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=997GJspBKas
     <media:thumbnail url="https://img.youtube.com/vi/qSSa3esJZgU/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/qSSa3esJZgU" type="text/html" medium="video"/>
     <yt:videoId>qSSa3esJZgU</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>&quot;Bryson sees himself as an entertainer, a content creator &amp; a golfer. Rahm just wants to play golf.&quot;</title>
-    <link>https://www.youtube.com/shorts/r2fwmC_KEMo</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/r2fwmC_KEMo</guid>
-    <pubDate>Tue, 25 Aug 2026 04:45:10 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/r2fwmC_KEMo"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/r2fwmC_KEMo/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/r2fwmC_KEMo" type="text/html" medium="video"/>
-    <yt:videoId>r2fwmC_KEMo</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
