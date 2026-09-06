@@ -1,3 +1,4 @@
+<!-- Warning: Error fetching Skratch Articles: 500 Server Error: Internal Server Error for url: https://www.skratch.golf/rss -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -9,7 +10,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 06 Sep 2026 21:29:50 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 06 Sep 2026 23:03:04 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Everything needed to happen... and everything did. Cannot believe what happened to the U.S. Team.</title>
@@ -52,28 +53,6 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Charlie Woods is in Contention at The Junior PLAYERS</title>
-    <link>https://skratch.golf/news/news/charlie-woods-the-junior-players-2026-score-tpc-sawgrass-tiger-woods</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/charlie-woods-the-junior-players-2026-score-tpc-sawgrass-tiger-woods</guid>
-    <pubDate>Fri, 04 Sep 2026 18:20:40 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Charlie shot 1 under at TPC Sawgrass on Friday and is in contention at The Junior PLAYERS.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/charlie-woods-the-junior-players-2026-score-tpc-sawgrass-tiger-woods"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2287622955_4de0a8859f/Getty_Images_2287622955_4de0a8859f.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Charlie Woods Officially Signs NIL Deal With TaylorMade</title>
-    <link>https://skratch.golf/news/news/charlie-woods-taylormade-nil-deal-sign</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/charlie-woods-taylormade-nil-deal-sign</guid>
-    <pubDate>Fri, 04 Sep 2026 17:52:19 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Charlie Woods joins Scottie Scheffler and Rory McIlroy as TaylorMade continues to grow NIL roster of players.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/charlie-woods-taylormade-nil-deal-sign"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Charlie_woods_NIL_3aeafb7a08/Charlie_woods_NIL_3aeafb7a08.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Is -6 through 7 holes any good? 😅</title>
@@ -136,17 +115,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Thank You, Brandt Snedeker—Signed Every Team USA Fan</title>
-    <link>https://skratch.golf/news/news/presidents-cup-2026-brandt-snedeker-team-usa-picks-jackson-koivun</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/presidents-cup-2026-brandt-snedeker-team-usa-picks-jackson-koivun</guid>
-    <pubDate>Wed, 02 Sep 2026 17:32:04 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The golf world wanted Jackson Koivun in red, white, and blue—and Brandt Snedeker gave us just that. Don&#x27;t be surprised if he&#x27;s a problem (in a good way) at Medinah.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/presidents-cup-2026-brandt-snedeker-team-usa-picks-jackson-koivun"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2289610998_84d8427ecc/Getty_Images_2289610998_84d8427ecc.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Not breaking out until he was 25 means Scottie isn’t just great, he’s extremely well adjusted.</title>
     <link>https://www.youtube.com/shorts/OYFUllvcZF0</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/OYFUllvcZF0</guid>
@@ -189,17 +157,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Meet Team USA and Team International for the 2026 Presidents Cup</title>
-    <link>https://skratch.golf/news/news/president-cup-2026-team-usa-team-international-captains-picks</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/president-cup-2026-team-usa-team-international-captains-picks</guid>
-    <pubDate>Tue, 01 Sep 2026 18:05:46 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Captain&#x27;s picks are in for the American and International Teams, and now all eyes turn to Medinah.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/president-cup-2026-team-usa-team-international-captains-picks"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2242006486_941c2ee093/Getty_Images_2242006486_941c2ee093.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Scottie wanted a private moment. He deserves it. @manorsgolf</title>
     <link>https://www.youtube.com/shorts/TZgMSN9qXPs</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/TZgMSN9qXPs</guid>
@@ -212,17 +169,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Should Ex-PGA Tour Pros be Able to Become Amateurs Again?</title>
-    <link>https://skratch.golf/news/news/colt-knost-amateur-status-usga-ex-pros-returning-to-amateur-golf</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/colt-knost-amateur-status-usga-ex-pros-returning-to-amateur-golf</guid>
-    <pubDate>Tue, 01 Sep 2026 17:03:39 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Colt Knost, who made 199 starts on the PGA Tour, is trying to become an amateur again—but the USGA is now reviewing its reinstatement guidelines.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/colt-knost-amateur-status-usga-ex-pros-returning-to-amateur-golf"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_1509711856_06f6e09b2d/Getty_Images_1509711856_06f6e09b2d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>There are no winners here. This has been bad on top of bad.</title>
@@ -265,17 +211,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Psst: It Doesn&#x27;t (Actually) Matter How Far You Hit Your 7-Iron...</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/distance-irons-fitting-technology</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/distance-irons-fitting-technology</guid>
-    <pubDate>Tue, 01 Sep 2026 14:28:23 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;In the never-ending battle to gain distance, too many golfers waste precious energy focusing on the wrong thing when it comes to their irons.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/distance-irons-fitting-technology"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2286542212_4314d79d87/Getty_Images_2286542212_4314d79d87.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Imagine if this was Wyndham Clark… Presented by @Knockaround.</title>
@@ -340,17 +275,6 @@ Dan travels all year and never leaves his Knockarounds &lt;/p&gt;&lt;p&gt;&lt;a 
     <category>video</category>
   </item>
   <item>
-    <title>PING Just Dropped A Hint That New Gear Is On the Way</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/ping-g440-woods-price-drop-hint-new</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/ping-g440-woods-price-drop-hint-new</guid>
-    <pubDate>Mon, 31 Aug 2026 18:14:05 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;An end-of-season price drop on some of the most popular drivers and fairway woods on the market can only mean one thing...&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/ping-g440-woods-price-drop-hint-new"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/G440_family_b475cd531f/G440_family_b475cd531f.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Shanks look a little different from 2x FedEx Cup winners. 🤣</title>
     <link>https://www.youtube.com/shorts/2KgWt-2V7-I</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/2KgWt-2V7-I</guid>
@@ -377,17 +301,6 @@ Dan travels all year and never leaves his Knockarounds &lt;/p&gt;&lt;p&gt;&lt;a 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>LIV Golf is on the Verge of Bankruptcy, with Player Settlements Worth Pennies on the Dollar</title>
-    <link>https://skratch.golf/news/news/liv-golf-bankruptcy-player-settlements-pennies-on-the-dollar</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/liv-golf-bankruptcy-player-settlements-pennies-on-the-dollar</guid>
-    <pubDate>Mon, 31 Aug 2026 14:14:17 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;According to a recent report, LIV Golf could file for bankruptcy as soon as next week, and the league&#x27;s new investor won&#x27;t fully commit with LIV having trouble gaining player commitments.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/liv-golf-bankruptcy-player-settlements-pennies-on-the-dollar"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2271682862_61a808e75e/Getty_Images_2271682862_61a808e75e.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Ronni Yin&#x27;s new mindset gets her BACK in LPGA winner&#x27;s circle after 672 (!!!) DAYS</title>
@@ -442,17 +355,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>The FedEx Cup Winner Will Likely Have One Of These In The Bag</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/fedex-cup-tour-champ-fairways-taylormade-winner</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/fedex-cup-tour-champ-fairways-taylormade-winner</guid>
-    <pubDate>Sat, 29 Aug 2026 23:45:47 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;When it comes to fairway woods, this brand is owning the top of the leaderboard at the Tour Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/fedex-cup-tour-champ-fairways-taylormade-winner"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2290588776_2069da9290/Getty_Images_2290588776_2069da9290.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>30 years ago today, Tiger made the first start of his legendary TOUR career. The rest was history.</title>
@@ -515,28 +417,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Don’t Forget About Cameron Young in the POY Race</title>
-    <link>https://skratch.golf/news/news/cameron-young-tour-championship-2026-second-round-player-of-the-year</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/cameron-young-tour-championship-2026-second-round-player-of-the-year</guid>
-    <pubDate>Fri, 28 Aug 2026 18:45:02 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Is it a two-man race for Player of the Year? Not if Cameron Young hoists two trophies on Sunday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/cameron-young-tour-championship-2026-second-round-player-of-the-year"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2292478863_3634bf7ad4/Getty_Images_2292478863_3634bf7ad4.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Perfect GIR Is Rare. Doing It Twice Is Just Showing Off.</title>
-    <link>https://skratch.golf/news/news/ruoning-yin-perfect-greens-in-regulation-fm-championship-lpga</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/ruoning-yin-perfect-greens-in-regulation-fm-championship-lpga</guid>
-    <pubDate>Fri, 28 Aug 2026 18:44:30 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Ruoning Yin put together another flawless ball striking performance Friday at the FM Championship—becoming the first and only LPGA player to hit all 18 greens in regulation twice this season.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/ruoning-yin-perfect-greens-in-regulation-fm-championship-lpga"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Ruoning_Yin_cpkc_2026_Getty_Images_2290843395_1375bdda88/Ruoning_Yin_cpkc_2026_Getty_Images_2290843395_1375bdda88.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>“You create a space for where you want to be.”</title>
     <link>https://www.youtube.com/shorts/wEJO70Iw-b4</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/wEJO70Iw-b4</guid>
@@ -565,17 +445,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Anna Nordqvist Isn&#x27;t Done Yet, Rallies to Make Cut in Final LPGA Start</title>
-    <link>https://skratch.golf/news/news/anna-nordqvist-final-lpga-start-fm-championship-retirement</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/anna-nordqvist-final-lpga-start-fm-championship-retirement</guid>
-    <pubDate>Fri, 28 Aug 2026 16:42:56 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Retirement is coming, but not quite yet. Anna Nordqvist rallied with a 4-under 68 to earn one more weekend in her final LPGA start.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/anna-nordqvist-final-lpga-start-fm-championship-retirement"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2292333252_9a8d158bc3/Getty_Images_2292333252_9a8d158bc3.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>What a strategy.</title>
     <link>https://www.youtube.com/shorts/ao5HZa9Nx3Y</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/ao5HZa9Nx3Y</guid>
@@ -588,94 +457,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Is Angel Yin Ready for the Solheim Cup?</title>
-    <link>https://skratch.golf/news/news/angel-yin-solheim-cup-ready-fm-championship</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/angel-yin-solheim-cup-ready-fm-championship</guid>
-    <pubDate>Fri, 28 Aug 2026 15:36:14 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;After missing several weeks of competition due to health issues, Yin returns at the FM Championship this week—the final event before the Solheim Cup—and opened with an 81.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/angel-yin-solheim-cup-ready-fm-championship"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2251889277_3207bfde65/Getty_Images_2251889277_3207bfde65.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Big Break Season Cancelled After Good Good Controversy</title>
-    <link>https://skratch.golf/news/news/good-good-golf-big-break-canceled-2026-golf-channel</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/good-good-golf-big-break-canceled-2026-golf-channel</guid>
-    <pubDate>Thu, 27 Aug 2026 22:09:06 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The Big Break revival, which was filmed in collaboration with Good Good, won&#x27;t be released after it was originally delayed earlier this week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/good-good-golf-big-break-canceled-2026-golf-channel"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/images_88ab7d00b9/images_88ab7d00b9.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Iron Shaft Change That’s Paying Off For Min Woo Lee In Atlanta</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/min-woo-lee-shaft-change-tour-championship</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/min-woo-lee-shaft-change-tour-championship</guid>
-    <pubDate>Thu, 27 Aug 2026 21:41:00 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;A last-minute testing session helped MWL shoot a first-round 62 at the TOUR Championship in Atlanta.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/min-woo-lee-shaft-change-tour-championship"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2270073195_c3c991719c/Getty_Images_2270073195_c3c991719c.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Good Good Steps Away as the Sponsor of a PGA TOUR FedEx Fall Event</title>
-    <link>https://skratch.golf/news/news/good-good-backs-out-of-good-good-championship-pga-tour-sponsor</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/good-good-backs-out-of-good-good-championship-pga-tour-sponsor</guid>
-    <pubDate>Thu, 27 Aug 2026 20:31:11 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The November event is now listed as the &quot;Austin Championship,&quot; but the PGA TOUR will provide a sponsor update at a later date.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/good-good-backs-out-of-good-good-championship-pga-tour-sponsor"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2230445449_9014b4ff84/Getty_Images_2230445449_9014b4ff84.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Callaway has Ended its Relationship with Good Good, Effective Immediately</title>
-    <link>https://skratch.golf/news/news/callaway-ends-relationship-with-good-good-golf-official-statement</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/callaway-ends-relationship-with-good-good-golf-official-statement</guid>
-    <pubDate>Thu, 27 Aug 2026 17:41:14 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Callaway says its content review process fell short and has pledged $1 million toward preventing violence against women.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/callaway-ends-relationship-with-good-good-golf-official-statement"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2168154484_46d11babb3/Getty_Images_2168154484_46d11babb3.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>J.J. Spaun Withdraws Just 5 Holes Into the TOUR Championship</title>
-    <link>https://skratch.golf/news/news/tour-championship-2026-jj-spaun-withdraws-wd-east-lake-pga-tour</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/tour-championship-2026-jj-spaun-withdraws-wd-east-lake-pga-tour</guid>
-    <pubDate>Thu, 27 Aug 2026 17:28:00 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Spaun&#x27;s shoulder might feel a little better knowing he&#x27;s still going home with a nice paycheck at the TOUR Championship.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tour-championship-2026-jj-spaun-withdraws-wd-east-lake-pga-tour"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2292319937_22d13b410f/Getty_Images_2292319937_22d13b410f.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Brooks Koepka Is Taking His Talents to Motor City</title>
-    <link>https://skratch.golf/news/news/brooks-koepka-tgl-detroit-motor-city-golf-club</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/brooks-koepka-tgl-detroit-motor-city-golf-club</guid>
-    <pubDate>Wed, 26 Aug 2026 13:36:32 +0000</pubDate>
-    <dc:creator>Will Neary</dc:creator>
-    <description>&lt;p&gt;The five-time major champion becomes the first name added to Detroit’s Motor City Golf Club, the first expansion franchise of TGL, ahead of the 2027 season&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/brooks-koepka-tgl-detroit-motor-city-golf-club"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2237903098_4260c2b317/Getty_Images_2237903098_4260c2b317.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The 2027 PGA TOUR Schedule Has Arrived. Here&#x27;s the (Almost) Full Slate.</title>
-    <link>https://skratch.golf/news/news/pga-tour-2027-season-schedule-majors-signature-events</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-2027-season-schedule-majors-signature-events</guid>
-    <pubDate>Wed, 26 Aug 2026 13:12:30 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Aside from a TBD tournament in February, the full 2027 PGA TOUR schedule was released on Wednesday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-2027-season-schedule-majors-signature-events"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_1920489643_e285794aa9/Getty_Images_1920489643_e285794aa9.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
