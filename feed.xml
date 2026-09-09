@@ -9,8 +9,72 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 09 Sep 2026 13:48:22 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 09 Sep 2026 17:28:06 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>It’s all in the hips. 🤣 Celebrating Adam Sandler’s 60th with a tutorial from the GOAT.</title>
+    <link>https://www.youtube.com/shorts/tWW2dRoEcqQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/tWW2dRoEcqQ</guid>
+    <pubDate>Wed, 09 Sep 2026 17:03:15 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;🎥: Bryson DeChambeau&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/tWW2dRoEcqQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/tWW2dRoEcqQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/tWW2dRoEcqQ" type="text/html" medium="video"/>
+    <yt:videoId>tWW2dRoEcqQ</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>How the U.S. Ryder Cup Qualification Process Is Changing for 2027</title>
+    <link>https://skratch.golf/news/news/ryder-cup-2027-team-usa-qualification-process-captain-jim-furyk</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/ryder-cup-2027-team-usa-qualification-process-captain-jim-furyk</guid>
+    <pubDate>Wed, 09 Sep 2026 16:51:09 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Team USA captain Jim Furyk has outlined the new qualification process heading into the 2027 Ryder Cup at Adare Manor.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/ryder-cup-2027-team-usa-qualification-process-captain-jim-furyk"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/20260813_Jim_Furyk_Ryder_Cup_159584eee0/20260813_Jim_Furyk_Ryder_Cup_159584eee0.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>The ULTIMATE buddies golf trip to Cabot Citrus Farms</title>
+    <link>https://www.youtube.com/watch?v=dkDSZOpalH0</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=dkDSZOpalH0</guid>
+    <pubDate>Wed, 09 Sep 2026 14:46:57 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Wells Adams and Chad Mumm of the Vanity Index Podcast head to Cabot Citrus Farms for the ULTIMATE buddies golf trip. They tee it up on the property&#x27;s four courses: Karoo, Roost, The Squeeze and The Wedge, and explore everything else Cabot Citrus Farms has to offer–with plenty of money on the line.
+
+0:00-0:41 – Intro
+0:42-9:24 – Karoo
+9:25-10:46 – The Porch
+10:47-13:32 – Sporting Club
+13:33-15:28 – Cottages
+15:29-16:54 – The Wedge
+16:55-18:21 – Roost
+18:22-20:44 – The Squeeze
+
+The intersection of&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=dkDSZOpalH0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/dkDSZOpalH0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/dkDSZOpalH0" type="text/html" medium="video"/>
+    <yt:videoId>dkDSZOpalH0</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Ball Knower.</title>
+    <link>https://www.youtube.com/shorts/Owi3Hph2_kA</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/Owi3Hph2_kA</guid>
+    <pubDate>Wed, 09 Sep 2026 14:30:23 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Owi3Hph2_kA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Owi3Hph2_kA/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Owi3Hph2_kA" type="text/html" medium="video"/>
+    <yt:videoId>Owi3Hph2_kA</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>If any NFL teams still need a Week 1 QB, this guy’s a free agent. #TigerTuesday</title>
     <link>https://www.youtube.com/shorts/f_WFM-Kaz3s</link>
@@ -472,20 +536,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>Imagine if this was Wyndham Clark… Presented by @Knockaround.</title>
-    <link>https://www.youtube.com/shorts/zoZDpbwBb1E</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/zoZDpbwBb1E</guid>
-    <pubDate>Mon, 31 Aug 2026 22:20:40 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/zoZDpbwBb1E"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/zoZDpbwBb1E/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/zoZDpbwBb1E" type="text/html" medium="video"/>
-    <yt:videoId>zoZDpbwBb1E</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Whatever you do today, do NOT talk to ​⁠@PadraigHarringtonOfficial’s golf ball. 🤣</title>
     <link>https://www.youtube.com/shorts/ZGuV3GYOqGk</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/ZGuV3GYOqGk</guid>
@@ -521,6 +571,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Ryan Barath</dc:creator>
     <description>&lt;p&gt;An end-of-season price drop on some of the most popular drivers and fairway woods on the market can only mean one thing...&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/ping-g440-woods-price-drop-hint-new"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://media.skratch.golf/G440_family_b475cd531f/G440_family_b475cd531f.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>A Case for Making a Dubai Golf Trip Happen</title>
+    <link>https://skratch.golf/news/news/dubai-golf-trip-yas-links-emirates-golf-club</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/dubai-golf-trip-yas-links-emirates-golf-club</guid>
+    <pubDate>Mon, 31 Aug 2026 17:24:36 +0000</pubDate>
+    <dc:creator>Luke Leesburg</dc:creator>
+    <description>&lt;p&gt;From the latest episode of Skratch&#x27;s Working Holiday, we&#x27;ve put together a golfers guide to one of the most unique and visually stunning cities in the world.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/dubai-golf-trip-yas-links-emirates-golf-club"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/DSC_7172_139f2ee3f1/DSC_7172_139f2ee3f1.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -564,46 +625,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>Ronni Yin&#x27;s new mindset gets her BACK in LPGA winner&#x27;s circle after 672 (!!!) DAYS</title>
-    <link>https://www.youtube.com/shorts/2wt6tTrnSYI</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/2wt6tTrnSYI</guid>
-    <pubDate>Mon, 31 Aug 2026 13:29:32 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;After 672 days, Ronni Yin is back in the winner’s circle once again. 🏆
-
-Claire Rogers recaps her FM Championship victory and explains why Yin’s mindset shift helped her get it done. Presented by @TheFMGroup. 
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reason&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/2wt6tTrnSYI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/2wt6tTrnSYI/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/2wt6tTrnSYI" type="text/html" medium="video"/>
-    <yt:videoId>2wt6tTrnSYI</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>BIG LPGA payday at TPC Boston | FM Championship final-round preview</title>
-    <link>https://www.youtube.com/shorts/yx8SvxRYiMk</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/yx8SvxRYiMk</guid>
-    <pubDate>Sun, 30 Aug 2026 14:18:45 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;The final round of the FM Championship at TPC Boston is going to be an action-packed Sunday. 
-
-Claire Rogers breaks down what you need to know, presented by @TheFMGroup. 
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavo&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/yx8SvxRYiMk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/yx8SvxRYiMk/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/yx8SvxRYiMk" type="text/html" medium="video"/>
-    <yt:videoId>yx8SvxRYiMk</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>The FedEx Cup Winner Will Likely Have One Of These In The Bag</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/fedex-cup-tour-champ-fairways-taylormade-winner</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/fedex-cup-tour-champ-fairways-taylormade-winner</guid>
@@ -644,28 +665,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;Retirement is coming, but not quite yet. Anna Nordqvist rallied with a 4-under 68 to earn one more weekend in her final LPGA start.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/anna-nordqvist-final-lpga-start-fm-championship-retirement"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://media.skratch.golf/Getty_Images_2292333252_9a8d158bc3/Getty_Images_2292333252_9a8d158bc3.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Is Angel Yin Ready for the Solheim Cup?</title>
-    <link>https://skratch.golf/news/news/angel-yin-solheim-cup-ready-fm-championship</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/angel-yin-solheim-cup-ready-fm-championship</guid>
-    <pubDate>Fri, 28 Aug 2026 15:36:14 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;After missing several weeks of competition due to health issues, Yin returns at the FM Championship this week—the final event before the Solheim Cup—and opened with an 81.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/angel-yin-solheim-cup-ready-fm-championship"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2251889277_3207bfde65/Getty_Images_2251889277_3207bfde65.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Callaway has Ended its Relationship with Good Good, Effective Immediately</title>
-    <link>https://skratch.golf/news/news/callaway-ends-relationship-with-good-good-golf-official-statement</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/callaway-ends-relationship-with-good-good-golf-official-statement</guid>
-    <pubDate>Thu, 27 Aug 2026 17:41:14 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Callaway says its content review process fell short and has pledged $1 million toward preventing violence against women.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/callaway-ends-relationship-with-good-good-golf-official-statement"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2168154484_46d11babb3/Getty_Images_2168154484_46d11babb3.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
