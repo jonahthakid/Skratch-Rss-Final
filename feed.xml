@@ -9,8 +9,36 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 10 Sep 2026 17:36:38 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 10 Sep 2026 20:18:55 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Wise words from Arnie to help simplify the game. 👑</title>
+    <link>https://www.youtube.com/shorts/j5yxHwtgcPw</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/j5yxHwtgcPw</guid>
+    <pubDate>Thu, 10 Sep 2026 19:29:05 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/j5yxHwtgcPw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/j5yxHwtgcPw/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/j5yxHwtgcPw" type="text/html" medium="video"/>
+    <yt:videoId>j5yxHwtgcPw</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Kristoffer Reitan. Jackson Koivun. Alex Fitzpatrick. Outstanding years from these rookies on Tour.</title>
+    <link>https://www.youtube.com/shorts/ylasP0LkTFE</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/ylasP0LkTFE</guid>
+    <pubDate>Thu, 10 Sep 2026 18:00:35 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ylasP0LkTFE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/ylasP0LkTFE/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/ylasP0LkTFE" type="text/html" medium="video"/>
+    <yt:videoId>ylasP0LkTFE</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Whether it&#x27;s on the gridiron or the links, these guys are a PROBLEM.</title>
     <link>https://www.youtube.com/shorts/CziZZS87zqo</link>
@@ -24,6 +52,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Angel Yin Will Suit Up For Team USA...But When?</title>
+    <link>https://skratch.golf/news/news/solheim-cup-teams-usa-angel-yin-update</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/solheim-cup-teams-usa-angel-yin-update</guid>
+    <pubDate>Thu, 10 Sep 2026 16:54:25 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;It&#x27;s confirmed. The Americans&#x27; biggest question mark in Angel Yin will play this weekend. But it may be a while before we see her.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/solheim-cup-teams-usa-angel-yin-update"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2294132746_5a69ba8218/Getty_Images_2294132746_5a69ba8218.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Check Out the Opening Matches for the 2026 Solheim Cup</title>
@@ -547,20 +586,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>Scottie wanted a private moment. He deserves it. @manorsgolf</title>
-    <link>https://www.youtube.com/shorts/TZgMSN9qXPs</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/TZgMSN9qXPs</guid>
-    <pubDate>Tue, 01 Sep 2026 17:30:01 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/TZgMSN9qXPs"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/TZgMSN9qXPs/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/TZgMSN9qXPs" type="text/html" medium="video"/>
-    <yt:videoId>TZgMSN9qXPs</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Should Ex-PGA Tour Pros be Able to Become Amateurs Again?</title>
     <link>https://skratch.golf/news/news/colt-knost-amateur-status-usga-ex-pros-returning-to-amateur-golf</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/colt-knost-amateur-status-usga-ex-pros-returning-to-amateur-golf</guid>
@@ -611,20 +636,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>Reminder: golf is hard. This guy&#x27;s won $130M doing it. 🤣</title>
-    <link>https://www.youtube.com/shorts/fsq9tz6DYeM</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/fsq9tz6DYeM</guid>
-    <pubDate>Mon, 31 Aug 2026 19:27:55 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/fsq9tz6DYeM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/fsq9tz6DYeM/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/fsq9tz6DYeM" type="text/html" medium="video"/>
-    <yt:videoId>fsq9tz6DYeM</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>PING Just Dropped A Hint That New Gear Is On the Way</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/ping-g440-woods-price-drop-hint-new</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/ping-g440-woods-price-drop-hint-new</guid>
@@ -643,17 +654,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Luke Leesburg</dc:creator>
     <description>&lt;p&gt;From the latest episode of Skratch&#x27;s Working Holiday, we&#x27;ve put together a golfers guide to one of the most unique and visually stunning cities in the world.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/dubai-golf-trip-yas-links-emirates-golf-club"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://media.skratch.golf/DSC_7172_139f2ee3f1/DSC_7172_139f2ee3f1.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>LIV Golf is on the Verge of Bankruptcy, with Player Settlements Worth Pennies on the Dollar</title>
-    <link>https://skratch.golf/news/news/liv-golf-bankruptcy-player-settlements-pennies-on-the-dollar</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/liv-golf-bankruptcy-player-settlements-pennies-on-the-dollar</guid>
-    <pubDate>Mon, 31 Aug 2026 14:14:17 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;According to a recent report, LIV Golf could file for bankruptcy as soon as next week, and the league&#x27;s new investor won&#x27;t fully commit with LIV having trouble gaining player commitments.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/liv-golf-bankruptcy-player-settlements-pennies-on-the-dollar"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2271682862_61a808e75e/Getty_Images_2271682862_61a808e75e.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
