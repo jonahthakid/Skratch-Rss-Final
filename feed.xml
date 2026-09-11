@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 11 Sep 2026 21:06:34 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 11 Sep 2026 23:24:58 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Day 1 of the Solheim Cup did not disappoint 🔥</title>
@@ -95,6 +95,17 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/D3hQIF57jgc"&gt;
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>The Solheim Cup Has a Way of Quieting the Noise</title>
+    <link>https://skratch.golf/news/news/solheim-cup-friday-performance-recap</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/solheim-cup-friday-performance-recap</guid>
+    <pubDate>Fri, 11 Sep 2026 13:32:23 +0000</pubDate>
+    <dc:creator>Addie Parker</dc:creator>
+    <description>&lt;p&gt;There was plenty of chatter about form heading into Amsterdam, but by Friday afternoon, the golf had done the talking.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/solheim-cup-friday-performance-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2294743667_83a21485e9/Getty_Images_2294743667_83a21485e9.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Wise words from Arnie to help simplify the game. 👑</title>
@@ -627,17 +638,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Thank You, Brandt Snedeker—Signed Every Team USA Fan</title>
-    <link>https://skratch.golf/news/news/presidents-cup-2026-brandt-snedeker-team-usa-picks-jackson-koivun</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/presidents-cup-2026-brandt-snedeker-team-usa-picks-jackson-koivun</guid>
-    <pubDate>Wed, 02 Sep 2026 17:32:04 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;The golf world wanted Jackson Koivun in red, white, and blue—and Brandt Snedeker gave us just that. Don&#x27;t be surprised if he&#x27;s a problem (in a good way) at Medinah.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/presidents-cup-2026-brandt-snedeker-team-usa-picks-jackson-koivun"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2289610998_84d8427ecc/Getty_Images_2289610998_84d8427ecc.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>30 years ago today, Tiger burst onto the scene with an ace in his pro debut. 🤯</title>
