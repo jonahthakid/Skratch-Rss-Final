@@ -1,3 +1,4 @@
+<!-- Warning: Error fetching Skratch Articles: HTTPSConnectionPool(host='www.skratch.golf', port=443): Read timed out. (read timeout=15) -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -9,7 +10,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 12 Sep 2026 14:15:59 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 12 Sep 2026 17:20:09 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Day 1 of the Solheim Cup did not disappoint 🔥</title>
@@ -31,28 +32,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/D3hQIF57jgc"&gt;
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Team USA’s Horses Continued to Gallop on Day 1 of the 2026 Solheim Cup</title>
-    <link>https://skratch.golf/news/news/solheim-cup-2026-team-usa-horses-nelly-korda-megan-khang-lauren-coughlin</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/solheim-cup-2026-team-usa-horses-nelly-korda-megan-khang-lauren-coughlin</guid>
-    <pubDate>Fri, 11 Sep 2026 19:16:29 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;It feels like Angela Stanford has a few cheat codes at the Solheim Cup, and she’s continuing to lean on them going into the weekend.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/solheim-cup-2026-team-usa-horses-nelly-korda-megan-khang-lauren-coughlin"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2294722732_2537b092a6/Getty_Images_2294722732_2537b092a6.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>All Tied at 4-4, Here are the Matches for Saturday Morning at the 2026 Solheim Cup</title>
-    <link>https://skratch.golf/news/news/solheim-cup-2026-saturday-morning-foursomes-matches-how-to-watch</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/solheim-cup-2026-saturday-morning-foursomes-matches-how-to-watch</guid>
-    <pubDate>Fri, 11 Sep 2026 18:48:01 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Once again, Team USA captain Angela Stanford is sending out her undefeated duo first Saturday morning.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/solheim-cup-2026-saturday-morning-foursomes-matches-how-to-watch"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2294654337_b7e476f919/Getty_Images_2294654337_b7e476f919.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Three rounds. Three challenges. One winner.</title>
@@ -97,17 +76,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/D3hQIF57jgc"&gt;
     <category>video</category>
   </item>
   <item>
-    <title>The Solheim Cup Has a Way of Quieting the Noise</title>
-    <link>https://skratch.golf/news/news/solheim-cup-friday-performance-recap</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/solheim-cup-friday-performance-recap</guid>
-    <pubDate>Fri, 11 Sep 2026 13:32:23 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;There was plenty of chatter about form heading into Amsterdam, but by Friday afternoon, the golf had done the talking.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/solheim-cup-friday-performance-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2294743667_83a21485e9/Getty_Images_2294743667_83a21485e9.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Wise words from Arnie to help simplify the game. 👑</title>
     <link>https://www.youtube.com/shorts/j5yxHwtgcPw</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/j5yxHwtgcPw</guid>
@@ -120,17 +88,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/D3hQIF57jgc"&gt;
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Is A Zero Torque Putter Right For You?</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/putters-zero-torque-why-fitting-should-you</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/putters-zero-torque-why-fitting-should-you</guid>
-    <pubDate>Thu, 10 Sep 2026 18:07:38 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Zero-torque putters are everywhere, but that doesn&#x27;t mean they&#x27;re right for every golfer or every putting stroke.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/putters-zero-torque-why-fitting-should-you"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Spider_ZT_title_e541788191/Spider_ZT_title_e541788191.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>Kristoffer Reitan. Jackson Koivun. Alex Fitzpatrick. Outstanding years from these rookies on Tour.</title>
@@ -161,39 +118,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/D3hQIF57jgc"&gt;
     <category>video</category>
   </item>
   <item>
-    <title>Angel Yin Will Suit Up For Team USA...But When?</title>
-    <link>https://skratch.golf/news/news/solheim-cup-teams-usa-angel-yin-update</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/solheim-cup-teams-usa-angel-yin-update</guid>
-    <pubDate>Thu, 10 Sep 2026 16:54:25 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;It&#x27;s confirmed. The Americans&#x27; biggest question mark in Angel Yin will play this weekend. But it may be a while before we see her.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/solheim-cup-teams-usa-angel-yin-update"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2294132746_5a69ba8218/Getty_Images_2294132746_5a69ba8218.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>10 Long Sleeve Polos You Should Have on Your Radar for Fall Golf</title>
-    <link>https://skratch.golf/style/mens-style/10-long-sleeve-polos-you-should-have-on-your-radar</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/10-long-sleeve-polos-you-should-have-on-your-radar</guid>
-    <pubDate>Thu, 10 Sep 2026 16:22:30 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;Fall golf gives us a little more room to get dressed, and the long-sleeve polo is a pretty great place to start.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/10-long-sleeve-polos-you-should-have-on-your-radar"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/10_LS_Polos_660f0c0e79/10_LS_Polos_660f0c0e79.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Check Out the Opening Matches for the 2026 Solheim Cup</title>
-    <link>https://skratch.golf/news/news/solheim-cup-2026-friday-morning-foursomes-matches</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/solheim-cup-2026-friday-morning-foursomes-matches</guid>
-    <pubDate>Thu, 10 Sep 2026 16:00:13 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Nelly Korda and Allisen Corpuz vs. Charley Hull and Lottie Woad to open the Solheim Cup? Yes, please!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/solheim-cup-2026-friday-morning-foursomes-matches"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2294472232_26f8837d50/Getty_Images_2294472232_26f8837d50.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Going out like a KING in his final Tour start. 👑</title>
     <link>https://www.youtube.com/shorts/a7aar_5b9PY</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/a7aar_5b9PY</guid>
@@ -222,28 +146,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/D3hQIF57jgc"&gt;
     <category>video</category>
   </item>
   <item>
-    <title>How American Fans Can Watch the 2026 Solheim Cup</title>
-    <link>https://skratch.golf/news/news/2026-solheim-cup-how-to-watch-tv-streaming</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/2026-solheim-cup-how-to-watch-tv-streaming</guid>
-    <pubDate>Thu, 10 Sep 2026 13:44:30 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;Set those alarms early and break out the caffeine. Here&#x27;s what time Solheim Cup coverage kicks off in the States.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-solheim-cup-how-to-watch-tv-streaming"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2294312397_525593aaf8/Getty_Images_2294312397_525593aaf8.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Mizuno Goes Zero Torque With M.Craft X-Z Putters</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/mizuno-craft-x-zero-torque-putters</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/mizuno-craft-x-zero-torque-putters</guid>
-    <pubDate>Wed, 09 Sep 2026 20:14:07 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;The new M.Craft X-Z gives golfers another way to build a stable, highly customizable putter without giving up Mizuno&#x27;s signature feel.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/mizuno-craft-x-zero-torque-putters"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/mizuno_m_craft_x_z_torque_cf57f9c2f3/mizuno_m_craft_x_z_torque_cf57f9c2f3.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>The weren&#x27;t messing around this year on the fashion streets. The Best Dressed of the Year goes to...</title>
     <link>https://www.youtube.com/shorts/gT3jhKiChvw</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/gT3jhKiChvw</guid>
@@ -270,17 +172,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/D3hQIF57jgc"&gt;
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>How the U.S. Ryder Cup Qualification Process Is Changing for 2027</title>
-    <link>https://skratch.golf/news/news/ryder-cup-2027-team-usa-qualification-process-captain-jim-furyk</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/ryder-cup-2027-team-usa-qualification-process-captain-jim-furyk</guid>
-    <pubDate>Wed, 09 Sep 2026 16:51:09 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Team USA captain Jim Furyk has outlined the new qualification process heading into the 2027 Ryder Cup at Adare Manor.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/ryder-cup-2027-team-usa-qualification-process-captain-jim-furyk"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/20260813_Jim_Furyk_Ryder_Cup_159584eee0/20260813_Jim_Furyk_Ryder_Cup_159584eee0.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>The ULTIMATE buddies golf trip to Cabot Citrus Farms</title>
@@ -334,17 +225,6 @@ The intersection of&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>LIV Golf Has Officially Filed for Bankruptcy</title>
-    <link>https://skratch.golf/news/news/liv-golf-files-for-bankruptcy-chapter-11</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/liv-golf-files-for-bankruptcy-chapter-11</guid>
-    <pubDate>Tue, 08 Sep 2026 20:40:42 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;LIV Golf has filed for bankruptcy, and Jon Rahm and Bryson DeChambeau are listed as the top two unsecured creditors. Here&#x27;s what we know, plus, LIV Golf&#x27;s public response.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/liv-golf-files-for-bankruptcy-chapter-11"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/scott_oneil_liv_golf_hong_kong_2026_Getty_Images_2264486461_f6afb74983/scott_oneil_liv_golf_hong_kong_2026_Getty_Images_2264486461_f6afb74983.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>A show built with tour pro feedback, but made for the everyday golfer</title>
@@ -421,17 +301,6 @@ Subscribe &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/QxyqoSbt
     <category>video</category>
   </item>
   <item>
-    <title>B. Draddy Absolutely Nailed This Year&#x27;s U.S. Solheim Cup Looks</title>
-    <link>https://skratch.golf/style/womens-style/b-draddy-usa-solheim-cup-uniforms-best-pieces-shop</link>
-    <guid isPermaLink="true">https://skratch.golf/style/womens-style/b-draddy-usa-solheim-cup-uniforms-best-pieces-shop</guid>
-    <pubDate>Tue, 08 Sep 2026 16:49:05 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;The red knit sweater is the star of the show. (Pun intended.)&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/womens-style/b-draddy-usa-solheim-cup-uniforms-best-pieces-shop"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2294142625_e313034cf4/Getty_Images_2294142625_e313034cf4.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Was there really any doubt?</title>
     <link>https://www.youtube.com/shorts/nQt6uiapfzc</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/nQt6uiapfzc</guid>
@@ -444,17 +313,6 @@ Subscribe &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/QxyqoSbt
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Rory, Rahm, and Reed: You’re Not Going to Want to Miss This Week’s Irish Open</title>
-    <link>https://skratch.golf/news/news/irish-open-2026-rory-mcilroy-jon-rahm-liv-golf-patrick-reed</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/irish-open-2026-rory-mcilroy-jon-rahm-liv-golf-patrick-reed</guid>
-    <pubDate>Tue, 08 Sep 2026 14:34:45 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Rest up now, folks. With the Solheim Cup and a loaded Irish Open this week, you&#x27;re going to need to set some early alarms.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/irish-open-2026-rory-mcilroy-jon-rahm-liv-golf-patrick-reed"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2293666314_a3501a1fd4/Getty_Images_2293666314_a3501a1fd4.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>GOLF AWARDS SHOW: Shot Of The Year, Round Of The Year, Tantrum Of The Year &amp; MORE!</title>
@@ -547,28 +405,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
-    <title>Charlie Woods is in Contention at The Junior PLAYERS</title>
-    <link>https://skratch.golf/news/news/charlie-woods-the-junior-players-2026-score-tpc-sawgrass-tiger-woods</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/charlie-woods-the-junior-players-2026-score-tpc-sawgrass-tiger-woods</guid>
-    <pubDate>Fri, 04 Sep 2026 18:20:40 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Charlie shot 1 under at TPC Sawgrass on Friday and is in contention at The Junior PLAYERS.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/charlie-woods-the-junior-players-2026-score-tpc-sawgrass-tiger-woods"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2287622955_4de0a8859f/Getty_Images_2287622955_4de0a8859f.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Charlie Woods Officially Signs NIL Deal With TaylorMade</title>
-    <link>https://skratch.golf/news/news/charlie-woods-taylormade-nil-deal-sign</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/charlie-woods-taylormade-nil-deal-sign</guid>
-    <pubDate>Fri, 04 Sep 2026 17:52:19 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Charlie Woods joins Scottie Scheffler and Rory McIlroy as TaylorMade continues to grow NIL roster of players.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/charlie-woods-taylormade-nil-deal-sign"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Charlie_woods_NIL_3aeafb7a08/Charlie_woods_NIL_3aeafb7a08.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
     <title>Is -6 through 7 holes any good? 😅</title>
     <link>https://www.youtube.com/shorts/fvfDgxzCDkc</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/fvfDgxzCDkc</guid>
@@ -581,17 +417,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>A Viewer&#x27;s Guide To: The 2026 Solheim Cup</title>
-    <link>https://skratch.golf/news/news/2026-solheim-cup-viewers-guide-format-teams-course</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/2026-solheim-cup-viewers-guide-format-teams-course</guid>
-    <pubDate>Fri, 04 Sep 2026 17:16:45 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;It&#x27;s the biggest stage in women&#x27;s golf, so, here&#x27;s your fool-proof guide to watching this edition of the Solheim Cup.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/2026-solheim-cup-viewers-guide-format-teams-course"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/nelly_charley_solheim_cup_583b2b2e7c/nelly_charley_solheim_cup_583b2b2e7c.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>&quot;You watched, then you left a comment.&quot; 🤔 No Shade, presented by @Knockaround.</title>
@@ -652,50 +477,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Psst: It Doesn&#x27;t (Actually) Matter How Far You Hit Your 7-Iron...</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/distance-irons-fitting-technology</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/distance-irons-fitting-technology</guid>
-    <pubDate>Tue, 01 Sep 2026 14:28:23 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;In the never-ending battle to gain distance, too many golfers waste precious energy focusing on the wrong thing when it comes to their irons.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/distance-irons-fitting-technology"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2286542212_4314d79d87/Getty_Images_2286542212_4314d79d87.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Srixon Unveils Second-Generation ZXi Irons</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/srixon-zxi-irons-forged-gen-two-performance</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/srixon-zxi-irons-forged-gen-two-performance</guid>
-    <pubDate>Wed, 26 Aug 2026 20:06:59 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;New technology, improved feel and a more forgiving ZXi5+ headline the second generation of Srixon&#x27;s popular iron lineup.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/srixon-zxi-irons-forged-gen-two-performance"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/zxi_gen_3_title_srixon_9baa2f89cb/zxi_gen_3_title_srixon_9baa2f89cb.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Love Letter To: Cabot Citrus Farms</title>
-    <link>https://skratch.golf/news/news/love-letter-cabot-citrus-farms-course-review</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/love-letter-cabot-citrus-farms-course-review</guid>
-    <pubDate>Wed, 26 Aug 2026 17:34:47 +0000</pubDate>
-    <dc:creator>Zane Moulton</dc:creator>
-    <description>&lt;p&gt;The whole experience at Cabot Citrus Farms exemplifies my favorite components of a golf trip, where the focus is on time with your mates, the golf you play and the quality hangs off the course.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/love-letter-cabot-citrus-farms-course-review"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/A7_V04113_4d0518264e/A7_V04113_4d0518264e.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Mizuno Adds a More Forgiving Iron to Its Signature Series with S-4</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/mizuno-pro-irons-forged-hd-s4-cavity</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/mizuno-pro-irons-forged-hd-s4-cavity</guid>
-    <pubDate>Fri, 21 Aug 2026 19:43:28 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Mizuno&#x27;s S-4 offers extra stability, forgiveness, and confidence to the Signature Series.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/mizuno-pro-irons-forged-hd-s4-cavity"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Mizuno_s4_irons_297f19f307/Mizuno_s4_irons_297f19f307.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
