@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 16 Sep 2026 18:59:34 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 16 Sep 2026 21:59:49 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Don&#x27;t let this video distract you from wishing Bryson DeChambeau a very happy birthday. 😭</title>
@@ -24,6 +24,17 @@
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>Adams Golf Lives At The Biltmore Championship Asheville</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/Biltmore-Championship-Asheville-adams-kisner</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/Biltmore-Championship-Asheville-adams-kisner</guid>
+    <pubDate>Wed, 16 Sep 2026 18:14:28 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;One player is keeping Adams Golf alive this week on the PGA Tour with the help of a 20-year-old hybrid.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/Biltmore-Championship-Asheville-adams-kisner"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/Adams_kisner_hybrid_001cb7ee35/Adams_kisner_hybrid_001cb7ee35.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Malbon and Bushmills Are Mixing Golf and Whiskey. And It&#x27;s Working.</title>
@@ -194,6 +205,17 @@ Sub&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/sJf9HLKqqrI"&gt
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;It&#x27;s always a pleasure to watch Tiger Woods hit a golf ball, and on Tuesday, his action looked pretty damn good.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-swing-video-liberty-national-nexus-cup-comeback"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://media.skratch.golf/Getty_Images_2200063616_c480304ddf/Getty_Images_2200063616_c480304ddf.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>In Defense Of Loud Golf Speakers (Especially Ones With GPS)</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/golf-speaker-review-milseey-gps-detachable</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/golf-speaker-review-milseey-gps-detachable</guid>
+    <pubDate>Tue, 15 Sep 2026 14:22:30 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Sure, the purists might not love them, but this loud speaker with a built-in GPS has a pretty compelling case for making it into your golf bag.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/golf-speaker-review-milseey-gps-detachable"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/Mileseey_title_speaker_53ea2e2209/Mileseey_title_speaker_53ea2e2209.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -659,31 +681,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/D3hQIF57jgc"&gt;
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Team USA captain Jim Furyk has outlined the new qualification process heading into the 2027 Ryder Cup at Adare Manor.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/ryder-cup-2027-team-usa-qualification-process-captain-jim-furyk"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://media.skratch.golf/20260813_Jim_Furyk_Ryder_Cup_159584eee0/20260813_Jim_Furyk_Ryder_Cup_159584eee0.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Ball Knower.</title>
-    <link>https://www.youtube.com/shorts/Owi3Hph2_kA</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/Owi3Hph2_kA</guid>
-    <pubDate>Wed, 09 Sep 2026 14:30:23 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Owi3Hph2_kA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/Owi3Hph2_kA/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/Owi3Hph2_kA" type="text/html" medium="video"/>
-    <yt:videoId>Owi3Hph2_kA</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>LIV Golf Has Officially Filed for Bankruptcy</title>
-    <link>https://skratch.golf/news/news/liv-golf-files-for-bankruptcy-chapter-11</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/liv-golf-files-for-bankruptcy-chapter-11</guid>
-    <pubDate>Tue, 08 Sep 2026 20:40:42 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;LIV Golf has filed for bankruptcy, and Jon Rahm and Bryson DeChambeau are listed as the top two unsecured creditors. Here&#x27;s what we know, plus, LIV Golf&#x27;s public response.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/liv-golf-files-for-bankruptcy-chapter-11"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/scott_oneil_liv_golf_hong_kong_2026_Getty_Images_2264486461_f6afb74983/scott_oneil_liv_golf_hong_kong_2026_Getty_Images_2264486461_f6afb74983.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
