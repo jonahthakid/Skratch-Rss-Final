@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 18 Sep 2026 09:58:38 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 18 Sep 2026 14:12:54 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Jon Rahm Beat One Player at the BMW PGA Championship on Thursday</title>
@@ -64,6 +64,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>10 Men’s Golf Shoes I Keep Recommending</title>
+    <link>https://skratch.golf/style/mens-style/best-mens-golf-shoes-10-picks</link>
+    <guid isPermaLink="true">https://skratch.golf/style/mens-style/best-mens-golf-shoes-10-picks</guid>
+    <pubDate>Wed, 16 Sep 2026 22:41:23 +0000</pubDate>
+    <dc:creator>Raymond Williams</dc:creator>
+    <description>&lt;p&gt;Different styles. Different fits. Different approaches to performance. Ten golf shoes absolutely worth knowing.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/best-mens-golf-shoes-10-picks"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/10_Golf_Shoes_85da8c83f6/10_Golf_Shoes_85da8c83f6.png"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Don&#x27;t let this video distract you from wishing Bryson DeChambeau a very happy birthday. 😭</title>
@@ -673,20 +684,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/D3hQIF57jgc"&gt;
     <media:thumbnail url="https://media.skratch.golf/Getty_Images_2294312397_525593aaf8/Getty_Images_2294312397_525593aaf8.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>The weren&#x27;t messing around this year on the fashion streets. The Best Dressed of the Year goes to...</title>
-    <link>https://www.youtube.com/shorts/gT3jhKiChvw</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/gT3jhKiChvw</guid>
-    <pubDate>Wed, 09 Sep 2026 18:00:23 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/gT3jhKiChvw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/gT3jhKiChvw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/gT3jhKiChvw" type="text/html" medium="video"/>
-    <yt:videoId>gT3jhKiChvw</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
 </channel>
 </rss>
