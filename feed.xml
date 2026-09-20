@@ -9,8 +9,26 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 20 Sep 2026 16:54:54 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 20 Sep 2026 19:12:58 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Cabot Citrus proves Florida golf does NOT all look the same</title>
+    <link>https://www.youtube.com/shorts/GLzJoTPalv8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/GLzJoTPalv8</guid>
+    <pubDate>Sun, 20 Sep 2026 17:49:13 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;One special piece of property. Wells Adams breaks down each @cabotcitrusfarms course - Karoo, Roost, The Squeeze, The Wedge - after his recent buddies trip with Chad Mumm.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeav&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/GLzJoTPalv8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/GLzJoTPalv8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/GLzJoTPalv8" type="text/html" medium="video"/>
+    <yt:videoId>GLzJoTPalv8</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Neal Shipley: BIG math guy</title>
     <link>https://www.youtube.com/shorts/iHly-rRa68c</link>
@@ -545,20 +563,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://media.skratch.golf/Getty_Images_2294903573_e26f631e8c/Getty_Images_2294903573_e26f631e8c.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Day 2 at the Solheim Cup was absolute CINEMA</title>
-    <link>https://www.youtube.com/shorts/daUrfR0ZS9Q</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/daUrfR0ZS9Q</guid>
-    <pubDate>Sat, 12 Sep 2026 19:39:38 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/daUrfR0ZS9Q"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/daUrfR0ZS9Q/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/daUrfR0ZS9Q" type="text/html" medium="video"/>
-    <yt:videoId>daUrfR0ZS9Q</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>Team USA’s Horses Continued to Gallop on Day 1 of the 2026 Solheim Cup</title>
