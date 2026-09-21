@@ -9,8 +9,33 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 21 Sep 2026 08:28:42 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 15:16:04 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>🗣️”I LOVE ME SOME ME!”Kicking off Presidents Cup week with an all-time moment from Tiger and JT. 🔥</title>
+    <link>https://www.youtube.com/shorts/_QocaS4FVW8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/_QocaS4FVW8</guid>
+    <pubDate>Mon, 21 Sep 2026 14:03:23 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/_QocaS4FVW8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/_QocaS4FVW8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/_QocaS4FVW8" type="text/html" medium="video"/>
+    <yt:videoId>_QocaS4FVW8</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Augusta National to Continue National Open Pathway into the Masters</title>
+    <link>https://skratch.golf/news/news/masters-the-open-new-qualification-pathways-national-opens</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/masters-the-open-new-qualification-pathways-national-opens</guid>
+    <pubDate>Mon, 21 Sep 2026 13:10:22 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Winning one of a handful of national opens will continue to come with invitations into both the Masters and The Open.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/masters-the-open-new-qualification-pathways-national-opens"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/rory_mcilroy_2025_masters_win_Getty_Images_2210134696_7c1ad1d6a9/rory_mcilroy_2025_masters_win_Getty_Images_2210134696_7c1ad1d6a9.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Cabot Citrus proves Florida golf does NOT all look the same</title>
     <link>https://www.youtube.com/shorts/GLzJoTPalv8</link>
@@ -495,20 +520,6 @@ Sub&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/sJf9HLKqqrI"&gt
     <category>article</category>
   </item>
   <item>
-    <title>Emotions only golf and fantasy football can elicit. 🤣</title>
-    <link>https://www.youtube.com/shorts/7f2-PBLEnVw</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/7f2-PBLEnVw</guid>
-    <pubDate>Mon, 14 Sep 2026 15:15:49 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/7f2-PBLEnVw"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/7f2-PBLEnVw/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/7f2-PBLEnVw" type="text/html" medium="video"/>
-    <yt:videoId>7f2-PBLEnVw</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Can&#x27;t beat a day full of golf at Pinehurst and @chipotle.</title>
     <link>https://www.youtube.com/shorts/ABjNdo3cKsA</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/ABjNdo3cKsA</guid>
@@ -671,20 +682,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://media.skratch.golf/Getty_Images_2294472232_26f8837d50/Getty_Images_2294472232_26f8837d50.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>We all remember these... which one was the worst?</title>
-    <link>https://www.youtube.com/shorts/m6JvwU69JCg</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/m6JvwU69JCg</guid>
-    <pubDate>Thu, 10 Sep 2026 14:00:36 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/m6JvwU69JCg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/m6JvwU69JCg/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/m6JvwU69JCg" type="text/html" medium="video"/>
-    <yt:videoId>m6JvwU69JCg</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
 </channel>
 </rss>
