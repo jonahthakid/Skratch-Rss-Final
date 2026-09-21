@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 21 Sep 2026 20:04:27 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 23:27:07 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Guy’s not allowed to prioritize his family? @manorsgolf</title>
+    <link>https://www.youtube.com/shorts/54ew3WxtNGQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/54ew3WxtNGQ</guid>
+    <pubDate>Mon, 21 Sep 2026 21:37:57 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/54ew3WxtNGQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/54ew3WxtNGQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/54ew3WxtNGQ" type="text/html" medium="video"/>
+    <yt:videoId>54ew3WxtNGQ</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Scheffler/Koivun please and thank you.</title>
     <link>https://www.youtube.com/shorts/S2zkHkerKU4</link>
@@ -677,20 +691,6 @@ Sub&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/sJf9HLKqqrI"&gt
     <media:thumbnail url="https://media.skratch.golf/Spider_ZT_title_e541788191/Spider_ZT_title_e541788191.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Kristoffer Reitan. Jackson Koivun. Alex Fitzpatrick. Outstanding years from these rookies on Tour.</title>
-    <link>https://www.youtube.com/shorts/ylasP0LkTFE</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ylasP0LkTFE</guid>
-    <pubDate>Thu, 10 Sep 2026 18:00:35 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ylasP0LkTFE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ylasP0LkTFE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ylasP0LkTFE" type="text/html" medium="video"/>
-    <yt:videoId>ylasP0LkTFE</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
   </item>
 </channel>
 </rss>
