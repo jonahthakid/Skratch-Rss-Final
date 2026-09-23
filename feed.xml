@@ -9,8 +9,47 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 23 Sep 2026 12:51:05 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 17:38:15 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>What’s your favorite?</title>
+    <link>https://www.youtube.com/shorts/y-ZZFOQoujI</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/y-ZZFOQoujI</guid>
+    <pubDate>Wed, 23 Sep 2026 16:30:03 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/y-ZZFOQoujI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/y-ZZFOQoujI/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/y-ZZFOQoujI" type="text/html" medium="video"/>
+    <yt:videoId>y-ZZFOQoujI</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Jack Nicklaus narrates the beautiful ending to the ‘03 Presidents Cup.</title>
+    <link>https://www.youtube.com/shorts/39AyGqwDwNE</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/39AyGqwDwNE</guid>
+    <pubDate>Wed, 23 Sep 2026 14:54:27 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/39AyGqwDwNE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/39AyGqwDwNE/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/39AyGqwDwNE" type="text/html" medium="video"/>
+    <yt:videoId>39AyGqwDwNE</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>The One Pairing I Need to See for Team USA at the 2026 Presidents Cup</title>
+    <link>https://skratch.golf/news/news/presidents-cup-2026-justin-thomas-jackson-koivun-pairing-i-need-to-see</link>
+    <guid isPermaLink="true">https://skratch.golf/news/news/presidents-cup-2026-justin-thomas-jackson-koivun-pairing-i-need-to-see</guid>
+    <pubDate>Wed, 23 Sep 2026 13:50:45 +0000</pubDate>
+    <dc:creator>Riley Hamel</dc:creator>
+    <description>&lt;p&gt;Pairing Justin Thomas with Jackson Koivun is one of the best moves Brandt Snedeker could make not only for Medinah, but the future of Team USA.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/presidents-cup-2026-justin-thomas-jackson-koivun-pairing-i-need-to-see"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2296611925_06a1de7fd8/Getty_Images_2296611925_06a1de7fd8.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>“Enjoy this event for what it is, not what it’s not.”</title>
     <link>https://www.youtube.com/shorts/F3pxMscW9O0</link>
@@ -459,20 +498,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>Don&#x27;t let this video distract you from wishing Bryson DeChambeau a very happy birthday. 😭</title>
-    <link>https://www.youtube.com/shorts/7S7bQeGtBp4</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/7S7bQeGtBp4</guid>
-    <pubDate>Wed, 16 Sep 2026 18:53:49 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/7S7bQeGtBp4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/7S7bQeGtBp4/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/7S7bQeGtBp4" type="text/html" medium="video"/>
-    <yt:videoId>7S7bQeGtBp4</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Adams Golf Lives At The Biltmore Championship Asheville</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/Biltmore-Championship-Asheville-adams-kisner</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/Biltmore-Championship-Asheville-adams-kisner</guid>
@@ -656,20 +681,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>video</category>
   </item>
   <item>
-    <title>S2 E69: LIV Declares Bankruptcy, Europe Beats USA (Again), Lowry Triumphs At Home</title>
-    <link>https://www.youtube.com/watch?v=uo_PL3Yv9e8</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=uo_PL3Yv9e8</guid>
-    <pubDate>Mon, 14 Sep 2026 18:06:28 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;We&#x27;re back to cover an electric Solheim Cup, with Europe beating the USA once again. Shane Lowry wins the Irish Open in dominating fashion, and Josh Carpenter joins the show to discuss LIV declaring bankruptcy. And much, much more.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=uo_PL3Yv9e8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/uo_PL3Yv9e8/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/uo_PL3Yv9e8" type="text/html" medium="video"/>
-    <yt:videoId>uo_PL3Yv9e8</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>We&#x27;ll Be Keeping Tabs on Jackson Koivun This Week with His Team USA Debut on the Horizon</title>
     <link>https://skratch.golf/news/news/jackson-koivun-biltmore-championship-presidents-cup-2026</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/jackson-koivun-biltmore-championship-presidents-cup-2026</guid>
@@ -677,17 +688,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;The stage is set for Jackson Koivun to make one last impression before he makes his Team USA debut at Medinah next week.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/jackson-koivun-biltmore-championship-presidents-cup-2026"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://media.skratch.golf/Getty_Images_2289610998_84d8427ecc/Getty_Images_2289610998_84d8427ecc.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>With a Sunday Surge, Europe Has Reclaimed the Solheim Cup</title>
-    <link>https://skratch.golf/news/news/solheim-cup-2026-europe-wins-sunday-singles-bernardus-recap</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/solheim-cup-2026-europe-wins-sunday-singles-bernardus-recap</guid>
-    <pubDate>Sun, 13 Sep 2026 16:11:46 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;After two days of gridlock, the Americans finally found some momentum...only for Europe to unleash a Sunday singles blitz at Bernardus and take back the Cup. Here&#x27;s everything that went down on Sunday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/solheim-cup-2026-europe-wins-sunday-singles-bernardus-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2295062796_eb778d04cd/Getty_Images_2295062796_eb778d04cd.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
