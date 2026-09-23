@@ -9,8 +9,36 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 23 Sep 2026 07:09:34 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 12:51:05 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>“Enjoy this event for what it is, not what it’s not.”</title>
+    <link>https://www.youtube.com/shorts/F3pxMscW9O0</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/F3pxMscW9O0</guid>
+    <pubDate>Wed, 23 Sep 2026 12:45:04 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/F3pxMscW9O0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/F3pxMscW9O0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/F3pxMscW9O0" type="text/html" medium="video"/>
+    <yt:videoId>F3pxMscW9O0</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Does Scottie Scheffler Need To Play More Outside The U.S.?</title>
+    <link>https://www.youtube.com/watch?v=FAvXQ4LArvc</link>
+    <guid isPermaLink="true">https://www.youtube.com/watch?v=FAvXQ4LArvc</guid>
+    <pubDate>Wed, 23 Sep 2026 12:00:13 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;Scottie Scheffler got some heat online about wanting to be with his family rather than grow the game internationally. Fair take or out of bounds?&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=FAvXQ4LArvc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/FAvXQ4LArvc/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/FAvXQ4LArvc" type="text/html" medium="video"/>
+    <yt:videoId>FAvXQ4LArvc</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Presidents Cup 🤝 Sweater Vests</title>
     <link>https://www.youtube.com/shorts/V5IEcpwxrtU</link>
@@ -653,20 +681,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <category>article</category>
   </item>
   <item>
-    <title>Can&#x27;t beat a day full of golf at Pinehurst and @chipotle.</title>
-    <link>https://www.youtube.com/shorts/ABjNdo3cKsA</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/ABjNdo3cKsA</guid>
-    <pubDate>Mon, 14 Sep 2026 15:10:03 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/ABjNdo3cKsA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/ABjNdo3cKsA/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/ABjNdo3cKsA" type="text/html" medium="video"/>
-    <yt:videoId>ABjNdo3cKsA</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>With a Sunday Surge, Europe Has Reclaimed the Solheim Cup</title>
     <link>https://skratch.golf/news/news/solheim-cup-2026-europe-wins-sunday-singles-bernardus-recap</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/solheim-cup-2026-europe-wins-sunday-singles-bernardus-recap</guid>
@@ -674,17 +688,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Addie Parker</dc:creator>
     <description>&lt;p&gt;After two days of gridlock, the Americans finally found some momentum...only for Europe to unleash a Sunday singles blitz at Bernardus and take back the Cup. Here&#x27;s everything that went down on Sunday.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/solheim-cup-2026-europe-wins-sunday-singles-bernardus-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://media.skratch.golf/Getty_Images_2295062796_eb778d04cd/Getty_Images_2295062796_eb778d04cd.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Jennifer Kupcho and Maja Stark Delivered Masterful Solheim Saturday Performances</title>
-    <link>https://skratch.golf/news/news/solheim-cup-jennifer-kupcho-maja-stark-saturday-recap</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/solheim-cup-jennifer-kupcho-maja-stark-saturday-recap</guid>
-    <pubDate>Sat, 12 Sep 2026 20:12:11 +0000</pubDate>
-    <dc:creator>Addie Parker</dc:creator>
-    <description>&lt;p&gt;After gutsy shots and clutch moments, both teams are tied after day 2. Here&#x27;s everything that went down on Saturday, plus the Sunday Singles matchups.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/solheim-cup-jennifer-kupcho-maja-stark-saturday-recap"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2294903573_e26f631e8c/Getty_Images_2294903573_e26f631e8c.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
