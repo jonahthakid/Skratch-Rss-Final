@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 24 Sep 2026 21:02:25 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 23:55:58 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>A winning start for team Auburn/Alabama. 🇺🇸</title>
+    <link>https://www.youtube.com/shorts/M13FAtEkr7I</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/M13FAtEkr7I</guid>
+    <pubDate>Thu, 24 Sep 2026 23:25:17 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/M13FAtEkr7I"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/M13FAtEkr7I/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/M13FAtEkr7I" type="text/html" medium="video"/>
+    <yt:videoId>M13FAtEkr7I</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>He has the ultimate trump card.</title>
     <link>https://www.youtube.com/shorts/qyWi4ima0nU</link>
@@ -636,20 +650,6 @@ Check out our websi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts
     <media:thumbnail url="https://img.youtube.com/vi/SCwzeRWFnw4/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/SCwzeRWFnw4" type="text/html" medium="video"/>
     <yt:videoId>SCwzeRWFnw4</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>NEW PGA Tour Rules EXPLAINED: Who Qualifies For What Tournaments?</title>
-    <link>https://www.youtube.com/watch?v=TU2Tc3lU0BU</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=TU2Tc3lU0BU</guid>
-    <pubDate>Wed, 16 Sep 2026 02:43:48 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;Dan runs you through the new PGA Tour Challenger Series eligibility rules, including who gets into what tournaments and how the points system will work. Are there any exemptions for Tiger Woods? Where do the PGA Tour University players end up?&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=TU2Tc3lU0BU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/TU2Tc3lU0BU/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/TU2Tc3lU0BU" type="text/html" medium="video"/>
-    <yt:videoId>TU2Tc3lU0BU</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
