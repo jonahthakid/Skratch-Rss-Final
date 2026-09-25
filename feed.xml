@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 25 Sep 2026 14:30:29 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 25 Sep 2026 19:04:26 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Early walks GALORE at the Presidents Cup 🕳️🚶</title>
@@ -87,6 +87,17 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;A docile crowd, terrible TV coverage, and the kid wins a point—notes from day one of the Presidents Cup at Medinah.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/Presidents-cup-2026-day-one-recap-notes-foursomes-medinah"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://media.skratch.golf/Getty_Images_2296958246_ffba102fc8/Getty_Images_2296958246_ffba102fc8.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Tap In to This Week&#x27;s Gear News: Srixon, Scotty Cameron, Oktoberfest Essentials</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/gear-news-september-srixon-usga</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/gear-news-september-srixon-usga</guid>
+    <pubDate>Thu, 24 Sep 2026 19:20:21 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Missed the week’s gear drops while watching the Presidents Cup? Here’s everything you need to know.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/gear-news-september-srixon-usga"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/scotty_cameron_spec_III_c85cf33299/scotty_cameron_spec_III_c85cf33299.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -691,17 +702,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <dc:creator>Zane Moulton</dc:creator>
     <description>&lt;p&gt;Our tips on how to get to Florida&#x27;s best new golf destination.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/cabot-citrus-farms-travel-guide-how-to-get-to"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://media.skratch.golf/DJI_20260525155139_0068_D_e770e8d6a9/DJI_20260525155139_0068_D_e770e8d6a9.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Golf AI Commentator is Somehow Worse than Expected</title>
-    <link>https://skratch.golf/news/news/duff-foreman-ai-golf-commentator-reaction-social-media</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/duff-foreman-ai-golf-commentator-reaction-social-media</guid>
-    <pubDate>Tue, 15 Sep 2026 15:53:30 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Duff Foreman, the golf AI commentator, made his debut on Tuesday—and it’s, well, horrible.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/duff-foreman-ai-golf-commentator-reaction-social-media"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Screenshot_2026_09_15_at_11_54_19_AM_418d72a2b7/Screenshot_2026_09_15_at_11_54_19_AM_418d72a2b7.png"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
