@@ -1,4 +1,3 @@
-<!-- Warning: Error fetching Skratch: 404 Client Error: Not Found for url: https://www.youtube.com/feeds/videos.xml?channel_id=UCwtGQ3sgidNlQGbIUBPP3xw -->
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
@@ -10,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 25 Sep 2026 03:15:26 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 25 Sep 2026 08:59:14 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>A winning start for team Auburn/Alabama. 🇺🇸</title>
@@ -63,6 +62,26 @@
     <category>video</category>
   </item>
   <item>
+    <title>The SURPRISING HISTORY of Medinah’s clubhouse</title>
+    <link>https://www.youtube.com/shorts/nfvnXuUOFBM</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/nfvnXuUOFBM</guid>
+    <pubDate>Thu, 24 Sep 2026 15:27:20 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;If you&#x27;ve ever looked at Medinah&#x27;s clubhouse and wondered &#x27;how&#x27;d they come up with that??,&#x27; we have your answer.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/nfvnXuUOFBM"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/nfvnXuUOFBM/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/nfvnXuUOFBM" type="text/html" medium="video"/>
+    <yt:videoId>nfvnXuUOFBM</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Dial In Your Irons With This Buy-It-For-Life Tool</title>
     <link>https://skratch.golf/gear-equipment/gear-equipment/gearsmart-tinker-clubs-building-tools-value</link>
     <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/gearsmart-tinker-clubs-building-tools-value</guid>
@@ -72,6 +91,20 @@
     <media:thumbnail url="https://media.skratch.golf/Lie_loft_title_8d44d1f6cf/Lie_loft_title_8d44d1f6cf.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>If we don&#x27;t hear this Si Woo chant all weekend, we will be very disappointed. 🤣</title>
+    <link>https://www.youtube.com/shorts/M6Ha4EL7cXQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/M6Ha4EL7cXQ</guid>
+    <pubDate>Thu, 24 Sep 2026 13:43:57 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/M6Ha4EL7cXQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/M6Ha4EL7cXQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/M6Ha4EL7cXQ" type="text/html" medium="video"/>
+    <yt:videoId>M6Ha4EL7cXQ</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>What would you put on yours?</title>
@@ -122,6 +155,20 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
+    <title>Tremendous vibes at Medinah. Range report from the Presidents Cup.</title>
+    <link>https://www.youtube.com/shorts/Y6z99SZSKwI</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/Y6z99SZSKwI</guid>
+    <pubDate>Wed, 23 Sep 2026 22:09:48 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/Y6z99SZSKwI"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/Y6z99SZSKwI/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/Y6z99SZSKwI" type="text/html" medium="video"/>
+    <yt:videoId>Y6z99SZSKwI</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Opening Matches of the 2026 Presidents Cup at Medinah—Plus Predictions!</title>
     <link>https://skratch.golf/news/news/presidents-cup-2026-thursday-matches-medinah-schedule-predictions</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/presidents-cup-2026-thursday-matches-medinah-schedule-predictions</guid>
@@ -131,6 +178,44 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://media.skratch.golf/Getty_Images_2296788395_a90036afe5/Getty_Images_2296788395_a90036afe5.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>Fred Couples&#x27; TWO-YEAR PRANK on Tiger Woods at the Presidents Cup</title>
+    <link>https://www.youtube.com/shorts/p35gjJb0V64</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/p35gjJb0V64</guid>
+    <pubDate>Wed, 23 Sep 2026 19:35:23 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Tiger Woods was not even close to envelope-worthy back in 2009. Captain Fred Couples knew exactly what to do. 😆 Claire Rogers explains the 2-year prank at the Presidents Cup..
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re en&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/p35gjJb0V64"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/p35gjJb0V64/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/p35gjJb0V64" type="text/html" medium="video"/>
+    <yt:videoId>p35gjJb0V64</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>DOOZY of a ruling from the 2017 Presidents Cup</title>
+    <link>https://www.youtube.com/shorts/H0mNWTAy_A0</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/H0mNWTAy_A0</guid>
+    <pubDate>Wed, 23 Sep 2026 18:27:26 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;There are many ways to lose a hole at the Presidents Cup. This one from Jordan Spieth in 2017 had to sting.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/H0mNWTAy_A0"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/H0mNWTAy_A0/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/H0mNWTAy_A0" type="text/html" medium="video"/>
+    <yt:videoId>H0mNWTAy_A0</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>What’s your favorite?</title>
@@ -144,6 +229,20 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:videoId>y-ZZFOQoujI</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Jack Nicklaus narrates the beautiful ending to the ‘03 Presidents Cup.</title>
+    <link>https://www.youtube.com/shorts/39AyGqwDwNE</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/39AyGqwDwNE</guid>
+    <pubDate>Wed, 23 Sep 2026 14:54:27 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/39AyGqwDwNE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/39AyGqwDwNE/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/39AyGqwDwNE" type="text/html" medium="video"/>
+    <yt:videoId>39AyGqwDwNE</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
     <category>video</category>
   </item>
   <item>
@@ -186,6 +285,26 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
+    <title>Presidents Cup 🤝 Sweater Vests</title>
+    <link>https://www.youtube.com/shorts/V5IEcpwxrtU</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/V5IEcpwxrtU</guid>
+    <pubDate>Tue, 22 Sep 2026 20:10:39 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;A brief history of Sweater Vest Dominance at the Presidents Cup.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss out on the most entertaining gol&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/V5IEcpwxrtU"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/V5IEcpwxrtU/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/V5IEcpwxrtU" type="text/html" medium="video"/>
+    <yt:videoId>V5IEcpwxrtU</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>Guy is one of a kind.</title>
     <link>https://www.youtube.com/shorts/-tXMsQQ_yfk</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/-tXMsQQ_yfk</guid>
@@ -197,6 +316,20 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:videoId>-tXMsQQ_yfk</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Hat off before the putt drops is AURA. 🥶</title>
+    <link>https://www.youtube.com/shorts/6fAYlJYn6ts</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/6fAYlJYn6ts</guid>
+    <pubDate>Tue, 22 Sep 2026 18:38:52 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Throwback to one of the coldest early walks you’ll ever see at the &#x27;19 Presidents Cup. #TigerTuesdays&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/6fAYlJYn6ts"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/6fAYlJYn6ts/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/6fAYlJYn6ts" type="text/html" medium="video"/>
+    <yt:videoId>6fAYlJYn6ts</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
     <category>video</category>
   </item>
   <item>
@@ -222,6 +355,40 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <yt:videoId>lDRZFWCpf8g</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Top point-getting duos at the Presidents Cup</title>
+    <link>https://www.youtube.com/shorts/IpW6BVBcQ_U</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/IpW6BVBcQ_U</guid>
+    <pubDate>Tue, 22 Sep 2026 15:56:23 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;It&#x27;s all about the scoreboard at the Presidents Cup, and these duos stand above the rest.
+
+Celebrating the ultimate point-getting pairings with @michelobultra. 
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to ex&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/IpW6BVBcQ_U"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/IpW6BVBcQ_U/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/IpW6BVBcQ_U" type="text/html" medium="video"/>
+    <yt:videoId>IpW6BVBcQ_U</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Something we look forward to every Presidents Cup: First-tee songs. 🤣 #TigerTuesdays</title>
+    <link>https://www.youtube.com/shorts/pakHahYAX1A</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/pakHahYAX1A</guid>
+    <pubDate>Tue, 22 Sep 2026 13:57:31 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/pakHahYAX1A"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/pakHahYAX1A/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/pakHahYAX1A" type="text/html" medium="video"/>
+    <yt:videoId>pakHahYAX1A</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
     <category>video</category>
   </item>
   <item>
@@ -306,6 +473,40 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <category>video</category>
   </item>
   <item>
+    <title>ALL-TIME Presidents Cup celebrations 🔥🔥🔥</title>
+    <link>https://www.youtube.com/shorts/HNCUpmnlGgg</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/HNCUpmnlGgg</guid>
+    <pubDate>Mon, 21 Sep 2026 16:03:09 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;The bigger the moment, the louder the roar. Looking back at some of our all-time favorite celes with @michelobultra. 
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on Yo&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/HNCUpmnlGgg"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/HNCUpmnlGgg/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/HNCUpmnlGgg" type="text/html" medium="video"/>
+    <yt:videoId>HNCUpmnlGgg</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>🗣️”I LOVE ME SOME ME!”Kicking off Presidents Cup week with an all-time moment from Tiger and JT. 🔥</title>
+    <link>https://www.youtube.com/shorts/_QocaS4FVW8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/_QocaS4FVW8</guid>
+    <pubDate>Mon, 21 Sep 2026 14:03:23 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/_QocaS4FVW8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/_QocaS4FVW8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/_QocaS4FVW8" type="text/html" medium="video"/>
+    <yt:videoId>_QocaS4FVW8</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
     <title>The Presidents Cup at Medinah: For Dummies</title>
     <link>https://skratch.golf/news/news/presidents-cup-2026-schedule-format-teams-everything-you-need-to-know</link>
     <guid isPermaLink="true">https://skratch.golf/news/news/presidents-cup-2026-schedule-format-teams-everything-you-need-to-know</guid>
@@ -326,6 +527,60 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <media:thumbnail url="https://media.skratch.golf/rory_mcilroy_2025_masters_win_Getty_Images_2210134696_7c1ad1d6a9/rory_mcilroy_2025_masters_win_Getty_Images_2210134696_7c1ad1d6a9.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
+  </item>
+  <item>
+    <title>Cabot Citrus proves Florida golf does NOT all look the same</title>
+    <link>https://www.youtube.com/shorts/GLzJoTPalv8</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/GLzJoTPalv8</guid>
+    <pubDate>Sun, 20 Sep 2026 17:49:13 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;One special piece of property. Wells Adams breaks down each @cabotcitrusfarms course - Karoo, Roost, The Squeeze, The Wedge - after his recent buddies trip with Chad Mumm.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeav&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/GLzJoTPalv8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/GLzJoTPalv8/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/GLzJoTPalv8" type="text/html" medium="video"/>
+    <yt:videoId>GLzJoTPalv8</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Neal Shipley: BIG math guy</title>
+    <link>https://www.youtube.com/shorts/iHly-rRa68c</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/iHly-rRa68c</guid>
+    <pubDate>Sat, 19 Sep 2026 16:12:34 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/iHly-rRa68c"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/iHly-rRa68c/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/iHly-rRa68c" type="text/html" medium="video"/>
+    <yt:videoId>iHly-rRa68c</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>PGA Tour caddie calls it quits MID-ROUND</title>
+    <link>https://www.youtube.com/shorts/xWc9wFg8w1k</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/xWc9wFg8w1k</guid>
+    <pubDate>Sat, 19 Sep 2026 02:00:24 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;YOU CAN&#x27;T FIRE ME, I QUIT!
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf content online.
+
+Check out our websi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/xWc9wFg8w1k"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/xWc9wFg8w1k/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/xWc9wFg8w1k" type="text/html" medium="video"/>
+    <yt:videoId>xWc9wFg8w1k</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
   </item>
   <item>
     <title>&quot;That&#x27;s crazy&quot; 😲 No Shade, presented by @Knockaround.</title>
@@ -451,61 +706,6 @@ Dan travels all year and never leaves his Knockarounds behind, and if you go to 
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;It&#x27;s always a pleasure to watch Tiger Woods hit a golf ball, and on Tuesday, his action looked pretty damn good.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tiger-woods-swing-video-liberty-national-nexus-cup-comeback"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://media.skratch.golf/Getty_Images_2200063616_c480304ddf/Getty_Images_2200063616_c480304ddf.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>In Defense Of Loud Golf Speakers (Especially Ones With GPS)</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/golf-speaker-review-milseey-gps-detachable</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/golf-speaker-review-milseey-gps-detachable</guid>
-    <pubDate>Tue, 15 Sep 2026 14:22:30 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;Sure, the purists might not love them, but this loud speaker with a built-in GPS has a pretty compelling case for making it into your golf bag.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/golf-speaker-review-milseey-gps-detachable"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Mileseey_title_speaker_53ea2e2209/Mileseey_title_speaker_53ea2e2209.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>A Breakdown of the New Membership Criteria and Eligibility for the PGA Tour</title>
-    <link>https://skratch.golf/news/news/pga-tour-membership-criteria-eligibility-new-structure-2028-championship-series</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/pga-tour-membership-criteria-eligibility-new-structure-2028-championship-series</guid>
-    <pubDate>Tue, 15 Sep 2026 13:55:17 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Change is coming to the PGA Tour in 2028, and now we have a look at how players will be eligible for each level of competition.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/pga-tour-membership-criteria-eligibility-new-structure-2028-championship-series"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_1920489643_e285794aa9/Getty_Images_1920489643_e285794aa9.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Japan Is A Treasure Trove Of Used Clubs</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/japan-used-clubs-irons-treasure-hunt</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/japan-used-clubs-irons-treasure-hunt</guid>
-    <pubDate>Tue, 15 Sep 2026 13:11:56 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;It might be on the other side of the world, but Japan&#x27;s online used club scene is an absolute gold mine of forged irons and other great clubs.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/japan-used-clubs-irons-treasure-hunt"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Japan_irons_title_965fff42be/Japan_irons_title_965fff42be.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Srixon&#x27;s New RKT Woods Have Already Won A Major</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/srixon-zxi-rkt-woods-new-tech-launch</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/srixon-zxi-rkt-woods-new-tech-launch</guid>
-    <pubDate>Tue, 01 Sep 2026 21:04:20 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;The clubs Ryan Fox used at The Open are now getting an official retail launch, with three drivers and a new face system designed for speed and consistency.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/srixon-zxi-rkt-woods-new-tech-launch"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Srixon_rkt_title_cover_3d0825c81d/Srixon_rkt_title_cover_3d0825c81d.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>Skratch Attests: The Golf Short I Kept Seeing Everywhere</title>
-    <link>https://skratch.golf/style/mens-style/skratch-attests-the-golf-short-i-kept-seeing-everywhere</link>
-    <guid isPermaLink="true">https://skratch.golf/style/mens-style/skratch-attests-the-golf-short-i-kept-seeing-everywhere</guid>
-    <pubDate>Tue, 01 Sep 2026 00:45:08 +0000</pubDate>
-    <dc:creator>Raymond Williams</dc:creator>
-    <description>&lt;p&gt;An elastic waistband, an absurd amount of stretch and enough colors to fill an entire closet. Sometimes simple just works.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/skratch-attests-the-golf-short-i-kept-seeing-everywhere"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Redvanly_Crop_3_bfcbb9c072/Redvanly_Crop_3_bfcbb9c072.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
