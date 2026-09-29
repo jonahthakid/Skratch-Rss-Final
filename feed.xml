@@ -9,8 +9,47 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 28 Sep 2026 21:30:31 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 29 Sep 2026 01:23:23 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>A star is born.</title>
+    <link>https://www.youtube.com/shorts/aQdAZl6J2Ns</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/aQdAZl6J2Ns</guid>
+    <pubDate>Mon, 28 Sep 2026 22:55:01 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/aQdAZl6J2Ns"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/aQdAZl6J2Ns/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/aQdAZl6J2Ns" type="text/html" medium="video"/>
+    <yt:videoId>aQdAZl6J2Ns</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>20 1/2-13 1/2 in fourballs. 31 1/2-16 1/2 in singles. 8-26 in foursomes...</title>
+    <link>https://www.youtube.com/shorts/rC1X59EPc10</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/rC1X59EPc10</guid>
+    <pubDate>Mon, 28 Sep 2026 22:04:48 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/rC1X59EPc10"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/rC1X59EPc10/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/rC1X59EPc10" type="text/html" medium="video"/>
+    <yt:videoId>rC1X59EPc10</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
+  <item>
+    <title>Watch The Vanity Index Closest to the Pin Challenge</title>
+    <link>https://skratch.golf/news/golf-culture/vanity-index-podcast-closest-to-pin-contest-wells-adams-chad-mumm</link>
+    <guid isPermaLink="true">https://skratch.golf/news/golf-culture/vanity-index-podcast-closest-to-pin-contest-wells-adams-chad-mumm</guid>
+    <pubDate>Mon, 28 Sep 2026 21:41:10 +0000</pubDate>
+    <dc:creator>Skratch Staff</dc:creator>
+    <description>&lt;p&gt;Chad and Wells invited some of their celebrity friends to our LA HQ to try their hand at a KP contest. Here&#x27;s what went down.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/golf-culture/vanity-index-podcast-closest-to-pin-contest-wells-adams-chad-mumm"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/Zone_Closest_To_Pin_4x5_AD_85d054c910/Zone_Closest_To_Pin_4x5_AD_85d054c910.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
   <item>
     <title>Tom Kim has A LOT on the line this week.</title>
     <link>https://www.youtube.com/shorts/rX92e63MTdQ</link>
@@ -506,40 +545,6 @@ Subscribe to Skratch on YouTube&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtub
     <category>video</category>
   </item>
   <item>
-    <title>Team golf weeks hit different for the caddies too.</title>
-    <link>https://www.youtube.com/shorts/kxFEI8DFlLE</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/kxFEI8DFlLE</guid>
-    <pubDate>Thu, 24 Sep 2026 00:00:04 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/kxFEI8DFlLE"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/kxFEI8DFlLE/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/kxFEI8DFlLE" type="text/html" medium="video"/>
-    <yt:videoId>kxFEI8DFlLE</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>S2 E71: LIVE AT MEDINAH: Is This Week Make Or Break For The Presidents Cup?</title>
-    <link>https://www.youtube.com/watch?v=hr8U9hmPdX4</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=hr8U9hmPdX4</guid>
-    <pubDate>Wed, 23 Sep 2026 23:19:50 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;We&#x27;re previewing the Presidents Cup ahead of Day 1 at Medinah, including this week&#x27;s press conferences, Jackson Koivun&#x27;s single moment, course routing, and a special edition of Golfers Wearing Clothes. Plus, a golf NIGHTMARE and Willy Wilcox joins.
-
-Thank You to Our Sponsors!
-
-Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
-
-Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround.com/golf and use code DANONGOLF20, you&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=hr8U9hmPdX4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/hr8U9hmPdX4/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/hr8U9hmPdX4" type="text/html" medium="video"/>
-    <yt:videoId>hr8U9hmPdX4</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
     <title>Tremendous vibes at Medinah. Range report from the Presidents Cup.</title>
     <link>https://www.youtube.com/shorts/Y6z99SZSKwI</link>
     <guid isPermaLink="true">https://www.youtube.com/shorts/Y6z99SZSKwI</guid>
@@ -688,17 +693,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <dc:creator>Raymond Williams</dc:creator>
     <description>&lt;p&gt;A little digging goes a long way. These ten golf style finds all come in at $100 or less.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/style/mens-style/10-golf-style-essentials-you-can-get-for-100-or-less"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://media.skratch.golf/Under_100_af6254f8e8/Under_100_af6254f8e8.png"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
-  </item>
-  <item>
-    <title>The Presidents Cup at Medinah: For Dummies</title>
-    <link>https://skratch.golf/news/news/presidents-cup-2026-schedule-format-teams-everything-you-need-to-know</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/presidents-cup-2026-schedule-format-teams-everything-you-need-to-know</guid>
-    <pubDate>Mon, 21 Sep 2026 14:01:27 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;Formats, schedule, teams, and everything else you need to know heading into this week&#x27;s Presidents Cup at Medinah.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/presidents-cup-2026-schedule-format-teams-everything-you-need-to-know"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2242006486_941c2ee093/Getty_Images_2242006486_941c2ee093.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
