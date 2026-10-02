@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 02 Oct 2026 08:45:47 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 15:15:06 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>Just how well does Gary Woodland know his own game?</title>
@@ -53,6 +53,17 @@ Subscribe to Skratch on YouTube &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtu
     <dc:creator>Riley Hamel</dc:creator>
     <description>&lt;p&gt;Staring down required military service, Tom Kim is two shots back at the Asian Games and is in the hunt for the gold medal.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/tom-kim-military-service-asian-games-two-shots-back-of-lead"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <media:thumbnail url="https://media.skratch.golf/Getty_Images_2298005039_7824fa26f3/Getty_Images_2298005039_7824fa26f3.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
+  </item>
+  <item>
+    <title>Foresight CG2: Camera Accuracy - Sub $2000 Price!</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/foresight-launch-monitor-gc2-price-affordable</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/foresight-launch-monitor-gc2-price-affordable</guid>
+    <pubDate>Thu, 01 Oct 2026 02:50:51 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;Foresight is pushing the boundaries of accuracy, technology, and convenience with its newest GC2 launch monitor, and it&#x27;s less than $2000!&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/foresight-launch-monitor-gc2-price-affordable"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/gc2_title_3ca67e2c4c/gc2_title_3ca67e2c4c.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
   </item>
@@ -691,17 +702,6 @@ Subscribe to Skratch on YouTube&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtub
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Dial In Your Irons With This Buy-It-For-Life Tool</title>
-    <link>https://skratch.golf/gear-equipment/gear-equipment/gearsmart-tinker-clubs-building-tools-value</link>
-    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/gearsmart-tinker-clubs-building-tools-value</guid>
-    <pubDate>Thu, 24 Sep 2026 14:15:52 +0000</pubDate>
-    <dc:creator>Ryan Barath</dc:creator>
-    <description>&lt;p&gt;If you like to tinker with your golf clubs, this club-building tool will increase your efficiency and help you dial in your iron distances and dispersion.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/gearsmart-tinker-clubs-building-tools-value"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Lie_loft_title_8d44d1f6cf/Lie_loft_title_8d44d1f6cf.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
 </channel>
 </rss>
