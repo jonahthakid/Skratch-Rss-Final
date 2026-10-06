@@ -9,7 +9,7 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 06 Oct 2026 14:19:12 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 19:38:06 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
   <item>
     <title>30 years ago today, Tiger Woods became a PGA Tour winner.... Man, how time flies  #tigertuesdays</title>
@@ -31,6 +31,17 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/f_DzlbLmhns"&gt;
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
+  </item>
+  <item>
+    <title>This Affordable Launch Monitor Just Got A Major Upgrade</title>
+    <link>https://skratch.golf/gear-equipment/gear-equipment/launch-monitor-flightscope-golf-fs-app-update</link>
+    <guid isPermaLink="true">https://skratch.golf/gear-equipment/gear-equipment/launch-monitor-flightscope-golf-fs-app-update</guid>
+    <pubDate>Mon, 05 Oct 2026 20:19:29 +0000</pubDate>
+    <dc:creator>Ryan Barath</dc:creator>
+    <description>&lt;p&gt;A major software overhaul gives users more flexibility on the range, featuring smarter data ranges and a revamped video interface.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/gear-equipment/gear-equipment/launch-monitor-flightscope-golf-fs-app-update"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://media.skratch.golf/flightscope_title_grey_e881af9829/flightscope_title_grey_e881af9829.jpg"/>
+    <category>Skratch Articles</category>
+    <category>article</category>
   </item>
   <item>
     <title>Kapalua, Pro Golf Isn&#x27;t Done With You Yet After All</title>
@@ -677,17 +688,6 @@ Hi&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/yTgikk8d74c"&gt;
     <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
     <category>Skratch</category>
     <category>video</category>
-  </item>
-  <item>
-    <title>Friday at the Presidents Cup Was Nothing Short of an Ass-Kicking</title>
-    <link>https://skratch.golf/news/news/presidents-cup-2026-friday-scores-recap-notebook-medinah</link>
-    <guid isPermaLink="true">https://skratch.golf/news/news/presidents-cup-2026-friday-scores-recap-notebook-medinah</guid>
-    <pubDate>Fri, 25 Sep 2026 22:18:10 +0000</pubDate>
-    <dc:creator>Riley Hamel</dc:creator>
-    <description>&lt;p&gt;That, and more notes from Day 2 of Medinah as Geoff Ogilvy&#x27;s squad holds a 7-3 lead going into the weekend.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/news/presidents-cup-2026-friday-scores-recap-notebook-medinah"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://media.skratch.golf/Getty_Images_2296553294_e61a1651d4/Getty_Images_2296553294_e61a1651d4.jpg"/>
-    <category>Skratch Articles</category>
-    <category>article</category>
   </item>
   <item>
     <title>What a way to close out the inaugural Presidents Cup. #FreddyFriday</title>
