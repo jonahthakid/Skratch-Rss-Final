@@ -9,8 +9,28 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 17 Oct 2026 14:48:12 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 17:41:31 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Golf is such a (fill in the blank) game</title>
+    <link>https://www.youtube.com/shorts/NvFdGvQFgmQ</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/NvFdGvQFgmQ</guid>
+    <pubDate>Sat, 17 Oct 2026 17:06:49 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;Name calling is never nice unless you&#x27;re talking about golf.
+
+The intersection of golf and culture.
+
+Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
+
+Subscribe to Skratch on YouTube and don’t miss out on the most entertaining golf co&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/NvFdGvQFgmQ"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/NvFdGvQFgmQ/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/NvFdGvQFgmQ" type="text/html" medium="video"/>
+    <yt:videoId>NvFdGvQFgmQ</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>Sometimes the best thing an interviewer can do is say nothing at all.</title>
     <link>https://www.youtube.com/shorts/sbjdrsCylMo</link>
@@ -406,28 +426,6 @@ Subscribe to Skratch on YouTube &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtu
     <media:thumbnail url="https://media.skratch.golf/Getty_Images_2230359393_3d357f93b4/Getty_Images_2230359393_3d357f93b4.jpg"/>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Golden-hour skins games at The Wedge are so, so sweet</title>
-    <link>https://www.youtube.com/shorts/H0TL6zaWaDA</link>
-    <guid isPermaLink="true">https://www.youtube.com/shorts/H0TL6zaWaDA</guid>
-    <pubDate>Wed, 30 Sep 2026 19:31:12 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;Golden-hour skins games at The Wedge are so, so sweet.
-
-Chad and Wells play for $1K under the lights at @cabotcitrusfarms&#x27;  par-3 course.
-
-The intersection of golf and culture.
-
-Behind every drained putt or hosel rocket into the stands is a human being with complex emotions—among them, an insatiable appetite for golf. That’s what we’re after. Golf’s humanity is what makes it so special to us. There have never been more reasons to love this game, and we’re endeavoring to explore them all.
-
-Subscr&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/H0TL6zaWaDA"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/H0TL6zaWaDA/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/H0TL6zaWaDA" type="text/html" medium="video"/>
-    <yt:videoId>H0TL6zaWaDA</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>How A Marker Can Completely Change Your Wedge Game</title>
