@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 03 Nov 2026 13:27:10 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 20:12:28 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Pressure is on. Dan takes on the Cradle Knockout @pinehurstresort. 🎯</title>
+    <link>https://www.youtube.com/shorts/C0us0poqNH4</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/C0us0poqNH4</guid>
+    <pubDate>Tue, 03 Nov 2026 19:19:08 +0000</pubDate>
+    <dc:creator>Dan on Golf</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/C0us0poqNH4"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/C0us0poqNH4/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/C0us0poqNH4" type="text/html" medium="video"/>
+    <yt:videoId>C0us0poqNH4</yt:videoId>
+    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
+    <category>Dan On Golf Show</category>
+    <category>video</category>
+  </item>
   <item>
     <title>A rivalry of mutual respect</title>
     <link>https://www.youtube.com/shorts/6b4RMOzRqp0</link>
@@ -557,26 +571,6 @@ Subscribe to Skratch on YouTube and don’t miss out on the most entertaining go
     <media:thumbnail url="https://img.youtube.com/vi/rC1X59EPc10/hqdefault.jpg"/>
     <media:content url="https://www.youtube.com/embed/rC1X59EPc10" type="text/html" medium="video"/>
     <yt:videoId>rC1X59EPc10</yt:videoId>
-    <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
-    <category>Dan On Golf Show</category>
-    <category>video</category>
-  </item>
-  <item>
-    <title>S2, E72: PRESIDENTS CUP RECAP - What Should We Make of U.S. Comeback Win?</title>
-    <link>https://www.youtube.com/watch?v=_YkeQhWEqjc</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=_YkeQhWEqjc</guid>
-    <pubDate>Mon, 28 Sep 2026 18:29:03 +0000</pubDate>
-    <dc:creator>Dan on Golf</dc:creator>
-    <description>&lt;p&gt;A full recap of an electric Presidents Cup. What should we make of the comeback win by Team USA? We dive into it all—Jackson Koivun&#x27;s rise, Si Woo Kim&#x27;s electric week, the ball kicked onto the green by a fan, the Corey Conners experience &amp; more.
-
-Thank You to Our Sponsors!
-
-Dan on Golf is presented by @Knockaround, the official sunglasses partner of the PGA TOUR.
-
-Dan travels all year and never leaves his Knockarounds behind, and if you go to Knockaround.com/golf and use code DANONGOLF20, you ca&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=_YkeQhWEqjc"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/_YkeQhWEqjc/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/_YkeQhWEqjc" type="text/html" medium="video"/>
-    <yt:videoId>_YkeQhWEqjc</yt:videoId>
     <yt:channelId>UCQvs9V1djea1wFurLJPlqMg</yt:channelId>
     <category>Dan On Golf Show</category>
     <category>video</category>
