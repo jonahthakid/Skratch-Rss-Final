@@ -9,8 +9,22 @@
   <link>https://skratch.golf</link>
   <description>Combined video feed from Skratch Golf YouTube channels</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 26 Nov 2026 05:16:41 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 15:32:48 +0000</lastBuildDate>
   <generator>Skratch YouTube RSS Aggregator</generator>
+  <item>
+    <title>Every golf fan’s favorite side dish</title>
+    <link>https://www.youtube.com/shorts/KnXYTw2dshk</link>
+    <guid isPermaLink="true">https://www.youtube.com/shorts/KnXYTw2dshk</guid>
+    <pubDate>Thu, 26 Nov 2026 15:05:42 +0000</pubDate>
+    <dc:creator>Skratch</dc:creator>
+    <description>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/shorts/KnXYTw2dshk"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
+    <media:thumbnail url="https://img.youtube.com/vi/KnXYTw2dshk/hqdefault.jpg"/>
+    <media:content url="https://www.youtube.com/embed/KnXYTw2dshk" type="text/html" medium="video"/>
+    <yt:videoId>KnXYTw2dshk</yt:videoId>
+    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
+    <category>Skratch</category>
+    <category>video</category>
+  </item>
   <item>
     <title>New players, new course, same high stakes. 💰</title>
     <link>https://www.youtube.com/shorts/gB_Z6hp4eZ0</link>
@@ -416,25 +430,6 @@ Behind every drained putt or hosel rocket into the stands is a human being with 
     <description>&lt;p&gt;With every trip to Pinehurst comes another reason to return. From Gil Hanse&#x27;s reimagining of No. 4 to the highly anticipated arrival of No. 11, the Cradle of American Golf continues to add new chapters to its story.&lt;/p&gt;&lt;p&gt;&lt;a href="https://skratch.golf/news/love-letter-to-pinehurst-resort/"&gt;Read more&lt;/a&gt;&lt;/p&gt;</description>
     <category>Skratch Articles</category>
     <category>article</category>
-  </item>
-  <item>
-    <title>Getting a FIRST LOOK at Pinehurst No. 11</title>
-    <link>https://www.youtube.com/watch?v=UE3lIKzsLl8</link>
-    <guid isPermaLink="true">https://www.youtube.com/watch?v=UE3lIKzsLl8</guid>
-    <pubDate>Wed, 18 Nov 2026 20:58:49 +0000</pubDate>
-    <dc:creator>Skratch</dc:creator>
-    <description>&lt;p&gt;A new course is coming to Pinehurst Resort next spring, and our Claire Rogers and Zane Moulton got a First Look. Come along as they play Pinehurst No. 11, presented by @mileseeygolf.
-
-Hit us up on Instagram: https://www.instagram.com/skratch
-Check us out on TikTok: https://www.tiktok.com/@skratch
-Follow us on Twitter/X: https://www.twitter.com/Skratch
-Say ‘hey’ on Facebook: https://www.facebook.com/skratch&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=UE3lIKzsLl8"&gt;Watch on YouTube&lt;/a&gt;&lt;/p&gt;</description>
-    <media:thumbnail url="https://img.youtube.com/vi/UE3lIKzsLl8/hqdefault.jpg"/>
-    <media:content url="https://www.youtube.com/embed/UE3lIKzsLl8" type="text/html" medium="video"/>
-    <yt:videoId>UE3lIKzsLl8</yt:videoId>
-    <yt:channelId>UCwtGQ3sgidNlQGbIUBPP3xw</yt:channelId>
-    <category>Skratch</category>
-    <category>video</category>
   </item>
   <item>
     <title>How We Got to Pinehurst Resort: The Ultimate Stress-Free Travel Guide</title>
